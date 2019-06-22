@@ -1,0 +1,32 @@
+{
+  "Name": "Зарплата и Управление Персоналом для Латвии",
+  "Category": {
+    "ID": 119,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Латвии"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:38",
+      "Name": "Зарплата и Управление Персоналом для Латвии",
+      "Version": "1.0.20.26",
+      "PublishingDate": "2018-11-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T19:50:53",
+      "Name": "Зарплата и Управление Персоналом для Латвии",
+      "Version": "1.0.21.3",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

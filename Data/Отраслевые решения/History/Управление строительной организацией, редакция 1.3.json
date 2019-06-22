@@ -1,0 +1,199 @@
+{
+  "Name": "Управление строительной организацией, редакция 1.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 15,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T15:50:56",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T16:51:07",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T11:24:25",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "1.3.115.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T12:24:27",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T11:48:21",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T12:18:19",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T19:24:29",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T14:24:33",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T16:24:35",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "1.3.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T16:54:39",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T16:24:42",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T12:54:52",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-23T13:55:00",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T16:25:05",
+      "Name": "Управление строительной организацией, редакция 1.3",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

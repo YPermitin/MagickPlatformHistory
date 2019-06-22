@@ -1,0 +1,21 @@
+{
+  "Name": "Штрих-М: Кассир 5.0",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "Штрих-М: Кассир 5.0",
+      "Version": "5.1.2.7",
+      "PublishingDate": "2009-07-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "IBM DB2 Express-C",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "IBM DB2 Express-C",
+      "Version": "v9.7 FP6",
+      "PublishingDate": "2012-10-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

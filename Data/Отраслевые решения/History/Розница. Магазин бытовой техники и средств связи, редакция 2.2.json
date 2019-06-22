@@ -1,0 +1,184 @@
+{
+  "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 12,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.10.19",
+      "PublishingDate": "2018-11-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T14:20:50",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.10.19",
+      "PublishingDate": "2018-11-23T00:00:00",
+      "PlanVersions": [
+        "2.2.11.16"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T11:21:00",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.16",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T16:13:23",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.16",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "2.2.11.24"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T15:18:20",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.24",
+      "PublishingDate": "2019-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-12T14:24:31",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.24",
+      "PublishingDate": "2019-01-21T00:00:00",
+      "PlanVersions": [
+        "2.2.11.29"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-20T11:54:33",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.29",
+      "PublishingDate": "2019-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-19T17:54:38",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.29",
+      "PublishingDate": "2019-02-20T00:00:00",
+      "PlanVersions": [
+        "2.2.11.30"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-28T13:54:44",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T18:55:14",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [
+        "2.2.12.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T13:20:39",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [
+        "2.2.12.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T14:50:36",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [
+        "2.2.12.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

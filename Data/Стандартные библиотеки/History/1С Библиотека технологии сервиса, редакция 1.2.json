@@ -1,0 +1,51 @@
+{
+  "Name": "1С:Библиотека технологии сервиса, редакция 1.2",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-03-15T14:54:25",
+      "Name": "1С:Библиотека технологии сервиса, редакция 1.2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-08T17:24:28",
+      "Name": "1С:Библиотека технологии сервиса, редакция 1.2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.2.1.4"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-08T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-31T16:54:47",
+      "Name": "1С:Библиотека технологии сервиса, редакция 1.2",
+      "Version": "1.2.1.7",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.2.1.4"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-08T00:00:00"
+      ]
+    }
+  ]
+}

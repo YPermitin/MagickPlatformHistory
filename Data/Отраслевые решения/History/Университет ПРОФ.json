@@ -1,0 +1,77 @@
+{
+  "Name": "Университет ПРОФ",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Университет ПРОФ",
+      "Version": "2.1.4.3",
+      "PublishingDate": "2018-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T12:54:44",
+      "Name": "Университет ПРОФ",
+      "Version": "2.1.4.3",
+      "PublishingDate": "2018-10-16T00:00:00",
+      "PlanVersions": [
+        "2.1.5.17"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T16:24:42",
+      "Name": "Университет ПРОФ",
+      "Version": "2.1.5.17",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T18:55:08",
+      "Name": "Университет ПРОФ",
+      "Version": "2.1.5.17",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "2.1.6.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-07T11:24:58",
+      "Name": "Университет ПРОФ",
+      "Version": "2.1.6.8",
+      "PublishingDate": "2019-06-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+      "Version": "1.1.16.2",
+      "PublishingDate": "2018-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T18:20:49",
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T19:24:17",
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+      "Version": "1.1.17.2",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T20:24:15",
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+      "Version": "1.1.18.1",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T18:24:28",
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+      "Version": "1.1.19.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T20:54:45",
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+      "Version": "1.1.20.1",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

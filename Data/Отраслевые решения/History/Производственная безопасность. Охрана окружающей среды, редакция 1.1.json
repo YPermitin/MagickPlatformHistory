@@ -1,0 +1,191 @@
+{
+  "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 11,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T19:54:56",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-28T10:54:58",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T13:54:58",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-03T12:25:00",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T14:25:00",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-07T12:24:59",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-11T22:39:04",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-17T13:20:37",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-19T11:20:37",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.1.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Розница для Узбекистана",
+  "Category": {
+    "ID": 135,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Узбекистана"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:46",
+      "Name": "Розница для Узбекистана",
+      "Version": "2.2.5.23",
+      "PublishingDate": "2017-07-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

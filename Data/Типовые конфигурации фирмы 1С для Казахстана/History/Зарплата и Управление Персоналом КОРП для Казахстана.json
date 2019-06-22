@@ -1,0 +1,122 @@
+{
+  "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:35",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.17.7",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T13:20:51",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.17.7",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [
+        "2.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T18:18:15",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.17.7",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [
+        "2.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T15:54:20",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.17.8",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [
+        "2.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T15:54:19",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.17.8",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T19:24:28",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.17.8",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [
+        "2.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-18T15:24:32",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.18.1",
+      "PublishingDate": "2019-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T13:24:39",
+      "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
+      "Version": "2.0.18.3",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

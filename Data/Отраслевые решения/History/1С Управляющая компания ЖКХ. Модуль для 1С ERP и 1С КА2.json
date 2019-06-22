@@ -1,0 +1,225 @@
+{
+  "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 13,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-21T19:18:26",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T12:54:35",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T16:24:45",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T20:24:46",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T19:24:49",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T16:54:47",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T15:54:44",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T13:54:46",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T13:54:53",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T13:54:49",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T13:54:50",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T15:24:52",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.4.8.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

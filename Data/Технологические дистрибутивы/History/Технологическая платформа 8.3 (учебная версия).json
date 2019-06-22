@@ -1,0 +1,76 @@
+{
+  "Name": "Технологическая платформа 8.3 (учебная версия)",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Технологическая платформа 8.3 (учебная версия)",
+      "Version": "8.3.13.1644",
+      "PublishingDate": "2018-11-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T13:54:15",
+      "Name": "Технологическая платформа 8.3 (учебная версия)",
+      "Version": "8.3.13.1690",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T14:48:10",
+      "Name": "Технологическая платформа 8.3 (учебная версия)",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-06T11:54:19",
+      "Name": "Технологическая платформа 8.3 (учебная версия)",
+      "Version": "8.3.14.1630",
+      "PublishingDate": "2019-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T18:24:32",
+      "Name": "Технологическая платформа 8.3 (учебная версия)",
+      "Version": "8.3.14.1694",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-22T13:54:45",
+      "Name": "Технологическая платформа 8.3 (учебная версия)",
+      "Version": "8.3.14.1779",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

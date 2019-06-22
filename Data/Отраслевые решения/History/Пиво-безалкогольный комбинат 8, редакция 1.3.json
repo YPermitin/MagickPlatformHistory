@@ -1,0 +1,380 @@
+{
+  "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 26,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.113.2",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [
+        "1.3.113.4"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T20:05:22",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T11:20:54",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T19:20:56",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T12:50:56",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "1.3.114.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T17:43:22",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-17T16:29:23",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [
+        "1.3.115.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T14:59:30",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T19:48:16",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T11:18:20",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T12:48:24",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T18:54:28",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [
+        "1.3.116.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-14T15:54:28",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T18:24:30",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-14T00:00:00",
+      "PlanVersions": [
+        "1.3.117.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T12:24:34",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T13:54:36",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "1.3.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T17:54:39",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T12:54:43",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-21T00:00:00",
+      "PlanVersions": [
+        "1.3.120.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T14:24:47",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T20:24:57",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [
+        "1.3.121.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T12:54:54",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [
+        "1.3.121.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-14T20:24:54",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-15T10:54:54",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T12:24:58",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [
+        "1.3.121.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T18:25:03",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-13T18:55:27",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [
+        "1.3.122.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

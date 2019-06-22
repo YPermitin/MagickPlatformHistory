@@ -1,0 +1,469 @@
+{
+  "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 23,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-18T17:50:55",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-29T19:51:01",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-10T20:13:22",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-15T16:54:28",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-17T20:59:29",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-23T13:18:21",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-25T19:18:18",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-25T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-30T11:48:25",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2018-02-28T00:00:00",
+      "PlanVersions": [
+        "1.1.16.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-30T12:48:22",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.16.1",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-13T10:54:26",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.16.1",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [
+        "1.1.17.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-13T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-13T13:24:28",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-27T11:24:37",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-28T15:54:43",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-28T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-29T18:54:40",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-03T18:54:40",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-05T14:24:41",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-09T16:24:45",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-11T20:54:47",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-12T18:54:45",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-16T16:54:50",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-18T13:24:45",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.17.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.1.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-19T20:54:45",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.1.18.2",
+      "PublishingDate": "2019-04-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    }
+  ]
+}

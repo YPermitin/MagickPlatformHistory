@@ -1,0 +1,49 @@
+{
+  "Name": "1С:Медицина. Диетическое питание, редакция 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Медицина. Диетическое питание, редакция 2.0",
+      "Version": "2.0.8.320",
+      "PublishingDate": "2018-11-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T11:48:20",
+      "Name": "1С:Медицина. Диетическое питание, редакция 2.0",
+      "Version": "2.0.8.320",
+      "PublishingDate": "2018-11-19T00:00:00",
+      "PlanVersions": [
+        "2.0.8.330"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T14:48:26",
+      "Name": "1С:Медицина. Диетическое питание, редакция 2.0",
+      "Version": "2.0.8.330",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

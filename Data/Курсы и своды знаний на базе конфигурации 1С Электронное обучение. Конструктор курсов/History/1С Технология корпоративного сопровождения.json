@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Технология корпоративного сопровождения",
+  "Category": {
+    "ID": 1,
+    "Name": "Курсы и своды знаний на базе конфигурации \"1С:Электронное обучение. Конструктор курсов\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "1С:Технология корпоративного сопровождения",
+      "Version": "1.2.1",
+      "PublishingDate": "2017-04-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

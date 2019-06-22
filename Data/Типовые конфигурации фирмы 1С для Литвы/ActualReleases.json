@@ -1,0 +1,19 @@
+{
+  "Category": {
+    "ID": 124,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Литвы"
+  },
+  "ReleasesCount": 1,
+  "Releases": [
+    {
+      "Name": "Управление торговлей для Литвы",
+      "Version": "10.3.7.16",
+      "PublishingDate": "2012-04-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

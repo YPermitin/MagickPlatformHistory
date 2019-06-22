@@ -1,0 +1,79 @@
+{
+  "Category": {
+    "ID": 633,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Азербайджана"
+  },
+  "ReleasesCount": 7,
+  "Releases": [
+    {
+      "Name": "Бухгалтерия для Азербайджана, редакция 1",
+      "Version": "1.1.4.1",
+      "PublishingDate": "2019-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия для Азербайджана, редакция 3",
+      "Version": "3.0.1.0",
+      "PublishingDate": "2019-03-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и Управление Персоналом для Азербайджана",
+      "Version": "1.1.3.1",
+      "PublishingDate": "2019-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Комплексная автоматизация для Азербайджана, редакция 2 (бета-версия)",
+      "Version": "2.0.2.1",
+      "PublishingDate": "2018-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница для Азербайджана",
+      "Version": "2.2.2.12",
+      "PublishingDate": "2018-05-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление компанией для Азербайджана",
+      "Version": "1.6.1.84",
+      "PublishingDate": "2018-08-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление торговлей для Азербайджана",
+      "Version": "11.4.2.123",
+      "PublishingDate": "2018-05-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

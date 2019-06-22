@@ -1,0 +1,167 @@
+{
+  "Name": "1С:Похозяйственный учет муниципального образования",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 11,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.18",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [
+        "2.0.1.19"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T14:50:58",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.19",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T14:54:29",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.19",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [
+        "2.0.1.20"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T12:54:34",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.20",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-11T18:54:36",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.20",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [
+        "2.0.1.21"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T12:24:40",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.21",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T17:24:48",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.21",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "2.0.1.22"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T20:24:49",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.22",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-15T13:24:57",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.22",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [
+        "2.0.1.23"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-22T11:55:01",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.23",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-10T14:25:00",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.23",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [
+        "2.0.1.24"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

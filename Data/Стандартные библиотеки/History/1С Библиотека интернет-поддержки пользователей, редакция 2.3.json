@@ -1,0 +1,201 @@
+{
+  "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 17,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:21",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.2.19",
+      "PublishingDate": "2018-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T21:05:08",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.2.19",
+      "PublishingDate": "2018-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.3.3.10"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-26T15:51:13",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.20",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T16:13:12",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.2.21",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T15:48:10",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.23",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T18:18:12",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.2.23",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T15:48:11",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.1.31",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T20:54:18",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.26",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T18:54:24",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.31",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T16:24:34",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.32",
+      "PublishingDate": "2019-04-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T20:54:33",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.2.25",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-23T19:54:37",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.1.33",
+      "PublishingDate": "2019-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T21:54:36",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.2.27",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T19:24:35",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.1.35",
+      "PublishingDate": "2019-04-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T20:54:45",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.35",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.4.3",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T19:20:37",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.38",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

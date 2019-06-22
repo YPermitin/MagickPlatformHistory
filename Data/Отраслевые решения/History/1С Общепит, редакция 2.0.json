@@ -1,0 +1,88 @@
+{
+  "Name": "1С:Общепит, редакция 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-03-04T11:24:31",
+      "Name": "1С:Общепит, редакция 2.0",
+      "Version": "2.0.66.71",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T20:24:39",
+      "Name": "1С:Общепит, редакция 2.0",
+      "Version": "2.0.66.73",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T13:54:47",
+      "Name": "1С:Общепит, редакция 2.0",
+      "Version": "2.0.66.73",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [
+        "2.0.66.77"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T20:54:48",
+      "Name": "1С:Общепит, редакция 2.0",
+      "Version": "2.0.66.77",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-23T20:54:56",
+      "Name": "1С:Общепит, редакция 2.0",
+      "Version": "2.0.66.77",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [
+        "2.0.66.79"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T19:55:02",
+      "Name": "1С:Общепит, редакция 2.0",
+      "Version": "2.0.66.81",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

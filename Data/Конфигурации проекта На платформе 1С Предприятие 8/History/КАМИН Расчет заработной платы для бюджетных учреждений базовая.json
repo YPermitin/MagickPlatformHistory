@@ -1,0 +1,104 @@
+{
+  "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.73.6",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T19:48:28",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.73.7",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-12T12:24:32",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.73.7",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [
+        "3.5.74"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T18:54:28",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.74.2",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T19:24:51",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.75.2",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T17:54:52",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.75.3",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-24T12:54:59",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.75.4",
+      "PublishingDate": "2019-05-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T18:20:38",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.75.5",
+      "PublishingDate": "2019-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Управление небольшой фирмой для Молдовы",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Управление небольшой фирмой для Молдовы",
+      "Version": "1.2.4.2",
+      "PublishingDate": "2011-12-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.2.5.1"
+      ],
+      "DemoPublicationDates": [
+        "2014-06-11T00:00:00"
+      ]
+    }
+  ]
+}

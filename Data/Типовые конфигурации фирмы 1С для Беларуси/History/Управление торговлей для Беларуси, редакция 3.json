@@ -1,0 +1,128 @@
+{
+  "Name": "Управление торговлей для Беларуси, редакция 3",
+  "Category": {
+    "ID": 82,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
+  },
+  "ReleasesCount": 10,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:30",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.5.135",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T16:51:12",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.5.143",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T18:48:16",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.5.145",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T18:54:23",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.6.189",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T14:54:28",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.6.190",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-14T17:24:47",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.6.190",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.4.7.150"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-28T19:54:49",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.7.151",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.4.7.150"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-29T01:24:48",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.7.151",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T19:54:50",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.7.152",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-19T16:20:36",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.7.155",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

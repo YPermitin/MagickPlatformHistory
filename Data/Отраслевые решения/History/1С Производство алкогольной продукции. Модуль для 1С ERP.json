@@ -1,0 +1,302 @@
+{
+  "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 20,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.5.143",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T19:05:26",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.5.143",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [
+        "2.4.5.151"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T19:20:57",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.5.151",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T19:51:00",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.5.151",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [
+        "2.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T14:51:02",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T19:48:24",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "2.4.6.188"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T20:48:27",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "2.4.6.188"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T13:18:19",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-14T20:54:30",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "2.4.6.207"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-18T11:24:28",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "2.4.6.207"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T12:24:30",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T18:54:41",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [
+        "2.4.7.107"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-18T18:24:39",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T13:54:36",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-03-18T00:00:00",
+      "PlanVersions": [
+        "2.4.7.108"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T12:24:38",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.108",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T21:24:47",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.108",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [
+        "2.4.7.147"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T17:54:49",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.108",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [
+        "2.4.7.147"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T14:54:52",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T16:20:38",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [
+        "2.4.8.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T13:20:37",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [
+        "2.4.8.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

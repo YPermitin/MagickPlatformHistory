@@ -1,0 +1,179 @@
+{
+  "Name": "1С:Управление теплосетью 2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 11,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.9.1",
+      "PublishingDate": "2018-10-11T00:00:00",
+      "PlanVersions": [
+        "2.2.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T16:50:55",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.9.1",
+      "PublishingDate": "2018-10-11T00:00:00",
+      "PlanVersions": [
+        "2.2.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T17:50:57",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.9.1",
+      "PublishingDate": "2018-10-11T00:00:00",
+      "PlanVersions": [
+        "2.2.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T17:21:02",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.9.1",
+      "PublishingDate": "2018-10-11T00:00:00",
+      "PlanVersions": [
+        "2.2.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T21:20:57",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.10.1",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T18:24:32",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.10.1",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "2.2.11.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T19:54:33",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.11.1",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T13:54:40",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.11.1",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [
+        "2.2.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T16:24:45",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.11.1",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [
+        "2.2.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T20:54:47",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.11.1",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [
+        "2.2.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T11:54:45",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.12.1",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

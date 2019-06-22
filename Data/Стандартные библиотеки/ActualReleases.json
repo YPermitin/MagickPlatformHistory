@@ -1,0 +1,299 @@
+{
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 28,
+  "Releases": [
+    {
+      "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
+      "Version": "1.1.14.4",
+      "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.9",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.1",
+      "Version": "2.1.9.18",
+      "PublishingDate": "2018-02-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.2",
+      "Version": "2.2.3.19",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.3",
+      "Version": "2.3.3.38",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
+      "Version": "2.4.1.30",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека подключаемого оборудования для мобильных приложений",
+      "Version": "2.9.4.0",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 1.0",
+      "Version": "1.0.25.1",
+      "PublishingDate": "2015-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 1.1",
+      "Version": "1.1.7.4",
+      "PublishingDate": "2015-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 1.2",
+      "Version": "1.2.5.16",
+      "PublishingDate": "2016-08-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.0",
+      "Version": "2.0.6.14",
+      "PublishingDate": "2018-12-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+      "Version": "2.1.1.22",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 3.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "3.0.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-11-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека стандартных подсистем 8.2",
+      "Version": "2.0.1.19",
+      "PublishingDate": "2012-07-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека стандартных подсистем 8.2, редакция 2.1",
+      "Version": "2.1.9.2",
+      "PublishingDate": "2014-08-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека стандартных подсистем, редакция 2.2",
+      "Version": "2.2.5.36",
+      "PublishingDate": "2015-07-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека стандартных подсистем, редакция 2.3",
+      "Version": "2.3.7.10",
+      "PublishingDate": "2018-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека стандартных подсистем, редакция 2.4",
+      "Version": "2.4.6.241",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.0",
+      "Version": "3.0.3.17",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.136",
+      "PublishingDate": "2019-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека технологии сервиса, редакция 1.1",
+      "Version": "1.1.3.12",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека технологии сервиса, редакция 1.2",
+      "Version": "1.2.1.7",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.2.1.4"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-08T00:00:00"
+      ]
+    },
+    {
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.37",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека электронных документов, редакция 1.2",
+      "Version": "1.2.7.11",
+      "PublishingDate": "2015-08-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека электронных документов, редакция 1.3",
+      "Version": "1.3.11.125",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека электронных документов, редакция 1.4",
+      "Version": "1.4.1.75",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека электронных документов, редакция 1.5",
+      "Version": "1.5.1.89",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека электронных документов, редакция 1.6",
+      "Version": "1.6.1.42",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

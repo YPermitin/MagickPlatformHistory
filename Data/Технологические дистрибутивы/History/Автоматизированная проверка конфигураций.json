@@ -1,0 +1,76 @@
+{
+  "Name": "Автоматизированная проверка конфигураций",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Автоматизированная проверка конфигураций",
+      "Version": "1.2.1.53",
+      "PublishingDate": "2018-11-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-22T12:54:16",
+      "Name": "Автоматизированная проверка конфигураций",
+      "Version": "1.2.2.56",
+      "PublishingDate": "2019-02-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-05T18:54:28",
+      "Name": "Автоматизированная проверка конфигураций",
+      "Version": "1.2.2.70",
+      "PublishingDate": "2019-04-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T18:54:37",
+      "Name": "Автоматизированная проверка конфигураций",
+      "Version": "1.2.2.78",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T17:24:46",
+      "Name": "Автоматизированная проверка конфигураций",
+      "Version": "1.2.3.14",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T12:20:37",
+      "Name": "Автоматизированная проверка конфигураций",
+      "Version": "1.2.3.16",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

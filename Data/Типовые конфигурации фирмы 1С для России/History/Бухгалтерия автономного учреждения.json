@@ -1,0 +1,65 @@
+{
+  "Name": "Бухгалтерия автономного учреждения",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Бухгалтерия автономного учреждения",
+      "Version": "2.0.66.62",
+      "PublishingDate": "2018-10-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T19:50:48",
+      "Name": "Бухгалтерия автономного учреждения",
+      "Version": "2.0.66.67",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-11T21:24:16",
+      "Name": "Бухгалтерия автономного учреждения",
+      "Version": "2.0.66.71",
+      "PublishingDate": "2019-02-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T20:24:25",
+      "Name": "Бухгалтерия автономного учреждения",
+      "Version": "2.0.66.74",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-15T15:54:41",
+      "Name": "Бухгалтерия автономного учреждения",
+      "Version": "2.0.66.78",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

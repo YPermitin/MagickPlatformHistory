@@ -1,0 +1,72 @@
+{
+  "Name": "Розница для Молдовы, редакция 2",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 4,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Розница для Молдовы, редакция 2",
+      "Version": "2.2.9.20",
+      "PublishingDate": "2018-09-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T16:20:50",
+      "Name": "Розница для Молдовы, редакция 2",
+      "Version": "2.2.9.20",
+      "PublishingDate": "2018-09-28T00:00:00",
+      "PlanVersions": [
+        "2.2.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T13:18:19",
+      "Name": "Розница для Молдовы, редакция 2",
+      "Version": "2.2.9.20",
+      "PublishingDate": "2018-09-28T00:00:00",
+      "PlanVersions": [
+        "2.2.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-11T13:24:32",
+      "Name": "Розница для Молдовы, редакция 2",
+      "Version": "2.2.9.20",
+      "PublishingDate": "2018-09-28T00:00:00",
+      "PlanVersions": [
+        "2.2.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

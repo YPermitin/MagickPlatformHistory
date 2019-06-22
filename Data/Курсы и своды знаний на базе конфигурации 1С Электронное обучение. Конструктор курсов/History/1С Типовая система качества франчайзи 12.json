@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Типовая система качества франчайзи 12",
+  "Category": {
+    "ID": 1,
+    "Name": "Курсы и своды знаний на базе конфигурации \"1С:Электронное обучение. Конструктор курсов\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "1С:Типовая система качества франчайзи 12",
+      "Version": "12.0.3.6",
+      "PublishingDate": "2013-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

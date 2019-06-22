@@ -1,0 +1,215 @@
+{
+  "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 14,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.113.1",
+      "PublishingDate": "2018-11-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T18:21:01",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.113.1",
+      "PublishingDate": "2018-11-19T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T17:20:55",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.113.1",
+      "PublishingDate": "2018-11-19T00:00:00",
+      "PlanVersions": [
+        "1.3.114.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T18:21:14",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-11T18:24:31",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.116"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T14:24:36",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-22T12:24:31",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [
+        "1.3.117.1",
+        "1.3.117"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00",
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-22T00:00:00",
+        "2019-02-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-22T14:24:28",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [
+        "1.3.117"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T14:24:34",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T12:24:36",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "1.3.119"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T12:24:43",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T19:54:58",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "1.3.122"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T20:24:56",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "1.3.122.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T16:24:59",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.122.1",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

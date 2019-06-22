@@ -1,0 +1,27 @@
+{
+  "Name": "MES Оперативное управление производством, редакция 1.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "MES Оперативное управление производством, редакция 1.1",
+      "Version": "1.1.5.1",
+      "PublishingDate": "2014-06-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.2.1.1",
+        "2.0.9.61"
+      ],
+      "DemoPublicationDates": [
+        "2015-02-25T00:00:00",
+        "2014-12-31T00:00:00"
+      ]
+    }
+  ]
+}

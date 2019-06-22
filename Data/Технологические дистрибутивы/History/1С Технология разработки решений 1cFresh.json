@@ -1,0 +1,43 @@
+{
+  "Name": "1С:Технология разработки решений 1cFresh",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "1С:Технология разработки решений 1cFresh",
+      "Version": "1.0.23.1",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T15:54:18",
+      "Name": "1С:Технология разработки решений 1cFresh",
+      "Version": "1.0.24.1",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T17:24:43",
+      "Name": "1С:Технология разработки решений 1cFresh",
+      "Version": "1.0.25.1",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

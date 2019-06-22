@@ -1,0 +1,133 @@
+{
+  "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 9,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.2.1",
+      "PublishingDate": "2018-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T11:50:56",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.2.1",
+      "PublishingDate": "2018-11-15T00:00:00",
+      "PlanVersions": [
+        "2.2.3.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T13:50:57",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.3.1",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T11:18:18",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.3.1",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [
+        "2.2.4.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T21:18:26",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.4.1",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T18:54:42",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.4.1",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "2.2.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T16:24:41",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.5.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-03T11:54:59",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.5.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [
+        "2.2.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T13:54:57",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.6.1",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

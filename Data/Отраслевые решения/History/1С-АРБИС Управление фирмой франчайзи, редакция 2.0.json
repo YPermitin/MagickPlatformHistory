@@ -1,0 +1,21 @@
+{
+  "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 2.0",
+      "Version": "2.0.23.2",
+      "PublishingDate": "2010-07-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

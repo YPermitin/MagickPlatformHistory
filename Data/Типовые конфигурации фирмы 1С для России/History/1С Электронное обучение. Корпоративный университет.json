@@ -1,0 +1,43 @@
+{
+  "Name": "1С:Электронное обучение. Корпоративный университет",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Электронное обучение. Корпоративный университет",
+      "Version": "3.0.9.133",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T16:54:26",
+      "Name": "1С:Электронное обучение. Корпоративный университет",
+      "Version": "3.0.9.151",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-28T18:24:43",
+      "Name": "1С:Электронное обучение. Корпоративный университет",
+      "Version": "3.0.9.155",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

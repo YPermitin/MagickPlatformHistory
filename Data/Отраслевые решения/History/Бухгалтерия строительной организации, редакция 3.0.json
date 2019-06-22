@@ -1,0 +1,21 @@
+{
+  "Name": "Бухгалтерия строительной организации, редакция 3.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Бухгалтерия строительной организации, редакция 3.0",
+      "Version": "3.0.40.3",
+      "PublishingDate": "2015-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

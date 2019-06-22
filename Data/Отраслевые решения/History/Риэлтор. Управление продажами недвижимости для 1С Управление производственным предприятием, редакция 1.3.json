@@ -1,0 +1,329 @@
+{
+  "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 23,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T14:21:02",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T16:21:01",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T16:43:26",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "1.3.115.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T13:13:23",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.115.1",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T16:18:20",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.115.1",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T20:48:24",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.115.1",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T17:48:19",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-11T15:24:29",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "1.3.116.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T12:24:28",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T19:24:47",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "1.3.117.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T20:54:39",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-11T14:54:37",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "1.3.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-13T13:24:34",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T14:54:46",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [
+        "1.3.119.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T17:54:43",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.119.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T11:54:44",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T14:24:47",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "1.3.121.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T14:24:53",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T17:24:58",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-06T00:00:00",
+      "PlanVersions": [
+        "1.3.121.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T13:25:00",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T20:25:03",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [
+        "1.3.122.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-10T14:25:00",
+      "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-06-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

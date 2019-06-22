@@ -1,0 +1,32 @@
+{
+  "Name": "Зарплата и управление персоналом для Эстонии",
+  "Category": {
+    "ID": 479,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Эстонии"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:47",
+      "Name": "Зарплата и управление персоналом для Эстонии",
+      "Version": "3.1.1.9",
+      "PublishingDate": "2018-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-17T17:29:27",
+      "Name": "Зарплата и управление персоналом для Эстонии",
+      "Version": "3.1.2.25",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

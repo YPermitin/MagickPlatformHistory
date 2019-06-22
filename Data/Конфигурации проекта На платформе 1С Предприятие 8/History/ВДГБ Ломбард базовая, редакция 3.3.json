@@ -1,0 +1,21 @@
+{
+  "Name": "ВДГБ: Ломбард базовая, редакция 3.3",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "ВДГБ: Ломбард базовая, редакция 3.3",
+      "Version": "3.3.41.11",
+      "PublishingDate": "2017-12-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

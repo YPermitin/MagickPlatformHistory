@@ -1,0 +1,184 @@
+{
+  "Name": "1С:УНФ 8. Полиграфия 2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 12,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.120",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T11:50:59",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.120",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T11:50:57",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T12:43:25",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [
+        "1.6.16.176"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T20:13:26",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.176",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T12:18:18",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.176",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [
+        "1.6.16.184"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T15:18:24",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T17:24:43",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [
+        "1.6.17.128"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T14:24:42",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T12:24:47",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "1.6.17.152"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T10:54:45",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "1.6.17.152"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T18:54:52",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

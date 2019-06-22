@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Медицина. Зарплата и кадры бюджетного учреждения",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Медицина. Зарплата и кадры бюджетного учреждения",
+      "Version": "1.0.121.2",
+      "PublishingDate": "2018-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

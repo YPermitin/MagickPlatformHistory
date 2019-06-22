@@ -1,0 +1,76 @@
+{
+  "Name": "Бюджетная отчетность",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Бюджетная отчетность",
+      "Version": "1.1.42.1",
+      "PublishingDate": "2018-09-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T18:50:45",
+      "Name": "Бюджетная отчетность",
+      "Version": "1.1.42.2",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T21:50:48",
+      "Name": "Бюджетная отчетность",
+      "Version": "1.1.42.3",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T15:48:12",
+      "Name": "Бюджетная отчетность",
+      "Version": "1.1.42.4",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T20:24:23",
+      "Name": "Бюджетная отчетность",
+      "Version": "1.1.43.1",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T20:54:48",
+      "Name": "Бюджетная отчетность",
+      "Version": "1.1.44.1",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

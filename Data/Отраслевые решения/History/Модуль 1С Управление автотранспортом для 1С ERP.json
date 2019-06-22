@@ -1,0 +1,111 @@
+{
+  "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.11.1",
+      "PublishingDate": "2018-07-03T00:00:00",
+      "PlanVersions": [
+        "2.0.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T13:35:22",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.12.1",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-12T16:24:37",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.12.1",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [
+        "2.0.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T16:54:37",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.12.1",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [
+        "2.0.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-18T15:54:37",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.13.1",
+      "PublishingDate": "2019-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-11T22:39:04",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.13.1",
+      "PublishingDate": "2019-03-18T00:00:00",
+      "PlanVersions": [
+        "2.0.14.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T12:20:37",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.14.1",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

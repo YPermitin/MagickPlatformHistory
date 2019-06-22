@@ -1,0 +1,80 @@
+{
+  "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+      "Version": "2.5.136.1",
+      "PublishingDate": "2018-11-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.137.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-12T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-26T15:20:49",
+      "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+      "Version": "2.5.137.2",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T19:47:19",
+      "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+      "Version": "2.5.138.1",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T20:24:11",
+      "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+      "Version": "2.5.139.1",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T18:54:28",
+      "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+      "Version": "2.5.140.1",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T15:24:47",
+      "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+      "Version": "2.5.141.1",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

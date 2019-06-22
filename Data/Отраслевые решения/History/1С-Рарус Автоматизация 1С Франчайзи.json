@@ -1,0 +1,222 @@
+{
+  "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 16,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.38.1",
+      "PublishingDate": "2018-11-09T00:00:00",
+      "PlanVersions": [
+        "2.1.39.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T17:35:30",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.39.1",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T19:13:23",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.39.1",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [
+        "2.1.39.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T13:43:22",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.39.2",
+      "PublishingDate": "2019-01-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T19:18:19",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.1",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T18:48:30",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.1",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [
+        "2.1.40.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T20:18:28",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.2",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-18T17:54:29",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.3",
+      "PublishingDate": "2019-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-20T17:54:34",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.3",
+      "PublishingDate": "2019-02-18T00:00:00",
+      "PlanVersions": [
+        "2.1.40.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T15:54:29",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.4",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T18:54:41",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.4",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [
+        "2.1.40.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T19:24:49",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.40.5",
+      "PublishingDate": "2019-03-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T18:54:45",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.41.1",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T15:24:55",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.42.1",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-07T13:24:57",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.42.1",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [
+        "2.1.43.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-07T19:55:00",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.43.1",
+      "PublishingDate": "2019-06-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.0",
+      "Version": "1.0.3.8",
+      "PublishingDate": "2016-03-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

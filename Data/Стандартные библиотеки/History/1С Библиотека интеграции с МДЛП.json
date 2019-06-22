@@ -1,0 +1,87 @@
+{
+  "Name": "1С:Библиотека интеграции с МДЛП",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:21",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.3",
+      "PublishingDate": "2018-12-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T21:50:48",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.4",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T19:18:13",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.5",
+      "PublishingDate": "2019-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-01T21:45:57",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.6",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T20:54:15",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.7",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T13:24:19",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.8",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T19:54:26",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.0.3.9",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

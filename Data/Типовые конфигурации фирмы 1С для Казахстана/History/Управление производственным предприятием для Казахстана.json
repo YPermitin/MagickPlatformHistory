@@ -1,0 +1,88 @@
+{
+  "Name": "Управление производственным предприятием для Казахстана",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:35",
+      "Name": "Управление производственным предприятием для Казахстана",
+      "Version": "1.3.16.6",
+      "PublishingDate": "2018-10-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T13:20:51",
+      "Name": "Управление производственным предприятием для Казахстана",
+      "Version": "1.3.16.6",
+      "PublishingDate": "2018-10-05T00:00:00",
+      "PlanVersions": [
+        "1.3.17"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T13:54:20",
+      "Name": "Управление производственным предприятием для Казахстана",
+      "Version": "1.3.17.1",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T19:24:28",
+      "Name": "Управление производственным предприятием для Казахстана",
+      "Version": "1.3.17.1",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [
+        "1.3.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T16:24:30",
+      "Name": "Управление производственным предприятием для Казахстана",
+      "Version": "1.3.18.1",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-15T13:24:43",
+      "Name": "Управление производственным предприятием для Казахстана",
+      "Version": "1.3.18.3",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

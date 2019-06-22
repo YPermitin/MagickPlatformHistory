@@ -1,0 +1,167 @@
+{
+  "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 11,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.8",
+      "PublishingDate": "2018-10-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T10:50:53",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.8",
+      "PublishingDate": "2018-10-26T00:00:00",
+      "PlanVersions": [
+        "1.6.74.9"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T14:20:58",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.8",
+      "PublishingDate": "2018-10-26T00:00:00",
+      "PlanVersions": [
+        "1.6.74.9"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T13:51:12",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.9",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-25T13:54:27",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.9",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "1.6.74.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T12:54:34",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.10",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T18:54:37",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.10",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [
+        "1.6.74.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T16:54:42",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.11",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T11:24:52",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.11",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "1.6.74.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-14T17:24:59",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.12",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T14:20:37",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
+      "Version": "1.6.74.12",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [
+        "1.6.74.13"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

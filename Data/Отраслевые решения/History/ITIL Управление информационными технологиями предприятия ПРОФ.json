@@ -1,0 +1,162 @@
+{
+  "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 10,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.1.13.3",
+      "PublishingDate": "2018-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T18:24:42",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T18:54:49",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [
+        "1.2.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T16:54:50",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [
+        "1.2.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T11:54:44",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [
+        "1.2.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T13:54:46",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [
+        "1.2.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T11:24:47",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [
+        "1.2.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T11:54:46",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [
+        "1.2.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T20:54:45",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.1.4",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [
+        "1.2.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T19:54:53",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.2.1",
+      "PublishingDate": "2019-04-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

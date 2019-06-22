@@ -1,0 +1,131 @@
+{
+  "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+  "Category": {
+    "ID": 113,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
+  },
+  "ReleasesCount": 11,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:36",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.14.1",
+      "PublishingDate": "2018-12-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T20:20:53",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.14.17",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T16:54:21",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.15.1",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T15:18:15",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.15.14",
+      "PublishingDate": "2019-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T13:54:25",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.16.1",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T15:54:32",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.16.9",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-28T16:54:35",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.17.1",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-10T18:24:42",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.17.9",
+      "PublishingDate": "2019-04-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-05T13:54:43",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.18.1",
+      "PublishingDate": "2019-05-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-23T13:24:50",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.18.13",
+      "PublishingDate": "2019-05-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T18:54:56",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3.0",
+      "Version": "3.0.18.18",
+      "PublishingDate": "2019-06-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

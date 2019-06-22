@@ -1,0 +1,79 @@
+{
+  "Category": {
+    "ID": 1,
+    "Name": "Курсы и своды знаний на базе конфигурации \"1С:Электронное обучение. Конструктор курсов\""
+  },
+  "ReleasesCount": 7,
+  "Releases": [
+    {
+      "Name": "1С:ПрофКейс 2.0",
+      "Version": "2.0.0.2",
+      "PublishingDate": "2013-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Технология корпоративного сопровождения",
+      "Version": "1.2.1",
+      "PublishingDate": "2017-04-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Типовая система качества франчайзи 12",
+      "Version": "12.0.3.6",
+      "PublishingDate": "2013-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Типовая система качества франчайзи 15",
+      "Version": "1.2.0.1",
+      "PublishingDate": "2017-10-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Ведение учета в прикладном решении \"1С:Медицина. Больничная аптека\"",
+      "Version": "1.3.0.9",
+      "PublishingDate": "2014-10-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Ведение учета в программе \"1С:Бухгалтерия государственного учреждения, ред.2.0",
+      "Version": "2.0.0.1",
+      "PublishingDate": "2018-09-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Применение подсистемы \"Закупки. Дополнение к 1С:БГУ\"",
+      "Version": "1.2.1.1",
+      "PublishingDate": "2017-12-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

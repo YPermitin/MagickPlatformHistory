@@ -1,0 +1,99 @@
+{
+  "Category": {
+    "ID": 755,
+    "Name": "Microsoft SQL Server для пользователей 1С:Предприятие 8"
+  },
+  "ReleasesCount": 9,
+  "Releases": [
+    {
+      "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2012",
+      "Version": "2012",
+      "PublishingDate": "2012-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2014",
+      "Version": "2014",
+      "PublishingDate": "2014-09-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2016",
+      "Version": "2016",
+      "PublishingDate": "2016-09-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard Core. Версия 2012",
+      "Version": "2012",
+      "PublishingDate": "2012-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard Core. Версия 2014",
+      "Version": "2014",
+      "PublishingDate": "2014-09-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard Core. Версия 2016",
+      "Version": "2016",
+      "PublishingDate": "2016-09-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard. Версия 2012",
+      "Version": "2012",
+      "PublishingDate": "2012-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard. Версия 2014",
+      "Version": "2014",
+      "PublishingDate": "2014-09-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard. Версия 2016",
+      "Version": "2016",
+      "PublishingDate": "2016-09-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

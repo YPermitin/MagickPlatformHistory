@@ -1,0 +1,21 @@
+{
+  "Name": "Свод отчетов ПРОФ, редакция 3.3",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Свод отчетов ПРОФ, редакция 3.3",
+      "Version": "3.3.2.4",
+      "PublishingDate": "2011-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

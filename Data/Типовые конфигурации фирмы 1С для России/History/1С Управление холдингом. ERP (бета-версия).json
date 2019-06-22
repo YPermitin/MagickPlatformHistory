@@ -1,0 +1,32 @@
+{
+  "Name": "1С:Управление холдингом. ERP (бета-версия)",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-02-13T20:24:17",
+      "Name": "1С:Управление холдингом. ERP (бета-версия)",
+      "Version": "3.0.0.7",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-16T15:54:42",
+      "Name": "1С:Управление холдингом. ERP (бета-версия)",
+      "Version": "3.0.0.12",
+      "PublishingDate": "2019-05-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-03-25T19:54:27",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.1.9"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-25T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-19T16:54:33",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.1.15",
+        "2.4.1.9"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-19T00:00:00",
+        "2019-03-25T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
+      "Version": "2.4.1.30",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Менеджер лицензий аппаратной защиты NetHASP",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Менеджер лицензий аппаратной защиты NetHASP",
+      "Version": "8.31",
+      "PublishingDate": "2007-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

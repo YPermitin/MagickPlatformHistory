@@ -1,0 +1,21 @@
+{
+  "Name": "Бухгалтерия для бюджетных учреждений Беларуси",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "Бухгалтерия для бюджетных учреждений Беларуси",
+      "Version": "1.0.6.1",
+      "PublishingDate": "2017-06-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Мобильное приложение \"1С:Заказы\"",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Мобильное приложение \"1С:Заказы\"",
+      "Version": "3.0.12.1",
+      "PublishingDate": "2018-10-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T17:13:15",
+      "Name": "Мобильное приложение \"1С:Заказы\"",
+      "Version": "3.0.13.1",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-09T19:24:14",
+      "Name": "Мобильное приложение \"1С:Заказы\"",
+      "Version": "3.0.14.1",
+      "PublishingDate": "2019-02-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

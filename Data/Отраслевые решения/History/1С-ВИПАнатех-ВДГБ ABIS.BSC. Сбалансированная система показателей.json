@@ -1,0 +1,21 @@
+{
+  "Name": "1С-ВИПАнатех-ВДГБ: ABIS.BSC. Сбалансированная система показателей",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С-ВИПАнатех-ВДГБ: ABIS.BSC. Сбалансированная система показателей",
+      "Version": "2.1.2.5",
+      "PublishingDate": "2009-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

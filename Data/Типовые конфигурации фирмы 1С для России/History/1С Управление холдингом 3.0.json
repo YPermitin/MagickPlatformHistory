@@ -1,0 +1,109 @@
+{
+  "Name": "1С:Управление холдингом 3.0",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 9,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.4.4",
+      "PublishingDate": "2018-10-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T13:50:45",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.4.19",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T15:20:49",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.5.3",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T13:48:12",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.5.9",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T19:24:24",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.6.2",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-28T15:24:26",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.6.3",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T19:24:30",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.6.6",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T20:24:35",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.6.8",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T20:24:53",
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.6.15",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

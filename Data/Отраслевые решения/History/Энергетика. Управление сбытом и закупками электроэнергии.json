@@ -1,0 +1,21 @@
+{
+  "Name": "Энергетика. Управление сбытом и закупками электроэнергии",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Энергетика. Управление сбытом и закупками электроэнергии",
+      "Version": "1.1.2.27",
+      "PublishingDate": "2015-02-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

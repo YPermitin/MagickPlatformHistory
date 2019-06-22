@@ -1,0 +1,142 @@
+{
+  "Name": "Комплексная автоматизация, редакция 1.1",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 12,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.108.4",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T12:50:46",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.108.5",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T19:20:49",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.109.1",
+      "PublishingDate": "2018-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-06T15:43:12",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.110.1",
+      "PublishingDate": "2019-01-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T12:13:15",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.110.2",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T21:24:17",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.110.3",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T16:48:10",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.111.1",
+      "PublishingDate": "2019-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T15:24:18",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.111.2",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T12:54:18",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.112.1",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T12:24:21",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.113.1",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T22:24:27",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.114.1",
+      "PublishingDate": "2019-03-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T20:54:27",
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.115.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

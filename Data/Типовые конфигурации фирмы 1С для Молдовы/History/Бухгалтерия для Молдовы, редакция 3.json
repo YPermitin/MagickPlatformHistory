@@ -1,0 +1,183 @@
+{
+  "Name": "Бухгалтерия для Молдовы, редакция 3",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 13,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.24.1",
+      "PublishingDate": "2018-11-28T00:00:00",
+      "PlanVersions": [
+        "3.0.25"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T15:50:58",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.25.1",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T12:54:24",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.25.2",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-22T14:18:20",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.25.2",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [
+        "3.0.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T16:48:19",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.26.1",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T13:24:25",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.26.2",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T13:54:31",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.27.1",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-18T18:54:33",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.27.1",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [
+        "3.0.28"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-10T19:24:42",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.28.1",
+      "PublishingDate": "2019-04-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-15T15:24:42",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.28.2",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T13:54:40",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.28.2",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [
+        "3.0.29"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T14:24:56",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.29.1",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T12:50:38",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.29.1",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [
+        "3.0.30"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

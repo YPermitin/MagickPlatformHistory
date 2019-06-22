@@ -1,0 +1,49 @@
+{
+  "Name": "Оперативная печать",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Оперативная печать",
+      "Version": "10.3.49.1",
+      "PublishingDate": "2018-11-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T11:50:59",
+      "Name": "Оперативная печать",
+      "Version": "10.3.49.1",
+      "PublishingDate": "2018-11-16T00:00:00",
+      "PlanVersions": [
+        "10.3.49.3"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T13:50:56",
+      "Name": "Оперативная печать",
+      "Version": "10.3.49.3",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

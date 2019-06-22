@@ -1,0 +1,234 @@
+{
+  "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 16,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.3",
+      "PublishingDate": "2018-12-05T00:00:00",
+      "PlanVersions": [
+        "1.0.7.4"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T14:35:20",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.4",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T13:50:58",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.4",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [
+        "1.0.7.5"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T18:21:00",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.5",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T16:48:18",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.5",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [
+        "1.0.7.6"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T18:48:23",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.6",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T17:48:22",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.6",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "1.0.7.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T18:18:23",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.7",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T19:54:35",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.7",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "1.0.7.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T20:24:33",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.8",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T19:54:40",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.9",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T15:24:47",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.9",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [
+        "1.0.7.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T18:24:46",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.10",
+      "PublishingDate": "2019-04-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T14:54:44",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.10",
+      "PublishingDate": "2019-04-18T00:00:00",
+      "PlanVersions": [
+        "1.0.7.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T13:54:46",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.11",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T15:50:37",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.7.11",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [
+        "1.0.7.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

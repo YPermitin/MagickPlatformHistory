@@ -1,0 +1,32 @@
+{
+  "Name": "Бухгалтерия для Таджикистана базовая",
+  "Category": {
+    "ID": 912,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Таджикистана"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:43",
+      "Name": "Бухгалтерия для Таджикистана базовая",
+      "Version": "3.0.10.5",
+      "PublishingDate": "2018-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T16:24:51",
+      "Name": "Бухгалтерия для Таджикистана базовая",
+      "Version": "3.0.11.8",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

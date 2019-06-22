@@ -1,0 +1,21 @@
+{
+  "Name": "Управление небольшой фирмой для Грузии",
+  "Category": {
+    "ID": 548,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Грузии"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:33",
+      "Name": "Управление небольшой фирмой для Грузии",
+      "Version": "1.4.5.25",
+      "PublishingDate": "2014-05-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

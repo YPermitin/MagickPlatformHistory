@@ -1,0 +1,173 @@
+{
+  "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 11,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.5.1",
+      "PublishingDate": "2018-12-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T20:47:27",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.5.1",
+      "PublishingDate": "2018-12-11T00:00:00",
+      "PlanVersions": [
+        "3.1.6"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T19:18:14",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.6.1",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T13:54:24",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.6.1",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [
+        "3.1.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T13:24:32",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.7.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T20:54:29",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.7.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "3.1.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T13:54:30",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.7.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "3.1.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-08T12:24:42",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.7.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "3.1.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-08T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-05T14:24:50",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.8.1",
+      "PublishingDate": "2019-05-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T15:24:46",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.8.1",
+      "PublishingDate": "2019-05-05T00:00:00",
+      "PlanVersions": [
+        "3.1.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T20:24:55",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.8.1",
+      "PublishingDate": "2019-05-05T00:00:00",
+      "PlanVersions": [
+        "3.1.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

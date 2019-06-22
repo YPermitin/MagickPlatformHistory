@@ -1,0 +1,72 @@
+{
+  "Name": "1С:Полиграфия 2. Модуль для 1C:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 4,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Полиграфия 2. Модуль для 1C:ERP",
+      "Version": "2.4.5.86",
+      "PublishingDate": "2018-09-24T00:00:00",
+      "PlanVersions": [
+        "2.4.6.160"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T10:50:55",
+      "Name": "1С:Полиграфия 2. Модуль для 1C:ERP",
+      "Version": "2.4.5.86",
+      "PublishingDate": "2018-09-24T00:00:00",
+      "PlanVersions": [
+        "2.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T18:21:01",
+      "Name": "1С:Полиграфия 2. Модуль для 1C:ERP",
+      "Version": "2.4.5.86",
+      "PublishingDate": "2018-09-24T00:00:00",
+      "PlanVersions": [
+        "2.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T11:50:58",
+      "Name": "1С:Полиграфия 2. Модуль для 1C:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

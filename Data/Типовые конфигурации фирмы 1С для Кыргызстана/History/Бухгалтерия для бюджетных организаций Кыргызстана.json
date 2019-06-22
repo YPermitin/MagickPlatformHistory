@@ -1,0 +1,21 @@
+{
+  "Name": "Бухгалтерия для бюджетных организаций Кыргызстана",
+  "Category": {
+    "ID": 113,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:36",
+      "Name": "Бухгалтерия для бюджетных организаций Кыргызстана",
+      "Version": "1.1.27.1",
+      "PublishingDate": "2017-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

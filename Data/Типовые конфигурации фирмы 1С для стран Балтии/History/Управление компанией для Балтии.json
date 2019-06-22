@@ -1,0 +1,21 @@
+{
+  "Name": "Управление компанией для Балтии",
+  "Category": {
+    "ID": 514,
+    "Name": "Типовые конфигурации фирмы \"1С\" для стран Балтии"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:28",
+      "Name": "Управление компанией для Балтии",
+      "Version": "1.5.6.1",
+      "PublishingDate": "2018-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

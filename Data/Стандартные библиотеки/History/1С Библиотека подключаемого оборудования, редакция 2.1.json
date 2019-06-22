@@ -1,0 +1,65 @@
+{
+  "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:21",
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+      "Version": "2.1.1.5",
+      "PublishingDate": "2018-12-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T15:50:52",
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+      "Version": "2.1.1.10",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T18:54:34",
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+      "Version": "2.1.1.18",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T17:54:46",
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+      "Version": "2.1.1.20",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T18:20:37",
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+      "Version": "2.1.1.22",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

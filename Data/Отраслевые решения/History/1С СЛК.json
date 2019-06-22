@@ -1,0 +1,32 @@
+{
+  "Name": "1С:СЛК",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-14T19:35:24",
+      "Name": "1С:СЛК",
+      "Version": "3.0.17.7997",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T13:54:48",
+      "Name": "1С:СЛК",
+      "Version": "3.0.18.8079",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

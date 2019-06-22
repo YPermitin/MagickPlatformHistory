@@ -1,0 +1,345 @@
+{
+  "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 23,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.46",
+      "PublishingDate": "2018-12-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T13:20:52",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.46",
+      "PublishingDate": "2018-12-05T00:00:00",
+      "PlanVersions": [
+        "2.0.66.47"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T18:21:14",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.47",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-30T00:51:05",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.47",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "2.0.66.48"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T11:13:24",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.47",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "2.0.66.48"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T16:43:24",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.48",
+      "PublishingDate": "2019-01-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T19:48:22",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.48",
+      "PublishingDate": "2019-01-10T00:00:00",
+      "PlanVersions": [
+        "2.0.66.49"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T19:18:17",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.48",
+      "PublishingDate": "2019-01-10T00:00:00",
+      "PlanVersions": [
+        "2.0.66.49"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T13:48:21",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.49",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-12T11:54:27",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.49",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [
+        "2.0.66.50"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T11:54:31",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.50",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T14:54:35",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.50",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [
+        "2.0.66.51"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-11T15:24:35",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.50",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [
+        "2.0.66.52"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-13T13:24:34",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.52",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T16:24:43",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.52",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [
+        "2.0.66.53"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T18:24:47",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.54",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T18:54:49",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.54",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "2.0.66.55"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T13:24:45",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.54",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "2.0.66.55"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [
+        "3.0.70.4"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-22T15:24:48",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.55",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T12:24:49",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.55",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [
+        "2.0.66.56"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-14T13:25:00",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.56",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T11:50:37",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.56",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [
+        "2.0.66.57"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T16:20:38",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
+      "Version": "2.0.66.57",
+      "PublishingDate": "2019-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

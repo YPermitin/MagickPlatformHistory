@@ -1,0 +1,73 @@
+{
+  "Name": "1С:Сценарное тестирование 8",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "1С:Сценарное тестирование 8",
+      "Version": "3.0.15.1",
+      "PublishingDate": "2018-12-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T19:20:45",
+      "Name": "1С:Сценарное тестирование 8",
+      "Version": "3.0.15.2",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T16:54:23",
+      "Name": "1С:Сценарное тестирование 8",
+      "Version": "3.0.16.1",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T15:24:40",
+      "Name": "1С:Сценарное тестирование 8",
+      "Version": "3.0.16.1",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.17.1"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-17T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-29T14:24:45",
+      "Name": "1С:Сценарное тестирование 8",
+      "Version": "3.0.17.2",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.17.1"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-17T00:00:00"
+      ]
+    }
+  ]
+}

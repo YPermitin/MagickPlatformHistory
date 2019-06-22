@@ -1,0 +1,244 @@
+{
+  "Name": "Управление торговлей для Молдовы, редакция 2",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 12,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.5.1",
+      "PublishingDate": "2018-07-31T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-04T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-20T13:20:54",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.5.1",
+      "PublishingDate": "2018-07-31T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-02T17:13:24",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.7.1",
+      "PublishingDate": "2019-01-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-05T13:54:24",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.7.1",
+      "PublishingDate": "2019-01-02T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-25T16:54:24",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.7.1",
+      "PublishingDate": "2019-01-02T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-25T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-05T17:24:30",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.8.1",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-05T20:54:29",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.8.1",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-21T13:54:30",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.8.1",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-08T12:24:42",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.8.1",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-08T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-24T13:24:42",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.9.1",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-07T15:24:46",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.9.1",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [
+        "2.4.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-05T20:24:55",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.9.1",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [
+        "2.4.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    }
+  ]
+}

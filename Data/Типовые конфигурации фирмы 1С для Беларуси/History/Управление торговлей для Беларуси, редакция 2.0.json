@@ -1,0 +1,21 @@
+{
+  "Name": "Управление торговлей для Беларуси, редакция 2.0",
+  "Category": {
+    "ID": 82,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:30",
+      "Name": "Управление торговлей для Беларуси, редакция 2.0",
+      "Version": "2.0.48.1",
+      "PublishingDate": "2017-10-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

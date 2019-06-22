@@ -1,0 +1,229 @@
+{
+  "Name": "Турагентство Базовая, редакция 1.6",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 15,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.120",
+      "PublishingDate": "2018-11-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T13:50:58",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.120",
+      "PublishingDate": "2018-11-12T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T13:21:07",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T17:13:25",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.6.16.166"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T16:13:28",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.6.16.166"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T18:54:28",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.166",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T18:54:36",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.166",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [
+        "1.6.16.204"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T11:54:28",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T13:54:47",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "1.6.17.141"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T18:54:49",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "1.6.17.152"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T13:54:46",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "1.6.17.152"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T11:54:46",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "1.6.17.152"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T17:54:50",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T16:54:53",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "1.6.17.161"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T13:54:50",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

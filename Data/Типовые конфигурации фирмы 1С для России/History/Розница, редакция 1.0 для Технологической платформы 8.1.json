@@ -1,0 +1,21 @@
+{
+  "Name": "Розница, редакция 1.0 для Технологической платформы 8.1",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Розница, редакция 1.0 для Технологической платформы 8.1",
+      "Version": "1.0.14.3",
+      "PublishingDate": "2010-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Зарплата и кадры для Эстонии",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Зарплата и кадры для Эстонии",
+      "Version": "3.0.3.17",
+      "PublishingDate": "2016-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

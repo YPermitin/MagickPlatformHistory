@@ -1,0 +1,21 @@
+{
+  "Name": "Розница для Беларуси, редакция 1.0",
+  "Category": {
+    "ID": 82,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:30",
+      "Name": "Розница для Беларуси, редакция 1.0",
+      "Version": "1.0.20.1",
+      "PublishingDate": "2013-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

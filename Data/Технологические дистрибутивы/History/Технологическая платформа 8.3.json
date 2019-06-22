@@ -1,0 +1,554 @@
+{
+  "Name": "Технологическая платформа 8.3",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 34,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1644",
+      "PublishingDate": "2018-11-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1450",
+        "8.3.13.1690",
+        "8.3.12.1790"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-06T00:00:00",
+        "2018-12-05T00:00:00",
+        "2018-11-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-17T14:20:49",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1644",
+      "PublishingDate": "2018-11-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1450",
+        "8.3.13.1690"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-06T00:00:00",
+        "2018-12-05T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-21T12:20:46",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1644",
+      "PublishingDate": "2018-11-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1690"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-05T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-21T13:50:46",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1644",
+      "PublishingDate": "2018-11-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1494",
+        "8.3.13.1690"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-21T00:00:00",
+        "2018-12-05T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-14T13:54:15",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1690",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1494"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-21T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-18T12:29:19",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1690",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T14:29:18",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1690",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1533"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-18T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-28T20:18:08",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.13.1690",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1565"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-28T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-31T14:18:11",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-07T15:54:11",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1592"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-12T12:24:15",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.12.1852",
+        "8.3.14.1592"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-12T00:00:00",
+        "2019-02-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-14T11:54:14",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.12.1855",
+        "8.3.14.1592"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-14T00:00:00",
+        "2019-02-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-15T14:54:16",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1801",
+        "8.3.12.1855",
+        "8.3.14.1592"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-15T00:00:00",
+        "2019-02-14T00:00:00",
+        "2019-02-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-21T16:54:15",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1801",
+        "8.3.12.1855"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-15T00:00:00",
+        "2019-02-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-21T18:54:14",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1630",
+        "8.3.13.1801",
+        "8.3.12.1855"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-21T00:00:00",
+        "2019-02-15T00:00:00",
+        "2019-02-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-22T11:24:17",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1630",
+        "8.3.12.1855"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-21T00:00:00",
+        "2019-02-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-22T12:24:14",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1809",
+        "8.3.14.1630",
+        "8.3.12.1855"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-22T00:00:00",
+        "2019-02-21T00:00:00",
+        "2019-02-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-04T13:54:17",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1565",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1809",
+        "8.3.14.1630"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-22T00:00:00",
+        "2019-02-21T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-04T12:24:20",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.12.1855",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1809",
+        "8.3.14.1630"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-22T00:00:00",
+        "2019-02-21T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-06T11:54:19",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1630",
+      "PublishingDate": "2019-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1809"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-22T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-06T13:54:15",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1630",
+      "PublishingDate": "2019-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-19T13:24:21",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1630",
+      "PublishingDate": "2019-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1827"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-05T12:54:29",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1630",
+      "PublishingDate": "2019-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1694",
+        "8.3.13.1827"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-05T00:00:00",
+        "2019-03-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-11T20:54:30",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1630",
+      "PublishingDate": "2019-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.1194",
+        "8.3.14.1694",
+        "8.3.13.1827"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-11T00:00:00",
+        "2019-04-05T00:00:00",
+        "2019-03-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-17T17:54:31",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1694",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.1194",
+        "8.3.13.1827"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-11T00:00:00",
+        "2019-03-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-26T12:54:34",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1694",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.1194"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-26T14:24:34",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1694",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.1865",
+        "8.3.15.1194"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-26T00:00:00",
+        "2019-04-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-29T19:54:35",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1694",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1751",
+        "8.3.13.1865",
+        "8.3.15.1194"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-29T00:00:00",
+        "2019-04-26T00:00:00",
+        "2019-04-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-14T18:54:38",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1694",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1751",
+        "8.3.15.1194"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-29T00:00:00",
+        "2019-04-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-17T18:54:39",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1694",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.1779",
+        "8.3.15.1194"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-17T00:00:00",
+        "2019-04-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-22T11:54:45",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1779",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.1194"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1779",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.1461"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-19T15:20:36",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1779",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-19T17:20:36",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.14.1779",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.1469"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-19T00:00:00"
+      ]
+    }
+  ]
+}

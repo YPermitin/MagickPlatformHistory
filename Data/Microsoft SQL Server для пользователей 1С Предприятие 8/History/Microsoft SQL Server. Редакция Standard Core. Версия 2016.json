@@ -1,0 +1,21 @@
+{
+  "Name": "Microsoft SQL Server. Редакция Standard Core. Версия 2016",
+  "Category": {
+    "ID": 755,
+    "Name": "Microsoft SQL Server для пользователей 1С:Предприятие 8"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "Microsoft SQL Server. Редакция Standard Core. Версия 2016",
+      "Version": "2016",
+      "PublishingDate": "2016-09-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

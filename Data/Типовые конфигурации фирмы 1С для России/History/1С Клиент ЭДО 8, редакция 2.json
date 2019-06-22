@@ -1,0 +1,36 @@
+{
+  "Name": "1С:Клиент ЭДО 8, редакция 2",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Клиент ЭДО 8, редакция 2",
+      "Version": "2.4.1.49",
+      "PublishingDate": "2018-11-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T20:20:50",
+      "Name": "1С:Клиент ЭДО 8, редакция 2",
+      "Version": "2.4.1.49",
+      "PublishingDate": "2018-11-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.39"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    }
+  ]
+}

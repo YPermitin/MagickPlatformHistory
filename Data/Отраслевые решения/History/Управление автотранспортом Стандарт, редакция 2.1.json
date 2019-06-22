@@ -1,0 +1,133 @@
+{
+  "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 9,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.2.1",
+      "PublishingDate": "2018-11-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T11:50:56",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.2.1",
+      "PublishingDate": "2018-11-16T00:00:00",
+      "PlanVersions": [
+        "2.2.3.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T17:21:01",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.3.1",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T19:18:17",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.3.1",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "2.2.4.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T17:48:21",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.4.1",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T19:24:41",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.4.1",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [
+        "2.2.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T19:54:41",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.5.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-03T12:25:00",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.5.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [
+        "2.2.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T14:54:56",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.6.1",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

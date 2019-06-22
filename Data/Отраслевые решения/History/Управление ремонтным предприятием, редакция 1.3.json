@@ -1,0 +1,363 @@
+{
+  "Name": "Управление ремонтным предприятием, редакция 1.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 25,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.113.3",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [
+        "1.3.113.4"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T15:20:56",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T18:50:51",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T17:50:57",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [
+        "1.3.114.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T18:21:14",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T12:50:56",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.114.2"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T14:20:59",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.114.2",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T13:13:20",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.114.2",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "1.3.115.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T13:54:27",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T17:48:22",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [
+        "1.3.116"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-01T21:46:16",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T14:54:32",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T16:54:31",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-11T00:00:00",
+      "PlanVersions": [
+        "1.3.117"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-22T12:24:31",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-11T00:00:00",
+      "PlanVersions": [
+        "1.3.117"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T14:24:34",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-06T20:24:36",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "1.3.118"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-13T13:24:34",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T12:24:36",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [
+        "1.3.119"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T12:24:43",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [
+        "1.3.120"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T12:54:44",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T12:54:47",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "1.3.121"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T12:54:52",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T20:24:56",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [
+        "1.3.122.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T16:54:57",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.122.1",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-11T22:39:04",
+      "Name": "Управление ремонтным предприятием, редакция 1.3",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

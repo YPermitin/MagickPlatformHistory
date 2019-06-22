@@ -1,0 +1,200 @@
+{
+  "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 14,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.67.63",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T23:49:00",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.67.63",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [
+        "3.1.67.64"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T11:18:18",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.67.64",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T10:54:36",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.67.64",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "3.1.68.58"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T23:24:32",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.68.58",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T23:54:32",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.68.58",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "3.1.68.59"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T01:24:35",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.68.59",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T10:54:37",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.68.59",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "3.1.69.32"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T21:54:39",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.69.32",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T01:54:40",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.69.32",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "3.1.69.35"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T18:54:42",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.69.35",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-21T13:25:04",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.69.35",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [
+        "3.1.70.41"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-23T10:54:58",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.70.41",
+      "PublishingDate": "2019-05-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-23T11:24:57",
+      "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
+      "Version": "3.1.70.41",
+      "PublishingDate": "2019-05-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

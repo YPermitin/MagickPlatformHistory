@@ -1,0 +1,49 @@
+{
+  "Name": "Документооборот КОРП для Казахстана",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:35",
+      "Name": "Документооборот КОРП для Казахстана",
+      "Version": "2.0.1.2",
+      "PublishingDate": "2017-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T20:50:54",
+      "Name": "Документооборот КОРП для Казахстана",
+      "Version": "2.0.1.2",
+      "PublishingDate": "2017-12-27T00:00:00",
+      "PlanVersions": [
+        "2.0.2"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-02T12:43:14",
+      "Name": "Документооборот КОРП для Казахстана",
+      "Version": "2.0.2.1",
+      "PublishingDate": "2019-01-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

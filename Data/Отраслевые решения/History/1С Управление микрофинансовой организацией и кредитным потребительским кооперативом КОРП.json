@@ -1,0 +1,513 @@
+{
+  "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 34,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.66.60",
+      "PublishingDate": "2018-12-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T14:50:57",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.66.60",
+      "PublishingDate": "2018-12-11T00:00:00",
+      "PlanVersions": [
+        "3.0.66.62"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T18:20:58",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.66.60",
+      "PublishingDate": "2018-12-11T00:00:00",
+      "PlanVersions": [
+        "3.0.66.62"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T17:20:55",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.66.60",
+      "PublishingDate": "2018-12-11T00:00:00",
+      "PlanVersions": [
+        "3.0.66.62"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T18:50:58",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.66.62",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T13:51:15",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.66.62",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [
+        "3.0.67.38"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T18:50:58",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.38",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T12:54:28",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.38",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [
+        "3.0.67.54"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T16:59:28",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.38",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [
+        "3.0.67.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T19:48:20",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.63",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T12:24:27",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.63",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "3.0.67.67"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T19:24:30",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.67",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T16:54:30",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.67",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "3.0.68.58"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T18:24:33",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.67",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "3.0.68.59"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-12T17:54:36",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.67",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "3.0.68.59"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-13T17:24:35",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.67.67",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "3.0.68.59"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T18:24:43",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.59",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-18T18:54:39",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.59",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [
+        "3.0.68.60"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T16:54:38",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.59",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [
+        "3.0.68.60"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T18:54:39",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.60",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-25T18:54:49",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.60",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [
+        "3.0.68.61",
+        "3.0.68.61"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-27T00:00:00",
+        "2019-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-25T00:00:00",
+        "2019-03-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T18:54:42",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.61",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "3.0.68.61"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T20:24:42",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.61",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T12:54:41",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.61",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "3.0.69.32"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-10T15:54:48",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.61",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "3.0.69.32"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T18:54:49",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.68.61",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "3.0.69.32"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T14:54:45",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.69.32",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T12:24:45",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.69.32",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [
+        "3.0.70.30"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T20:24:45",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.69.32",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [
+        "3.0.70.30"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T19:24:51",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.70.30",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-21T13:55:05",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.70.30",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [
+        "3.0.70.50"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T19:55:02",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.70.50",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T18:55:14",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.70.52",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-17T13:20:37",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
+      "Version": "3.0.70.54",
+      "PublishingDate": "2019-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

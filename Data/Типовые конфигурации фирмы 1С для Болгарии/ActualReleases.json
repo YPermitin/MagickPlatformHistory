@@ -1,0 +1,19 @@
+{
+  "Category": {
+    "ID": 91,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Болгарии"
+  },
+  "ReleasesCount": 1,
+  "Releases": [
+    {
+      "Name": "Бухгалтерия для Болгарии",
+      "Version": "1.0.3.2",
+      "PublishingDate": "2009-07-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

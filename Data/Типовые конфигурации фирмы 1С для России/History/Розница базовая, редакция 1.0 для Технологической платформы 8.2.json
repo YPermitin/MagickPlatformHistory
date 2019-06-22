@@ -1,0 +1,21 @@
+{
+  "Name": "Розница базовая, редакция 1.0 для Технологической платформы 8.2",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Розница базовая, редакция 1.0 для Технологической платформы 8.2",
+      "Version": "1.0.19.16",
+      "PublishingDate": "2016-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

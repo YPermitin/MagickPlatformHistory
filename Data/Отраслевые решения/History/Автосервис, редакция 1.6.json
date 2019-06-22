@@ -1,0 +1,245 @@
+{
+  "Name": "Автосервис, редакция 1.6",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 17,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.120",
+      "PublishingDate": "2018-12-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T18:50:51",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.120",
+      "PublishingDate": "2018-12-04T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T16:50:59",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T16:24:23",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "1.6.16.178"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T21:17:26",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "1.6.16.178"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-22T19:18:23",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.178",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-06T20:54:38",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T20:24:33",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T20:24:47",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "1.6.17.135"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-15T12:54:46",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.135",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T18:24:49",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.135",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [
+        "1.6.17.141"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T11:24:47",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.135",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [
+        "1.6.17.141"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T16:24:49",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T16:24:52",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [
+        "1.6.17.161"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T19:54:59",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T12:24:58",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [
+        "1.6.17.174"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T16:25:05",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.17.174",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

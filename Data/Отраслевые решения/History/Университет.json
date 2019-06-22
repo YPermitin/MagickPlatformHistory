@@ -1,0 +1,77 @@
+{
+  "Name": "Университет",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Университет",
+      "Version": "2.0.15.3",
+      "PublishingDate": "2018-10-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T19:24:45",
+      "Name": "Университет",
+      "Version": "2.0.15.3",
+      "PublishingDate": "2018-10-15T00:00:00",
+      "PlanVersions": [
+        "2.0.16.17"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T15:24:43",
+      "Name": "Университет",
+      "Version": "2.0.16.17",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T18:55:14",
+      "Name": "Университет",
+      "Version": "2.0.16.17",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [
+        "2.0.17.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T13:24:58",
+      "Name": "Университет",
+      "Version": "2.0.17.8",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

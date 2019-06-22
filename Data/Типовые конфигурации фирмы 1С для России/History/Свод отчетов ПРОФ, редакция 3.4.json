@@ -1,0 +1,87 @@
+{
+  "Name": "Свод отчетов ПРОФ, редакция 3.4",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.43.1",
+      "PublishingDate": "2018-09-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T18:50:45",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.43.2",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T20:20:49",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.43.3",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T20:48:09",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.43.4",
+      "PublishingDate": "2019-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T20:24:23",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.44.1",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-24T21:24:45",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.45.1",
+      "PublishingDate": "2019-05-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T19:54:44",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.45.2",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

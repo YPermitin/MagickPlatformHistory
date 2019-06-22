@@ -1,0 +1,106 @@
+{
+  "Name": "Управление компанией для Молдовы",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Управление компанией для Молдовы",
+      "Version": "1.6.15.63",
+      "PublishingDate": "2018-10-09T00:00:00",
+      "PlanVersions": [
+        "1.6.16"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-11-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T13:48:11",
+      "Name": "Управление компанией для Молдовы",
+      "Version": "1.6.15.63",
+      "PublishingDate": "2018-10-09T00:00:00",
+      "PlanVersions": [
+        "1.6.16"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-11-30T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.6.16.178"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-04T18:24:22",
+      "Name": "Управление компанией для Молдовы",
+      "Version": "1.6.15.63",
+      "PublishingDate": "2018-10-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.6.16.178"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-15T18:54:50",
+      "Name": "Управление компанией для Молдовы",
+      "Version": "1.6.16.219",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.6.16.178"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-15T19:24:54",
+      "Name": "Управление компанией для Молдовы",
+      "Version": "1.6.16.219",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T19:20:38",
+      "Name": "Управление компанией для Молдовы",
+      "Version": "1.6.16.219",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [
+        "1.6.17"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

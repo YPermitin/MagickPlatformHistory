@@ -1,0 +1,21 @@
+{
+  "Name": "Консолидация ПРОФ, редакция 1.4",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Консолидация ПРОФ, редакция 1.4",
+      "Version": "1.4.3.1",
+      "PublishingDate": "2010-06-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "Name": "Мобильная платформа 1С:Предприятия",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 14,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.50",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-23T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-18T12:29:19",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.56",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-18T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-04T11:54:13",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.46",
+        "8.3.13.56",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-04T00:00:00",
+        "2019-01-18T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-08T13:24:12",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.46",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-04T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-08T13:54:12",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.59",
+        "8.3.14.46",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-08T00:00:00",
+        "2019-02-04T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-15T12:54:17",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.48",
+        "8.3.13.59",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-15T00:00:00",
+        "2019-02-08T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-27T10:54:18",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.13.59",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-08T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-01T10:24:17",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.52",
+        "8.3.13.59",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-01T00:00:00",
+        "2019-02-08T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-14T10:54:20",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.53",
+        "8.3.13.59",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-14T00:00:00",
+        "2019-02-08T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-14T15:24:20",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.13.45",
+      "PublishingDate": "2018-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.53",
+        "8.3.13.64",
+        "8.3.12.100"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-14T00:00:00",
+        "2019-03-14T00:00:00",
+        "2018-11-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-20T18:54:27",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.14.53",
+      "PublishingDate": "2019-03-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T18:24:24",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.14.53",
+      "PublishingDate": "2019-03-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.55"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-22T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-12T17:24:31",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.14.53",
+      "PublishingDate": "2019-03-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.60"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-12T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-18T18:54:33",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.14.53",
+      "PublishingDate": "2019-03-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.14.62"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-18T00:00:00"
+      ]
+    }
+  ]
+}

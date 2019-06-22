@@ -1,0 +1,257 @@
+{
+  "Name": "Корпоративный инструментальный пакет 8",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 17,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.2.11",
+      "PublishingDate": "2018-07-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.12"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-15T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-29T13:50:46",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.2.11",
+      "PublishingDate": "2018-07-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.15",
+        "2.1.3.12"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00",
+        "2018-11-15T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-29T15:20:47",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.2.11",
+      "PublishingDate": "2018-07-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.15"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-29T14:50:47",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.12",
+      "PublishingDate": "2018-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.15"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-24T20:48:10",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.17",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.15"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-24T21:48:05",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.17",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T15:54:18",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.17",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.21"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-19T16:54:16",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.21",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T19:54:18",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.21",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.23"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-01T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-17T19:24:32",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.21",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.4.3",
+        "2.1.3.23"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-17T00:00:00",
+        "2019-03-01T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-29T21:24:44",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.28",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.4.3",
+        "2.1.3.23"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-17T00:00:00",
+        "2019-03-01T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-29T21:54:43",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.28",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.4.3"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-17T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-30T16:24:45",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.28",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.3.29",
+        "2.1.4.3"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-30T00:00:00",
+        "2019-04-17T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-30T16:54:48",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.29",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.4.3"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-17T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-05T17:24:47",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.3.29",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T16:54:47",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.4.10",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.1.4.3"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-17T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-05T18:24:47",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.4.10",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

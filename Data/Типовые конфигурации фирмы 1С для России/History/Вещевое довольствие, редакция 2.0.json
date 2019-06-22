@@ -1,0 +1,123 @@
+{
+  "Name": "Вещевое довольствие, редакция 2.0",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.24.1",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [
+        "2.0.25"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-11-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-20T11:54:18",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.24.1",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [
+        "2.0.25"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T20:54:20",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.25.5",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T22:54:18",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.25.5",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "2.0.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T17:24:28",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.25.6",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [
+        "2.0.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-10T11:54:48",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.25.6",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [
+        "2.0.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T17:50:37",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.25.8",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [
+        "2.0.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.5.118",
+      "PublishingDate": "2018-11-09T00:00:00",
+      "PlanVersions": [
+        "2.4.6.154"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T12:21:00",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.6.160",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T16:18:18",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.6.160",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "2.4.6.188"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T16:48:19",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T17:24:47",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-12T19:00:00",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-06-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T20:20:37",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

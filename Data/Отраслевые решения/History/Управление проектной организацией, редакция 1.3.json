@@ -1,0 +1,394 @@
+{
+  "Name": "Управление проектной организацией, редакция 1.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 24,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-18T10:50:53",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-19T20:21:06",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-25T11:20:58",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [
+        "1.3.114.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-26T13:51:15",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2018-12-28T18:20:59",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.114.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-09T21:43:21",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.114.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-14T16:24:27",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.114.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-15T14:54:26",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.115.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-17T11:29:31",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.115.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-17T20:59:29",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-21T16:18:20",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-22T19:18:23",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-04T14:24:27",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [
+        "1.3.116.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-04T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-05T16:24:30",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.3.113.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-16T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-07T15:24:27",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-18T16:54:28",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "1.3.117.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-18T17:24:30",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T20:24:35",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-25T17:24:44",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.119.1",
+      "PublishingDate": "2019-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T14:54:41",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T15:24:48",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-20T17:24:56",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T15:25:01",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Name": "Договоры 8 для Молдовы",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Договоры 8 для Молдовы",
+      "Version": "1.0.1.2",
+      "PublishingDate": "2016-07-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T14:13:18",
+      "Name": "Договоры 8 для Молдовы",
+      "Version": "1.0.1.2",
+      "PublishingDate": "2016-07-20T00:00:00",
+      "PlanVersions": [
+        "1.0.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T17:59:28",
+      "Name": "Договоры 8 для Молдовы",
+      "Version": "1.0.2.1",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

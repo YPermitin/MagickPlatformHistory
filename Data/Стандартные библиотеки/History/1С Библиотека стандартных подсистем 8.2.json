@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Библиотека стандартных подсистем 8.2",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:21",
+      "Name": "1С:Библиотека стандартных подсистем 8.2",
+      "Version": "2.0.1.19",
+      "PublishingDate": "2012-07-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "1С-ВИП Анатех: ABIS.ABC. Управленческий учет и расчет себестоимости",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С-ВИП Анатех: ABIS.ABC. Управленческий учет и расчет себестоимости",
+      "Version": "1.1.1.3",
+      "PublishingDate": "2009-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

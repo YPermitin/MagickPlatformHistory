@@ -1,0 +1,21 @@
+{
+  "Name": "Бухгалтерия для Кыргызстана, редакция 1.7",
+  "Category": {
+    "ID": 113,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:36",
+      "Name": "Бухгалтерия для Кыргызстана, редакция 1.7",
+      "Version": "1.7.22.1",
+      "PublishingDate": "2018-10-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

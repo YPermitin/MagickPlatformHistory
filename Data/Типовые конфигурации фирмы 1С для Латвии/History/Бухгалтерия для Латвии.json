@@ -1,0 +1,43 @@
+{
+  "Name": "Бухгалтерия для Латвии",
+  "Category": {
+    "ID": 119,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Латвии"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:38",
+      "Name": "Бухгалтерия для Латвии",
+      "Version": "1.6.43.7",
+      "PublishingDate": "2018-08-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T19:50:54",
+      "Name": "Бухгалтерия для Латвии",
+      "Version": "1.6.44.6",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-05T14:54:45",
+      "Name": "Бухгалтерия для Латвии",
+      "Version": "1.6.45.5",
+      "PublishingDate": "2019-05-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

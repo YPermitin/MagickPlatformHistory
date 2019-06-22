@@ -1,0 +1,362 @@
+{
+  "Name": "ERP+PM Управление проектной организацией 2.4",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 26,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.5.143",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [
+        "2.4.6.160"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T16:50:56",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.5.143",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [
+        "2.4.6.160"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T18:50:57",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.160",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T11:20:54",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.160",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [
+        "2.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T19:51:00",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T10:50:54",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "2.4.6.188"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T20:43:24",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T18:54:27",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [
+        "2.4.6.189"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T19:29:35",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [
+        "2.4.6.189"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T10:59:29",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.189",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T19:48:16",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.189",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [
+        "2.4.6.200"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T20:48:24",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.189",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [
+        "2.4.6.200"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T16:48:18",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.200",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T18:18:18",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.200",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "2.4.6.207"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T11:18:22",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T19:54:34",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [
+        "2.4.7.85"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T14:54:30",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T10:54:33",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [
+        "2.4.7.107"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T21:24:35",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T20:24:40",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.127",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-05T16:24:42",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.141",
+      "PublishingDate": "2019-04-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T13:54:47",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T15:54:51",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.150",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T13:54:49",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-11T22:39:04",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.8.63",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-19T12:20:37",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

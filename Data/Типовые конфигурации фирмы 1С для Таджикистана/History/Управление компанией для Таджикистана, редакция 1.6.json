@@ -1,0 +1,43 @@
+{
+  "Name": "Управление компанией для Таджикистана, редакция 1.6",
+  "Category": {
+    "ID": 912,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Таджикистана"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-28T13:20:54",
+      "Name": "Управление компанией для Таджикистана, редакция 1.6",
+      "Version": "1.6.16.132",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-19T19:24:40",
+      "Name": "Управление компанией для Таджикистана, редакция 1.6",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-24T15:54:54",
+      "Name": "Управление компанией для Таджикистана, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-05-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

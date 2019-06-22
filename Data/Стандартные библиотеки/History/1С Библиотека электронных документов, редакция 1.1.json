@@ -1,0 +1,252 @@
+{
+  "Name": "1С:Библиотека электронных документов, редакция 1.1",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 22,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:21",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.25.71",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T19:35:11",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.25.73",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T12:20:49",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.25.75",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T19:50:45",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.25.77",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T18:50:46",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.1",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T19:47:17",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.4",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T22:18:12",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.6",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T14:24:16",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.8",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T15:24:17",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.10",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T20:24:25",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.12",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T22:24:26",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.14",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-05T19:54:28",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.16",
+      "PublishingDate": "2019-04-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T20:24:31",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.19",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T21:24:32",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.21",
+      "PublishingDate": "2019-04-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T13:54:33",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.23",
+      "PublishingDate": "2019-04-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T14:24:47",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.25",
+      "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-21T14:24:45",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.27",
+      "PublishingDate": "2019-05-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-28T16:24:44",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.29",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T20:24:47",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.31",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-07T19:54:49",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.33",
+      "PublishingDate": "2019-06-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.35",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T20:20:36",
+      "Name": "1С:Библиотека электронных документов, редакция 1.1",
+      "Version": "1.1.26.37",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

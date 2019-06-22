@@ -1,0 +1,21 @@
+{
+  "Name": "Управление торговлей для Латвии",
+  "Category": {
+    "ID": 119,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Латвии"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:38",
+      "Name": "Управление торговлей для Латвии",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2014-05-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

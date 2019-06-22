@@ -1,0 +1,49 @@
+{
+  "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
+      "Version": "1.1.4.2",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-23T12:54:49",
+      "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
+      "Version": "1.1.4.2",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [
+        "1.1.4.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T11:54:50",
+      "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
+      "Version": "1.1.4.11",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Name": "Управление торговлей для Казахстана, редакция 2.2",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:35",
+      "Name": "Управление торговлей для Казахстана, редакция 2.2",
+      "Version": "2.2.17.4",
+      "PublishingDate": "2017-10-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T13:20:51",
+      "Name": "Управление торговлей для Казахстана, редакция 2.2",
+      "Version": "2.2.17.4",
+      "PublishingDate": "2017-10-09T00:00:00",
+      "PlanVersions": [
+        "2.2.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-01T21:46:07",
+      "Name": "Управление торговлей для Казахстана, редакция 2.2",
+      "Version": "2.2.18.5",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

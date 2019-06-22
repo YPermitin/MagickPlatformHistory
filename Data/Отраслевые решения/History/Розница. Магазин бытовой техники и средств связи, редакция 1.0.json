@@ -1,0 +1,21 @@
+{
+  "Name": "Розница. Магазин бытовой техники и средств связи, редакция 1.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 1.0",
+      "Version": "1.0.17.3",
+      "PublishingDate": "2012-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

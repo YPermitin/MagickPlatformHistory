@@ -1,0 +1,98 @@
+{
+  "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.66.60",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T19:13:23",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.67.38",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T12:48:22",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.67.63",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-18T17:24:36",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.68.59",
+      "PublishingDate": "2019-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-08T16:54:48",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.69.32",
+      "PublishingDate": "2019-04-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T14:54:52",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.70.30",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-21T13:55:05",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.70.39",
+      "PublishingDate": "2019-05-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-11T22:39:04",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.70.52",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

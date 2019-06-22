@@ -1,0 +1,21 @@
+{
+  "Name": "1С-Логистика:Управление перевозками",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С-Логистика:Управление перевозками",
+      "Version": "1.2.3.2",
+      "PublishingDate": "2011-10-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

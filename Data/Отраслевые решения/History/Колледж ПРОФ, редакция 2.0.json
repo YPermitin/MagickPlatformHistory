@@ -1,0 +1,139 @@
+{
+  "Name": "Колледж ПРОФ, редакция 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 9,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.5.2",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-14T11:24:28",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.5.2",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [
+        "2.0.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-25T12:54:30",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.6.1",
+      "PublishingDate": "2019-02-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-20T11:24:36",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.6.1",
+      "PublishingDate": "2019-02-25T00:00:00",
+      "PlanVersions": [
+        "2.0.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-28T14:24:45",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.7.1",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T15:54:57",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.7.1",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [
+        "2.0.8.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-11T22:39:04",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.7.1",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [
+        "2.0.8.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-13T16:58:24",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.7.1",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [
+        "2.0.8.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-17T11:50:37",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.8.1",
+      "PublishingDate": "2019-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

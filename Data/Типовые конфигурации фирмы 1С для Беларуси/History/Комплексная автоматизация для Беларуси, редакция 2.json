@@ -1,0 +1,93 @@
+{
+  "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+  "Category": {
+    "ID": 82,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:30",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.5.135",
+      "PublishingDate": "2018-11-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T19:20:49",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.5.151",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T14:48:10",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.5.152",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T18:24:25",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.5.153",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T16:24:46",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.5.155",
+      "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-20T18:24:44",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.5.155",
+      "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [
+        "2.4.6"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-10T18:24:56",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-06-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

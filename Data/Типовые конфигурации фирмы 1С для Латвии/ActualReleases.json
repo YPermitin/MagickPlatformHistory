@@ -1,0 +1,49 @@
+{
+  "Category": {
+    "ID": 119,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Латвии"
+  },
+  "ReleasesCount": 4,
+  "Releases": [
+    {
+      "Name": "Бухгалтерия для Латвии",
+      "Version": "1.6.45.5",
+      "PublishingDate": "2019-05-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия для Латвии (базовая версия)",
+      "Version": "1.6.45.7",
+      "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и Управление Персоналом для Латвии",
+      "Version": "1.0.21.3",
+      "PublishingDate": "2018-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление торговлей для Латвии",
+      "Version": "1.1.15.1",
+      "PublishingDate": "2014-05-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

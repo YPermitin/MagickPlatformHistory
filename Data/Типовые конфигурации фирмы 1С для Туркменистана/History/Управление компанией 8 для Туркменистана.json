@@ -1,0 +1,43 @@
+{
+  "Name": "Управление компанией 8 для Туркменистана",
+  "Category": {
+    "ID": 877,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Туркменистана"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-03-15T15:24:33",
+      "Name": "Управление компанией 8 для Туркменистана",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T16:24:35",
+      "Name": "Управление компанией 8 для Туркменистана",
+      "Version": "1.6.9.44",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T12:54:42",
+      "Name": "Управление компанией 8 для Туркменистана",
+      "Version": "1.6.9.45",
+      "PublishingDate": "2019-04-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

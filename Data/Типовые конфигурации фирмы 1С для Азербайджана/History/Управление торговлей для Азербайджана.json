@@ -1,0 +1,21 @@
+{
+  "Name": "Управление торговлей для Азербайджана",
+  "Category": {
+    "ID": 633,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Азербайджана"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:25",
+      "Name": "Управление торговлей для Азербайджана",
+      "Version": "11.4.2.123",
+      "PublishingDate": "2018-05-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

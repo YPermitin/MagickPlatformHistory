@@ -1,0 +1,77 @@
+{
+  "Name": "Ресторан",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Ресторан",
+      "Version": "1.0.17.9",
+      "PublishingDate": "2018-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T17:21:02",
+      "Name": "Ресторан",
+      "Version": "1.0.17.9",
+      "PublishingDate": "2018-04-23T00:00:00",
+      "PlanVersions": [
+        "1.0.17.10"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T17:51:04",
+      "Name": "Ресторан",
+      "Version": "1.0.17.10",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-14T14:54:26",
+      "Name": "Ресторан",
+      "Version": "1.0.17.10",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.0.17.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-20T19:24:33",
+      "Name": "Ресторан",
+      "Version": "1.0.17.11",
+      "PublishingDate": "2019-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Name": "Документооборот КОРП для Беларуси",
+  "Category": {
+    "ID": 82,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:30",
+      "Name": "Документооборот КОРП для Беларуси",
+      "Version": "2.1.12.2",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-08T13:24:19",
+      "Name": "Документооборот КОРП для Беларуси",
+      "Version": "2.1.12.3",
+      "PublishingDate": "2019-02-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "Name": "Управление торговлей базовая, редакция 11",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.5.144",
+      "PublishingDate": "2018-11-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T20:20:47",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.6.174",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T15:50:51",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.6.188",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-22T13:18:12",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.6.200",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T20:18:08",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.6.207",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-20T18:54:21",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.6.230",
+      "PublishingDate": "2019-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T17:54:33",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.7.141",
+      "PublishingDate": "2019-04-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T19:54:35",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.7.150",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

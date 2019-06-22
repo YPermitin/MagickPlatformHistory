@@ -1,0 +1,380 @@
+{
+  "Name": "Управление аптечной сетью, редакция 11.4",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 26,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.5.143",
+      "PublishingDate": "2018-11-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T18:20:58",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.5.143",
+      "PublishingDate": "2018-11-14T00:00:00",
+      "PlanVersions": [
+        "11.4.6.166"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T18:50:58",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.166",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T12:51:29",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.166",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [
+        "11.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T14:51:02",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.174",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T16:24:27",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.174",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "11.4.6.188"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-17T12:59:29",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.188",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T18:48:27",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.188",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [
+        "11.4.6.207"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-01T21:46:16",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.207",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T19:24:47",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.207",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [
+        "11.4.6.230"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T11:24:30",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.207",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [
+        "11.4.6.230"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T20:24:33",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.230",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T14:24:39",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.6.230",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "11.4.7.114"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T13:24:39",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.114",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T18:54:40",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.114",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [
+        "11.4.7.128"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T16:54:42",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.128",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T19:54:49",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.128",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "11.4.7.141"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T16:24:48",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.141",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T17:24:48",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.141",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [
+        "11.4.7.150"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T19:24:50",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.141",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [
+        "11.4.7.150"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T14:24:53",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.150",
+      "PublishingDate": "2019-05-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-10T16:24:59",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.150",
+      "PublishingDate": "2019-05-06T00:00:00",
+      "PlanVersions": [
+        "11.4.8.68"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-13T16:58:24",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.7.150",
+      "PublishingDate": "2019-05-06T00:00:00",
+      "PlanVersions": [
+        "11.4.8.68"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.8.68",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T18:50:38",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.8.68",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [
+        "11.4.8.73"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T13:50:37",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.8.73",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

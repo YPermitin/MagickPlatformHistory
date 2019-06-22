@@ -1,0 +1,21 @@
+{
+  "Name": "Функциональная модель 1С:Машиностроение + 1С:PDM Управление инженерными данными (демобаза)",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Функциональная модель 1С:Машиностроение + 1С:PDM Управление инженерными данными (демобаза)",
+      "Version": "1.2.16.1",
+      "PublishingDate": "2008-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "АРБИС: Зарплата и Управление персоналом. Для бюджетных учреждений базовая",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "АРБИС: Зарплата и Управление персоналом. Для бюджетных учреждений базовая",
+      "Version": "2.5.94.1",
+      "PublishingDate": "2017-08-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

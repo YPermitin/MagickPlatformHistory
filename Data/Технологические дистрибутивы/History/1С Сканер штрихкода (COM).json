@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Сканер штрихкода (COM)",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "1С:Сканер штрихкода (COM)",
+      "Version": "8.1.7.9",
+      "PublishingDate": "2016-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+      "Version": "2.4.5.33",
+      "PublishingDate": "2018-07-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T15:05:20",
+      "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+      "Version": "2.4.5.33",
+      "PublishingDate": "2018-07-13T00:00:00",
+      "PlanVersions": [
+        "2.4.6.154"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T16:35:21",
+      "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.154",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T11:24:32",
+      "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.154",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [
+        "2.4.7.85"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T11:54:31",
+      "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T12:50:38",
+      "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [
+        "2.4.8.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Зарплата и Управление Персоналом для Молдовы",
+  "Category": {
+    "ID": 126,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:41",
+      "Name": "Зарплата и Управление Персоналом для Молдовы",
+      "Version": "1.0.5.1",
+      "PublishingDate": "2008-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.5.1.18"
+      ],
+      "DemoPublicationDates": [
+        "2015-05-12T00:00:00"
+      ]
+    }
+  ]
+}

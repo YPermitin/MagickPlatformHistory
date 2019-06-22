@@ -1,0 +1,65 @@
+{
+  "Name": "Зарплата и кадры для государственных организаций Казахстана",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:35",
+      "Name": "Зарплата и кадры для государственных организаций Казахстана",
+      "Version": "1.0.28.3",
+      "PublishingDate": "2018-05-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T13:59:26",
+      "Name": "Зарплата и кадры для государственных организаций Казахстана",
+      "Version": "1.0.29.1",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T16:54:22",
+      "Name": "Зарплата и кадры для государственных организаций Казахстана",
+      "Version": "1.0.29.5",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T14:54:47",
+      "Name": "Зарплата и кадры для государственных организаций Казахстана",
+      "Version": "1.0.29.6",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-03T16:24:52",
+      "Name": "Зарплата и кадры для государственных организаций Казахстана",
+      "Version": "1.0.30.1",
+      "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

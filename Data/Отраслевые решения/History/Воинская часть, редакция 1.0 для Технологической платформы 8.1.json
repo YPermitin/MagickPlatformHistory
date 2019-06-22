@@ -1,0 +1,21 @@
+{
+  "Name": "Воинская часть, редакция 1.0 для Технологической платформы 8.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Воинская часть, редакция 1.0 для Технологической платформы 8.1",
+      "Version": "1.0.17.2",
+      "PublishingDate": "2011-04-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

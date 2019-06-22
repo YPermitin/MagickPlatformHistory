@@ -1,0 +1,200 @@
+{
+  "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 14,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-02-28T18:24:18",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T18:54:21",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.39"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-28T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-07T19:54:22",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-22T19:24:23",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.62",
+        "3.1.1.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-22T00:00:00",
+        "2019-03-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-29T19:54:26",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.67"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-04T18:54:29",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.71"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-12T19:54:32",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.79"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-12T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-29T19:24:26",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.67",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.62",
+        "3.1.1.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-22T00:00:00",
+        "2019-03-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-26T17:54:32",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.91",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.79"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-12T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-26T20:24:35",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.91",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T20:24:43",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.99",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-16T17:24:38",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.109",
+      "PublishingDate": "2019-05-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T17:54:51",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.120",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-17T18:20:37",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.1.136",
+      "PublishingDate": "2019-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

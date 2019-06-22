@@ -1,0 +1,469 @@
+{
+  "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 33,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.65",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T15:20:57",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.65",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [
+        "2.0.66.66"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T18:50:59",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.66",
+      "PublishingDate": "2018-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T19:13:23",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.66",
+      "PublishingDate": "2018-12-24T00:00:00",
+      "PlanVersions": [
+        "2.0.66.67"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T12:43:25",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.67",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T19:18:17",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.67",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "2.0.66.68"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T16:48:21",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.68",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T11:48:25",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.68",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [
+        "2.0.66.69"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T13:18:29",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.69",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T10:54:23",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.69",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [
+        "2.0.66.70"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-06T13:24:24",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.70",
+      "PublishingDate": "2019-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-12T10:54:28",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.70",
+      "PublishingDate": "2019-02-06T00:00:00",
+      "PlanVersions": [
+        "2.0.66.71"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T11:54:28",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.71",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-06T19:24:35",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.71",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "2.0.66.72"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-11T13:54:36",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.72",
+      "PublishingDate": "2019-03-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-13T14:54:36",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.72",
+      "PublishingDate": "2019-03-11T00:00:00",
+      "PlanVersions": [
+        "2.0.66.73"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T13:24:38",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.73",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T19:54:44",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.73",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [
+        "2.0.66.75"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T13:24:43",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.75",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T17:24:48",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.75",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "2.0.66.76"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T16:54:50",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.76",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T11:54:47",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.76",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [
+        "2.0.66.77"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T17:24:46",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.77",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T10:54:52",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.77",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [
+        "2.0.66.78"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-14T12:24:55",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.78",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T19:24:57",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.78",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [
+        "2.0.66.79"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-21T11:24:55",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.79",
+      "PublishingDate": "2019-05-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-28T16:24:59",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.79",
+      "PublishingDate": "2019-05-21T00:00:00",
+      "PlanVersions": [
+        "2.0.66.80"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T12:25:04",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.80",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T16:55:03",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.80",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [
+        "2.0.66.81"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T16:55:05",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.81",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-17T18:50:37",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.81",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [
+        "2.0.66.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-19T11:50:37",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
+      "Version": "2.0.66.82",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

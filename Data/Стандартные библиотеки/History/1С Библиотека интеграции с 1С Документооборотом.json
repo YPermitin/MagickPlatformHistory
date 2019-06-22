@@ -1,0 +1,54 @@
+{
+  "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 4,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:21",
+      "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
+      "Version": "1.1.12.2",
+      "PublishingDate": "2018-09-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T19:24:25",
+      "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
+      "Version": "1.1.13.1",
+      "PublishingDate": "2019-03-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T19:24:42",
+      "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
+      "Version": "1.1.14.3",
+      "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-03T12:54:47",
+      "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
+      "Version": "1.1.14.4",
+      "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

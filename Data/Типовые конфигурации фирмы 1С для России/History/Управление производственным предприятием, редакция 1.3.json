@@ -1,0 +1,197 @@
+{
+  "Name": "Управление производственным предприятием, редакция 1.3",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 17,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T13:05:12",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T13:20:49",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T23:20:48",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.114.2",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-02T18:43:12",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.115.1",
+      "PublishingDate": "2019-01-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T17:13:15",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T20:17:16",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-01T21:46:00",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T19:54:19",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T13:54:21",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-20T17:54:29",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.119.1",
+      "PublishingDate": "2019-03-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T18:54:27",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-23T19:24:38",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-16T23:24:42",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-24T12:24:46",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.122.1",
+      "PublishingDate": "2019-05-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T14:24:48",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-19T11:20:36",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.122.3",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

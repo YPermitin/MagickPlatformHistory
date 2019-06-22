@@ -1,0 +1,165 @@
+{
+  "Name": "Бухгалтерия для Беларуси, редакция 2",
+  "Category": {
+    "ID": 82,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
+  },
+  "ReleasesCount": 13,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:30",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.26.12",
+      "PublishingDate": "2018-11-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T18:50:50",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.26.14",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T18:29:20",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.26.14",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [
+        "2.1.27"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T16:48:18",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.27.15",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-07T13:54:16",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.27.17",
+      "PublishingDate": "2019-02-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T15:54:24",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.27.18",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T17:24:23",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.27.19",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T16:24:29",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.27.20",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-05T13:54:39",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.27.20",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [
+        "2.1.28"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T13:54:46",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.28.15",
+      "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-24T13:24:47",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.28.16",
+      "PublishingDate": "2019-05-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T16:20:38",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.28.17",
+      "PublishingDate": "2019-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T14:50:37",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.28.19",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

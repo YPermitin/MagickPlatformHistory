@@ -1,0 +1,80 @@
+{
+  "Name": "PostgreSQL",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "PostgreSQL",
+      "Version": "10.5-6.1C",
+      "PublishingDate": "2018-12-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T15:50:45",
+      "Name": "PostgreSQL",
+      "Version": "10.5-9.1C",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T09:59:19",
+      "Name": "PostgreSQL",
+      "Version": "10.5-10.1C",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T11:48:08",
+      "Name": "PostgreSQL",
+      "Version": "10.5-11.1C",
+      "PublishingDate": "2019-01-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-20T12:54:16",
+      "Name": "PostgreSQL",
+      "Version": "10.5-24.1C",
+      "PublishingDate": "2019-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-17T16:50:37",
+      "Name": "PostgreSQL",
+      "Version": "10.5-24.1C",
+      "PublishingDate": "2019-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "10.8-3.1C"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-17T00:00:00"
+      ]
+    }
+  ]
+}

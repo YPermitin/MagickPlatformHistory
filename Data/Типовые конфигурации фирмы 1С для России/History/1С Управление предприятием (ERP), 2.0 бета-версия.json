@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
+      "Version": "2.0.6.23",
+      "PublishingDate": "2014-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

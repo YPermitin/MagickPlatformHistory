@@ -1,0 +1,111 @@
+{
+  "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.4.124",
+      "PublishingDate": "2018-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T16:51:07",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.4.124",
+      "PublishingDate": "2018-06-18T00:00:00",
+      "PlanVersions": [
+        "2.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T10:50:54",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.4.124",
+      "PublishingDate": "2018-06-18T00:00:00",
+      "PlanVersions": [
+        "2.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T19:13:28",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T11:24:30",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "2.4.7.85"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T18:24:34",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T15:50:37",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [
+        "2.4.8.73"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

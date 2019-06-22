@@ -1,0 +1,162 @@
+{
+  "Name": "Фитнес клуб КОРП, редакция 4.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 10,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.9.3",
+      "PublishingDate": "2018-10-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T18:51:01",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.9.3",
+      "PublishingDate": "2018-10-10T00:00:00",
+      "PlanVersions": [
+        "4.0.10"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T18:21:00",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.10.5",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-15T13:24:57",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.10.5",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "4.0.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-22T19:55:03",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.10.5",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "4.0.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-23T17:25:08",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.10.5",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "4.0.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T19:24:58",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.10.5",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "4.0.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-28T16:55:01",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.10.5",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "4.0.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T13:54:58",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.10.5",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "4.0.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T12:55:03",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.11.12",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

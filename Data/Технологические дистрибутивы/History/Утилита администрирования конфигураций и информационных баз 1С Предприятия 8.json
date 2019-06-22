@@ -1,0 +1,25 @@
+{
+  "Name": "Утилита администрирования конфигураций и информационных баз 1С:Предприятия 8",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Утилита администрирования конфигураций и информационных баз 1С:Предприятия 8",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.2.13.219"
+      ],
+      "DemoPublicationDates": [
+        "2011-04-06T00:00:00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Microsoft SQL Server. Редакция Standard. Версия 2014",
+  "Category": {
+    "ID": 755,
+    "Name": "Microsoft SQL Server для пользователей 1С:Предприятие 8"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "Microsoft SQL Server. Редакция Standard. Версия 2014",
+      "Version": "2014",
+      "PublishingDate": "2014-09-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

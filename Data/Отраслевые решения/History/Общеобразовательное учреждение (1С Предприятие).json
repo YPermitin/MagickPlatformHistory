@@ -1,0 +1,21 @@
+{
+  "Name": "Общеобразовательное учреждение (1С:Предприятие)",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Общеобразовательное учреждение (1С:Предприятие)",
+      "Version": "2.0.1.2",
+      "PublishingDate": "2017-09-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "Name": "Розница. Аптека, редакция 2.2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 13,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.10.19",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T14:20:50",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.10.19",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [
+        "2.2.11.16"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T20:50:59",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.16",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T16:13:23",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.16",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [
+        "2.2.11.24"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-17T13:29:31",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.24",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-12T13:54:29",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.24",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [
+        "2.2.11.29"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T13:24:30",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.29",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-19T17:54:38",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.29",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [
+        "2.2.11.30"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T12:54:38",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T18:55:14",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "2.2.12.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T13:20:39",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "2.2.12.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T14:50:36",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.11.30",
+      "PublishingDate": "2019-03-27T00:00:00",
+      "PlanVersions": [
+        "2.2.12.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T18:20:37",
+      "Name": "Розница. Аптека, редакция 2.2",
+      "Version": "2.2.12.30",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.3.31",
+      "PublishingDate": "2018-09-19T00:00:00",
+      "PlanVersions": [
+        "1.1.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T17:50:55",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.3.31",
+      "PublishingDate": "2018-09-19T00:00:00",
+      "PlanVersions": [
+        "1.1.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T11:20:54",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.3.31",
+      "PublishingDate": "2018-09-19T00:00:00",
+      "PlanVersions": [
+        "1.1.4.13"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T12:21:03",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.4.13",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-25T15:24:30",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.4.13",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.1.4.25"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T14:24:36",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.4.25",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T13:54:50",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.4.25",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [
+        "1.1.4.42"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-14T17:54:54",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.4.42",
+      "PublishingDate": "2019-05-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Бухгалтерия для Эстонии",
+  "Category": {
+    "ID": 479,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Эстонии"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:47",
+      "Name": "Бухгалтерия для Эстонии",
+      "Version": "1.6.22.11",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-07T19:24:26",
+      "Name": "Бухгалтерия для Эстонии",
+      "Version": "1.6.23.5",
+      "PublishingDate": "2019-02-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T20:24:59",
+      "Name": "Бухгалтерия для Эстонии",
+      "Version": "1.6.24.7",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

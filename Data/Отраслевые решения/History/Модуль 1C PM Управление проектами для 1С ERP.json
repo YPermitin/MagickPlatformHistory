@@ -1,0 +1,38 @@
+{
+  "Name": "Модуль 1C:PM Управление проектами для 1С:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Модуль 1C:PM Управление проектами для 1С:ERP",
+      "Version": "4.2.6.4",
+      "PublishingDate": "2018-06-26T00:00:00",
+      "PlanVersions": [
+        "4.2.9.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T16:50:57",
+      "Name": "Модуль 1C:PM Управление проектами для 1С:ERP",
+      "Version": "4.2.9.1",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

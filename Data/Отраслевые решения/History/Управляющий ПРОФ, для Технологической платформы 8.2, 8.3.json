@@ -1,0 +1,128 @@
+{
+  "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.11.3",
+      "PublishingDate": "2018-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T11:50:59",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.11.3",
+      "PublishingDate": "2018-06-05T00:00:00",
+      "PlanVersions": [
+        "1.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T16:50:55",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.11.3",
+      "PublishingDate": "2018-06-05T00:00:00",
+      "PlanVersions": [
+        "1.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T17:50:57",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.11.3",
+      "PublishingDate": "2018-06-05T00:00:00",
+      "PlanVersions": [
+        "1.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T13:21:00",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.12.1",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T16:24:31",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.12.1",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [
+        "1.4.13"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-22T16:54:33",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.12.1",
+      "PublishingDate": "2018-12-27T00:00:00",
+      "PlanVersions": [
+        "1.4.13"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-25T17:24:30",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "1.4.13.1",
+      "PublishingDate": "2019-02-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

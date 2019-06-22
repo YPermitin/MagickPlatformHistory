@@ -1,0 +1,160 @@
+{
+  "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 12,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:35",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.15.8",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T14:59:25",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.16.1",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T14:24:24",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.17.1",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T13:54:23",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.17.3",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T17:54:36",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.17.4",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T18:54:37",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.17.5",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T13:54:42",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.17.5",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [
+        "4.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T19:54:43",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.17.9",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [
+        "4.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-20T18:24:48",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.17.9",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [
+        "4.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-03T16:24:52",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.18.8",
+      "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T14:54:51",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.18.9",
+      "PublishingDate": "2019-06-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T13:50:37",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.18.16",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

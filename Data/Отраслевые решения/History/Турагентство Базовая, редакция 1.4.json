@@ -1,0 +1,21 @@
+{
+  "Name": "Турагентство Базовая, редакция 1.4",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Турагентство Базовая, редакция 1.4",
+      "Version": "1.4.9.48",
+      "PublishingDate": "2015-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

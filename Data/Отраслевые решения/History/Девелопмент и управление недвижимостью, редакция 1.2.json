@@ -1,0 +1,21 @@
+{
+  "Name": "Девелопмент и управление недвижимостью, редакция 1.2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Девелопмент и управление недвижимостью, редакция 1.2",
+      "Version": "1.2.28.1",
+      "PublishingDate": "2010-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

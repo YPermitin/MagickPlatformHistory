@@ -1,0 +1,43 @@
+{
+  "Name": "1С:Электронное обучение. Конструктор курсов ПРОФ",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Электронное обучение. Конструктор курсов ПРОФ",
+      "Version": "3.0.9.67",
+      "PublishingDate": "2018-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T15:24:29",
+      "Name": "1С:Электронное обучение. Конструктор курсов ПРОФ",
+      "Version": "3.0.9.154",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-28T17:24:48",
+      "Name": "1С:Электронное обучение. Конструктор курсов ПРОФ",
+      "Version": "3.0.9.155",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

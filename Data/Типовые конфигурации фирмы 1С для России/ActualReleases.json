@@ -1,0 +1,1159 @@
+{
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 109,
+  "Releases": [
+    {
+      "Name": "1С:275ФЗ",
+      "Version": "1.0.2.12",
+      "PublishingDate": "2016-05-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:275ФЗ (базовая)",
+      "Version": "1.0.2.12",
+      "PublishingDate": "2016-05-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.9.37",
+        "2.5.2.71",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-21T00:00:00",
+        "2019-06-20T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.6.15",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Бухгалтерия КОРП МСФО, бета-версия",
+      "Version": "1.3.11.3",
+      "PublishingDate": "2018-05-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Бюджет муниципального образования 8",
+      "Version": "1.3.12.18",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Бюджет поселения 8",
+      "Version": "1.3.12.18",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Бюджет поселения 8 (базовая)",
+      "Version": "1.3.12.18",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.65",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.6.1.37",
+        "2.6.1.35"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-14T00:00:00",
+        "2019-06-07T00:00:00"
+      ]
+    },
+    {
+      "Name": "1С:Клиент ЭДО 8, редакция 1.0",
+      "Version": "1.0.3.8",
+      "PublishingDate": "2015-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Мобильная касса",
+      "Version": "2.23.2",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Мобильная касса (для разработчиков)",
+      "Version": "2.23.2.0",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
+      "Version": "2.0.6.23",
+      "PublishingDate": "2014-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление холдингом 1.0",
+      "Version": "1.0.9.32",
+      "PublishingDate": "2015-08-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление холдингом 1.1",
+      "Version": "1.1.7.59",
+      "PublishingDate": "2016-01-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление холдингом 1.2",
+      "Version": "1.2.18.3",
+      "PublishingDate": "2016-12-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление холдингом 1.3",
+      "Version": "1.3.12.1",
+      "PublishingDate": "2018-10-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление холдингом 3.0",
+      "Version": "3.0.6.15",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление холдингом. ERP (бета-версия)",
+      "Version": "3.0.0.12",
+      "PublishingDate": "2019-05-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Учет обращений Базовая",
+      "Version": "1.0.4.1",
+      "PublishingDate": "2018-11-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Учет обращений ПРОФ",
+      "Version": "1.0.4.1",
+      "PublishingDate": "2018-11-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Веб-кабинет преподавателя и студента",
+      "Version": "2.0.2.155",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Конструктор курсов. Базовая версия",
+      "Version": "3.0.9.155",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Конструктор курсов ПРОФ",
+      "Version": "3.0.9.155",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Корпоративный университет",
+      "Version": "3.0.9.155",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Образовательная организация",
+      "Version": "3.0.9.155",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Электронное обучение. Экзаменатор",
+      "Version": "3.0.9.155",
+      "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия автономного учреждения",
+      "Version": "2.0.66.78",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия автономного учреждения базовая",
+      "Version": "2.0.66.78",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия автономного учреждения КОРП",
+      "Version": "2.0.66.78",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия бюджетного учреждения",
+      "Version": "1.0.22.2",
+      "PublishingDate": "2011-02-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия бюджетного учреждения базовая",
+      "Version": "1.0.22.2",
+      "PublishingDate": "2011-02-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия государственного учреждения",
+      "Version": "1.0.58.2",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия государственного учреждения базовая",
+      "Version": "1.0.58.2",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
+      "Version": "2.0.63.38",
+      "PublishingDate": "2019-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия государственного учреждения, редакция 2.0",
+      "Version": "2.0.63.38",
+      "PublishingDate": "2019-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.70.17",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
+      "Version": "3.0.71.63",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
+      "Version": "2.0.66.82",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
+      "Version": "3.0.71.63",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
+      "Version": "2.0.66.82",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
+      "Version": "3.0.71.63",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия предприятия, редакция 2.0",
+      "Version": "2.0.66.82",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия предприятия, редакция 3.0",
+      "Version": "3.0.71.63",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бюджетная отчетность",
+      "Version": "1.1.44.1",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.25.8",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [
+        "2.0.26"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Государственные и муниципальные закупки",
+      "Version": "1.1.14.1",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Деньги",
+      "Version": "2.0.34.8",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Деньги 8 (учебная версия)",
+      "Version": "2.0.19.4",
+      "PublishingDate": "2015-08-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Договоры базовая",
+      "Version": "1.0.5.1",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Договоры ПРОФ",
+      "Version": "1.0.5.1",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Документооборот государственного учреждения 8",
+      "Version": "2.1.13.28",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Документооборот государственного учреждения КОРП. Регион",
+      "Version": "2.1.13.28",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Документооборот КОРП",
+      "Version": "2.1.13.28",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Документооборот КОРП (русский и английский интерфейс)",
+      "Version": "2.1.13.28",
+      "PublishingDate": "2019-06-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Документооборот ПРОФ",
+      "Version": "2.1.13.28",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 1",
+      "Version": "1.1.20.1",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 2",
+      "Version": "1.1.20.1",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
+      "Version": "3.1.5.481",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
+      "Version": "3.1.5.481",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и кадры государственного учреждения, редакция 3",
+      "Version": "3.1.5.481",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [
+        "3.1.11",
+        "3.1.10.",
+        "3.1.5."
+      ],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [
+        "2019-06-14T00:00:00",
+        "2019-06-14T00:00:00",
+        "2019-06-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и Управление Персоналом базовая, редакция 3",
+      "Version": "3.1.5.481",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
+      "Version": "2.5.141.1",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и управление персоналом КОРП, редакция 3",
+      "Version": "3.1.5.481",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и Управление Персоналом, редакция 3",
+      "Version": "3.1.5.481",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [
+        "3.1.11",
+        "3.1.10.",
+        "3.1.5."
+      ],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [
+        "2019-06-14T00:00:00",
+        "2019-06-14T00:00:00",
+        "2019-06-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Комплексная автоматизация, редакция 1.0",
+      "Version": "1.0.16.1",
+      "PublishingDate": "2011-04-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Комплексная автоматизация, редакция 1.1",
+      "Version": "1.1.115.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Комплексная автоматизация, редакция 2",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Консолидация",
+      "Version": "1.2.9.1",
+      "PublishingDate": "2011-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Консолидация ПРОФ, редакция 1.3",
+      "Version": "1.3.4.1",
+      "PublishingDate": "2010-03-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Консолидация ПРОФ, редакция 1.4",
+      "Version": "1.4.3.1",
+      "PublishingDate": "2010-06-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Консолидация ПРОФ, редакция 2.0",
+      "Version": "2.0.6.1",
+      "PublishingDate": "2012-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Консолидация ПРОФ, редакция 2.1",
+      "Version": "2.1.4.1",
+      "PublishingDate": "2015-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Мобильное приложение \"1С:Заказы\"",
+      "Version": "3.0.14.1",
+      "PublishingDate": "2019-02-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Мобильное приложение \"1С:Управление нашей фирмой\"",
+      "Version": "1.2.140.1",
+      "PublishingDate": "2018-11-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Мобильное приложение \"Миниденьги\"",
+      "Version": "2.0.15.9",
+      "PublishingDate": "2016-10-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Мобильный документооборот КОРП",
+      "Version": "2.1.11.2",
+      "PublishingDate": "2018-10-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Налогоплательщик",
+      "Version": "3.0.167.1",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Отчетность предпринимателя",
+      "Version": "1.1.6.13",
+      "PublishingDate": "2013-09-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Отчетность предпринимателя, редакция 2.0",
+      "Version": "2.0.22.2",
+      "PublishingDate": "2018-06-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Платежные документы",
+      "Version": "1.0.18.1",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница базовая, редакция 1.0 для Технологической платформы 8.1",
+      "Version": "1.0.14.3",
+      "PublishingDate": "2010-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница базовая, редакция 1.0 для Технологической платформы 8.2",
+      "Version": "1.0.19.16",
+      "PublishingDate": "2016-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница базовая, редакция 2.0",
+      "Version": "2.0.8.12",
+      "PublishingDate": "2013-12-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница базовая, редакция 2.1",
+      "Version": "2.1.9.20",
+      "PublishingDate": "2015-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница базовая, редакция 2.2",
+      "Version": "2.2.12.30",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница, редакция 1.0 для Технологической платформы 8.1",
+      "Version": "1.0.14.3",
+      "PublishingDate": "2010-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница, редакция 1.0 для Технологической платформы 8.2",
+      "Version": "1.0.19.16",
+      "PublishingDate": "2016-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница, редакция 2.0",
+      "Version": "2.0.8.12",
+      "PublishingDate": "2013-12-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница, редакция 2.1",
+      "Version": "2.1.9.20",
+      "PublishingDate": "2015-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница, редакция 2.2",
+      "Version": "2.2.12.30",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Свод отчетов ПРОФ, редакция 3.2",
+      "Version": "3.2.5.2",
+      "PublishingDate": "2010-10-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Свод отчетов ПРОФ, редакция 3.3",
+      "Version": "3.3.2.4",
+      "PublishingDate": "2011-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.45.2",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой базовая, редакция 1.4",
+      "Version": "1.4.9.49",
+      "PublishingDate": "2015-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой базовая, редакция 1.5",
+      "Version": "1.5.4.58",
+      "PublishingDate": "2016-06-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.18.88",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой, редакция 1.1",
+      "Version": "1.1.5.2",
+      "PublishingDate": "2010-11-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой, редакция 1.2",
+      "Version": "1.2.4.2",
+      "PublishingDate": "2011-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой, редакция 1.3",
+      "Version": "1.3.2.17",
+      "PublishingDate": "2012-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой, редакция 1.4",
+      "Version": "1.4.9.49",
+      "PublishingDate": "2015-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой, редакция 1.5",
+      "Version": "1.5.4.58",
+      "PublishingDate": "2016-06-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление нашей фирмой, редакция 1.6",
+      "Version": "1.6.18.88",
+      "PublishingDate": "2019-06-18T00:00:00",
+      "PlanVersions": [
+        "1.6.19"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление производственным предприятием, редакция 1.2",
+      "Version": "1.2.39.1",
+      "PublishingDate": "2011-04-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.122.3",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление торговлей базовая, редакция 10.3",
+      "Version": "10.3.53.2",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.7.150",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление торговлей, редакция 10.3",
+      "Version": "10.3.53.2",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Управление торговлей, редакция 11",
+      "Version": "11.4.8.73",
+      "PublishingDate": "2019-06-13T00:00:00",
+      "PlanVersions": [
+        "11.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

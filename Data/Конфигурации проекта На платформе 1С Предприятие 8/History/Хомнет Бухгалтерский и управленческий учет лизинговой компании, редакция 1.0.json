@@ -1,0 +1,21 @@
+{
+  "Name": "Хомнет: Бухгалтерский и управленческий учет лизинговой компании, редакция 1.0",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "Хомнет: Бухгалтерский и управленческий учет лизинговой компании, редакция 1.0",
+      "Version": "1.0.53.10",
+      "PublishingDate": "2014-02-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

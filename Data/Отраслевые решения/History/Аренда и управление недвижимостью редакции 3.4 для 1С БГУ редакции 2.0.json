@@ -1,0 +1,391 @@
+{
+  "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 27,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.59.8",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [
+        "2.0.59.20"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T14:35:20",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.59.20",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T18:43:25",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.59.20",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [
+        "2.0.60.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T20:24:21",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.59.20",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [
+        "2.0.60.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T10:54:24",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.11",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T16:29:29",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.11",
+      "PublishingDate": "2019-01-15T00:00:00",
+      "PlanVersions": [
+        "2.0.60.15"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T17:29:30",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.15",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T10:54:23",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.15",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [
+        "2.0.60.27"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-06T16:24:27",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.27",
+      "PublishingDate": "2019-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T14:54:28",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.27",
+      "PublishingDate": "2019-02-06T00:00:00",
+      "PlanVersions": [
+        "2.0.60.31"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T21:24:27",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.31",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T14:24:37",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.31",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "2.0.60.32"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T13:24:37",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.32",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T17:24:38",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.60.32",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [
+        "2.0.61.19"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-13T17:54:37",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.61.19",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-19T16:54:41",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.61.19",
+      "PublishingDate": "2019-03-13T00:00:00",
+      "PlanVersions": [
+        "2.0.61.21"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-21T11:54:38",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.61.21",
+      "PublishingDate": "2019-03-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T18:54:37",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.61.21",
+      "PublishingDate": "2019-03-21T00:00:00",
+      "PlanVersions": [
+        "2.0.61.28"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T17:24:44",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.61.28",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-23T16:24:50",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.61.28",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "2.0.62.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T19:54:51",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.62.10",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T19:25:01",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.62.10",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.0.63.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T17:24:55",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.63.5",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T16:55:03",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.63.5",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [
+        "2.0.63.22"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T19:55:19",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.63.22",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T14:20:38",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.63.22",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [
+        "2.0.63.35"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T13:20:38",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.63.35",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

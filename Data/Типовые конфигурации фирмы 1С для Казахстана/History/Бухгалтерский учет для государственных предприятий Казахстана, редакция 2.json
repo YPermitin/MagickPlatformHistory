@@ -1,0 +1,121 @@
+{
+  "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 9,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:35",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.7.5",
+      "PublishingDate": "2018-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T20:20:52",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.8.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-02T12:43:14",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.8.2",
+      "PublishingDate": "2019-01-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T19:24:18",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.9.1",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T18:24:18",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.10.2",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T13:24:40",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.11.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T13:54:42",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.11.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [
+        "2.0.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-20T18:24:48",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.11.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [
+        "2.0.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-29T11:54:52",
+      "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
+      "Version": "2.0.12.1",
+      "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

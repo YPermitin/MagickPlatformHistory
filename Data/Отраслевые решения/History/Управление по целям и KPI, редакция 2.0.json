@@ -1,0 +1,134 @@
+{
+  "Name": "Управление по целям и KPI, редакция 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.6.2",
+      "PublishingDate": "2018-10-22T00:00:00",
+      "PlanVersions": [
+        "2.1.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T19:48:16",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.6.2",
+      "PublishingDate": "2018-10-22T00:00:00",
+      "PlanVersions": [
+        "2.1.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-22T13:48:17",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.6.2",
+      "PublishingDate": "2018-10-22T00:00:00",
+      "PlanVersions": [
+        "2.1.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T15:18:21",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.6.2",
+      "PublishingDate": "2018-10-22T00:00:00",
+      "PlanVersions": [
+        "2.1.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T19:18:18",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.6.2",
+      "PublishingDate": "2018-10-22T00:00:00",
+      "PlanVersions": [
+        "2.1.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T17:18:20",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.7.1",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T16:24:38",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.7.1",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "2.1.7.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-18T12:54:36",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.7.2",
+      "PublishingDate": "2019-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "Name": "Управление нашей фирмой базовая, редакция 1.6",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 16,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T19:50:48",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.166",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T19:20:47",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.176",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T17:43:15",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.178",
+      "PublishingDate": "2019-01-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T15:18:08",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-20T13:54:20",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-01T14:24:20",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.215",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-12T12:24:24",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.16.219",
+      "PublishingDate": "2019-03-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-25T13:54:27",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.17.123",
+      "PublishingDate": "2019-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T15:54:30",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-05T18:24:29",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.17.135",
+      "PublishingDate": "2019-04-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T14:24:33",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.17.141",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-18T13:54:35",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T18:54:36",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-17T14:24:49",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.17.174",
+      "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-19T18:50:36",
+      "Name": "Управление нашей фирмой базовая, редакция 1.6",
+      "Version": "1.6.18.88",
+      "PublishingDate": "2019-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

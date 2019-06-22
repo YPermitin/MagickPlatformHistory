@@ -1,0 +1,21 @@
+{
+  "Name": "ERP Агропромышленный комплекс 2",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "ERP Агропромышленный комплекс 2",
+      "Version": "2.1.3.284",
+      "PublishingDate": "2017-03-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

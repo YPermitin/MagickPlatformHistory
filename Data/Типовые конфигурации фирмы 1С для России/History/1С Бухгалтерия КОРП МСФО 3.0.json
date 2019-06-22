@@ -1,0 +1,109 @@
+{
+  "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 9,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.3.2",
+      "PublishingDate": "2018-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T18:50:45",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.4.19",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T20:50:47",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.5.1",
+      "PublishingDate": "2018-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-22T20:18:08",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.5.8",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T20:24:20",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.5.17",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T19:24:24",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.6.2",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T15:54:29",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.6.4",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T19:54:33",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.6.8",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T19:24:47",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.6.15",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

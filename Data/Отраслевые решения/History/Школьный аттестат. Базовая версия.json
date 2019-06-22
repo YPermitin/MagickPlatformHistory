@@ -1,0 +1,49 @@
+{
+  "Name": "Школьный аттестат. Базовая версия",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Школьный аттестат. Базовая версия",
+      "Version": "1.0.2.18",
+      "PublishingDate": "2018-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-03T12:25:00",
+      "Name": "Школьный аттестат. Базовая версия",
+      "Version": "1.0.2.18",
+      "PublishingDate": "2018-04-06T00:00:00",
+      "PlanVersions": [
+        "1.0.2.19"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T16:24:57",
+      "Name": "Школьный аттестат. Базовая версия",
+      "Version": "1.0.2.19",
+      "PublishingDate": "2019-06-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

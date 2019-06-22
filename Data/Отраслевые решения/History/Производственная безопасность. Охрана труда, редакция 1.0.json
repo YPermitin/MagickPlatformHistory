@@ -1,0 +1,21 @@
+{
+  "Name": "Производственная безопасность. Охрана труда, редакция 1.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Производственная безопасность. Охрана труда, редакция 1.0",
+      "Version": "1.0.7.50",
+      "PublishingDate": "2017-09-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

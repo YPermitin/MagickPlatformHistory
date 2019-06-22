@@ -1,0 +1,100 @@
+{
+  "Name": "1С:Биллинг",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Биллинг",
+      "Version": "1.1.1.12",
+      "PublishingDate": "2018-10-30T00:00:00",
+      "PlanVersions": [
+        "1.1.1.13"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T17:35:30",
+      "Name": "1С:Биллинг",
+      "Version": "1.1.1.12",
+      "PublishingDate": "2018-10-30T00:00:00",
+      "PlanVersions": [
+        "1.1.1.13"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T17:20:55",
+      "Name": "1С:Биллинг",
+      "Version": "1.1.1.13",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T11:25:02",
+      "Name": "1С:Биллинг",
+      "Version": "1.1.1.13",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [
+        "1.1.1.14"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T19:54:59",
+      "Name": "1С:Биллинг",
+      "Version": "1.1.1.13",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [
+        "1.1.1.14"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T14:24:58",
+      "Name": "1С:Биллинг",
+      "Version": "1.1.1.14",
+      "PublishingDate": "2019-06-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

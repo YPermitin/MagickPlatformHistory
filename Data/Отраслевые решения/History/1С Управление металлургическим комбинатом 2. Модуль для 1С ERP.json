@@ -1,0 +1,486 @@
+{
+  "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 34,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.5.143",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [
+        "2.4.6.154"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T12:35:21",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.154",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T18:05:25",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.154",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [
+        "2.4.6.160"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T14:50:56",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.160",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T16:50:56",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.160",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [
+        "2.4.5.151"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T13:51:12",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.5.151",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T15:21:01",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.5.151",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "2.4.6.174"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T14:43:25",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-17T16:29:23",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "2.4.6.188"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-22T17:48:21",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T20:18:24",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [
+        "2.4.6.200"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T20:24:27",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.200",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-18T11:24:28",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.200",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "2.4.6.207"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T12:54:29",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T11:24:30",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [
+        "2.4.6.230"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-05T17:54:34",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.230",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T16:24:41",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.6.230",
+      "PublishingDate": "2019-03-05T00:00:00",
+      "PlanVersions": [
+        "2.4.7.85"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T13:54:43",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T13:24:47",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "2.4.7.107"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T14:54:44",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-04-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T12:24:46",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-04-19T00:00:00",
+      "PlanVersions": [
+        "2.4.7.127"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-24T13:54:53",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.127",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T11:54:47",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.127",
+      "PublishingDate": "2019-04-24T00:00:00",
+      "PlanVersions": [
+        "2.4.7.141"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-30T14:24:51",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.141",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T12:24:49",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.141",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [
+        "2.4.7.147"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-08T14:54:54",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-05-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-14T12:24:55",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-05-08T00:00:00",
+      "PlanVersions": [
+        "2.4.7.150"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-16T16:54:54",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.150",
+      "PublishingDate": "2019-05-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-20T11:54:56",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.150",
+      "PublishingDate": "2019-05-16T00:00:00",
+      "PlanVersions": [
+        "2.4.7.151"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-23T12:54:56",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-05-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T18:24:59",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-05-23T00:00:00",
+      "PlanVersions": [
+        "2.4.8.57"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-11T22:39:04",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.8.57",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.8.57",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [
+        "2.4.8.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-18T19:50:38",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.8.63",
+      "PublishingDate": "2019-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

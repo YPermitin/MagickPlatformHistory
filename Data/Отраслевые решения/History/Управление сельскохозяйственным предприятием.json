@@ -1,0 +1,301 @@
+{
+  "Name": "Управление сельскохозяйственным предприятием",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 21,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T12:50:57",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.113.4",
+      "PublishingDate": "2018-12-05T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T16:20:54",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T12:50:57",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-19T00:00:00",
+      "PlanVersions": [
+        "1.3.114"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T13:21:07",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T13:43:22",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "1.3.115"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T11:13:25",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T19:48:16",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "1.3.116"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T10:48:19",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T19:24:29",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-23T00:00:00",
+      "PlanVersions": [
+        "1.3.116.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-06T11:24:27",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T10:54:31",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.116.2",
+      "PublishingDate": "2019-02-06T00:00:00",
+      "PlanVersions": [
+        "1.3.117.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T10:24:33",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T14:24:39",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-27T00:00:00",
+      "PlanVersions": [
+        "1.3.119.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T17:54:39",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.119.1",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-28T10:54:40",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.119.1",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [
+        "1.3.120.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-29T10:54:39",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-25T19:54:51",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-03-29T00:00:00",
+      "PlanVersions": [
+        "1.3.121"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T12:54:49",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T13:25:00",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [
+        "1.3.122"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T17:25:04",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

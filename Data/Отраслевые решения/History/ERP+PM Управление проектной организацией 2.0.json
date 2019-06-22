@@ -1,0 +1,21 @@
+{
+  "Name": "ERP+PM Управление проектной организацией 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "ERP+PM Управление проектной организацией 2.0",
+      "Version": "2.1.3.290",
+      "PublishingDate": "2017-04-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

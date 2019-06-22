@@ -1,0 +1,105 @@
+{
+  "Name": "1С:Предприятие 8. SPA-Салон",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 7,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Предприятие 8. SPA-Салон",
+      "Version": "1.0.31.1",
+      "PublishingDate": "2018-10-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T15:20:56",
+      "Name": "1С:Предприятие 8. SPA-Салон",
+      "Version": "1.0.31.1",
+      "PublishingDate": "2018-10-15T00:00:00",
+      "PlanVersions": [
+        "1.0.32"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T18:50:58",
+      "Name": "1С:Предприятие 8. SPA-Салон",
+      "Version": "1.0.32.1",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T19:24:41",
+      "Name": "1С:Предприятие 8. SPA-Салон",
+      "Version": "1.0.32.1",
+      "PublishingDate": "2018-12-29T00:00:00",
+      "PlanVersions": [
+        "1.0.33"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-12T17:24:35",
+      "Name": "1С:Предприятие 8. SPA-Салон",
+      "Version": "1.0.33.2",
+      "PublishingDate": "2019-03-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T20:25:05",
+      "Name": "1С:Предприятие 8. SPA-Салон",
+      "Version": "1.0.33.2",
+      "PublishingDate": "2019-03-12T00:00:00",
+      "PlanVersions": [
+        "1.0.34"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-13T16:58:24",
+      "Name": "1С:Предприятие 8. SPA-Салон",
+      "Version": "1.0.34.2",
+      "PublishingDate": "2019-06-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

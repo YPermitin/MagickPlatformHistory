@@ -1,0 +1,21 @@
+{
+  "Name": "Розница. Аптека, редакция 2.1",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Розница. Аптека, редакция 2.1",
+      "Version": "2.1.9.20",
+      "PublishingDate": "2016-01-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

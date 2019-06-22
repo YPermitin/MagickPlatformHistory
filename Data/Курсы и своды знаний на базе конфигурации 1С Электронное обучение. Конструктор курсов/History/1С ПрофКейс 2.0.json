@@ -1,0 +1,21 @@
+{
+  "Name": "1С:ПрофКейс 2.0",
+  "Category": {
+    "ID": 1,
+    "Name": "Курсы и своды знаний на базе конфигурации \"1С:Электронное обучение. Конструктор курсов\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "1С:ПрофКейс 2.0",
+      "Version": "2.0.0.2",
+      "PublishingDate": "2013-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Отчетность предпринимателя, редакция 2.0",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "Отчетность предпринимателя, редакция 2.0",
+      "Version": "2.0.22.2",
+      "PublishingDate": "2018-06-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "1С:Мобильная касса (для разработчиков)",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Мобильная касса (для разработчиков)",
+      "Version": "2.20.3.0",
+      "PublishingDate": "2018-12-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-12T15:54:18",
+      "Name": "1С:Мобильная касса (для разработчиков)",
+      "Version": "2.21.2.0",
+      "PublishingDate": "2019-02-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T20:24:32",
+      "Name": "1С:Мобильная касса (для разработчиков)",
+      "Version": "2.23.2.0",
+      "PublishingDate": "2019-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

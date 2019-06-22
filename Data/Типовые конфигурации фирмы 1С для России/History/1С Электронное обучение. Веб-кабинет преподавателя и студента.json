@@ -1,0 +1,43 @@
+{
+  "Name": "1С:Электронное обучение. Веб-кабинет преподавателя и студента",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 3,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:Электронное обучение. Веб-кабинет преподавателя и студента",
+      "Version": "2.0.2.133",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-22T16:24:25",
+      "Name": "1С:Электронное обучение. Веб-кабинет преподавателя и студента",
+      "Version": "2.0.2.151",
+      "PublishingDate": "2019-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-20T14:50:36",
+      "Name": "1С:Электронное обучение. Веб-кабинет преподавателя и студента",
+      "Version": "2.0.2.155",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

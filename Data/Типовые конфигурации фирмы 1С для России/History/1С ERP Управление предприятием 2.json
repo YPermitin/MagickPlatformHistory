@@ -1,0 +1,814 @@
+{
+  "Name": "1С:ERP Управление предприятием 2",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 40,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:23",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.5.151",
+      "PublishingDate": "2018-11-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T18:35:12",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-19T16:50:46",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.174",
+      "PublishingDate": "2018-12-14T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T13:50:49",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T20:50:49",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.188",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.7.56"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-21T14:18:12",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.200",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.7.56"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-24T21:18:07",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.7.56"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-31T23:18:11",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.7.84"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-31T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-01T11:48:11",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.7.84"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-31T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-06T15:54:13",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.207",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-01T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.7.85"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-06T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-14T13:24:15",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.85",
+      "PublishingDate": "2019-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-18T14:24:17",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.230",
+      "PublishingDate": "2019-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-22T12:24:17",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.6.230",
+      "PublishingDate": "2019-02-18T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-25T17:54:16",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-02-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-11T17:24:22",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-02-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-22T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-21T13:54:21",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.107",
+      "PublishingDate": "2019-02-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-21T19:24:26",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.127",
+      "PublishingDate": "2019-03-21T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-04T17:54:30",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.141",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-04T20:54:34",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.141",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-09T13:24:34",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.141",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-15T11:54:33",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.141",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-15T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-15T17:24:35",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-15T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-22T21:54:33",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.147",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-23T19:54:39",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.150",
+      "PublishingDate": "2019-04-23T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-25T16:54:36",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-26T15:24:34",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-13T12:24:42",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-15T12:24:44",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-15T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-20T12:24:43",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-22T18:54:44",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.57",
+        "2.4.8.30",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-22T00:00:00",
+        "2019-04-04T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-22T19:24:48",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.57",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-22T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-27T13:24:45",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.57",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-22T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-30T12:54:47",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.7.151",
+      "PublishingDate": "2019-04-25T00:00:00",
+      "PlanVersions": [
+        "2.4.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.8.57",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-22T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-30T17:54:53",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.57",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-30T19:24:47",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.57",
+      "PublishingDate": "2019-05-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-03T13:24:49",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.63",
+      "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-03T18:24:46",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.63",
+      "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-20T13:20:38",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.2.71",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-20T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-21T14:50:37",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-03T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.9.37",
+        "2.5.2.71",
+        "2.5.1.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-21T00:00:00",
+        "2019-06-20T00:00:00",
+        "2019-03-11T00:00:00"
+      ]
+    }
+  ]
+}

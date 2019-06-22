@@ -1,0 +1,40 @@
+{
+  "Name": "Система проектирования прикладных решений",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 2,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "Система проектирования прикладных решений",
+      "Version": "1.1.26.2",
+      "PublishingDate": "2018-06-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.0.1.35"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-16T19:29:20",
+      "Name": "Система проектирования прикладных решений",
+      "Version": "1.1.27.2",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.0.1.35"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-23T00:00:00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "Name": "1С:Сервер взаимодействия",
+  "Category": {
+    "ID": 481,
+    "Name": "Технологические дистрибутивы"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:20",
+      "Name": "1С:Сервер взаимодействия",
+      "Version": "4.0.73",
+      "PublishingDate": "2018-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "5.0.37"
+      ],
+      "DemoPublicationDates": [
+        "2018-11-26T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-23T10:18:07",
+      "Name": "1С:Сервер взаимодействия",
+      "Version": "5.0.37",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-23T11:48:09",
+      "Name": "1С:Сервер взаимодействия",
+      "Version": "5.0.37",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "5.0.42"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-23T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-26T13:54:26",
+      "Name": "1С:Сервер взаимодействия",
+      "Version": "5.0.37",
+      "PublishingDate": "2018-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "5.0.43"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-26T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-04-03T14:54:27",
+      "Name": "1С:Сервер взаимодействия",
+      "Version": "5.0.43",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-15T14:24:34",
+      "Name": "1С:Сервер взаимодействия",
+      "Version": "5.0.43",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "6.0.47"
+      ],
+      "DemoPublicationDates": [
+        "2019-04-15T00:00:00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "Name": "Управление торговлей алкогольной продукцией",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 20,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.49.1",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [
+        "10.3.49.3"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-13T12:05:21",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.49.3",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T16:20:58",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.49.3",
+      "PublishingDate": "2018-12-13T00:00:00",
+      "PlanVersions": [
+        "10.3.49.4"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T13:50:58",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.49.4",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T16:13:28",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.49.4",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [
+        "10.3.50.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T10:54:24",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.49.4",
+      "PublishingDate": "2018-12-20T00:00:00",
+      "PlanVersions": [
+        "10.3.50.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T12:59:30",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.50.1",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-16T17:59:32",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.50.2",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T20:18:24",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.50.2",
+      "PublishingDate": "2019-01-16T00:00:00",
+      "PlanVersions": [
+        "10.3.50.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T11:54:33",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.50.3",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T14:24:39",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.50.3",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "10.3.50.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T11:54:39",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.50.4",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-28T12:24:43",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.50.4",
+      "PublishingDate": "2019-03-26T00:00:00",
+      "PlanVersions": [
+        "10.3.51.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T14:24:40",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.51.1",
+      "PublishingDate": "2019-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T17:24:43",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.51.1",
+      "PublishingDate": "2019-04-01T00:00:00",
+      "PlanVersions": [
+        "10.3.52.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T14:24:44",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.52.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T12:24:58",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.52.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "10.3.52.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-15T13:24:57",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.52.2",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T12:54:56",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.52.2",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [
+        "10.3.53.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-10T18:25:05",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.53.2",
+      "PublishingDate": "2019-06-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

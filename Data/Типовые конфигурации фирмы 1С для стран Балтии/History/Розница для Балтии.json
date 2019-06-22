@@ -1,0 +1,21 @@
+{
+  "Name": "Розница для Балтии",
+  "Category": {
+    "ID": 514,
+    "Name": "Типовые конфигурации фирмы \"1С\" для стран Балтии"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:28",
+      "Name": "Розница для Балтии",
+      "Version": "2.2.6.2",
+      "PublishingDate": "2017-08-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

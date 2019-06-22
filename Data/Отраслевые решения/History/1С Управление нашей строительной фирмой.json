@@ -1,0 +1,266 @@
+{
+  "Name": "1С:Управление нашей строительной фирмой",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 20,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.132",
+      "PublishingDate": "2018-11-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-17T19:50:54",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.132",
+      "PublishingDate": "2018-11-29T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T11:50:55",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T18:50:58",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [
+        "1.6.16.166"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T19:51:01",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [
+        "1.6.16.166"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T19:43:26",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.166",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T19:24:25",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.166",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [
+        "1.6.16.176"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T19:54:31",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.176",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T16:48:21",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.176",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [
+        "1.6.16.178"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T17:18:21",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.178",
+      "PublishingDate": "2019-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T20:18:25",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.178",
+      "PublishingDate": "2019-01-21T00:00:00",
+      "PlanVersions": [
+        "1.6.16.184"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T20:48:27",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T13:54:36",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-11T18:54:36",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.215",
+      "PublishingDate": "2019-03-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-20T18:24:44",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.16.219",
+      "PublishingDate": "2019-03-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T18:24:47",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T18:24:47",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.17.135",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T19:54:48",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T20:24:57",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-25T16:54:56",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.17.174",
+      "PublishingDate": "2019-05-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

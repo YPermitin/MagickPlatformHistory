@@ -1,0 +1,229 @@
+{
+  "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 15,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-09T13:13:11",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.4.1.49",
+      "PublishingDate": "2018-11-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.39"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-18T19:47:19",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.4.1.49",
+      "PublishingDate": "2018-11-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.44"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-18T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-22T19:48:11",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.46",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.44"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-18T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-01-22T20:18:08",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.46",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T22:18:14",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.46",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-01-25T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-02-01T21:46:00",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.46",
+      "PublishingDate": "2019-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.51",
+        "2.5.1.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-02-01T00:00:00",
+        "2019-01-25T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-01T14:54:21",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.60",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-06T17:54:20",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.60",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.63"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-06T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-07T20:24:27",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.60",
+      "PublishingDate": "2019-03-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.65"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-03-11T17:54:23",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.65",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T18:54:26",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.65",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.1.68"
+      ],
+      "DemoPublicationDates": [
+        "2019-03-15T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-14T20:54:40",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.65",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.6.1.28",
+        "2.5.1.68"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-14T00:00:00",
+        "2019-03-15T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-05-15T12:54:41",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.65",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.6.1.28"
+      ],
+      "DemoPublicationDates": [
+        "2019-05-14T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-07T21:54:46",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.65",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.6.1.35"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-07T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-06-15T09:18:09",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.5.1.65",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.6.1.37",
+        "2.6.1.35"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-14T00:00:00",
+        "2019-06-07T00:00:00"
+      ]
+    }
+  ]
+}

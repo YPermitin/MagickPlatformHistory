@@ -1,0 +1,21 @@
+{
+  "Name": "Розница для Армении базовая",
+  "Category": {
+    "ID": 648,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Армении"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:27",
+      "Name": "Розница для Армении базовая",
+      "Version": "2.1.7.16",
+      "PublishingDate": "2016-03-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

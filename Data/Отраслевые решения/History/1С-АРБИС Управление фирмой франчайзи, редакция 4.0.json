@@ -1,0 +1,312 @@
+{
+  "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 22,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.17.2",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-24T13:20:59",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.17.2",
+      "PublishingDate": "2018-11-13T00:00:00",
+      "PlanVersions": [
+        "4.0.18.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-25T14:50:58",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.1",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T13:13:20",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.1",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "4.0.18.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T13:43:22",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.2",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-22T20:18:22",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.2",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "4.0.18.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-25T15:18:21",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.3",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-06T12:54:28",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.3",
+      "PublishingDate": "2019-01-25T00:00:00",
+      "PlanVersions": [
+        "4.0.18.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-07T12:24:27",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.4",
+      "PublishingDate": "2019-02-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T14:24:33",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.5",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-13T14:54:36",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.18.5",
+      "PublishingDate": "2019-02-19T00:00:00",
+      "PlanVersions": [
+        "4.0.19.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T13:54:39",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.19.1",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T18:24:47",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.19.1",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [
+        "4.0.20.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T20:24:43",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.20.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-10T14:54:44",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.20.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "4.0.21.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T16:54:45",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.21.1",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-08T18:24:51",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.21.1",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [
+        "4.0.21.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-08T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-15T12:54:55",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.21.2",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-30T19:25:05",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.21.2",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [
+        "4.0.21.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-30T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T13:55:02",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.21.3",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-07T14:24:59",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.21.3",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [
+        "4.0.21.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-10T13:24:58",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
+      "Version": "4.0.21.4",
+      "PublishingDate": "2019-06-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

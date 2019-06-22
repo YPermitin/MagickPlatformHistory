@@ -1,0 +1,453 @@
+{
+  "Name": "Управление ритуальными услугами, редакция 1.6",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 31,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.132",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T11:05:21",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.132",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-20T16:50:57",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.132",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-21T16:50:55",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.132",
+      "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [
+        "1.6.16.153"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T13:51:00",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T18:20:59",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "1.6.16.166"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-10T15:13:28",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.153",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "1.6.16.166"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-11T14:13:24",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.166",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T11:24:25",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.166",
+      "PublishingDate": "2019-01-11T00:00:00",
+      "PlanVersions": [
+        "1.6.16.178"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T14:29:30",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.178",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T11:18:20",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.178",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [
+        "1.6.16.184"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T13:54:33",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T13:54:33",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.184",
+      "PublishingDate": "2019-02-05T00:00:00",
+      "PlanVersions": [
+        "1.6.16.204"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T16:54:35",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T12:24:35",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.204",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "1.6.16.215"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-12T13:54:39",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.215",
+      "PublishingDate": "2019-03-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T12:54:35",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.215",
+      "PublishingDate": "2019-03-12T00:00:00",
+      "PlanVersions": [
+        "1.6.16.219"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-19T16:54:41",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.219",
+      "PublishingDate": "2019-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T11:24:37",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.16.219",
+      "PublishingDate": "2019-03-19T00:00:00",
+      "PlanVersions": [
+        "1.6.17.123"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-05T17:24:42",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.123",
+      "PublishingDate": "2019-04-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-05T18:54:45",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.123",
+      "PublishingDate": "2019-04-05T00:00:00",
+      "PlanVersions": [
+        "1.6.17.128"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T12:24:47",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-12T17:24:48",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [
+        "1.6.17.135"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T19:24:50",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.128",
+      "PublishingDate": "2019-04-12T00:00:00",
+      "PlanVersions": [
+        "1.6.17.141"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-19T18:24:47",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.141",
+      "PublishingDate": "2019-04-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-22T10:54:45",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.141",
+      "PublishingDate": "2019-04-19T00:00:00",
+      "PlanVersions": [
+        "1.6.17.152"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-26T13:24:46",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T11:54:47",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.152",
+      "PublishingDate": "2019-04-26T00:00:00",
+      "PlanVersions": [
+        "1.6.17.161"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-08T14:24:51",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-05-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-20T15:54:56",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-05-08T00:00:00",
+      "PlanVersions": [
+        "1.6.17.174"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T18:55:00",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.17.174",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

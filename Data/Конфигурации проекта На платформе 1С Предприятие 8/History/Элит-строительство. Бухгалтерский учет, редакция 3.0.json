@@ -1,0 +1,222 @@
+{
+  "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 16,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.67.67",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T19:24:31",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.67.72",
+      "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-05T15:24:28",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.67.72",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-27T18:24:33",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.67.72",
+      "PublishingDate": "2019-02-04T00:00:00",
+      "PlanVersions": [
+        "3.0.68.58"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T13:54:38",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.68.58",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-14T13:54:39",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.68.58",
+      "PublishingDate": "2019-02-28T00:00:00",
+      "PlanVersions": [
+        "3.0.68.66"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T19:54:43",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.68.66",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T11:54:43",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.69.35",
+      "PublishingDate": "2019-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-16T19:54:51",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.30",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T14:54:46",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.30",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [
+        "3.0.70.33"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T17:54:49",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.33",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-29T13:54:54",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.33",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [
+        "3.0.70.39"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T10:54:53",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.33",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [
+        "3.0.70.39"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T18:54:57",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.33",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [
+        "3.0.70.41"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T19:25:03",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.41",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-22T17:55:02",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
+      "Version": "3.0.70.50",
+      "PublishingDate": "2019-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

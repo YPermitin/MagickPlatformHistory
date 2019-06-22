@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Медицина. Финансово-хозяйственная деятельность",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Медицина. Финансово-хозяйственная деятельность",
+      "Version": "1.2.32.2",
+      "PublishingDate": "2010-08-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

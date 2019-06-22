@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Библиотека подключаемого оборудования, редакция 1.2",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:21",
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 1.2",
+      "Version": "1.2.5.16",
+      "PublishingDate": "2016-08-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

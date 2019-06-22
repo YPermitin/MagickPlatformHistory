@@ -1,0 +1,217 @@
+{
+  "Name": "Управление транспортным предприятием",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 15,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.113.3",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-29T10:50:54",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.113.3",
+      "PublishingDate": "2018-12-03T00:00:00",
+      "PlanVersions": [
+        "1.3.114.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-09T18:43:21",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-15T11:54:27",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2019-01-09T00:00:00",
+      "PlanVersions": [
+        "1.3.115.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-18T17:59:30",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T11:18:23",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-18T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-01T21:46:16",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T12:54:36",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [
+        "1.3.117.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T17:24:33",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-01T18:54:37",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-03-04T00:00:00",
+      "PlanVersions": [
+        "1.3.120.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-03T16:24:43",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T20:24:57",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-03T00:00:00",
+      "PlanVersions": [
+        "1.3.121.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-15T16:24:54",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T18:54:59",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [
+        "1.3.122.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-04T16:25:05",
+      "Name": "Управление транспортным предприятием",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

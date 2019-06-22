@@ -1,0 +1,88 @@
+{
+  "Name": "Общепит, редакция 2.0",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Общепит, редакция 2.0",
+      "Version": "2.0.66.64",
+      "PublishingDate": "2018-11-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T17:05:23",
+      "Name": "Общепит, редакция 2.0",
+      "Version": "2.0.66.64",
+      "PublishingDate": "2018-11-07T00:00:00",
+      "PlanVersions": [
+        "2.0.66.66"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-26T20:51:02",
+      "Name": "Общепит, редакция 2.0",
+      "Version": "2.0.66.66",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T13:18:18",
+      "Name": "Общепит, редакция 2.0",
+      "Version": "2.0.66.66",
+      "PublishingDate": "2018-12-26T00:00:00",
+      "PlanVersions": [
+        "2.0.66.68"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T19:48:24",
+      "Name": "Общепит, редакция 2.0",
+      "Version": "2.0.66.68",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-15T13:54:33",
+      "Name": "Общепит, редакция 2.0",
+      "Version": "2.0.66.71",
+      "PublishingDate": "2019-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

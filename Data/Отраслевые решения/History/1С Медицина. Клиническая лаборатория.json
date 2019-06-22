@@ -1,0 +1,100 @@
+{
+  "Name": "1С:Медицина. Клиническая лаборатория",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 6,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "1С:Медицина. Клиническая лаборатория",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-25T19:24:30",
+      "Name": "1С:Медицина. Клиническая лаборатория",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-07-06T00:00:00",
+      "PlanVersions": [
+        "1.1.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-28T22:54:32",
+      "Name": "1С:Медицина. Клиническая лаборатория",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-07-06T00:00:00",
+      "PlanVersions": [
+        "1.1.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T18:24:34",
+      "Name": "1С:Медицина. Клиническая лаборатория",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-07-06T00:00:00",
+      "PlanVersions": [
+        "1.1.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-06T16:24:32",
+      "Name": "1С:Медицина. Клиническая лаборатория",
+      "Version": "1.1.4.4",
+      "PublishingDate": "2018-07-06T00:00:00",
+      "PlanVersions": [
+        "1.1.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-07T13:24:38",
+      "Name": "1С:Медицина. Клиническая лаборатория",
+      "Version": "1.1.5.2",
+      "PublishingDate": "2019-03-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

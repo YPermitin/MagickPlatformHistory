@@ -1,0 +1,347 @@
+{
+  "Name": "Ликероводочный и винный завод, редакция 1.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 23,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.113.3",
+      "PublishingDate": "2018-12-04T00:00:00",
+      "PlanVersions": [
+        "1.3.113.4"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-14T19:05:21",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.113.3",
+      "PublishingDate": "2018-12-04T00:00:00",
+      "PlanVersions": [
+        "1.3.113.5"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-18T17:20:55",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-27T15:20:56",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.113.5",
+      "PublishingDate": "2018-12-18T00:00:00",
+      "PlanVersions": [
+        "1.3.114.1"
+      ],
+      "PlanReleaseDates": [
+        "2018-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2018-12-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T20:20:59",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-17T16:29:23",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.114.1",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [
+        "1.3.115.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-17T17:59:30",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T19:48:16",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T11:18:20",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.115.2",
+      "PublishingDate": "2019-01-17T00:00:00",
+      "PlanVersions": [
+        "1.3.116.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-29T16:18:18",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-14T10:54:26",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "1.3.116.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-14T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-19T21:24:33",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "1.3.116.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-21T13:54:33",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.116.1",
+      "PublishingDate": "2019-01-29T00:00:00",
+      "PlanVersions": [
+        "1.3.117.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-22T12:54:32",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-25T16:54:40",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.117.1",
+      "PublishingDate": "2019-02-21T00:00:00",
+      "PlanVersions": [
+        "1.3.118.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-25T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-26T11:54:41",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T12:54:43",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.118.1",
+      "PublishingDate": "2019-03-25T00:00:00",
+      "PlanVersions": [
+        "1.3.120.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T11:54:46",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T20:24:57",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.120.1",
+      "PublishingDate": "2019-04-09T00:00:00",
+      "PlanVersions": [
+        "1.3.121.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T12:54:54",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T12:24:58",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.121.1",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [
+        "1.3.121.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-27T16:24:58",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-13T18:55:27",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [
+        "1.3.122.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

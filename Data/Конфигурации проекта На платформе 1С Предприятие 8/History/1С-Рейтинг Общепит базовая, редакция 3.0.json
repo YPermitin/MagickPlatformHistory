@@ -1,0 +1,252 @@
+{
+  "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 16,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.21.1",
+      "PublishingDate": "2018-11-16T00:00:00",
+      "PlanVersions": [
+        "3.0.22"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-21T16:18:22",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.21.1",
+      "PublishingDate": "2018-11-16T00:00:00",
+      "PlanVersions": [
+        "3.0.22"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T18:48:25",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.22.2",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-31T08:48:23",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.22.2",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "3.0.23"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-04T14:24:29",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.22.2",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "3.0.23"
+      ],
+      "PlanReleaseDates": [
+        "2019-02-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-02-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-13T11:24:29",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.23.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-27T15:24:41",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.23.1",
+      "PublishingDate": "2019-02-13T00:00:00",
+      "PlanVersions": [
+        "3.0.24.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-04T12:54:47",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.24.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-03T15:24:49",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.24.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "3.0.25.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-06T11:24:54",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.24.1",
+      "PublishingDate": "2019-04-04T00:00:00",
+      "PlanVersions": [
+        "3.0.25.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-05-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-07T18:55:05",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.25.1",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-28T07:54:58",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.25.1",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [
+        "3.0.26.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-05-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T19:55:02",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.25.1",
+      "PublishingDate": "2019-05-07T00:00:00",
+      "PlanVersions": [
+        "3.0.26.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-05T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-06T10:55:00",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.26.1",
+      "PublishingDate": "2019-06-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-17T08:50:37",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.26.1",
+      "PublishingDate": "2019-06-06T00:00:00",
+      "PlanVersions": [
+        "3.0.27.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T15:50:37",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.26.1",
+      "PublishingDate": "2019-06-06T00:00:00",
+      "PlanVersions": [
+        "3.0.27.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

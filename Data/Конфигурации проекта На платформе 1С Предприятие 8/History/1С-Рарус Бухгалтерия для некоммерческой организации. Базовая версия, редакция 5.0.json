@@ -1,0 +1,89 @@
+{
+  "Name": "1С-Рарус: Бухгалтерия для некоммерческой организации. Базовая версия, редакция 5.0",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 5,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "1С-Рарус: Бухгалтерия для некоммерческой организации. Базовая версия, редакция 5.0",
+      "Version": "5.0.13.4",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-04T11:24:34",
+      "Name": "1С-Рарус: Бухгалтерия для некоммерческой организации. Базовая версия, редакция 5.0",
+      "Version": "5.0.13.4",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [
+        "5.0.17"
+      ],
+      "PlanReleaseDates": [
+        "2019-03-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-03-04T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-02T13:24:42",
+      "Name": "1С-Рарус: Бухгалтерия для некоммерческой организации. Базовая версия, редакция 5.0",
+      "Version": "5.0.13.4",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [
+        "5.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-09T16:24:47",
+      "Name": "1С-Рарус: Бухгалтерия для некоммерческой организации. Базовая версия, редакция 5.0",
+      "Version": "5.0.13.4",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [
+        "5.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T19:54:48",
+      "Name": "1С-Рарус: Бухгалтерия для некоммерческой организации. Базовая версия, редакция 5.0",
+      "Version": "5.0.13.4",
+      "PublishingDate": "2018-10-02T00:00:00",
+      "PlanVersions": [
+        "5.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-04-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-04-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

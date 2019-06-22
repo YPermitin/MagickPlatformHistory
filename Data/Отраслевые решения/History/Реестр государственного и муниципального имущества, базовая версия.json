@@ -1,0 +1,21 @@
+{
+  "Name": "Реестр государственного и муниципального имущества, базовая версия",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-13T00:05:50",
+      "Name": "Реестр государственного и муниципального имущества, базовая версия",
+      "Version": "2.1.7.1",
+      "PublishingDate": "2014-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

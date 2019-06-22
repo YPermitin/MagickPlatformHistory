@@ -1,0 +1,181 @@
+{
+  "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 15,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-01-19T11:44:19",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.32.5",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-24T12:48:19",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.33.2",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-28T14:48:17",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.33.2",
+      "PublishingDate": "2019-01-24T00:00:00",
+      "PlanVersions": [
+        "5.5.33.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-01-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-30T17:48:29",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.33.3",
+      "PublishingDate": "2019-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-01T21:46:18",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.33.4",
+      "PublishingDate": "2019-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-02-26T19:24:50",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.34.2",
+      "PublishingDate": "2019-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-06T12:54:33",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.34.3",
+      "PublishingDate": "2019-03-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-15T17:54:39",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.34.4",
+      "PublishingDate": "2019-03-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-19T18:54:41",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.34.5",
+      "PublishingDate": "2019-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T19:24:53",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.35.2",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-23T18:54:53",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.35.3",
+      "PublishingDate": "2019-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-13T19:55:01",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.35.4",
+      "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T11:25:05",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.36.2",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-05T17:25:00",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.36.4",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-21T17:50:37",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.36.5",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "Name": "Бухгалтерия некоммерческой организации",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 8,
+  "ReleasesHistory": [
+    {
+      "Created": "2018-12-28T19:50:47",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.66.35",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2018-12-28T20:20:49",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.67.5",
+      "PublishingDate": "2018-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-01-14T13:24:18",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.67.8",
+      "PublishingDate": "2019-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-03T14:24:22",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.68.13",
+      "PublishingDate": "2019-03-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-03-28T17:54:29",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.69.3",
+      "PublishingDate": "2019-03-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-11T17:54:33",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.70.5",
+      "PublishingDate": "2019-04-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-04-17T18:54:33",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.70.7",
+      "PublishingDate": "2019-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-05-31T15:54:47",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.70.17",
+      "PublishingDate": "2019-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
