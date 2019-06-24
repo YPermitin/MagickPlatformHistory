@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -372,6 +372,23 @@
       ],
       "PlanUpdateDates": [
         "2019-06-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-24T11:40:11",
+      "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
+      "Version": "1.3.121.2",
+      "PublishingDate": "2019-05-27T00:00:00",
+      "PlanVersions": [
+        "1.3.122.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
