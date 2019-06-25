@@ -229,9 +229,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
       "Version": "4.0.21.4",
       "PublishingDate": "2019-06-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.22.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3781,9 +3787,15 @@
       "Name": "Управление корпоративными финансами, редакция 3.0",
       "Version": "3.0.70.3",
       "PublishingDate": "2019-05-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
