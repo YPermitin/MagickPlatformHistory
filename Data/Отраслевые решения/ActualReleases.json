@@ -641,9 +641,15 @@
       "Name": "1С:МТО Материально-техническое обеспечение",
       "Version": "1.3.122.2",
       "PublishingDate": "2019-06-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.122.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -909,17 +915,11 @@
     },
     {
       "Name": "1С:Производство мясной и рыбной продукции 2. Модуль для 1С:ERP",
-      "Version": "2.4.7.85",
-      "PublishingDate": "2019-03-05T00:00:00",
-      "PlanVersions": [
-        "2.4.8.63"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-25T00:00:00"
-      ],
+      "Version": "2.4.8.63",
+      "PublishingDate": "2019-06-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1029,9 +1029,15 @@
       "Name": "1С:Управление водоканалом 2",
       "Version": "2.2.12.1",
       "PublishingDate": "2019-04-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1127,9 +1133,15 @@
       "Name": "1С:Управление тепловодоканалом 2",
       "Version": "2.2.12.1",
       "PublishingDate": "2019-04-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1137,9 +1149,15 @@
       "Name": "1С:Управление теплосетью 2",
       "Version": "2.2.12.1",
       "PublishingDate": "2019-04-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1747,9 +1765,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
       "Version": "2.0.66.81",
       "PublishingDate": "2019-06-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
