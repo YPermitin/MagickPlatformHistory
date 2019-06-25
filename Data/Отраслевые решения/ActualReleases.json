@@ -87,17 +87,11 @@
     },
     {
       "Name": "1С:GIS Управление пространственными данными. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "1.0.3.1",
-      "PublishingDate": "2018-12-25T00:00:00",
-      "PlanVersions": [
-        "1.0.4.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-19T00:00:00"
-      ],
+      "Version": "1.0.4.1",
+      "PublishingDate": "2019-06-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1937,17 +1931,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
-      "Version": "3.0.28.3",
-      "PublishingDate": "2019-06-05T00:00:00",
-      "PlanVersions": [
-        "3.0.29.3"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-21T00:00:00"
-      ],
+      "Version": "3.0.29.3",
+      "PublishingDate": "2019-06-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
