@@ -1787,9 +1787,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.70.61",
       "PublishingDate": "2019-06-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1817,9 +1823,15 @@
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
       "Version": "2.0.63.35",
       "PublishingDate": "2019-06-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.63.38"
+      ],
+      "PlanReleaseDates": [
+        "2019-06-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
