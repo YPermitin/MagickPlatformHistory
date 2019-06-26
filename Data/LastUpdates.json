@@ -1,7 +1,13 @@
 {
   "Title": "Текущие релизы программ фирмы «1С»",
-  "PublishingDate": "2019-06-25T00:00:00",
+  "PublishingDate": "2019-06-26T00:00:00",
   "Items": [
+    {
+      "Title": "1C:Enterprise Development Tools",
+      "Description": "1.11.0.869",
+      "PublishingDate": "2019-06-26T00:00:00",
+      "Link": ""
+    },
     {
       "Title": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Description": "2.4.8.73",
