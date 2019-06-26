@@ -33,10 +33,10 @@
         "2.4.9"
       ],
       "PlanReleaseDates": [
-        "2019-06-28T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-03T00:00:00"
+        "2019-06-26T00:00:00"
       ],
       "DemoVersions": [
         "2.4.9.37",
@@ -386,7 +386,7 @@
     {
       "Name": "Бухгалтерия некоммерческой организации",
       "Version": "3.0.71.10",
-      "PublishingDate": "2019-06-25T00:00:00",
+      "PublishingDate": "2019-06-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -739,10 +739,10 @@
         "2.4.9"
       ],
       "PlanReleaseDates": [
-        "2019-07-05T00:00:00"
+        "2019-07-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-03T00:00:00"
+        "2019-06-26T00:00:00"
       ],
       "DemoVersions": [
         "2.4.9.37"
@@ -1104,8 +1104,12 @@
       "PlanUpdateDates": [
         "2019-06-20T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "1.6.18.98"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-26T00:00:00"
+      ]
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.2",
@@ -1174,10 +1178,10 @@
         "11.4.9"
       ],
       "PlanReleaseDates": [
-        "2019-07-05T00:00:00"
+        "2019-07-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-03T00:00:00"
+        "2019-06-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
