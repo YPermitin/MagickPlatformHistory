@@ -1431,17 +1431,11 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.16.3",
-      "PublishingDate": "2019-06-14T00:00:00",
-      "PlanVersions": [
-        "3.0.16.4"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-26T00:00:00"
-      ],
+      "Version": "3.0.16.4",
+      "PublishingDate": "2019-06-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2825,10 +2819,10 @@
         "1.1.4.18"
       ],
       "PlanReleaseDates": [
-        "2019-06-27T00:00:00"
+        "2019-07-01T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-19T00:00:00"
+        "2019-06-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
