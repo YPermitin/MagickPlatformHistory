@@ -1735,15 +1735,9 @@
       "Name": "Аптека для Казахстана, редакция 2.2",
       "Version": "2.2.3.3",
       "PublishingDate": "2018-08-30T00:00:00",
-      "PlanVersions": [
-        "2.2.4"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-24T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1759,17 +1753,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.81",
-      "PublishingDate": "2019-06-10T00:00:00",
-      "PlanVersions": [
-        "2.0.66.82"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-25T00:00:00"
-      ],
+      "Version": "2.0.66.82",
+      "PublishingDate": "2019-06-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
