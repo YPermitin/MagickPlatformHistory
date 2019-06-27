@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 18,
+  "ReleasesCount": 19,
   "ReleasesHistory": [
     {
       "Created": "2019-02-04T12:24:27",
@@ -267,6 +267,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-27T14:40:11",
+      "Name": "1С:Ломбард ПРОФ редакция 3.0",
+      "Version": "3.0.70.61",
+      "PublishingDate": "2019-06-14T00:00:00",
+      "PlanVersions": [
+        "3.0.71.69"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
