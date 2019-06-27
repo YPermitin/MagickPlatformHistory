@@ -281,9 +281,15 @@
       "Name": "1С:Бухгалтерия строительной организации КОРП",
       "Version": "3.0.70.61",
       "PublishingDate": "2019-06-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.70.69"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1077,17 +1083,11 @@
     },
     {
       "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
-      "Version": "2.4.8.63",
-      "PublishingDate": "2019-06-18T00:00:00",
-      "PlanVersions": [
-        "2.4.8.73"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-24T00:00:00"
-      ],
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-06-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2067,9 +2067,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
       "Version": "3.1.70.61",
       "PublishingDate": "2019-06-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.71.69"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2325,10 +2331,10 @@
         "2.0.8.8"
       ],
       "PlanReleaseDates": [
-        "2019-06-27T00:00:00"
+        "2019-07-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-25T00:00:00"
+        "2019-06-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
