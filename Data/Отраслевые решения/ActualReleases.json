@@ -726,13 +726,13 @@
       "Version": "3.0.70.62",
       "PublishingDate": "2019-06-21T00:00:00",
       "PlanVersions": [
-        "3.0.71.63"
+        "3.0.71.69"
       ],
       "PlanReleaseDates": [
-        "2019-06-28T00:00:00"
+        "2019-07-01T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-24T00:00:00"
+        "2019-06-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -762,13 +762,13 @@
       "Version": "3.0.70.62",
       "PublishingDate": "2019-06-21T00:00:00",
       "PlanVersions": [
-        "3.0.71.63"
+        "3.0.71.69"
       ],
       "PlanReleaseDates": [
-        "2019-06-28T00:00:00"
+        "2019-07-01T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-24T00:00:00"
+        "2019-06-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3999,8 +3999,8 @@
     },
     {
       "Name": "Управление строительной организацией, редакция 1.3",
-      "Version": "1.3.122.2",
-      "PublishingDate": "2019-06-04T00:00:00",
+      "Version": "1.3.122.3",
+      "PublishingDate": "2019-06-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
