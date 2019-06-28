@@ -292,8 +292,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "1.6.2.9"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-28T00:00:00"
+      ]
     }
   ]
 }
