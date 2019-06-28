@@ -69,8 +69,8 @@
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.8.63",
-      "PublishingDate": "2019-06-13T00:00:00",
+      "Version": "2.4.8.79",
+      "PublishingDate": "2019-06-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2375,17 +2375,11 @@
     },
     {
       "Name": "Колледж, редакция 2.0",
-      "Version": "2.0.8.1",
-      "PublishingDate": "2019-06-13T00:00:00",
-      "PlanVersions": [
-        "2.0.8.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-26T00:00:00"
-      ],
+      "Version": "2.0.8.2",
+      "PublishingDate": "2019-06-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
