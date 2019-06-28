@@ -297,17 +297,11 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.70.61",
-      "PublishingDate": "2019-06-07T00:00:00",
-      "PlanVersions": [
-        "3.0.70.69"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-27T00:00:00"
-      ],
+      "Version": "3.0.71.69",
+      "PublishingDate": "2019-06-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
