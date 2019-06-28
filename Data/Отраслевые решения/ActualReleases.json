@@ -719,10 +719,10 @@
         "2.4.8.57"
       ],
       "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
+        "2019-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-27T00:00:00"
+        "2019-06-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2869,9 +2869,15 @@
       "Name": "Процессное производство. Химия",
       "Version": "1.3.122.2",
       "PublishingDate": "2019-06-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.122.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-06-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
