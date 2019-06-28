@@ -1761,17 +1761,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
-      "Version": "3.0.70.61",
-      "PublishingDate": "2019-06-14T00:00:00",
-      "PlanVersions": [
-        "3.0.71.63"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-26T00:00:00"
-      ],
+      "Version": "3.0.71.69",
+      "PublishingDate": "2019-06-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2351,17 +2345,11 @@
     },
     {
       "Name": "Колледж ПРОФ, редакция 2.0",
-      "Version": "2.0.8.1",
-      "PublishingDate": "2019-06-17T00:00:00",
-      "PlanVersions": [
-        "2.0.8.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-06-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-26T00:00:00"
-      ],
+      "Version": "2.0.8.2",
+      "PublishingDate": "2019-06-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4083,17 +4071,11 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.15.7",
-      "PublishingDate": "2019-05-29T00:00:00",
-      "PlanVersions": [
-        "3.0.15.9"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-28T00:00:00"
-      ],
+      "Version": "3.0.15.9",
+      "PublishingDate": "2019-06-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
