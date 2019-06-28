@@ -4,13 +4,24 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
       "Name": "1С-Рарус: Кассир базовая",
       "Version": "3.0.7.2",
       "PublishingDate": "2009-09-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-06-28T11:10:10",
+      "Name": "1С-Рарус: Кассир базовая",
+      "Version": "4.0.4.2",
+      "PublishingDate": "2019-06-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
