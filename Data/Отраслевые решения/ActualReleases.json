@@ -1151,33 +1151,21 @@
     },
     {
       "Name": "1С:Управление тепловодоканалом 2",
-      "Version": "2.2.12.1",
-      "PublishingDate": "2019-04-12T00:00:00",
-      "PlanVersions": [
-        "2.2.13.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-25T00:00:00"
-      ],
+      "Version": "2.2.13.1",
+      "PublishingDate": "2019-07-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Управление теплосетью 2",
-      "Version": "2.2.12.1",
-      "PublishingDate": "2019-04-12T00:00:00",
-      "PlanVersions": [
-        "2.2.13.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-25T00:00:00"
-      ],
+      "Version": "2.2.13.1",
+      "PublishingDate": "2019-07-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
