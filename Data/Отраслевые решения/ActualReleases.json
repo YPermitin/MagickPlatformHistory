@@ -1123,9 +1123,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
       "Version": "3.0.70.54",
       "PublishingDate": "2019-06-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
