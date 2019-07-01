@@ -259,17 +259,11 @@
     },
     {
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
-      "Version": "3.0.70.39",
-      "PublishingDate": "2019-04-29T00:00:00",
-      "PlanVersions": [
-        "3.0.71"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-26T00:00:00"
-      ],
+      "Version": "3.0.71.75",
+      "PublishingDate": "2019-07-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1835,17 +1829,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.71.63",
-      "PublishingDate": "2019-06-26T00:00:00",
-      "PlanVersions": [
-        "3.0.71.75"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-01T00:00:00"
-      ],
+      "Version": "3.0.71.75",
+      "PublishingDate": "2019-07-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2787,10 +2775,10 @@
         "1.1.4.18"
       ],
       "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
+        "2019-07-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-06-26T00:00:00"
+        "2019-07-01T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
