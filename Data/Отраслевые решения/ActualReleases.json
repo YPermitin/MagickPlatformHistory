@@ -7,17 +7,11 @@
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
-      "Version": "4.2.9.1",
-      "PublishingDate": "2018-12-20T00:00:00",
-      "PlanVersions": [
-        "4.2.10.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-01T00:00:00"
-      ],
+      "Version": "4.2.10.1",
+      "PublishingDate": "2019-06-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1059,17 +1053,11 @@
     },
     {
       "Name": "1С:Управление водоканалом 2",
-      "Version": "2.2.12.1",
-      "PublishingDate": "2019-04-12T00:00:00",
-      "PlanVersions": [
-        "2.2.13.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-25T00:00:00"
-      ],
+      "Version": "2.2.13.1",
+      "PublishingDate": "2019-07-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1119,9 +1107,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
       "Version": "3.0.70.54",
       "PublishingDate": "2019-06-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
