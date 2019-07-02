@@ -47,17 +47,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.8.73",
-      "PublishingDate": "2019-06-25T00:00:00",
-      "PlanVersions": [
-        "2.4.8.79"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-28T00:00:00"
-      ],
+      "Version": "2.4.8.79",
+      "PublishingDate": "2019-07-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1483,8 +1477,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.8.79",
-      "PublishingDate": "2019-06-28T00:00:00",
+      "Version": "2.4.8.82",
+      "PublishingDate": "2019-07-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
