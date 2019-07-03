@@ -1861,10 +1861,10 @@
         "3.0.71.2"
       ],
       "PlanReleaseDates": [
-        "2019-07-02T00:00:00"
+        "2019-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-01T00:00:00"
+        "2019-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3895,9 +3895,15 @@
       "Name": "Управление ритуальными услугами, редакция 1.6",
       "Version": "1.6.18.88",
       "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.18.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
