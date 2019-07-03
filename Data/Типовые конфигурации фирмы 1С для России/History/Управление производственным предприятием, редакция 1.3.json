@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 21,
+  "ReleasesCount": 22,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -265,6 +265,23 @@
       ],
       "PlanUpdateDates": [
         "2019-07-01T00:00:00",
+        "2019-07-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-03T19:40:11",
+      "Name": "Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.123.2",
+      "PublishingDate": "2019-07-03T00:00:00",
+      "PlanVersions": [
+        "1.3.124"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
         "2019-07-01T00:00:00"
       ],
       "DemoVersions": [],
