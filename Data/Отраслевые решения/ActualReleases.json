@@ -689,17 +689,11 @@
     },
     {
       "Name": "1С:Мясопереработка MES. Модуль для 1С:ERP",
-      "Version": "2.4.7.147",
-      "PublishingDate": "2019-05-15T00:00:00",
-      "PlanVersions": [
-        "2.4.8.57"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-28T00:00:00"
-      ],
+      "Version": "2.4.8.57",
+      "PublishingDate": "2019-07-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3555,9 +3549,15 @@
       "Name": "Турагентство Базовая, редакция 1.6",
       "Version": "1.6.17.161",
       "PublishingDate": "2019-04-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.18.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3595,9 +3595,15 @@
       "Name": "Турагентство, редакция 1.6",
       "Version": "1.6.17.161",
       "PublishingDate": "2019-04-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.18.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
