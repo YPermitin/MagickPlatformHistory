@@ -4257,17 +4257,11 @@
     },
     {
       "Name": "Фотоуслуги, редакция 1.6",
-      "Version": "1.6.17.152",
-      "PublishingDate": "2019-04-23T00:00:00",
-      "PlanVersions": [
-        "1.6.18.98"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-01T00:00:00"
-      ],
+      "Version": "1.6.18.98",
+      "PublishingDate": "2019-07-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
