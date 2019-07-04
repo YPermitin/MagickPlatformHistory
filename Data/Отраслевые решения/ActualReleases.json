@@ -287,9 +287,15 @@
       "Name": "1С:Бухгалтерия строительной организации КОРП",
       "Version": "3.0.71.69",
       "PublishingDate": "2019-06-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.77"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2011,9 +2017,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
       "Version": "3.1.71.69",
       "PublishingDate": "2019-06-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.71.77"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3929,9 +3941,15 @@
       "Name": "Управление сельскохозяйственным предприятием",
       "Version": "1.3.123.1",
       "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.123.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
