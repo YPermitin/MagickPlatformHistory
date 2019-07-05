@@ -105,10 +105,12 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "2.6.1.48",
         "2.6.1.37",
         "2.6.1.35"
       ],
       "DemoPublicationDates": [
+        "2019-07-05T00:00:00",
         "2019-06-14T00:00:00",
         "2019-06-07T00:00:00"
       ]
