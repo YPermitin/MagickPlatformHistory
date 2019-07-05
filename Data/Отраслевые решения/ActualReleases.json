@@ -1429,10 +1429,10 @@
         "3.0.16.5"
       ],
       "PlanReleaseDates": [
-        "2019-07-04T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-03T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1885,10 +1885,10 @@
         "3.0.71.2"
       ],
       "PlanReleaseDates": [
-        "2019-07-04T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-04T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2137,10 +2137,10 @@
         "1.3.123.1"
       ],
       "PlanReleaseDates": [
-        "2019-07-05T00:00:00"
+        "2019-07-09T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-02T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2443,10 +2443,10 @@
         "1.1.118"
       ],
       "PlanReleaseDates": [
-        "2019-07-04T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-03T00:00:00"
+        "2019-07-05T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2533,17 +2533,11 @@
     },
     {
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
-      "Version": "2.4.7.141",
-      "PublishingDate": "2019-04-22T00:00:00",
-      "PlanVersions": [
-        "2.4.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-03T00:00:00"
-      ],
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-07-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
