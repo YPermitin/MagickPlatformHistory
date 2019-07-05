@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -107,6 +107,17 @@
       "Name": "1С:Заказчик-застройщик. Модуль для 1С:ERP",
       "Version": "2.4.7.85",
       "PublishingDate": "2019-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-05T21:40:10",
+      "Name": "1С:Заказчик-застройщик. Модуль для 1С:ERP",
+      "Version": "2.4.8.73",
+      "PublishingDate": "2019-07-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
