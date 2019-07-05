@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 27,
+  "ReleasesCount": 28,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -533,6 +533,25 @@
         "1.11.0.808"
       ],
       "DemoPublicationDates": [
+        "2019-06-28T00:00:00",
+        "2019-06-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-07-06T00:10:09",
+      "Name": "1C:Enterprise Development Tools",
+      "Version": "1.11.0.869",
+      "PublishingDate": "2019-06-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.11.1.15",
+        "1.11.1.5",
+        "1.11.0.808"
+      ],
+      "DemoPublicationDates": [
+        "2019-07-05T00:00:00",
         "2019-06-28T00:00:00",
         "2019-06-19T00:00:00"
       ]
