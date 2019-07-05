@@ -207,9 +207,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.79",
       "PublishingDate": "2019-06-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.8.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-05T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
