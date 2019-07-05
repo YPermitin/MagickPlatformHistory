@@ -431,17 +431,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.71.63",
-      "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [
-        "3.0.71.77"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-03T00:00:00"
-      ],
+      "Version": "3.0.71.77",
+      "PublishingDate": "2019-07-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4077,17 +4071,11 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.15.9",
-      "PublishingDate": "2019-06-28T00:00:00",
-      "PlanVersions": [
-        "3.0.15.10"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-05T00:00:00"
-      ],
+      "Version": "3.0.15.10",
+      "PublishingDate": "2019-07-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
