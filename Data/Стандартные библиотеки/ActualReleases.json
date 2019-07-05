@@ -296,17 +296,13 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.6",
-      "Version": "1.6.1.48",
+      "Version": "1.6.2.13",
       "PublishingDate": "2019-07-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "1.6.2.9"
-      ],
-      "DemoPublicationDates": [
-        "2019-06-28T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
