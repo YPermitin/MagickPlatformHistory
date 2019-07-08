@@ -3,7 +3,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 109,
+  "ReleasesCount": 110,
   "Releases": [
     {
       "Name": "1С:275ФЗ",
@@ -135,6 +135,16 @@
       "Name": "1С:Мобильная касса (для разработчиков)",
       "Version": "2.24.2.0",
       "PublishingDate": "2019-06-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Налоговый мониторинг",
+      "Version": "3.0.7.5",
+      "PublishingDate": "2019-07-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -404,8 +414,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.71.83"
+      ],
+      "DemoPublicationDates": [
+        "2019-07-08T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
