@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 15,
+  "ReleasesCount": 16,
   "ReleasesHistory": [
     {
       "Created": "2019-01-21T19:18:26",
@@ -252,6 +252,17 @@
       "PlanUpdateDates": [
         "2019-07-08T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-09T19:40:10",
+      "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "2.4.8.63",
+      "PublishingDate": "2019-07-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
