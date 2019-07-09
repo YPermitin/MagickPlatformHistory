@@ -677,9 +677,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.71.75",
       "PublishingDate": "2019-07-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.83"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -707,9 +713,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.71.75",
       "PublishingDate": "2019-07-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.83"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1791,17 +1803,11 @@
     },
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.71.63",
-      "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [
-        "3.0.71.75"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-02T00:00:00"
-      ],
+      "Version": "3.0.71.75",
+      "PublishingDate": "2019-07-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
