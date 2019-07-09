@@ -2851,9 +2851,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.70.61",
       "PublishingDate": "2019-06-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.77"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
