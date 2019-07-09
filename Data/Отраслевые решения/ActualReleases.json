@@ -253,9 +253,15 @@
       "Name": "1С:Бухгалтерия СНТ",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.70.17"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1447,8 +1453,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.8.82",
-      "PublishingDate": "2019-07-02T00:00:00",
+      "Version": "2.4.8.84",
+      "PublishingDate": "2019-07-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
