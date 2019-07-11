@@ -713,17 +713,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.81",
-      "PublishingDate": "2019-05-31T00:00:00",
-      "PlanVersions": [
-        "2.0.66.82"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-10T00:00:00"
-      ],
+      "Version": "2.0.66.82",
+      "PublishingDate": "2019-07-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4059,8 +4053,8 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.15.10",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "3.0.15.11",
+      "PublishingDate": "2019-07-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
