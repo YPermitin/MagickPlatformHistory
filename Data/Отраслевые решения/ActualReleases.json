@@ -1721,9 +1721,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.71.77",
       "PublishingDate": "2019-07-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.83"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1947,9 +1953,15 @@
       "Name": "Бухгалтерия строительной организации для Казахстана",
       "Version": "3.0.29.8",
       "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.29.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
