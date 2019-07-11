@@ -49,9 +49,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.8.82",
       "PublishingDate": "2019-07-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.8.84"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -257,17 +263,11 @@
     },
     {
       "Name": "1С:Бухгалтерия СНТ",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "3.0.70.17"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-09T00:00:00"
-      ],
+      "Version": "3.0.70.17",
+      "PublishingDate": "2019-07-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
