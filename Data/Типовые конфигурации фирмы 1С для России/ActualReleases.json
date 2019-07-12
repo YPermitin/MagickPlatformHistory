@@ -385,15 +385,9 @@
       "Name": "Бухгалтерия государственного учреждения, редакция 2.0",
       "Version": "2.0.63.39",
       "PublishingDate": "2019-06-28T00:00:00",
-      "PlanVersions": [
-        "2.0.64"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-02T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
