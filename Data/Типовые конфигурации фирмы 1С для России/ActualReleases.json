@@ -105,10 +105,10 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "2.6.1.48"
+        "2.6.1.50"
       ],
       "DemoPublicationDates": [
-        "2019-07-05T00:00:00"
+        "2019-07-12T00:00:00"
       ]
     },
     {
@@ -1035,8 +1035,8 @@
     },
     {
       "Name": "Управление нашей фирмой базовая, редакция 1.6",
-      "Version": "1.6.18.105",
-      "PublishingDate": "2019-07-09T00:00:00",
+      "Version": "1.6.18.117",
+      "PublishingDate": "2019-07-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1095,8 +1095,8 @@
     },
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
-      "Version": "1.6.18.105",
-      "PublishingDate": "2019-07-02T00:00:00",
+      "Version": "1.6.18.117",
+      "PublishingDate": "2019-07-12T00:00:00",
       "PlanVersions": [
         "1.6.19"
       ],
