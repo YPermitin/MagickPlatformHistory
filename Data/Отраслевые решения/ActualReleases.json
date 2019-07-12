@@ -1021,17 +1021,11 @@
     },
     {
       "Name": "1С:Управление деревообрабатывающим предприятием. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.7.107",
-      "PublishingDate": "2019-03-28T00:00:00",
-      "PlanVersions": [
-        "2.4.8.73"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-10T00:00:00"
-      ],
+      "Version": "2.4.8.84",
+      "PublishingDate": "2019-07-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1801,9 +1795,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.71.75",
       "PublishingDate": "2019-07-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.83"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2837,17 +2837,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
-      "Version": "3.0.70.61",
-      "PublishingDate": "2019-06-11T00:00:00",
-      "PlanVersions": [
-        "3.0.71.77"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-09T00:00:00"
-      ],
+      "Version": "3.0.71.77",
+      "PublishingDate": "2019-07-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
