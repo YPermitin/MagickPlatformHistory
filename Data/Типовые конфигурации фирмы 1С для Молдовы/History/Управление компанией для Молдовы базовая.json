@@ -4,7 +4,7 @@
     "ID": 126,
     "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:41",
@@ -22,6 +22,17 @@
       "Name": "Управление компанией для Молдовы базовая",
       "Version": "1.6.16.219",
       "PublishingDate": "2019-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-12T23:43:10",
+      "Name": "Управление компанией для Молдовы базовая",
+      "Version": "1.6.17.174",
+      "PublishingDate": "2019-07-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
