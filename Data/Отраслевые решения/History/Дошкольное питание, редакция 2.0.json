@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -39,6 +39,17 @@
       "Name": "Дошкольное питание, редакция 2.0",
       "Version": "2.0.8.333",
       "PublishingDate": "2019-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-12T23:43:11",
+      "Name": "Дошкольное питание, редакция 2.0",
+      "Version": "2.0.8.350",
+      "PublishingDate": "2019-07-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
