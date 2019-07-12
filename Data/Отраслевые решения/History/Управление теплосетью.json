@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 28,
+  "ReleasesCount": 29,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -428,6 +428,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-12T23:43:11",
+      "Name": "Управление теплосетью",
+      "Version": "1.3.122.2",
+      "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [
+        "1.3.123"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
