@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 15,
+  "ReleasesCount": 16,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -171,6 +171,17 @@
       "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
       "Version": "5.5.36.5",
       "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-12T23:43:11",
+      "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
+      "Version": "5.5.36.6",
+      "PublishingDate": "2019-06-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
