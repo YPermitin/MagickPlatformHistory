@@ -256,7 +256,7 @@
       "Version": "3.0.71.75",
       "PublishingDate": "2019-07-01T00:00:00",
       "PlanVersions": [
-        "3.0.71.77"
+        "3.0.71.83"
       ],
       "PlanReleaseDates": [
         "2019-07-12T00:00:00"
@@ -1919,17 +1919,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.71.75",
-      "PublishingDate": "2019-06-28T00:00:00",
-      "PlanVersions": [
-        "3.0.71.77"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-09T00:00:00"
-      ],
+      "Version": "3.0.71.83",
+      "PublishingDate": "2019-07-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
