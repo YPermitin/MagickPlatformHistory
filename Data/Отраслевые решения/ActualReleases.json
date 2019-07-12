@@ -499,9 +499,15 @@
       "Name": "1С:Медицина. Диетическое питание, редакция 2.0",
       "Version": "2.0.8.330",
       "PublishingDate": "2019-01-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.8.351"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2341,9 +2347,15 @@
       "Name": "Комбинат планового питания, редакция 2.0",
       "Version": "2.0.8.331",
       "PublishingDate": "2019-02-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.8.353"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2851,17 +2863,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
-      "Version": "3.0.70.61",
-      "PublishingDate": "2019-06-11T00:00:00",
-      "PlanVersions": [
-        "3.0.71.77"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-09T00:00:00"
-      ],
+      "Version": "3.0.71.77",
+      "PublishingDate": "2019-07-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4355,9 +4361,15 @@
       "Name": "Школьное питание, редакция 2.0",
       "Version": "2.0.8.332",
       "PublishingDate": "2019-01-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.8.352"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
