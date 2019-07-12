@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -116,6 +116,17 @@
       "Name": "Розница для Беларуси, редакция 2",
       "Version": "2.2.17.28",
       "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-12T23:43:09",
+      "Name": "Розница для Беларуси, редакция 2",
+      "Version": "2.2.18.3",
+      "PublishingDate": "2019-07-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
