@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 17,
+  "ReleasesCount": 18,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -255,6 +255,23 @@
       ],
       "PlanUpdateDates": [
         "2019-07-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-12T14:10:11",
+      "Name": "Турагентство Базовая, редакция 1.6",
+      "Version": "1.6.17.161",
+      "PublishingDate": "2019-04-30T00:00:00",
+      "PlanVersions": [
+        "1.6.18.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-12T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
