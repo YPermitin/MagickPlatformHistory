@@ -49,8 +49,8 @@
     },
     {
       "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
-      "Version": "3.0.6.15",
-      "PublishingDate": "2019-05-30T00:00:00",
+      "Version": "3.0.7.6",
+      "PublishingDate": "2019-07-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -203,8 +203,8 @@
     },
     {
       "Name": "1С:Управление холдингом 3.0",
-      "Version": "3.0.6.15",
-      "PublishingDate": "2019-05-30T00:00:00",
+      "Version": "3.0.7.6",
+      "PublishingDate": "2019-07-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
