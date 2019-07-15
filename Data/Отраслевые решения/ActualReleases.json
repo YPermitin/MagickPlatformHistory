@@ -1933,17 +1933,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации для Казахстана",
-      "Version": "3.0.29.8",
-      "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [
-        "3.0.29.9"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-11T00:00:00"
-      ],
+      "Version": "3.0.29.9",
+      "PublishingDate": "2019-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2911,17 +2905,11 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.8.79",
-      "PublishingDate": "2019-07-08T00:00:00",
-      "PlanVersions": [
-        "11.4.8.84"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-11T00:00:00"
-      ],
+      "Version": "11.4.8.84",
+      "PublishingDate": "2019-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
