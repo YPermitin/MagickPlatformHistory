@@ -147,17 +147,11 @@
     },
     {
       "Name": "Айлант: Управление ЖКХ  КОРП, ред. 3.1",
-      "Version": "3.1.71.77",
-      "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [
-        "3.1.71.78"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-14T00:00:00"
-      ],
+      "Version": "3.1.71.78",
+      "PublishingDate": "2019-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
