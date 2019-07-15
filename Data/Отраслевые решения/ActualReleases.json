@@ -73,8 +73,8 @@
     },
     {
       "Name": "1С:ERP Управление птицеводческим предприятием 2",
-      "Version": "2.4.8.79",
-      "PublishingDate": "2019-06-28T00:00:00",
+      "Version": "2.4.8.84",
+      "PublishingDate": "2019-07-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -921,9 +921,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.8.63",
       "PublishingDate": "2019-06-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.8.84"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3745,9 +3751,15 @@
       "Name": "Управление корпоративными финансами, редакция 3.0",
       "Version": "3.0.71.1",
       "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4149,9 +4161,15 @@
       "Name": "Фармпроизводство, редакция 1.3",
       "Version": "1.3.123.1",
       "PublishingDate": "2019-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.123.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
