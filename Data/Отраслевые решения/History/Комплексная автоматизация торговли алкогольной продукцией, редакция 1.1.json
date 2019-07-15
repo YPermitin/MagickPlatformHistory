@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 22,
+  "ReleasesCount": 23,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -305,6 +305,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-15T13:32:22",
+      "Name": "Комплексная автоматизация торговли алкогольной продукцией, редакция 1.1",
+      "Version": "1.1.115.2",
+      "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [
+        "1.1.115.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
