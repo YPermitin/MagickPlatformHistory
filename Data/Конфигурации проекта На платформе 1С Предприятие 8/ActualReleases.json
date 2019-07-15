@@ -399,9 +399,15 @@
       "Name": "КАМИН: Расчет заработной платы",
       "Version": "3.0.99.5",
       "PublishingDate": "2019-06-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.100"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -409,9 +415,15 @@
       "Name": "КАМИН: Расчет заработной платы базовая",
       "Version": "3.0.99.5",
       "PublishingDate": "2019-06-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.100"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
