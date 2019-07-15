@@ -1075,10 +1075,10 @@
         "3.0.71.75"
       ],
       "PlanReleaseDates": [
-        "2019-07-15T00:00:00"
+        "2019-07-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-12T00:00:00"
+        "2019-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1855,8 +1855,8 @@
     },
     {
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
-      "Version": "3.0.71.2",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "3.0.71.3",
+      "PublishingDate": "2019-07-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
