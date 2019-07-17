@@ -4311,17 +4311,11 @@
     },
     {
       "Name": "Школьное питание, редакция 2.0",
-      "Version": "2.0.8.332",
-      "PublishingDate": "2019-01-31T00:00:00",
-      "PlanVersions": [
-        "2.0.8.352"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-12T00:00:00"
-      ],
+      "Version": "2.0.8.352",
+      "PublishingDate": "2019-07-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
