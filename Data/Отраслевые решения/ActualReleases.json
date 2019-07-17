@@ -3451,9 +3451,15 @@
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
       "Version": "1.3.122.1",
       "PublishingDate": "2019-05-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.123.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3863,9 +3869,15 @@
       "Name": "Управление ремонтным предприятием, редакция 1.3",
       "Version": "1.3.123.1",
       "PublishingDate": "2019-07-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.123.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
