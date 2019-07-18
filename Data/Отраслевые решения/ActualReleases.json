@@ -1171,9 +1171,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.71.6",
       "PublishingDate": "2019-07-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1181,9 +1187,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.71.6",
       "PublishingDate": "2019-07-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3689,17 +3701,11 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 3.0",
-      "Version": "3.0.71.1",
-      "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [
-        "3.0.71.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-15T00:00:00"
-      ],
+      "Version": "3.0.71.2",
+      "PublishingDate": "2019-07-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
