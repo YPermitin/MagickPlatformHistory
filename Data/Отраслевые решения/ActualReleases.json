@@ -283,17 +283,11 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.71.83",
-      "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [
-        "3.0.71.86"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-18T00:00:00"
-      ],
+      "Version": "3.0.71.86",
+      "PublishingDate": "2019-07-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4177,9 +4171,15 @@
       "Name": "Фитнес клуб КОРП, редакция 4.0",
       "Version": "4.0.11.12",
       "PublishingDate": "2019-05-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
