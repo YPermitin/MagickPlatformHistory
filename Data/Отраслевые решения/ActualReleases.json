@@ -913,10 +913,10 @@
         "2.4.8.84"
       ],
       "PlanReleaseDates": [
-        "2019-07-18T00:00:00"
+        "2019-07-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-15T00:00:00"
+        "2019-07-18T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1073,17 +1073,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
-      "Version": "3.0.70.54",
-      "PublishingDate": "2019-06-17T00:00:00",
-      "PlanVersions": [
-        "3.0.71.75"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-15T00:00:00"
-      ],
+      "Version": "3.0.71.75",
+      "PublishingDate": "2019-07-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3391,9 +3385,15 @@
       "Name": "Технический расчетный центр водоканала",
       "Version": "1.0.22.1",
       "PublishingDate": "2019-04-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3401,9 +3401,15 @@
       "Name": "Технический расчетный центр водоканала базовая",
       "Version": "1.0.22.1",
       "PublishingDate": "2019-04-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3411,9 +3417,15 @@
       "Name": "Технический расчетный центр теплосети",
       "Version": "1.0.22.1",
       "PublishingDate": "2019-04-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3421,9 +3433,15 @@
       "Name": "Технический расчетный центр теплосети базовая",
       "Version": "1.0.22.1",
       "PublishingDate": "2019-04-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3977,9 +3995,15 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.8.73",
       "PublishingDate": "2019-06-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.8.84"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
