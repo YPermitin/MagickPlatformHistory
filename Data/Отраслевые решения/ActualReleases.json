@@ -1719,17 +1719,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.63.39",
-      "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [
-        "2.0.64.15"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-16T00:00:00"
-      ],
+      "Version": "2.0.64.15",
+      "PublishingDate": "2019-07-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3629,17 +3623,11 @@
     },
     {
       "Name": "Управление аптечной сетью, редакция 11.4",
-      "Version": "11.4.8.82",
-      "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [
-        "11.4.8.84"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-17T00:00:00"
-      ],
+      "Version": "11.4.8.84",
+      "PublishingDate": "2019-07-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
