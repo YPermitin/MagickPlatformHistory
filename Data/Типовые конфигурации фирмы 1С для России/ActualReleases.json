@@ -855,17 +855,11 @@
     },
     {
       "Name": "Налогоплательщик",
-      "Version": "3.0.167.1",
-      "PublishingDate": "2019-06-20T00:00:00",
-      "PlanVersions": [
-        "3.0.168"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-28T00:00:00"
-      ],
+      "Version": "3.0.168.1",
+      "PublishingDate": "2019-07-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
