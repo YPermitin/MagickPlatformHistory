@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 14,
+  "ReleasesCount": 15,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -169,6 +169,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-19T17:02:21",
+      "Name": "Бухгалтерия для Беларуси, редакция 2",
+      "Version": "2.1.28.20",
+      "PublishingDate": "2019-07-10T00:00:00",
+      "PlanVersions": [
+        "2.1.29"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
