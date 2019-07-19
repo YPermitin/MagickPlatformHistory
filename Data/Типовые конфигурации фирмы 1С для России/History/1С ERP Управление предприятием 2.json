@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 46,
+  "ReleasesCount": 47,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -938,6 +938,29 @@
       ],
       "PlanUpdateDates": [
         "2019-07-05T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.4.9.37",
+        "2.5.2.71"
+      ],
+      "DemoPublicationDates": [
+        "2019-06-21T00:00:00",
+        "2019-06-20T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-07-19T16:32:20",
+      "Name": "1С:ERP Управление предприятием 2",
+      "Version": "2.4.8.84",
+      "PublishingDate": "2019-07-05T00:00:00",
+      "PlanVersions": [
+        "2.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-19T00:00:00"
       ],
       "DemoVersions": [
         "2.4.9.37",
