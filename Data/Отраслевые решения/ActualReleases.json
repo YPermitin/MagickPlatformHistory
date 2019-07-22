@@ -83,10 +83,10 @@
         "2.4.8.84"
       ],
       "PlanReleaseDates": [
-        "2019-07-19T00:00:00"
+        "2019-07-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-18T00:00:00"
+        "2019-07-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1091,9 +1091,15 @@
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.82",
       "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.8.84"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2029,10 +2035,10 @@
         "2.0.4.1"
       ],
       "PlanReleaseDates": [
-        "2019-07-22T00:00:00"
+        "2019-07-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-18T00:00:00"
+        "2019-07-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
