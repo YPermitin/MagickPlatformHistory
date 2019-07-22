@@ -4,7 +4,7 @@
     "ID": 126,
     "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
   },
-  "ReleasesCount": 14,
+  "ReleasesCount": 15,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:41",
@@ -269,6 +269,27 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.6.1"
+      ],
+      "DemoPublicationDates": [
+        "2018-10-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-07-22T15:02:22",
+      "Name": "Управление торговлей для Молдовы, редакция 2",
+      "Version": "2.4.10.1",
+      "PublishingDate": "2019-07-15T00:00:00",
+      "PlanVersions": [
+        "2.4.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-22T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.1"
       ],
