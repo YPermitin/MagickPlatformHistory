@@ -839,9 +839,15 @@
       "Name": "1С:Похозяйственный учет муниципального образования",
       "Version": "2.0.1.24",
       "PublishingDate": "2019-06-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.1.25"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
