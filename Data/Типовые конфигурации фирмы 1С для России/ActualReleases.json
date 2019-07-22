@@ -643,14 +643,12 @@
       "PublishingDate": "2019-06-28T00:00:00",
       "PlanVersions": [
         "3.1.11",
-        "3.1.10.",
-        "3.1.5."
+        "3.1.10."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
         "2019-06-14T00:00:00",
-        "2019-06-28T00:00:00",
-        "2019-06-21T00:00:00"
+        "2019-06-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -695,14 +693,12 @@
       "PublishingDate": "2019-06-28T00:00:00",
       "PlanVersions": [
         "3.1.11",
-        "3.1.10.",
-        "3.1.5."
+        "3.1.10."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
         "2019-06-14T00:00:00",
-        "2019-06-28T00:00:00",
-        "2019-06-21T00:00:00"
+        "2019-06-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
