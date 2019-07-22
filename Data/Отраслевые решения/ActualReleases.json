@@ -2339,17 +2339,11 @@
     },
     {
       "Name": "Комбинат планового питания, редакция 2.0",
-      "Version": "2.0.8.331",
-      "PublishingDate": "2019-02-01T00:00:00",
-      "PlanVersions": [
-        "2.0.8.353"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-12T00:00:00"
-      ],
+      "Version": "2.0.8.353",
+      "PublishingDate": "2019-07-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2675,17 +2669,11 @@
     },
     {
       "Name": "Полиграфия, редакция 1.3",
-      "Version": "1.3.123.2",
-      "PublishingDate": "2019-07-04T00:00:00",
-      "PlanVersions": [
-        "1.3.124.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-19T00:00:00"
-      ],
+      "Version": "1.3.124.1",
+      "PublishingDate": "2019-07-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3870,13 +3858,13 @@
       "Version": "1.3.123.2",
       "PublishingDate": "2019-07-09T00:00:00",
       "PlanVersions": [
-        "1.3.123.3"
+        "1.3.124.1"
       ],
       "PlanReleaseDates": [
         "2019-07-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-15T00:00:00"
+        "2019-07-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
