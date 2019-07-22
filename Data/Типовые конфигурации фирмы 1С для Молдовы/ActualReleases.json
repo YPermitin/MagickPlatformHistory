@@ -73,9 +73,15 @@
       "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
       "Version": "3.1.9.1",
       "PublishingDate": "2019-07-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -137,9 +143,15 @@
       "Name": "Управление торговлей для Молдовы, редакция 2",
       "Version": "2.4.10.1",
       "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-22T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.1"
       ],
