@@ -1095,17 +1095,11 @@
     },
     {
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.8.82",
-      "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [
-        "2.4.8.84"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-22T00:00:00"
-      ],
+      "Version": "2.4.8.84",
+      "PublishingDate": "2019-07-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4108,8 +4102,8 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 1",
-      "Version": "1.1.56.4",
-      "PublishingDate": "2019-07-19T00:00:00",
+      "Version": "1.1.57.1",
+      "PublishingDate": "2019-07-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
