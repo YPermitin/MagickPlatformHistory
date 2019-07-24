@@ -77,17 +77,11 @@
     },
     {
       "Name": "Бухгалтерия для Казахстана, редакция 3.0",
-      "Version": "3.0.29.1",
-      "PublishingDate": "2019-06-13T00:00:00",
-      "PlanVersions": [
-        "3.0.30"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-16T00:00:00"
-      ],
+      "Version": "3.0.30.1",
+      "PublishingDate": "2019-07-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
