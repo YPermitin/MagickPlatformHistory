@@ -69,8 +69,8 @@
     },
     {
       "Name": "1С:Бюджет муниципального образования 8",
-      "Version": "1.3.13.19",
-      "PublishingDate": "2019-07-03T00:00:00",
+      "Version": "1.3.13.28",
+      "PublishingDate": "2019-07-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1151,8 +1151,8 @@
     },
     {
       "Name": "Управление торговлей, редакция 11",
-      "Version": "11.4.8.84",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "11.4.8.92",
+      "PublishingDate": "2019-07-24T00:00:00",
       "PlanVersions": [
         "11.4.9"
       ],
