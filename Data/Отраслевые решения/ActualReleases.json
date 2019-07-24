@@ -1401,9 +1401,15 @@
       "Name": "CRM, редакция 3.0",
       "Version": "3.0.16.7",
       "PublishingDate": "2019-07-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.16.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1900,17 +1906,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана",
-      "Version": "2.0.30.2",
-      "PublishingDate": "2019-07-08T00:00:00",
-      "PlanVersions": [
-        "2.0.30.3"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-19T00:00:00"
-      ],
+      "Version": "2.0.30.3",
+      "PublishingDate": "2019-07-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
