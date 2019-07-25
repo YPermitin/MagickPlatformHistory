@@ -1399,17 +1399,11 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.16.7",
-      "PublishingDate": "2019-07-09T00:00:00",
-      "PlanVersions": [
-        "3.0.16.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-24T00:00:00"
-      ],
+      "Version": "3.0.16.8",
+      "PublishingDate": "2019-07-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
