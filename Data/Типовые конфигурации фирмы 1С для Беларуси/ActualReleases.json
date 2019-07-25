@@ -27,17 +27,11 @@
     },
     {
       "Name": "Бухгалтерия для Беларуси, редакция 2",
-      "Version": "2.1.28.20",
-      "PublishingDate": "2019-07-10T00:00:00",
-      "PlanVersions": [
-        "2.1.29"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-19T00:00:00"
-      ],
+      "Version": "2.1.29.5",
+      "PublishingDate": "2019-07-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
