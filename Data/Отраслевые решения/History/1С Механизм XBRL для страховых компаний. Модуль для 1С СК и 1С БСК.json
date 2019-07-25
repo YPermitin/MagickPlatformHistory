@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -132,6 +132,23 @@
       ],
       "PlanUpdateDates": [
         "2019-07-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-25T17:02:20",
+      "Name": "1С:Механизм XBRL для страховых компаний. Модуль для 1С:СК и 1С:БСК",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.0.3.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
