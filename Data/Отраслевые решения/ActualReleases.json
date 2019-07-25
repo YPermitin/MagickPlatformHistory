@@ -83,10 +83,10 @@
         "2.4.8.84"
       ],
       "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
+        "2019-07-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-23T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -919,10 +919,10 @@
         "2.4.8.84"
       ],
       "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
+        "2019-07-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-19T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1887,11 +1887,11 @@
       ],
       "PlanReleaseDates": [
         "2019-07-30T00:00:00",
-        "2019-07-24T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-07-22T00:00:00",
-        "2019-07-24T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3518,10 +3518,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-18T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3534,10 +3534,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-18T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3550,10 +3550,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-07-24T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-18T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3894,10 +3894,10 @@
         "1.3.123.3"
       ],
       "PlanReleaseDates": [
-        "2019-07-25T00:00:00"
+        "2019-07-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-23T00:00:00"
+        "2019-07-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
