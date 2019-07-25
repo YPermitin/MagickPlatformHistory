@@ -273,17 +273,11 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.71.83",
-      "PublishingDate": "2019-07-18T00:00:00",
-      "PlanVersions": [
-        "3.0.71.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-24T00:00:00"
-      ],
+      "Version": "3.0.71.89",
+      "PublishingDate": "2019-07-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1077,9 +1071,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
       "Version": "3.0.71.75",
       "PublishingDate": "2019-07-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.86"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1087,9 +1087,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
       "Version": "3.0.71.75",
       "PublishingDate": "2019-07-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.86"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4078,9 +4084,15 @@
       "Name": "Управление торговлей алкогольной продукцией",
       "Version": "10.3.54.3",
       "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "10.3.55.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
