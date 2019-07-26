@@ -1827,9 +1827,15 @@
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
       "Version": "3.0.21.1",
       "PublishingDate": "2019-06-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.22.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
