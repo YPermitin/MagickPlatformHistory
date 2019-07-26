@@ -1063,17 +1063,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
-      "Version": "3.0.71.75",
-      "PublishingDate": "2019-07-16T00:00:00",
-      "PlanVersions": [
-        "3.0.71.86"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-25T00:00:00"
-      ],
+      "Version": "3.0.71.86",
+      "PublishingDate": "2019-07-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1201,17 +1195,11 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.71.64",
-      "PublishingDate": "2019-07-16T00:00:00",
-      "PlanVersions": [
-        "3.0.71.78"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-16T00:00:00"
-      ],
+      "Version": "3.0.71.78",
+      "PublishingDate": "2019-07-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
