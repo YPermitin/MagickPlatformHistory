@@ -233,10 +233,10 @@
         "4.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-07-29T00:00:00"
+        "2019-07-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-25T00:00:00"
+        "2019-07-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1169,17 +1169,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.71.6",
-      "PublishingDate": "2019-07-16T00:00:00",
-      "PlanVersions": [
-        "3.0.71.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-24T00:00:00"
-      ],
+      "Version": "3.0.71.8",
+      "PublishingDate": "2019-07-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
