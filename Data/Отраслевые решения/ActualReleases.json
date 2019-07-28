@@ -717,9 +717,15 @@
       "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.57",
       "PublishingDate": "2019-06-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.8.92"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
