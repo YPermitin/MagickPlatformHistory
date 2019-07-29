@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -88,6 +88,17 @@
       "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
       "Version": "3.0.70.52",
       "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-29T20:02:24",
+      "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
+      "Version": "3.0.71.75",
+      "PublishingDate": "2019-07-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
