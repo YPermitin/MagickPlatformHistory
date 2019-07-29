@@ -649,10 +649,10 @@
         "2.0.3.1"
       ],
       "PlanReleaseDates": [
-        "2019-07-29T00:00:00"
+        "2019-07-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-25T00:00:00"
+        "2019-07-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1169,9 +1169,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
       "Version": "2.0.66.57",
       "PublishingDate": "2019-06-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.58"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1179,9 +1185,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
       "Version": "2.0.66.57",
       "PublishingDate": "2019-06-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.58"
+      ],
+      "PlanReleaseDates": [
+        "2019-07-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1192,8 +1204,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.71.9"
+      ],
+      "DemoPublicationDates": [
+        "2019-07-29T00:00:00"
+      ]
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
@@ -1202,8 +1218,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.71.9"
+      ],
+      "DemoPublicationDates": [
+        "2019-07-29T00:00:00"
+      ]
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
@@ -3759,10 +3779,10 @@
         "1.3.123"
       ],
       "PlanReleaseDates": [
-        "2019-07-26T00:00:00"
+        "2019-07-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-24T00:00:00"
+        "2019-07-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3867,10 +3887,10 @@
         "1.3.123.3"
       ],
       "PlanReleaseDates": [
-        "2019-07-29T00:00:00"
+        "2019-07-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-25T00:00:00"
+        "2019-07-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4039,10 +4059,10 @@
         "1.3.123"
       ],
       "PlanReleaseDates": [
-        "2019-07-26T00:00:00"
+        "2019-07-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-24T00:00:00"
+        "2019-07-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
