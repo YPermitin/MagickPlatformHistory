@@ -1007,17 +1007,11 @@
     },
     {
       "Name": "1С:Управление ветеринарными сертификатами. Интеграция с ФГИС Меркурий",
-      "Version": "2.0.8.2",
-      "PublishingDate": "2019-01-31T00:00:00",
-      "PlanVersions": [
-        "2.0.9.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-25T00:00:00"
-      ],
+      "Version": "2.0.9.1",
+      "PublishingDate": "2019-07-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1715,17 +1709,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.123.2",
-      "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [
-        "1.3.124.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-26T00:00:00"
-      ],
+      "Version": "1.3.124.1",
+      "PublishingDate": "2019-07-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
