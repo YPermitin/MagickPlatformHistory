@@ -49,9 +49,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.8.84",
       "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.8.92"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2989,17 +2995,11 @@
     },
     {
       "Name": "Розница. Аптека, редакция 2.2",
-      "Version": "2.2.12.30",
-      "PublishingDate": "2019-06-20T00:00:00",
-      "PlanVersions": [
-        "2.2.13.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-19T00:00:00"
-      ],
+      "Version": "2.2.13.8",
+      "PublishingDate": "2019-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
