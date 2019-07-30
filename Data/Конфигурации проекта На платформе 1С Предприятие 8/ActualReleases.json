@@ -143,49 +143,31 @@
     },
     {
       "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
-      "Version": "3.1.71.78",
-      "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [
-        "3.1.71.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-30T00:00:00"
-      ],
+      "Version": "3.1.71.89",
+      "PublishingDate": "2019-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Айлант: Управление ЖКХ  КОРП, ред. 3.1",
-      "Version": "3.1.71.78",
-      "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [
-        "3.1.71.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-30T00:00:00"
-      ],
+      "Version": "3.1.71.89",
+      "PublishingDate": "2019-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Айлант: Управление ЖКХ  ПРОФ, ред. 3.1",
-      "Version": "3.1.71.78",
-      "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [
-        "3.1.71.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-30T00:00:00"
-      ],
+      "Version": "3.1.71.89",
+      "PublishingDate": "2019-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -201,17 +183,11 @@
     },
     {
       "Name": "Айлант: Управление ЖКХ. Старт, ред. 3.1",
-      "Version": "3.1.71.78",
-      "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [
-        "3.1.71.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-30T00:00:00"
-      ],
+      "Version": "3.1.71.89",
+      "PublishingDate": "2019-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
