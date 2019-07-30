@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 30,
+  "ReleasesCount": 31,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -446,6 +446,23 @@
       ],
       "PlanUpdateDates": [
         "2019-07-19T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-30T16:32:23",
+      "Name": "1С:Ломбард КОРП",
+      "Version": "3.0.71.77",
+      "PublishingDate": "2019-07-05T00:00:00",
+      "PlanVersions": [
+        "3.0.71.89"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-30T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
