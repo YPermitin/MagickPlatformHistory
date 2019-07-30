@@ -3035,17 +3035,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.2",
-      "Version": "2.2.12.30",
-      "PublishingDate": "2019-06-19T00:00:00",
-      "PlanVersions": [
-        "2.2.13.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-19T00:00:00"
-      ],
+      "Version": "2.2.13.8",
+      "PublishingDate": "2019-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3821,17 +3815,11 @@
     },
     {
       "Name": "Управление металлургическим комбинатом",
-      "Version": "1.3.123.3",
-      "PublishingDate": "2019-07-25T00:00:00",
-      "PlanVersions": [
-        "1.3.124.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-27T00:00:00"
-      ],
+      "Version": "1.3.124.1",
+      "PublishingDate": "2019-07-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
