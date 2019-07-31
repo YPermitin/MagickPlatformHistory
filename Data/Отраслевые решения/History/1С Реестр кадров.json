@@ -4,13 +4,24 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2019-07-23T19:02:19",
       "Name": "1С:Реестр кадров",
       "Version": "2.0.1.1",
       "PublishingDate": "2018-09-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-31T14:32:23",
+      "Name": "1С:Реестр кадров",
+      "Version": "2.0.1.2",
+      "PublishingDate": "2019-07-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
