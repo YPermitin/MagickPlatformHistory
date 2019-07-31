@@ -2193,9 +2193,15 @@
       "Name": "Дошкольное питание, редакция 2.0",
       "Version": "2.0.8.350",
       "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.9.362"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-31T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
