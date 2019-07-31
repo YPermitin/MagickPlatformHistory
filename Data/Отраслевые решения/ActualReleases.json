@@ -199,17 +199,11 @@
     },
     {
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.8.82",
-      "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [
-        "2.4.8.92"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-30T00:00:00"
-      ],
+      "Version": "2.4.8.92",
+      "PublishingDate": "2019-07-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -3917,9 +3911,15 @@
       "Name": "Управление птицефабрикой",
       "Version": "1.3.123.2",
       "PublishingDate": "2019-07-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.124.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-31T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
