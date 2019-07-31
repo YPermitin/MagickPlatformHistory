@@ -234,7 +234,7 @@
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
       "Version": "4.0.22.4",
-      "PublishingDate": "2019-07-25T00:00:00",
+      "PublishingDate": "2019-07-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3943,17 +3943,11 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.18.105",
-      "PublishingDate": "2019-07-16T00:00:00",
-      "PlanVersions": [
-        "1.6.18.117"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-18T00:00:00"
-      ],
+      "Version": "1.6.18.117",
+      "PublishingDate": "2019-07-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
