@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -128,6 +128,17 @@
       "Name": "КАМИН: Расчет заработной платы",
       "Version": "3.0.100.2",
       "PublishingDate": "2019-07-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-07-31T18:02:23",
+      "Name": "КАМИН: Расчет заработной платы",
+      "Version": "3.0.100.3",
+      "PublishingDate": "2019-07-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
