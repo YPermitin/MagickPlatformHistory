@@ -1,0 +1,27 @@
+{
+  "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-08-01T20:32:22",
+      "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
+      "Version": "2.4.8.57",
+      "PublishingDate": "2019-06-20T00:00:00",
+      "PlanVersions": [
+        "2.4.8.92"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-07-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
