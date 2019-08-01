@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 420,
+  "ReleasesCount": 419,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -699,7 +699,17 @@
       "DemoPublicationDates": []
     },
     {
-      "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2",
+      "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.2",
+      "Version": "2.2.4.149",
+      "PublishingDate": "2018-01-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
       "Version": "2.4.8.57",
       "PublishingDate": "2019-06-20T00:00:00",
       "PlanVersions": [
@@ -2465,26 +2475,6 @@
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.73",
       "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "Модуль 1С:Общепит для 1С:ERP, редакция 2.1",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "Модуль 1С:Общепит для 1С:ERP, редакция 2.2",
-      "Version": "2.2.4.149",
-      "PublishingDate": "2018-01-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
