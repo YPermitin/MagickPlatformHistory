@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 42,
+  "ReleasesCount": 43,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -591,6 +591,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-01T14:02:26",
+      "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
+      "Version": "2.4.8.84",
+      "PublishingDate": "2019-07-31T00:00:00",
+      "PlanVersions": [
+        "2.4.8.92"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
