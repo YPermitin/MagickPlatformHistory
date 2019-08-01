@@ -2323,17 +2323,11 @@
     },
     {
       "Name": "Комбинат планового питания, редакция 2.0",
-      "Version": "2.0.8.353",
-      "PublishingDate": "2019-07-22T00:00:00",
-      "PlanVersions": [
-        "2.0.9.362"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-31T00:00:00"
-      ],
+      "Version": "2.0.9.362",
+      "PublishingDate": "2019-08-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4343,17 +4337,11 @@
     },
     {
       "Name": "Школьное питание, редакция 2.0",
-      "Version": "2.0.8.352",
-      "PublishingDate": "2019-07-17T00:00:00",
-      "PlanVersions": [
-        "2.0.9.361"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-31T00:00:00"
-      ],
+      "Version": "2.0.9.361",
+      "PublishingDate": "2019-08-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
