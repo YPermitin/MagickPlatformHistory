@@ -689,11 +689,11 @@
       ],
       "PlanReleaseDates": [
         "2019-08-21T00:00:00",
-        "2019-08-01T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-07-31T00:00:00",
-        "2019-07-29T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -744,11 +744,11 @@
       ],
       "PlanReleaseDates": [
         "2019-08-21T00:00:00",
-        "2019-08-01T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-07-31T00:00:00",
-        "2019-07-29T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1077,17 +1077,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
-      "Version": "3.0.71.75",
-      "PublishingDate": "2019-07-18T00:00:00",
-      "PlanVersions": [
-        "3.0.71.87"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-31T00:00:00"
-      ],
+      "Version": "3.0.71.87",
+      "PublishingDate": "2019-08-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1827,10 +1821,10 @@
         "2.0.66.42"
       ],
       "PlanReleaseDates": [
-        "2019-08-01T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-01T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3417,10 +3411,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-07-30T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-30T00:00:00"
+        "2019-08-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
