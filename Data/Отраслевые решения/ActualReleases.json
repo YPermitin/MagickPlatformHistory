@@ -3695,17 +3695,11 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 2.1 для Технологической платформы 8.2",
-      "Version": "2.1.66.32",
-      "PublishingDate": "2019-06-27T00:00:00",
-      "PlanVersions": [
-        "2.1.66.33"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-29T00:00:00"
-      ],
+      "Version": "2.1.66.33",
+      "PublishingDate": "2019-08-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
