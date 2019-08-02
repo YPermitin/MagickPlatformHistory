@@ -2517,17 +2517,11 @@
     },
     {
       "Name": "Молокозавод, редакция 1.3",
-      "Version": "1.3.124.1",
-      "PublishingDate": "2019-07-24T00:00:00",
-      "PlanVersions": [
-        "1.3.124.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-01T00:00:00"
-      ],
+      "Version": "1.3.124.2",
+      "PublishingDate": "2019-08-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
