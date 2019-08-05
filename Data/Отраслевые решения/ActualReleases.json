@@ -2693,17 +2693,11 @@
     },
     {
       "Name": "Производственная безопасность. Комплексная, редакция 1.1",
-      "Version": "1.1.4.42",
-      "PublishingDate": "2019-05-14T00:00:00",
-      "PlanVersions": [
-        "1.1.4.70"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-26T00:00:00"
-      ],
+      "Version": "1.1.4.70",
+      "PublishingDate": "2019-08-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
