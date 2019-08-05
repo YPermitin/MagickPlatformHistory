@@ -57,8 +57,8 @@
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.8.84",
-      "PublishingDate": "2019-07-15T00:00:00",
+      "Version": "2.4.8.92",
+      "PublishingDate": "2019-08-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -711,17 +711,11 @@
     },
     {
       "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
-      "Version": "2.4.8.57",
-      "PublishingDate": "2019-06-20T00:00:00",
-      "PlanVersions": [
-        "2.4.8.92"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-05T00:00:00"
-      ],
+      "Version": "2.4.8.92",
+      "PublishingDate": "2019-08-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
