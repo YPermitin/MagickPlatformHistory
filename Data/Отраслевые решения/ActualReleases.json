@@ -2011,17 +2011,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.71.86",
-      "PublishingDate": "2019-07-18T00:00:00",
-      "PlanVersions": [
-        "3.0.71.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-05T00:00:00"
-      ],
+      "Version": "3.0.71.89",
+      "PublishingDate": "2019-08-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2389,9 +2383,15 @@
       "Name": "Комплексная автоматизация торговли алкогольной продукцией, редакция 1.1",
       "Version": "1.1.115.3",
       "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.115.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3736,7 +3736,7 @@
     {
       "Name": "Управление металлургическим комбинатом",
       "Version": "1.3.124.2",
-      "PublishingDate": "2019-08-05T00:00:00",
+      "PublishingDate": "2019-08-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
