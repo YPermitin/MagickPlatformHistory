@@ -2079,17 +2079,11 @@
     },
     {
       "Name": "Горнодобывающая промышленность. Управление карьером",
-      "Version": "1.3.124.1",
-      "PublishingDate": "2019-07-24T00:00:00",
-      "PlanVersions": [
-        "1.3.124.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-05T00:00:00"
-      ],
+      "Version": "1.3.124.2",
+      "PublishingDate": "2019-08-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
