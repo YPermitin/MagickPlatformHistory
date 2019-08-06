@@ -99,16 +99,16 @@
     },
     {
       "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
-      "Version": "2.6.1.59",
-      "PublishingDate": "2019-08-06T00:00:00",
+      "Version": "2.5.1.91",
+      "PublishingDate": "2019-07-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "2.6.1.52"
+        "2.6.1.59"
       ],
       "DemoPublicationDates": [
-        "2019-07-19T00:00:00"
+        "2019-08-06T00:00:00"
       ]
     },
     {
