@@ -133,8 +133,8 @@
     },
     {
       "Name": "1С:PM Управление проектами КОРП",
-      "Version": "4.2.11.3",
-      "PublishingDate": "2019-08-06T00:00:00",
+      "Version": "4.2.11.4",
+      "PublishingDate": "2019-08-07T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -965,17 +965,11 @@
     },
     {
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
-      "Version": "2.1.45.1",
-      "PublishingDate": "2019-08-05T00:00:00",
-      "PlanVersions": [
-        "2.1.45.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-07T00:00:00"
-      ],
+      "Version": "2.1.45.2",
+      "PublishingDate": "2019-08-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
