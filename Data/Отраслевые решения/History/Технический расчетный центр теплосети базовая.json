@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 17,
+  "ReleasesCount": 18,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -273,6 +273,23 @@
       ],
       "PlanUpdateDates": [
         "2019-08-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-07T16:02:23",
+      "Name": "Технический расчетный центр теплосети базовая",
+      "Version": "1.0.22.1",
+      "PublishingDate": "2019-04-29T00:00:00",
+      "PlanVersions": [
+        "1.0.22.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-07T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
