@@ -793,10 +793,10 @@
         "2019-08-07T00:00:00"
       ],
       "DemoVersions": [
-        "2.4.9.37"
+        "2.4.9.70"
       ],
       "DemoPublicationDates": [
-        "2019-06-24T00:00:00"
+        "2019-08-09T00:00:00"
       ]
     },
     {
@@ -1207,17 +1207,11 @@
     },
     {
       "Name": "Управление торговлей, редакция 11",
-      "Version": "11.4.8.92",
-      "PublishingDate": "2019-07-24T00:00:00",
-      "PlanVersions": [
-        "11.4.9"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-07T00:00:00"
-      ],
+      "Version": "11.4.9.70",
+      "PublishingDate": "2019-08-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "11.4.9.40"
       ],
