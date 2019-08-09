@@ -3736,9 +3736,15 @@
       "Name": "Управление корпоративными финансами, редакция 3.0",
       "Version": "3.0.71.2",
       "PublishingDate": "2019-07-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4010,9 +4016,15 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.8.84",
       "PublishingDate": "2019-07-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.8.92"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
