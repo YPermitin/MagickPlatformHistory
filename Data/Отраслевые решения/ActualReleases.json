@@ -259,9 +259,15 @@
       "Name": "1С:Бухгалтерия СНТ",
       "Version": "3.0.70.17",
       "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.71.13"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
