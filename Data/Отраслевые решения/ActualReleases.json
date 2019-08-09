@@ -229,9 +229,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
       "Version": "4.0.22.4",
       "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.23.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2029,17 +2035,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.71.89",
-      "PublishingDate": "2019-08-05T00:00:00",
-      "PlanVersions": [
-        "3.0.72.54"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-08T00:00:00"
-      ],
+      "Version": "3.0.72.54",
+      "PublishingDate": "2019-08-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
