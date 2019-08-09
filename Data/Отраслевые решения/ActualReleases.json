@@ -2020,15 +2020,12 @@
       "Version": "3.0.71.89",
       "PublishingDate": "2019-08-05T00:00:00",
       "PlanVersions": [
-        "3.0.72.54",
-        "3.0.72"
+        "3.0.72.54"
       ],
       "PlanReleaseDates": [
-        "2019-08-09T00:00:00",
         "2019-08-09T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-08T00:00:00",
         "2019-08-08T00:00:00"
       ],
       "DemoVersions": [],
@@ -3410,10 +3407,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-08-09T00:00:00"
+        "2019-08-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-07T00:00:00"
+        "2019-08-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3426,10 +3423,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-08-09T00:00:00"
+        "2019-08-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-07T00:00:00"
+        "2019-08-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3442,10 +3439,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-08-09T00:00:00"
+        "2019-08-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-07T00:00:00"
+        "2019-08-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3458,10 +3455,10 @@
         "1.0.22.3"
       ],
       "PlanReleaseDates": [
-        "2019-08-09T00:00:00"
+        "2019-08-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-07T00:00:00"
+        "2019-08-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3967,7 +3964,7 @@
         "2019-08-09T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-01T00:00:00"
+        "2019-08-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
