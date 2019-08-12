@@ -3,7 +3,7 @@
     "ID": 912,
     "Name": "Типовые конфигурации фирмы \"1С\" для Таджикистана"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "Releases": [
     {
       "Name": "Бухгалтерия для Таджикистана",
@@ -19,6 +19,16 @@
       "Name": "Бухгалтерия для Таджикистана базовая",
       "Version": "3.0.11.8",
       "PublishingDate": "2019-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Розница для Таджикистана",
+      "Version": "2.2.12.30",
+      "PublishingDate": "2019-08-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
