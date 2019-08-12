@@ -3881,17 +3881,11 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.18.117",
-      "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [
-        "1.6.18.135"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-05T00:00:00"
-      ],
+      "Version": "1.6.18.135",
+      "PublishingDate": "2019-08-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
