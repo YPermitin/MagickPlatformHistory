@@ -665,9 +665,15 @@
       "Name": "1С:Музей",
       "Version": "1.0.11.5",
       "PublishingDate": "2019-06-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.12.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -909,17 +915,11 @@
     },
     {
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
-      "Version": "1.6.18.117",
-      "PublishingDate": "2019-07-19T00:00:00",
-      "PlanVersions": [
-        "1.6.18.135"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-02T00:00:00"
-      ],
+      "Version": "1.6.18.135",
+      "PublishingDate": "2019-08-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
