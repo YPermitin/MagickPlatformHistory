@@ -631,10 +631,10 @@
         "2.0.3.1"
       ],
       "PlanReleaseDates": [
-        "2019-08-14T00:00:00"
+        "2019-08-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-12T00:00:00"
+        "2019-08-14T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1745,17 +1745,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.64.18",
-      "PublishingDate": "2019-07-26T00:00:00",
-      "PlanVersions": [
-        "2.0.64.26"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-12T00:00:00"
-      ],
+      "Version": "2.0.64.26",
+      "PublishingDate": "2019-08-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
