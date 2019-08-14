@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -148,6 +148,23 @@
       ],
       "PlanUpdateDates": [
         "2019-08-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-14T11:02:22",
+      "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
+      "Version": "3.0.22.1",
+      "PublishingDate": "2019-07-29T00:00:00",
+      "PlanVersions": [
+        "3.0.23.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-14T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
