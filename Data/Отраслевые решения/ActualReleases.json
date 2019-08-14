@@ -2243,9 +2243,15 @@
       "Name": "Инвентаризация и управление имуществом, редакция 2.0",
       "Version": "2.0.8.8",
       "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.9.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3479,9 +3485,15 @@
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
       "Version": "2.0.25.1",
       "PublishingDate": "2019-08-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.26.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
