@@ -433,9 +433,15 @@
       "Name": "1С:Медицина. Больница",
       "Version": "1.4.5.3",
       "PublishingDate": "2019-08-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.4.5.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -547,9 +553,15 @@
       "Name": "1С:Медицина. Поликлиника",
       "Version": "2.1.5.3",
       "PublishingDate": "2019-08-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.5.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
