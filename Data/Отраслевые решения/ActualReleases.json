@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 419,
+  "ReleasesCount": 420,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -17,6 +17,16 @@
     },
     {
       "Name": "1С:CRM для Банков",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:CRM для Казахстана. Модуль для 1С:УТ, 1С:КА2 и 1С:ERP",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
