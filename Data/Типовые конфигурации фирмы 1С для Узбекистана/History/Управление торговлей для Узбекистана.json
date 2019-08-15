@@ -4,7 +4,7 @@
     "ID": 135,
     "Name": "Типовые конфигурации фирмы \"1С\" для Узбекистана"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:46",
@@ -22,6 +22,17 @@
       "Name": "Управление торговлей для Узбекистана",
       "Version": "11.0.0.2",
       "PublishingDate": "2019-06-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-15T18:32:21",
+      "Name": "Управление торговлей для Узбекистана",
+      "Version": "11.0.0.3",
+      "PublishingDate": "2019-08-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
