@@ -773,23 +773,13 @@
     },
     {
       "Name": "Комплексная автоматизация, редакция 2",
-      "Version": "2.4.8.92",
-      "PublishingDate": "2019-07-24T00:00:00",
-      "PlanVersions": [
-        "2.4.9"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-07T00:00:00"
-      ],
-      "DemoVersions": [
-        "2.4.9.70"
-      ],
-      "DemoPublicationDates": [
-        "2019-08-09T00:00:00"
-      ]
+      "Version": "2.4.9.70",
+      "PublishingDate": "2019-08-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Консолидация",
