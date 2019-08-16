@@ -69,9 +69,15 @@
       "Name": "Бухгалтерия для Казахстана, редакция 2.0",
       "Version": "2.0.30.2",
       "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.31"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -79,9 +85,15 @@
       "Name": "Бухгалтерия для Казахстана, редакция 3.0",
       "Version": "3.0.30.1",
       "PublishingDate": "2019-07-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.31"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -199,9 +211,15 @@
       "Name": "Розница для Казахстана",
       "Version": "2.2.2.7",
       "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -249,9 +267,15 @@
       "Name": "Управление производственным предприятием для Казахстана",
       "Version": "1.3.18.3",
       "PublishingDate": "2019-04-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -309,9 +333,15 @@
       "Name": "Управление торговым предприятием для Казахстана, редакция 2.0",
       "Version": "2.0.17.2",
       "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.18"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
