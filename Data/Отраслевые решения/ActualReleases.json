@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 420,
+  "ReleasesCount": 421,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -269,6 +269,16 @@
       "Name": "1С:Бухгалтерия СНТ",
       "Version": "3.0.71.13",
       "PublishingDate": "2019-08-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Бухгалтерия СНТ. Базовая версия",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
