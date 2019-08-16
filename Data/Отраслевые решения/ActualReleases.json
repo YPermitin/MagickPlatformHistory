@@ -1220,12 +1220,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.71.9"
-      ],
-      "DemoPublicationDates": [
-        "2019-07-29T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
@@ -1234,12 +1230,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.71.9"
-      ],
-      "DemoPublicationDates": [
-        "2019-07-29T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
@@ -1891,17 +1883,11 @@
     },
     {
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
-      "Version": "3.0.71.7",
-      "PublishingDate": "2019-08-12T00:00:00",
-      "PlanVersions": [
-        "3.0.71.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-15T00:00:00"
-      ],
+      "Version": "3.0.71.8",
+      "PublishingDate": "2019-08-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
