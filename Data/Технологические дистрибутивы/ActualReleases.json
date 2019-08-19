@@ -139,12 +139,10 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "10.8-18.1C",
-        "10.8-17.1C"
+        "10.8-18.1C"
       ],
       "DemoPublicationDates": [
-        "2019-08-16T00:00:00",
-        "2019-08-13T00:00:00"
+        "2019-08-16T00:00:00"
       ]
     },
     {
