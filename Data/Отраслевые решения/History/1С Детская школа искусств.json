@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Детская школа искусств",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-08-19T19:02:24",
+      "Name": "1С:Детская школа искусств",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
