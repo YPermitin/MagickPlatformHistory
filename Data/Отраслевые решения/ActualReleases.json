@@ -1067,9 +1067,15 @@
       "Name": "1С:Управление деревообрабатывающим предприятием. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.84",
       "PublishingDate": "2019-07-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.70"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1077,9 +1083,15 @@
       "Name": "1С:Управление лесозаготовительным предприятием. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.84",
       "PublishingDate": "2019-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.70"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
