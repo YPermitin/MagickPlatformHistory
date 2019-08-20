@@ -673,10 +673,10 @@
         "2.0.3.1"
       ],
       "PlanReleaseDates": [
-        "2019-08-20T00:00:00"
+        "2019-08-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-16T00:00:00"
+        "2019-08-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -761,9 +761,15 @@
       "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
       "Version": "2.4.8.92",
       "PublishingDate": "2019-08-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.70"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -771,9 +777,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.82",
       "PublishingDate": "2019-07-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.83"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1225,9 +1237,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.72.1",
       "PublishingDate": "2019-08-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1235,9 +1253,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.72.1",
       "PublishingDate": "2019-08-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2523,9 +2547,15 @@
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.73",
       "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.70"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
