@@ -297,17 +297,11 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.72.54",
-      "PublishingDate": "2019-08-12T00:00:00",
-      "PlanVersions": [
-        "3.0.72.60"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-21T00:00:00"
-      ],
+      "Version": "3.0.72.60",
+      "PublishingDate": "2019-08-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -753,10 +747,10 @@
         "3.0.72.49"
       ],
       "PlanReleaseDates": [
-        "2019-08-21T00:00:00"
+        "2019-08-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-31T00:00:00"
+        "2019-08-21T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -815,10 +809,10 @@
         "3.0.72.49"
       ],
       "PlanReleaseDates": [
-        "2019-08-21T00:00:00"
+        "2019-08-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-07-31T00:00:00"
+        "2019-08-21T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
