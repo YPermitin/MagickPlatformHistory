@@ -1843,9 +1843,15 @@
       "Name": "Библиотека Проф, ред. 1.0",
       "Version": "2.0.2.1",
       "PublishingDate": "2017-12-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
