@@ -1909,17 +1909,11 @@
     },
     {
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
-      "Version": "3.0.22.1",
-      "PublishingDate": "2019-07-29T00:00:00",
-      "PlanVersions": [
-        "3.0.23.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-20T00:00:00"
-      ],
+      "Version": "3.0.23.2",
+      "PublishingDate": "2019-08-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3857,9 +3851,15 @@
       "Name": "Управление по целям и KPI, редакция 2.0",
       "Version": "2.1.7.2",
       "PublishingDate": "2019-03-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.7.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
