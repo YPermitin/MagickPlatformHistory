@@ -39,9 +39,15 @@
       "Name": "1С:CRM. Модуль для 1С:ERP и 1С:КА2",
       "Version": "3.0.15.7",
       "PublishingDate": "2019-06-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.15.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -137,8 +143,8 @@
     },
     {
       "Name": "1С:PM Управление проектами КОРП",
-      "Version": "4.2.11.4",
-      "PublishingDate": "2019-08-07T00:00:00",
+      "Version": "4.2.11.5",
+      "PublishingDate": "2019-08-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
