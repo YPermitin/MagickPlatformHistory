@@ -1737,17 +1737,11 @@
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.71.63",
-      "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [
-        "3.0.72.54"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-12T00:00:00"
-      ],
+      "Version": "3.0.72.54",
+      "PublishingDate": "2019-08-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
