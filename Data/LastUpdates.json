@@ -1,7 +1,13 @@
 {
   "Title": "Текущие релизы программ фирмы «1С»",
-  "PublishingDate": "2019-08-22T00:00:00",
+  "PublishingDate": "2019-08-23T00:00:00",
   "Items": [
+    {
+      "Title": "Управление по целям и KPI, редакция 2.0",
+      "Description": "2.1.7.3",
+      "PublishingDate": "2019-08-23T00:00:00",
+      "Link": ""
+    },
     {
       "Title": "1C:Enterprise Development Tools",
       "Description": "1.13.0.226",
