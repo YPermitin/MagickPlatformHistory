@@ -705,17 +705,11 @@
     },
     {
       "Name": "1С:Музей",
-      "Version": "1.0.11.5",
-      "PublishingDate": "2019-06-20T00:00:00",
-      "PlanVersions": [
-        "1.0.12.10"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-22T00:00:00"
-      ],
+      "Version": "1.0.12.10",
+      "PublishingDate": "2019-08-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
