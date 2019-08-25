@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 28,
+  "ReleasesCount": 29,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -431,6 +431,17 @@
       "PlanUpdateDates": [
         "2019-08-22T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-26T01:02:19",
+      "Name": "1С:CRM. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "3.0.15.8",
+      "PublishingDate": "2019-08-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
