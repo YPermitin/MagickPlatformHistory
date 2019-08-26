@@ -965,9 +965,15 @@
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
       "Version": "1.6.18.145",
       "PublishingDate": "2019-08-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.18.156"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2323,10 +2329,10 @@
         "2.0.9.1"
       ],
       "PlanReleaseDates": [
-        "2019-08-23T00:00:00"
+        "2019-08-28T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-22T00:00:00"
+        "2019-08-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2409,10 +2415,10 @@
         "1.3.124.2"
       ],
       "PlanReleaseDates": [
-        "2019-08-23T00:00:00"
+        "2019-08-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-20T00:00:00"
+        "2019-08-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3887,10 +3893,10 @@
         "1.3.124.2"
       ],
       "PlanReleaseDates": [
-        "2019-08-23T00:00:00"
+        "2019-08-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-23T00:00:00"
+        "2019-08-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
