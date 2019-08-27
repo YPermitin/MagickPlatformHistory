@@ -17,8 +17,8 @@
     },
     {
       "Name": "1С:Библиотека интеграции с МДЛП",
-      "Version": "1.1.1.5",
-      "PublishingDate": "2019-08-14T00:00:00",
+      "Version": "1.1.1.7",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -117,17 +117,11 @@
     },
     {
       "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
-      "Version": "2.1.1.26",
-      "PublishingDate": "2019-08-01T00:00:00",
-      "PlanVersions": [
-        "2.1.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-06-28T00:00:00"
-      ],
+      "Version": "2.1.2.2",
+      "PublishingDate": "2019-08-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
