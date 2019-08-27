@@ -3939,9 +3939,15 @@
       "Name": "Управление сельскохозяйственным предприятием",
       "Version": "1.3.124.2",
       "PublishingDate": "2019-08-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.125"
+      ],
+      "PlanReleaseDates": [
+        "2019-08-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
