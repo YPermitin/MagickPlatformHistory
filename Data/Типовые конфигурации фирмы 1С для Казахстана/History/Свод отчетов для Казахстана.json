@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 6,
+  "ReleasesCount": 7,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -90,6 +90,17 @@
       "Name": "Свод отчетов для Казахстана",
       "Version": "1.0.10.3",
       "PublishingDate": "2019-06-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-27T18:32:24",
+      "Name": "Свод отчетов для Казахстана",
+      "Version": "1.0.10.4",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
