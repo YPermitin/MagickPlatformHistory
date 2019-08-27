@@ -27,8 +27,8 @@
     },
     {
       "Name": "1С:ERP Управление предприятием 2",
-      "Version": "2.4.9.70",
-      "PublishingDate": "2019-08-13T00:00:00",
+      "Version": "2.4.9.82",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -659,8 +659,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
-      "Version": "3.1.10.111",
-      "PublishingDate": "2019-08-07T00:00:00",
+      "Version": "3.1.10.135",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -749,8 +749,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
-      "Version": "3.1.10.111",
-      "PublishingDate": "2019-08-07T00:00:00",
+      "Version": "3.1.10.135",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [
         "3.1.11",
         "3.1.10."
