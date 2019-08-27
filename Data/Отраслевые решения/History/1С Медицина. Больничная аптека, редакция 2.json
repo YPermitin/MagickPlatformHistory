@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -147,6 +147,17 @@
       "Name": "1С:Медицина. Больничная аптека, редакция 2",
       "Version": "2.1.4.7",
       "PublishingDate": "2019-08-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-27T20:02:24",
+      "Name": "1С:Медицина. Больничная аптека, редакция 2",
+      "Version": "2.1.4.8",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
