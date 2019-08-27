@@ -515,8 +515,8 @@
     },
     {
       "Name": "1С:Медицина. Больничная аптека, редакция 2",
-      "Version": "2.1.4.7",
-      "PublishingDate": "2019-08-16T00:00:00",
+      "Version": "2.1.4.8",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3499,17 +3499,11 @@
     },
     {
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
-      "Version": "2.0.25.1",
-      "PublishingDate": "2019-08-01T00:00:00",
-      "PlanVersions": [
-        "2.0.26.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-14T00:00:00"
-      ],
+      "Version": "2.0.26.1",
+      "PublishingDate": "2019-08-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
