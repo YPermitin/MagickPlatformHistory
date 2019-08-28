@@ -1305,17 +1305,11 @@
     },
     {
       "Name": "1С:Хлебобулочное и кондитерское производство 2. Модуль для 1С:ERP 2",
-      "Version": "2.4.8.92",
-      "PublishingDate": "2019-08-03T00:00:00",
-      "PlanVersions": [
-        "2.4.9.70"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-28T00:00:00"
-      ],
+      "Version": "2.4.9.70",
+      "PublishingDate": "2019-08-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
