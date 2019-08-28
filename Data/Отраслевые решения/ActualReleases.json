@@ -303,17 +303,11 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.72.54",
-      "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [
-        "3.0.72.60"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-26T00:00:00"
-      ],
+      "Version": "3.0.72.60",
+      "PublishingDate": "2019-08-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1898,17 +1892,11 @@
     },
     {
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
-      "Version": "3.0.23.2",
-      "PublishingDate": "2019-08-22T00:00:00",
-      "PlanVersions": [
-        "3.0.24.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-27T00:00:00"
-      ],
+      "Version": "3.0.24.1",
+      "PublishingDate": "2019-08-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
