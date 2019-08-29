@@ -269,15 +269,9 @@
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
       "Version": "3.0.71.89",
       "PublishingDate": "2019-07-24T00:00:00",
-      "PlanVersions": [
-        "3.0.72"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-28T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1089,17 +1083,11 @@
     },
     {
       "Name": "1С:Управление лесозаготовительным предприятием. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.8.84",
-      "PublishingDate": "2019-07-10T00:00:00",
-      "PlanVersions": [
-        "2.4.9.70"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-27T00:00:00"
-      ],
+      "Version": "2.4.9.70",
+      "PublishingDate": "2019-08-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
