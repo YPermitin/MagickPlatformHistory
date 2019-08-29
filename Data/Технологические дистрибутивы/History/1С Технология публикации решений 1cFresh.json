@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -33,6 +33,17 @@
       "Name": "1С:Технология публикации решений 1cFresh",
       "Version": "1.0.25.1",
       "PublishingDate": "2019-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-08-29T18:02:21",
+      "Name": "1С:Технология публикации решений 1cFresh",
+      "Version": "1.0.26.1",
+      "PublishingDate": "2019-08-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
