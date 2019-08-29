@@ -305,9 +305,15 @@
       "Name": "1С:Бухгалтерия строительной организации КОРП",
       "Version": "3.0.72.60",
       "PublishingDate": "2019-08-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.66"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1924,17 +1930,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 2.1",
-      "Version": "2.1.28.16",
-      "PublishingDate": "2019-06-10T00:00:00",
-      "PlanVersions": [
-        "2.1.29.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-28T00:00:00"
-      ],
+      "Version": "2.1.29.7",
+      "PublishingDate": "2019-08-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2042,9 +2042,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
       "Version": "3.1.72.60",
       "PublishingDate": "2019-08-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.72.66"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
