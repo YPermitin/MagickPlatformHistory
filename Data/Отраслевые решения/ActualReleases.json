@@ -745,7 +745,7 @@
         "2.4.9.70"
       ],
       "PlanReleaseDates": [
-        "2019-08-30T00:00:00"
+        "2019-09-02T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-08-30T00:00:00"
@@ -821,9 +821,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
       "Version": "2.0.66.83",
       "PublishingDate": "2019-07-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.84"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1229,17 +1235,11 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.71.88",
-      "PublishingDate": "2019-08-12T00:00:00",
-      "PlanVersions": [
-        "3.0.72.56"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-20T00:00:00"
-      ],
+      "Version": "3.0.72.56",
+      "PublishingDate": "2019-08-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1998,9 +1998,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
       "Version": "2.0.66.83",
       "PublishingDate": "2019-07-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.84"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
