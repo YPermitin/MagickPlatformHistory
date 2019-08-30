@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.9.70",
       "PublishingDate": "2019-08-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1173,9 +1179,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
       "Version": "2.0.66.58",
       "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.59"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1183,9 +1195,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
       "Version": "2.0.66.58",
       "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.59"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-08-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
