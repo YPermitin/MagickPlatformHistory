@@ -1177,33 +1177,21 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
-      "Version": "2.0.66.58",
-      "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [
-        "2.0.66.59"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-30T00:00:00"
-      ],
+      "Version": "2.0.66.59",
+      "PublishingDate": "2019-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.58",
-      "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [
-        "2.0.66.59"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-30T00:00:00"
-      ],
+      "Version": "2.0.66.59",
+      "PublishingDate": "2019-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3870,17 +3858,11 @@
     },
     {
       "Name": "Управление птицефабрикой",
-      "Version": "1.3.124.2",
-      "PublishingDate": "2019-08-26T00:00:00",
-      "PlanVersions": [
-        "1.3.125.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-30T00:00:00"
-      ],
+      "Version": "1.3.125.1",
+      "PublishingDate": "2019-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
