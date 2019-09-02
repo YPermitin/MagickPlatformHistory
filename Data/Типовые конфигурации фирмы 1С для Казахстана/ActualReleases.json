@@ -197,24 +197,18 @@
     },
     {
       "Name": "Розница для Казахстана",
-      "Version": "2.2.2.7",
-      "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [
-        "2.2.3"
-      ],
-      "PlanReleaseDates": [
-        "2019-08-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-16T00:00:00"
-      ],
+      "Version": "2.2.3.1",
+      "PublishingDate": "2019-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Розница для Казахстана базовая",
-      "Version": "2.2.2.7",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "2.2.3.1",
+      "PublishingDate": "2019-09-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -293,8 +287,8 @@
     },
     {
       "Name": "Управление торговлей для Казахстана, редакция 3",
-      "Version": "3.4.4.46",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "3.4.4.48",
+      "PublishingDate": "2019-09-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
