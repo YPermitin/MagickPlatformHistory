@@ -851,9 +851,15 @@
       "Name": "1С:Полиграфия 2. Модуль для 1С:ERP, 1С:КА2 и 1С:УТ",
       "Version": "2.4.8.92",
       "PublishingDate": "2019-08-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
