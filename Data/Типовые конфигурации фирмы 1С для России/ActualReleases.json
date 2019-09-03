@@ -665,9 +665,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.1.11.67",
         "3.1.11.40"
       ],
       "DemoPublicationDates": [
+        "2019-09-03T00:00:00",
         "2019-08-07T00:00:00"
       ]
     },
@@ -713,9 +715,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.1.11.67",
         "3.1.11.40"
       ],
       "DemoPublicationDates": [
+        "2019-09-03T00:00:00",
         "2019-08-07T00:00:00"
       ]
     },
@@ -761,9 +765,11 @@
         "2019-08-27T00:00:00"
       ],
       "DemoVersions": [
+        "3.1.11.67",
         "3.1.11.40"
       ],
       "DemoPublicationDates": [
+        "2019-09-03T00:00:00",
         "2019-08-07T00:00:00"
       ]
     },
