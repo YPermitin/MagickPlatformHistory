@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -155,6 +155,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-03T18:02:19",
+      "Name": "Аптека для Казахстана, редакция 2.2",
+      "Version": "2.2.5.6",
+      "PublishingDate": "2019-08-02T00:00:00",
+      "PlanVersions": [
+        "2.2.6"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
