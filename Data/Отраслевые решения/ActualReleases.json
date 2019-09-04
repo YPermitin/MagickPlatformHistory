@@ -3006,9 +3006,15 @@
       "Name": "Розница. Аптека, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3046,9 +3052,15 @@
       "Name": "Розница. Книжный магазин, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3086,9 +3098,15 @@
       "Name": "Розница. Магазин автозапчастей, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3126,9 +3144,15 @@
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3166,9 +3190,15 @@
       "Name": "Розница. Магазин одежды и обуви, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3206,9 +3236,15 @@
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3246,9 +3282,15 @@
       "Name": "Розница. Салон оптики, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3286,9 +3328,15 @@
       "Name": "Розница. Ювелирный магазин, редакция 2.2",
       "Version": "2.2.13.11",
       "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.13.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
