@@ -2508,17 +2508,11 @@
     },
     {
       "Name": "Ликероводочный и винный завод, редакция 1.3",
-      "Version": "1.3.124.2",
-      "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [
-        "1.3.125.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-03T00:00:00"
-      ],
+      "Version": "1.3.125.1",
+      "PublishingDate": "2019-09-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2856,9 +2850,15 @@
       "Name": "Процессное производство. Химия",
       "Version": "1.3.124.2",
       "PublishingDate": "2019-08-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.125"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
