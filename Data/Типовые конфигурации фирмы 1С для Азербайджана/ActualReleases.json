@@ -33,17 +33,11 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Азербайджана",
-      "Version": "1.1.3.1",
-      "PublishingDate": "2019-04-01T00:00:00",
-      "PlanVersions": [
-        "1.1.4"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-30T00:00:00"
-      ],
+      "Version": "1.1.4.1",
+      "PublishingDate": "2019-09-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
