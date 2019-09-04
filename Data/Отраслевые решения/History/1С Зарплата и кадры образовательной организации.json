@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 12,
+  "ReleasesCount": 13,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -132,6 +132,17 @@
       "Name": "1С:Зарплата и кадры образовательной организации",
       "Version": "3.1.6.481",
       "PublishingDate": "2019-06-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-04T16:02:24",
+      "Name": "1С:Зарплата и кадры образовательной организации",
+      "Version": "3.1.6.482",
+      "PublishingDate": "2019-09-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
