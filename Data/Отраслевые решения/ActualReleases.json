@@ -2710,9 +2710,15 @@
       "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
       "Version": "1.3.124.2",
       "PublishingDate": "2019-08-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.125.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4056,9 +4062,15 @@
       "Name": "Управление торговлей алкогольной продукцией",
       "Version": "10.3.55.2",
       "PublishingDate": "2019-08-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "10.3.55.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
