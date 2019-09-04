@@ -714,13 +714,13 @@
       "Version": "2.4.8.57",
       "PublishingDate": "2019-07-03T00:00:00",
       "PlanVersions": [
-        "2.4.8.92"
+        "2.4.9"
       ],
       "PlanReleaseDates": [
-        "2019-09-09T00:00:00"
+        "2019-09-13T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-03T00:00:00"
+        "2019-09-04T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -729,9 +729,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.72.60",
       "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.66"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -773,9 +779,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.72.60",
       "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.66"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-04T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -2346,17 +2358,11 @@
     },
     {
       "Name": "Колледж ПРОФ, редакция 2.0",
-      "Version": "2.0.8.2",
-      "PublishingDate": "2019-06-28T00:00:00",
-      "PlanVersions": [
-        "2.0.9.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-29T00:00:00"
-      ],
+      "Version": "2.0.9.1",
+      "PublishingDate": "2019-09-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
