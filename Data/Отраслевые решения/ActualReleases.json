@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 423,
+  "ReleasesCount": 424,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -1147,6 +1147,16 @@
       "Name": "1С:Управление нашей строительной фирмой",
       "Version": "1.6.18.156",
       "PublishingDate": "2019-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Управление недвижимостью и арендой КОРП",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
