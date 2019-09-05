@@ -85,9 +85,15 @@
       "Name": "Комплексная автоматизация для Беларуси, редакция 2",
       "Version": "2.4.6.210",
       "PublishingDate": "2019-08-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.7"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -145,9 +151,15 @@
       "Name": "Управление торговлей для Беларуси, редакция 3",
       "Version": "3.4.8.85",
       "PublishingDate": "2019-08-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.4.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
