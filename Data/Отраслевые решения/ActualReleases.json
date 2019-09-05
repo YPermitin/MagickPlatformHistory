@@ -3158,17 +3158,11 @@
     },
     {
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.2",
-      "Version": "2.2.13.11",
-      "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [
-        "2.2.13.12"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
-      ],
+      "Version": "2.2.13.12",
+      "PublishingDate": "2019-09-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
