@@ -771,17 +771,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 3.0",
-      "Version": "3.0.72.60",
-      "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [
-        "3.0.72.66"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
-      ],
+      "Version": "3.0.72.66",
+      "PublishingDate": "2019-09-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
