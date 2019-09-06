@@ -727,17 +727,11 @@
     },
     {
       "Name": "1С:Общепит КОРП",
-      "Version": "3.0.72.60",
-      "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [
-        "3.0.72.66"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
-      ],
+      "Version": "3.0.72.66",
+      "PublishingDate": "2019-09-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -3220,17 +3214,11 @@
     },
     {
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.2",
-      "Version": "2.2.13.11",
-      "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [
-        "2.2.13.12"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
-      ],
+      "Version": "2.2.13.12",
+      "PublishingDate": "2019-09-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
