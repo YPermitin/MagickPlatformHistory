@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 27,
+  "ReleasesCount": 28,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -384,6 +384,17 @@
       "PlanUpdateDates": [
         "2019-09-04T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-06T17:32:22",
+      "Name": "Управление торговлей алкогольной продукцией",
+      "Version": "10.3.55.3",
+      "PublishingDate": "2019-09-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
