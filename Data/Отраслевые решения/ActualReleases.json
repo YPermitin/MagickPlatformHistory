@@ -837,9 +837,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
       "Version": "3.0.72.60",
       "PublishingDate": "2019-08-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.66"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1231,10 +1237,10 @@
         "3.0.72.4"
       ],
       "PlanReleaseDates": [
-        "2019-09-06T00:00:00"
+        "2019-09-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-29T00:00:00"
+        "2019-09-06T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1247,10 +1253,10 @@
         "3.0.72.4"
       ],
       "PlanReleaseDates": [
-        "2019-09-06T00:00:00"
+        "2019-09-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-29T00:00:00"
+        "2019-09-06T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3236,17 +3242,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.2",
-      "Version": "2.2.13.11",
-      "PublishingDate": "2019-08-21T00:00:00",
-      "PlanVersions": [
-        "2.2.13.12"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
-      ],
+      "Version": "2.2.13.12",
+      "PublishingDate": "2019-09-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
