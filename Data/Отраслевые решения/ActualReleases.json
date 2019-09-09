@@ -4034,15 +4034,9 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.8.92",
       "PublishingDate": "2019-08-14T00:00:00",
-      "PlanVersions": [
-        "11.4.9"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-03T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
