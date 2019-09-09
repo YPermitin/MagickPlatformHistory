@@ -1699,19 +1699,16 @@
     },
     {
       "Name": "Автосервис, редакция 1.6",
-      "Version": "1.6.18.98",
-      "PublishingDate": "2019-07-12T00:00:00",
+      "Version": "1.6.18.156",
+      "PublishingDate": "2019-09-09T00:00:00",
       "PlanVersions": [
-        "1.6.19",
-        "1.6.18.156"
+        "1.6.19"
       ],
       "PlanReleaseDates": [
-        "2019-10-29T00:00:00",
-        "2019-09-05T00:00:00"
+        "2019-10-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-08-09T00:00:00",
-        "2019-08-28T00:00:00"
+        "2019-08-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3920,17 +3917,11 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.18.145",
-      "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [
-        "1.6.18.156"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-23T00:00:00"
-      ],
+      "Version": "1.6.18.156",
+      "PublishingDate": "2019-08-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
