@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -33,6 +33,17 @@
       "Name": "1С:Электронное обучение. Корпоративный университет",
       "Version": "3.0.9.155",
       "PublishingDate": "2019-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-09T13:02:24",
+      "Name": "1С:Электронное обучение. Корпоративный университет",
+      "Version": "3.0.10.67",
+      "PublishingDate": "2019-09-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
