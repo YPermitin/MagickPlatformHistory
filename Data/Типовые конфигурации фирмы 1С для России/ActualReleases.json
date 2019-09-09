@@ -450,11 +450,13 @@
       "Version": "3.0.72.70",
       "PublishingDate": "2019-09-04T00:00:00",
       "PlanVersions": [
-        "3.0.74"
+        "3.0.74",
+        "3.0.73"
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2019-08-05T00:00:00"
+        "2019-08-05T00:00:00",
+        "2019-09-09T00:00:00"
       ],
       "DemoVersions": [
         "3.0.72.72"
@@ -478,11 +480,13 @@
       "Version": "3.0.72.70",
       "PublishingDate": "2019-09-04T00:00:00",
       "PlanVersions": [
-        "3.0.74"
+        "3.0.74",
+        "3.0.73"
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2019-08-05T00:00:00"
+        "2019-09-09T00:00:00",
+        "2019-09-09T00:00:00"
       ],
       "DemoVersions": [
         "3.0.72.72"
@@ -506,11 +510,13 @@
       "Version": "3.0.72.70",
       "PublishingDate": "2019-09-04T00:00:00",
       "PlanVersions": [
-        "3.0.74"
+        "3.0.74",
+        "3.0.73"
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2019-08-05T00:00:00"
+        "2019-09-09T00:00:00",
+        "2019-09-09T00:00:00"
       ],
       "DemoVersions": [
         "3.0.72.72"
