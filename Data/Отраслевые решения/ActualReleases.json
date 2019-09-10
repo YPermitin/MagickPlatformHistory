@@ -1895,9 +1895,15 @@
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
       "Version": "3.0.24.1",
       "PublishingDate": "2019-08-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.25"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4015,8 +4021,8 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 1",
-      "Version": "1.1.57.2",
-      "PublishingDate": "2019-08-06T00:00:00",
+      "Version": "1.1.57.3",
+      "PublishingDate": "2019-09-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
