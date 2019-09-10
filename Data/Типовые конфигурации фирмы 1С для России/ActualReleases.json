@@ -145,31 +145,23 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.72.3",
-      "PublishingDate": "2019-08-29T00:00:00",
+      "Version": "3.0.72.12",
+      "PublishingDate": "2019-09-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.72.12"
-      ],
-      "DemoPublicationDates": [
-        "2019-09-09T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.72.3",
-      "PublishingDate": "2019-08-29T00:00:00",
+      "Version": "3.0.72.12",
+      "PublishingDate": "2019-09-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.72.12"
-      ],
-      "DemoPublicationDates": [
-        "2019-09-09T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
