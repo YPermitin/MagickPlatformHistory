@@ -1491,8 +1491,8 @@
     },
     {
       "Name": "ERP English Interface",
-      "Version": "1.3.124.2",
-      "PublishingDate": "2019-08-07T00:00:00",
+      "Version": "1.3.125.1",
+      "PublishingDate": "2019-09-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1823,17 +1823,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.64.29",
-      "PublishingDate": "2019-08-28T00:00:00",
-      "PlanVersions": [
-        "2.0.65.9"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-10T00:00:00"
-      ],
+      "Version": "2.0.65.9",
+      "PublishingDate": "2019-09-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3301,17 +3295,11 @@
     },
     {
       "Name": "Рыбопереработка",
-      "Version": "1.3.124.1",
-      "PublishingDate": "2019-07-30T00:00:00",
-      "PlanVersions": [
-        "1.3.125"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-03T00:00:00"
-      ],
+      "Version": "1.3.125.1",
+      "PublishingDate": "2019-09-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
