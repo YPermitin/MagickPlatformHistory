@@ -425,9 +425,15 @@
       "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений",
       "Version": "3.5.76.2",
       "PublishingDate": "2019-07-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.5.77"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -435,9 +441,15 @@
       "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
       "Version": "3.5.76.2",
       "PublishingDate": "2019-07-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.5.77"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
