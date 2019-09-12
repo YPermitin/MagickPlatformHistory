@@ -2083,17 +2083,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.72.54",
-      "PublishingDate": "2019-08-08T00:00:00",
-      "PlanVersions": [
-        "3.0.72.70"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-11T00:00:00"
-      ],
+      "Version": "3.0.72.70",
+      "PublishingDate": "2019-09-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
