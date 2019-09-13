@@ -4017,17 +4017,11 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.15.14",
-      "PublishingDate": "2019-09-06T00:00:00",
-      "PlanVersions": [
-        "3.0.15.15"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-13T00:00:00"
-      ],
+      "Version": "3.0.15.15",
+      "PublishingDate": "2019-09-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
