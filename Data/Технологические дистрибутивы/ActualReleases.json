@@ -173,8 +173,8 @@
     },
     {
       "Name": "Корпоративный инструментальный пакет 8",
-      "Version": "2.1.4.10",
-      "PublishingDate": "2019-06-05T00:00:00",
+      "Version": "2.1.4.15",
+      "PublishingDate": "2019-09-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -193,17 +193,13 @@
     },
     {
       "Name": "Мобильная платформа 1С:Предприятия",
-      "Version": "8.3.15.59",
-      "PublishingDate": "2019-08-07T00:00:00",
+      "Version": "8.3.15.62",
+      "PublishingDate": "2019-09-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "8.3.15.62"
-      ],
-      "DemoPublicationDates": [
-        "2019-09-06T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Обработки обслуживания торгового оборудования - для Технологической платформы 8.2",
