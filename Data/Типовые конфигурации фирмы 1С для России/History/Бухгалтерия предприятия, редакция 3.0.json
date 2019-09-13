@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 89,
+  "ReleasesCount": 90,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -1416,6 +1416,23 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
         "2019-09-09T00:00:00",
+        "2019-09-09T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-13T17:32:23",
+      "Name": "Бухгалтерия предприятия, редакция 3.0",
+      "Version": "3.0.72.72",
+      "PublishingDate": "2019-09-10T00:00:00",
+      "PlanVersions": [
+        "3.0.77",
+        "3.0.73"
+      ],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [
+        "2019-09-13T00:00:00",
         "2019-09-09T00:00:00"
       ],
       "DemoVersions": [],
