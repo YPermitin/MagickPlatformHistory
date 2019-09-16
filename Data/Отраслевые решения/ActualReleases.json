@@ -275,9 +275,15 @@
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
       "Version": "3.0.72.60",
       "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.72"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2037,9 +2043,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
       "Version": "3.0.72.60",
       "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.72"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
