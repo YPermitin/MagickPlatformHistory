@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 14,
+  "ReleasesCount": 15,
   "ReleasesHistory": [
     {
       "Created": "2019-04-04T14:54:44",
@@ -199,6 +199,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-16T16:32:25",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
+      "Version": "3.0.30.3",
+      "PublishingDate": "2019-07-31T00:00:00",
+      "PlanVersions": [
+        "3.0.31.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
