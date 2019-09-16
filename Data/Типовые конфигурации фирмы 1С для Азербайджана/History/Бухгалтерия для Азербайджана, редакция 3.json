@@ -4,7 +4,7 @@
     "ID": 633,
     "Name": "Типовые конфигурации фирмы \"1С\" для Азербайджана"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2019-03-11T16:54:21",
@@ -25,6 +25,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-16T14:02:23",
+      "Name": "Бухгалтерия для Азербайджана, редакция 3",
+      "Version": "3.0.1.0",
+      "PublishingDate": "2019-03-11T00:00:00",
+      "PlanVersions": [
+        "3.0.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
