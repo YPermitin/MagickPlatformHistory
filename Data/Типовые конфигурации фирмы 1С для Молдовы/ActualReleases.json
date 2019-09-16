@@ -92,8 +92,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.2.11.30"
+      ],
+      "DemoPublicationDates": [
+        "2019-09-16T00:00:00"
+      ]
     },
     {
       "Name": "Управление компанией для Молдовы",
