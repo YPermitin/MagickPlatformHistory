@@ -4,7 +4,7 @@
     "ID": 126,
     "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:41",
@@ -67,6 +67,21 @@
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-16T14:32:20",
+      "Name": "Розница для Молдовы, редакция 2",
+      "Version": "2.2.9.20",
+      "PublishingDate": "2018-09-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.2.11.30"
+      ],
+      "DemoPublicationDates": [
+        "2019-09-16T00:00:00"
+      ]
     }
   ]
 }
