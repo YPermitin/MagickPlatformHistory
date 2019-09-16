@@ -275,17 +275,11 @@
     },
     {
       "Name": "1С:Биллинг",
-      "Version": "1.1.1.15",
-      "PublishingDate": "2019-07-09T00:00:00",
-      "PlanVersions": [
-        "1.1.1.16"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-10T00:00:00"
-      ],
+      "Version": "1.1.1.16",
+      "PublishingDate": "2019-09-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -765,17 +759,11 @@
     },
     {
       "Name": "1С:Мясопереработка MES. Модуль для 1С:ERP",
-      "Version": "2.4.8.57",
-      "PublishingDate": "2019-07-03T00:00:00",
-      "PlanVersions": [
-        "2.4.9"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
-      ],
+      "Version": "2.4.9.82",
+      "PublishingDate": "2019-09-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1977,17 +1965,11 @@
     },
     {
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
-      "Version": "3.0.24.1",
-      "PublishingDate": "2019-08-28T00:00:00",
-      "PlanVersions": [
-        "3.0.25"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-10T00:00:00"
-      ],
+      "Version": "3.0.25.1",
+      "PublishingDate": "2019-09-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
