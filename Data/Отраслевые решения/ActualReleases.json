@@ -99,9 +99,15 @@
       "Name": "1С:ERP Энергетика 2",
       "Version": "2.4.9.70",
       "PublishingDate": "2019-09-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.91"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -249,9 +255,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
       "Version": "4.0.23.3",
       "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.23.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -985,9 +997,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.8.84",
       "PublishingDate": "2019-07-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1035,9 +1053,15 @@
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.8.84",
       "PublishingDate": "2019-07-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3997,9 +4021,15 @@
       "Name": "Управление ритуальными услугами, редакция 1.6",
       "Version": "1.6.18.156",
       "PublishingDate": "2019-08-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.18.158"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
