@@ -120,13 +120,13 @@
       "Version": "3.0.28.1",
       "PublishingDate": "2019-08-06T00:00:00",
       "PlanVersions": [
-        "3.0.29"
+        "3.0.29.1"
       ],
       "PlanReleaseDates": [
-        "2019-09-16T00:00:00"
+        "2019-09-18T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-09T00:00:00"
+        "2019-09-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
