@@ -551,9 +551,15 @@
       "Name": "1С:Медицина. Диетическое питание, редакция 2.0",
       "Version": "2.0.8.351",
       "PublishingDate": "2019-07-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.9.363"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -696,13 +702,13 @@
       "Version": "1.3.124.2",
       "PublishingDate": "2019-08-13T00:00:00",
       "PlanVersions": [
-        "1.3.125"
+        "1.3.125.1"
       ],
       "PlanReleaseDates": [
-        "2019-09-11T00:00:00"
+        "2019-09-18T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
+        "2019-09-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2791,9 +2797,15 @@
       "Name": "Производственная безопасность. Комплексная, редакция 1.1",
       "Version": "1.1.4.70",
       "PublishingDate": "2019-08-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.4.82"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2801,9 +2813,15 @@
       "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
       "Version": "1.1.4.21",
       "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.4.27"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2821,9 +2839,15 @@
       "Name": "Производственная безопасность. Охрана труда, редакция 1.1",
       "Version": "1.1.4.17",
       "PublishingDate": "2019-04-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.4.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2841,9 +2865,15 @@
       "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
       "Version": "1.1.4.11",
       "PublishingDate": "2019-04-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.4.30"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2861,9 +2891,15 @@
       "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.1",
       "Version": "1.1.4.25",
       "PublishingDate": "2019-04-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.4.55"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
