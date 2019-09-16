@@ -1915,10 +1915,10 @@
         "2.0.5.1"
       ],
       "PlanReleaseDates": [
-        "2019-09-09T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-03T00:00:00"
+        "2019-09-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2099,9 +2099,15 @@
       "Name": "Бухгалтерия строительной организации для Казахстана",
       "Version": "3.0.30.1",
       "PublishingDate": "2019-08-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.31"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2403,10 +2409,10 @@
         "2.0.9.1"
       ],
       "PlanReleaseDates": [
-        "2019-09-09T00:00:00"
+        "2019-09-17T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-03T00:00:00"
+        "2019-09-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
