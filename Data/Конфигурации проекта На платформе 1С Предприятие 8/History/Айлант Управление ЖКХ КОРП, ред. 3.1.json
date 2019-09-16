@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 24,
+  "ReleasesCount": 25,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -339,6 +339,17 @@
       "PlanUpdateDates": [
         "2019-09-12T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-16T13:02:23",
+      "Name": "Айлант: Управление ЖКХ  КОРП, ред. 3.1",
+      "Version": "3.1.72.60",
+      "PublishingDate": "2019-09-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
