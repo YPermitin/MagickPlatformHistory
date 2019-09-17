@@ -1031,17 +1031,11 @@
     },
     {
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.8.84",
-      "PublishingDate": "2019-07-23T00:00:00",
-      "PlanVersions": [
-        "2.4.9.82"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-16T00:00:00"
-      ],
+      "Version": "2.4.9.82",
+      "PublishingDate": "2019-09-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1175,17 +1169,11 @@
     },
     {
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.9.70",
-      "PublishingDate": "2019-08-26T00:00:00",
-      "PlanVersions": [
-        "2.4.9.82"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-16T00:00:00"
-      ],
+      "Version": "2.4.9.82",
+      "PublishingDate": "2019-09-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
