@@ -129,17 +129,13 @@
     },
     {
       "Name": "PostgreSQL",
-      "Version": "10.8-18.1C",
-      "PublishingDate": "2019-08-16T00:00:00",
+      "Version": "10.9-5.1C",
+      "PublishingDate": "2019-08-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "10.9-5.1C"
-      ],
-      "DemoPublicationDates": [
-        "2019-08-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Web-расширение",
