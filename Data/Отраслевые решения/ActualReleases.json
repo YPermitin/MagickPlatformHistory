@@ -1177,17 +1177,11 @@
     },
     {
       "Name": "1С:Управление недвижимостью и арендой КОРП",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "3.0.72.70"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-16T00:00:00"
-      ],
+      "Version": "3.0.72.70",
+      "PublishingDate": "2019-09-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1761,17 +1755,11 @@
     },
     {
       "Name": "Аптека для Казахстана, редакция 2.2",
-      "Version": "2.2.5.6",
-      "PublishingDate": "2019-08-02T00:00:00",
-      "PlanVersions": [
-        "2.2.6"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-16T00:00:00"
-      ],
+      "Version": "2.2.6.8",
+      "PublishingDate": "2019-09-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1973,17 +1961,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
-      "Version": "3.0.30.3",
-      "PublishingDate": "2019-07-31T00:00:00",
-      "PlanVersions": [
-        "3.0.31.4"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-16T00:00:00"
-      ],
+      "Version": "3.0.31.4",
+      "PublishingDate": "2019-09-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
