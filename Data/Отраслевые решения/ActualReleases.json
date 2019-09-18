@@ -325,8 +325,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.72.70",
-      "PublishingDate": "2019-09-06T00:00:00",
+      "Version": "3.0.72.72",
+      "PublishingDate": "2019-09-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1465,17 +1465,11 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.16.9",
-      "PublishingDate": "2019-07-30T00:00:00",
-      "PlanVersions": [
-        "3.0.16.10"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-17T00:00:00"
-      ],
+      "Version": "3.0.16.11",
+      "PublishingDate": "2019-09-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
