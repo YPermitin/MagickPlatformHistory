@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -110,6 +110,17 @@
       "Name": "Свод отчетов ПРОФ, редакция 3.4",
       "Version": "3.4.46.4",
       "PublishingDate": "2019-09-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-18T20:02:23",
+      "Name": "Свод отчетов ПРОФ, редакция 3.4",
+      "Version": "3.4.46.5",
+      "PublishingDate": "2019-09-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
