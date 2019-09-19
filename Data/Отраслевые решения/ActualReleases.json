@@ -975,10 +975,10 @@
         "2.4.9.82"
       ],
       "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-16T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1091,10 +1091,10 @@
         "2.2.14"
       ],
       "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1199,10 +1199,10 @@
         "2.2.14"
       ],
       "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1215,10 +1215,10 @@
         "2.2.14"
       ],
       "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-04T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1280,8 +1280,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.72.7"
+      ],
+      "DemoPublicationDates": [
+        "2019-09-19T00:00:00"
+      ]
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
@@ -2041,10 +2045,10 @@
         "3.0.31"
       ],
       "PlanReleaseDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-16T00:00:00"
+        "2019-09-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
