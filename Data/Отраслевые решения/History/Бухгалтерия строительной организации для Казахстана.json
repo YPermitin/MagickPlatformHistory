@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 19,
+  "ReleasesCount": 20,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -277,6 +277,23 @@
       ],
       "PlanUpdateDates": [
         "2019-09-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-19T12:32:24",
+      "Name": "Бухгалтерия строительной организации для Казахстана",
+      "Version": "3.0.30.1",
+      "PublishingDate": "2019-08-14T00:00:00",
+      "PlanVersions": [
+        "3.0.31"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
