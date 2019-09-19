@@ -113,17 +113,11 @@
     },
     {
       "Name": "1С:GIS Управление пространственными данными. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "1.0.4.1",
-      "PublishingDate": "2019-06-25T00:00:00",
-      "PlanVersions": [
-        "1.0.4.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-08-23T00:00:00"
-      ],
+      "Version": "1.0.4.2",
+      "PublishingDate": "2019-09-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
