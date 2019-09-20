@@ -395,9 +395,15 @@
       "Name": "1С:Заказчик-застройщик. Модуль для 1С:ERP",
       "Version": "2.4.8.73",
       "PublishingDate": "2019-07-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.70"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
