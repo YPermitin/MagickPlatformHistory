@@ -857,17 +857,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.72.70",
-      "PublishingDate": "2019-09-17T00:00:00",
-      "PlanVersions": [
-        "3.0.72.72"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-19T00:00:00"
-      ],
+      "Version": "3.0.72.72",
+      "PublishingDate": "2019-09-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -969,10 +963,10 @@
         "2.4.9.82"
       ],
       "PlanReleaseDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1085,10 +1079,10 @@
         "2.2.14"
       ],
       "PlanReleaseDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1173,9 +1167,15 @@
       "Name": "1С:Управление недвижимостью и арендой КОРП",
       "Version": "3.0.72.70",
       "PublishingDate": "2019-09-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.72.72"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1203,10 +1203,10 @@
         "2.2.14"
       ],
       "PlanReleaseDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
