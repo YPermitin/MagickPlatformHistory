@@ -1815,10 +1815,10 @@
         "3.0.72.72"
       ],
       "PlanReleaseDates": [
-        "2019-09-20T00:00:00"
+        "2019-09-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3053,10 +3053,10 @@
         "11.4.9.91"
       ],
       "PlanReleaseDates": [
-        "2019-09-20T00:00:00"
+        "2019-09-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-19T00:00:00"
+        "2019-09-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4105,17 +4105,11 @@
     },
     {
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
-      "Version": "11.4.9.82",
-      "PublishingDate": "2019-09-09T00:00:00",
-      "PlanVersions": [
-        "11.4.9.83"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-20T00:00:00"
-      ],
+      "Version": "11.4.9.83",
+      "PublishingDate": "2019-09-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
