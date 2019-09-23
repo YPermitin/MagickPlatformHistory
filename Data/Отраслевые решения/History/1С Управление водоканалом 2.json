@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 16,
+  "ReleasesCount": 17,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -250,6 +250,23 @@
       ],
       "PlanUpdateDates": [
         "2019-09-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-23T11:02:22",
+      "Name": "1С:Управление водоканалом 2",
+      "Version": "2.2.13.1",
+      "PublishingDate": "2019-07-01T00:00:00",
+      "PlanVersions": [
+        "2.2.14"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
