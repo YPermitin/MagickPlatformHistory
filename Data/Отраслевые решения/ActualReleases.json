@@ -3591,9 +3591,15 @@
       "Name": "Транспортная логистика, экспедирование и управление автотранспортом КОРП",
       "Version": "1.1.6.1",
       "PublishingDate": "2019-06-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
