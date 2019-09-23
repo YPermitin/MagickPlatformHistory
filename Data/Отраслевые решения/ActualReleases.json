@@ -695,17 +695,11 @@
     },
     {
       "Name": "1С:МТО Материально-техническое обеспечение",
-      "Version": "1.3.124.2",
-      "PublishingDate": "2019-08-13T00:00:00",
-      "PlanVersions": [
-        "1.3.125.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-18T00:00:00"
-      ],
+      "Version": "1.3.125.1",
+      "PublishingDate": "2019-09-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4167,9 +4161,15 @@
       "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
       "Version": "2.0.1.14",
       "PublishingDate": "2019-08-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
