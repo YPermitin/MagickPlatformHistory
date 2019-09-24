@@ -1061,15 +1061,9 @@
       "Name": "1С:Управление водоканалом 2",
       "Version": "2.2.13.1",
       "PublishingDate": "2019-07-01T00:00:00",
-      "PlanVersions": [
-        "2.2.14"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-23T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1177,17 +1171,11 @@
     },
     {
       "Name": "1С:Управление теплосетью 2",
-      "Version": "2.2.13.1",
-      "PublishingDate": "2019-07-01T00:00:00",
-      "PlanVersions": [
-        "2.2.14"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-23T00:00:00"
-      ],
+      "Version": "2.2.14.1",
+      "PublishingDate": "2019-09-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1535,9 +1523,15 @@
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
       "Version": "2.4.9.91",
       "PublishingDate": "2019-09-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-24T00:00:00"
+      ],
       "DemoVersions": [
         "2.2.3.153"
       ],
