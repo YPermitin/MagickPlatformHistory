@@ -790,8 +790,12 @@
       "PlanUpdateDates": [
         "2019-09-11T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.4.10.49"
+      ],
+      "DemoPublicationDates": [
+        "2019-09-24T00:00:00"
+      ]
     },
     {
       "Name": "Консолидация",
