@@ -95,17 +95,11 @@
     },
     {
       "Name": "Управление компанией для Молдовы",
-      "Version": "1.6.17.176",
-      "PublishingDate": "2019-07-30T00:00:00",
-      "PlanVersions": [
-        "1.6.18"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-26T00:00:00"
-      ],
+      "Version": "1.6.18.168",
+      "PublishingDate": "2019-09-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
