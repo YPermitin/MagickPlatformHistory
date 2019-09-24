@@ -77,8 +77,8 @@
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.9.82",
-      "PublishingDate": "2019-09-09T00:00:00",
+      "Version": "2.4.9.91",
+      "PublishingDate": "2019-09-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3711,9 +3711,15 @@
       "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
       "Version": "2.2.6.1",
       "PublishingDate": "2019-06-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3821,9 +3827,15 @@
       "Name": "Управление корпоративными финансами, редакция 3.0",
       "Version": "3.0.72.2",
       "PublishingDate": "2019-09-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
