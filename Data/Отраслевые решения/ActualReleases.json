@@ -2490,9 +2490,15 @@
       "Name": "Комплексный учет сельскохозяйственного предприятия",
       "Version": "1.1.119.2",
       "PublishingDate": "2019-08-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.120"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
