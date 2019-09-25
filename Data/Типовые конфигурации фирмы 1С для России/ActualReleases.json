@@ -531,8 +531,8 @@
     },
     {
       "Name": "Бюджетная отчетность",
-      "Version": "1.1.45.1",
-      "PublishingDate": "2019-09-13T00:00:00",
+      "Version": "1.1.45.2",
+      "PublishingDate": "2019-09-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1053,8 +1053,8 @@
     },
     {
       "Name": "Свод отчетов ПРОФ, редакция 3.4",
-      "Version": "3.4.46.5",
-      "PublishingDate": "2019-09-18T00:00:00",
+      "Version": "3.4.46.6",
+      "PublishingDate": "2019-09-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
