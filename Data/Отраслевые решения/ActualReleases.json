@@ -215,9 +215,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.9.91",
       "PublishingDate": "2019-09-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-09-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-25T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -277,17 +283,11 @@
     },
     {
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
-      "Version": "3.0.72.60",
-      "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [
-        "3.0.72.72"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-20T00:00:00"
-      ],
+      "Version": "3.0.72.72",
+      "PublishingDate": "2019-09-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
