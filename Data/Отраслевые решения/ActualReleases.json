@@ -2085,16 +2085,6 @@
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
       "Version": "2.0.66.83",
       "PublishingDate": "2019-08-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.73.38",
-      "PublishingDate": "2019-09-25T00:00:00",
       "PlanVersions": [
         "2.0.66.84"
       ],
@@ -2104,6 +2094,16 @@
       "PlanUpdateDates": [
         "2019-09-25T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
+      "Version": "3.0.73.38",
+      "PublishingDate": "2019-09-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4177,10 +4177,10 @@
         "2.0.2"
       ],
       "PlanReleaseDates": [
-        "2019-09-26T00:00:00"
+        "2019-09-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-23T00:00:00"
+        "2019-09-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
