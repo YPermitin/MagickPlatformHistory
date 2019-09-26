@@ -3,7 +3,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 30,
+  "ReleasesCount": 29,
   "Releases": [
     {
       "Name": "1C:Enterprise Development Tools",
@@ -42,6 +42,16 @@
       "DemoPublicationDates": []
     },
     {
+      "Name": "1С:Облачная технология 1cFresh",
+      "Version": "1.0.26.1",
+      "PublishingDate": "2019-08-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
       "Name": "1С:Переводчик, редакция 2.1",
       "Version": "2.1.15.1",
       "PublishingDate": "2017-04-28T00:00:00",
@@ -63,17 +73,13 @@
     },
     {
       "Name": "1С:Сервер взаимодействия",
-      "Version": "5.0.43",
-      "PublishingDate": "2019-03-26T00:00:00",
+      "Version": "6.0.47",
+      "PublishingDate": "2019-04-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "6.0.47"
-      ],
-      "DemoPublicationDates": [
-        "2019-04-15T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Сканер штрихкода (COM)",
@@ -98,26 +104,6 @@
       "DemoPublicationDates": [
         "2019-05-17T00:00:00"
       ]
-    },
-    {
-      "Name": "1С:Технология публикации решений 1cFresh",
-      "Version": "1.0.26.1",
-      "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "1С:Технология разработки решений 1cFresh",
-      "Version": "1.0.26.1",
-      "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
     },
     {
       "Name": "IBM DB2 Express-C",
