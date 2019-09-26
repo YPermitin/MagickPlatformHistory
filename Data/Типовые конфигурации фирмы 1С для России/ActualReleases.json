@@ -148,8 +148,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.23.0"
+      ],
+      "DemoPublicationDates": [
+        "2019-09-26T00:00:00"
+      ]
     },
     {
       "Name": "1С:Налоговый мониторинг",
