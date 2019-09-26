@@ -4,7 +4,7 @@
     "ID": 113,
     "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:36",
@@ -22,6 +22,17 @@
       "Name": "Розница для Кыргызстана",
       "Version": "2.2.11.30",
       "PublishingDate": "2019-05-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-26T18:32:22",
+      "Name": "Розница для Кыргызстана",
+      "Version": "2.2.12.30",
+      "PublishingDate": "2019-09-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
