@@ -1111,17 +1111,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
-      "Version": "3.0.72.57",
-      "PublishingDate": "2019-09-17T00:00:00",
-      "PlanVersions": [
-        "3.0.72.58"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-25T00:00:00"
-      ],
+      "Version": "3.0.72.58",
+      "PublishingDate": "2019-09-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3755,9 +3749,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.9.82",
       "PublishingDate": "2019-09-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.9.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-09-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
