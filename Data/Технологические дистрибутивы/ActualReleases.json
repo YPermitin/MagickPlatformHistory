@@ -296,8 +296,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "8.3.16.942"
+      ],
+      "DemoPublicationDates": [
+        "2019-09-27T00:00:00"
+      ]
     },
     {
       "Name": "Утилита администрирования конфигураций и информационных баз 1С:Предприятия 8",
