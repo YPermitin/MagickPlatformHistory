@@ -3735,17 +3735,11 @@
     },
     {
       "Name": "Управление автотранспортом Стандарт, редакция 2.1",
-      "Version": "2.2.6.1",
-      "PublishingDate": "2019-06-05T00:00:00",
-      "PlanVersions": [
-        "2.2.7.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-25T00:00:00"
-      ],
+      "Version": "2.2.7.1",
+      "PublishingDate": "2019-09-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
