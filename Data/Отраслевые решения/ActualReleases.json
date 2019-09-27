@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 426,
+  "ReleasesCount": 427,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -622,6 +622,16 @@
       "DemoPublicationDates": [
         "2019-03-01T00:00:00"
       ]
+    },
+    {
+      "Name": "1С:Медицина. Регион",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Медицина. Стоматологическая клиника",
