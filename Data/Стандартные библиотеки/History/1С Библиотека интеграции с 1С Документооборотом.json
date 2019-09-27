@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:21",
@@ -44,6 +44,17 @@
       "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
       "Version": "1.1.14.4",
       "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-27T20:02:25",
+      "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
+      "Version": "1.1.14.6",
+      "PublishingDate": "2019-09-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
