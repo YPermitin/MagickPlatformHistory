@@ -877,17 +877,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.72.72",
-      "PublishingDate": "2019-09-20T00:00:00",
-      "PlanVersions": [
-        "3.0.73.38"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-26T00:00:00"
-      ],
+      "Version": "3.0.73.38",
+      "PublishingDate": "2019-09-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1235,33 +1229,21 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
-      "Version": "2.0.66.59",
-      "PublishingDate": "2019-09-02T00:00:00",
-      "PlanVersions": [
-        "2.0.66.60"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-27T00:00:00"
-      ],
+      "Version": "2.0.66.60",
+      "PublishingDate": "2019-09-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.59",
-      "PublishingDate": "2019-09-02T00:00:00",
-      "PlanVersions": [
-        "2.0.66.60"
-      ],
-      "PlanReleaseDates": [
-        "2019-09-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-27T00:00:00"
-      ],
+      "Version": "2.0.66.60",
+      "PublishingDate": "2019-09-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
