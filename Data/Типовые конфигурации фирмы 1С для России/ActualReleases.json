@@ -62,6 +62,16 @@
       ]
     },
     {
+      "Name": "1С:ERP.Управление холдингом",
+      "Version": "3.0.1.21",
+      "PublishingDate": "2019-08-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
       "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
       "Version": "3.0.8.6",
       "PublishingDate": "2019-08-29T00:00:00",
@@ -255,16 +265,6 @@
       "Name": "1С:Управление холдингом 3.0",
       "Version": "3.0.8.5",
       "PublishingDate": "2019-08-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "1С:Управление холдингом. ERP (бета-версия)",
-      "Version": "3.0.1.21",
-      "PublishingDate": "2019-08-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
