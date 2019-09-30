@@ -4,13 +4,24 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
       "Name": "Мобильный документооборот КОРП",
       "Version": "2.1.11.2",
       "PublishingDate": "2018-10-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-09-30T16:32:19",
+      "Name": "Мобильный документооборот КОРП",
+      "Version": "2.1.12.3",
+      "PublishingDate": "2019-09-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
