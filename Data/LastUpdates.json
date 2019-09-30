@@ -1,7 +1,19 @@
 {
   "Title": "Текущие релизы программ фирмы «1С»",
-  "PublishingDate": "2019-09-27T00:00:00",
+  "PublishingDate": "2019-09-30T00:00:00",
   "Items": [
+    {
+      "Title": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
+      "Description": "3.0.73.1",
+      "PublishingDate": "2019-09-30T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "Комплексный учет сельскохозяйственного предприятия",
+      "Description": "1.1.120.1",
+      "PublishingDate": "2019-09-30T00:00:00",
+      "Link": ""
+    },
     {
       "Title": "1C:Enterprise Development Tools",
       "Description": "1.14.0.298",
