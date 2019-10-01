@@ -4227,17 +4227,11 @@
     },
     {
       "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
-      "Version": "2.0.1.14",
-      "PublishingDate": "2019-08-20T00:00:00",
-      "PlanVersions": [
-        "2.0.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-30T00:00:00"
-      ],
+      "Version": "2.0.2.1",
+      "PublishingDate": "2019-10-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
