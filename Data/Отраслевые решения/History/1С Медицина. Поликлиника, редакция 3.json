@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2019-01-25T15:18:21",
@@ -166,6 +166,21 @@
       ],
       "DemoPublicationDates": [
         "2019-03-01T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-10-01T16:32:23",
+      "Name": "1С:Медицина. Поликлиника, редакция 3",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.2.1"
+      ],
+      "DemoPublicationDates": [
+        "2019-10-01T00:00:00"
       ]
     }
   ]
