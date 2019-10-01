@@ -520,8 +520,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.0.2.1"
+      ],
+      "DemoPublicationDates": [
+        "2019-10-01T00:00:00"
+      ]
     },
     {
       "Name": "1С:Медицина. Больничная аптека",
