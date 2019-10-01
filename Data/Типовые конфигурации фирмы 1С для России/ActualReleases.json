@@ -185,31 +185,23 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.72.12",
-      "PublishingDate": "2019-09-10T00:00:00",
+      "Version": "3.0.72.25",
+      "PublishingDate": "2019-10-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.72.25"
-      ],
-      "DemoPublicationDates": [
-        "2019-09-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.72.12",
-      "PublishingDate": "2019-09-10T00:00:00",
+      "Version": "3.0.72.25",
+      "PublishingDate": "2019-10-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.72.25"
-      ],
-      "DemoPublicationDates": [
-        "2019-09-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
@@ -464,7 +456,7 @@
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
       "Version": "3.0.73.50",
-      "PublishingDate": "2019-09-30T00:00:00",
+      "PublishingDate": "2019-10-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -488,7 +480,7 @@
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
       "Version": "3.0.73.50",
-      "PublishingDate": "2019-09-30T00:00:00",
+      "PublishingDate": "2019-10-01T00:00:00",
       "PlanVersions": [
         "3.0.77"
       ],
@@ -516,7 +508,7 @@
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
       "Version": "3.0.73.50",
-      "PublishingDate": "2019-09-30T00:00:00",
+      "PublishingDate": "2019-10-01T00:00:00",
       "PlanVersions": [
         "3.0.77"
       ],
@@ -544,7 +536,7 @@
     {
       "Name": "Бухгалтерия предприятия, редакция 3.0",
       "Version": "3.0.73.50",
-      "PublishingDate": "2019-09-30T00:00:00",
+      "PublishingDate": "2019-10-01T00:00:00",
       "PlanVersions": [
         "3.0.77"
       ],
