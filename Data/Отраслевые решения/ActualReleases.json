@@ -286,7 +286,7 @@
       "Version": "3.0.72.72",
       "PublishingDate": "2019-09-25T00:00:00",
       "PlanVersions": [
-        "3.0.73"
+        "3.0.73.50"
       ],
       "PlanReleaseDates": [
         "2019-10-02T00:00:00"
@@ -1831,9 +1831,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.72.72",
       "PublishingDate": "2019-09-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.46"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2047,17 +2053,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.72.72",
-      "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [
-        "3.0.73.50"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-02T00:00:00"
-      ],
+      "Version": "3.0.73.50",
+      "PublishingDate": "2019-10-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
