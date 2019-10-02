@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -103,6 +103,23 @@
       ],
       "PlanUpdateDates": [
         "2019-09-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-02T17:32:23",
+      "Name": "Производственная безопасность. Охрана труда, редакция 1.1",
+      "Version": "1.1.4.17",
+      "PublishingDate": "2019-04-05T00:00:00",
+      "PlanVersions": [
+        "1.1.4.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
