@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -188,6 +188,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-03T19:02:24",
+      "Name": "1С:Медицина. Федеральные регистры, редакция 3.0",
+      "Version": "3.0.4.14",
+      "PublishingDate": "2019-08-27T00:00:00",
+      "PlanVersions": [
+        "3.0.4.16"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
