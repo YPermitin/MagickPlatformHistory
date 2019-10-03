@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 20,
+  "ReleasesCount": 21,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -241,6 +241,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-04T00:32:21",
+      "Name": "1С:ERP Управление птицеводческим предприятием 2",
+      "Version": "2.4.9.91",
+      "PublishingDate": "2019-09-24T00:00:00",
+      "PlanVersions": [
+        "2.4.9.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
