@@ -1917,25 +1917,25 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.73.38",
       "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.72.54",
-      "PublishingDate": "2019-08-19T00:00:00",
       "PlanVersions": [
-        "3.0.73.38"
+        "3.0.73.50"
       ],
       "PlanReleaseDates": [
         "2019-10-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-09-30T00:00:00"
+        "2019-10-03T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
+      "Version": "3.0.73.38",
+      "PublishingDate": "2019-10-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
