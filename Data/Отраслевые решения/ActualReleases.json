@@ -77,8 +77,8 @@
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.9.91",
-      "PublishingDate": "2019-09-24T00:00:00",
+      "Version": "2.4.9.98",
+      "PublishingDate": "2019-10-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -89,9 +89,15 @@
       "Name": "1С:ERP Управление птицеводческим предприятием 2",
       "Version": "2.4.9.91",
       "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
