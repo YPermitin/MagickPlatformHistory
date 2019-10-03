@@ -731,14 +731,14 @@
       "PublishingDate": "2019-10-03T00:00:00",
       "PlanVersions": [
         "3.1.12",
-        "3.1.10.",
-        "3.1.11."
+        "3.1.11.",
+        "3.1.10."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
         "2019-09-11T00:00:00",
-        "2019-09-25T00:00:00",
-        "2019-09-11T00:00:00"
+        "2019-10-03T00:00:00",
+        "2019-09-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -779,14 +779,14 @@
       "PublishingDate": "2019-10-03T00:00:00",
       "PlanVersions": [
         "3.1.12",
-        "3.1.10.",
-        "3.1.11."
+        "3.1.11.",
+        "3.1.10."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
         "2019-09-11T00:00:00",
-        "2019-09-25T00:00:00",
-        "2019-09-11T00:00:00"
+        "2019-10-03T00:00:00",
+        "2019-09-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -923,8 +923,8 @@
     },
     {
       "Name": "Налогоплательщик",
-      "Version": "3.0.169.1",
-      "PublishingDate": "2019-08-30T00:00:00",
+      "Version": "3.0.170.1",
+      "PublishingDate": "2019-10-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1253,8 +1253,8 @@
     },
     {
       "Name": "Управление торговлей базовая, редакция 11",
-      "Version": "11.4.8.96",
-      "PublishingDate": "2019-08-19T00:00:00",
+      "Version": "11.4.9.98",
+      "PublishingDate": "2019-10-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
