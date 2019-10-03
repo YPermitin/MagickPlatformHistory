@@ -1497,17 +1497,11 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.17.25",
-      "PublishingDate": "2019-09-27T00:00:00",
-      "PlanVersions": [
-        "3.0.17.28"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-02T00:00:00"
-      ],
+      "Version": "3.0.17.28",
+      "PublishingDate": "2019-10-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2847,17 +2841,11 @@
     },
     {
       "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
-      "Version": "1.1.4.21",
-      "PublishingDate": "2019-07-02T00:00:00",
-      "PlanVersions": [
-        "1.1.4.27"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-02T00:00:00"
-      ],
+      "Version": "1.1.4.27",
+      "PublishingDate": "2019-10-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
