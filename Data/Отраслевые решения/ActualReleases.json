@@ -3419,17 +3419,11 @@
     },
     {
       "Name": "Смета 3. редакция 3.0",
-      "Version": "3.0.4.16",
-      "PublishingDate": "2019-07-15T00:00:00",
-      "PlanVersions": [
-        "3.0.4.22"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-04T00:00:00"
-      ],
+      "Version": "3.0.4.22",
+      "PublishingDate": "2019-10-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
