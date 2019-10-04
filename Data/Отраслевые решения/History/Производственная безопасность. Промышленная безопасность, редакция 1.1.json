@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -126,6 +126,23 @@
       ],
       "PlanUpdateDates": [
         "2019-09-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-04T17:32:24",
+      "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.1",
+      "Version": "1.1.4.25",
+      "PublishingDate": "2019-04-16T00:00:00",
+      "PlanVersions": [
+        "1.1.4.55"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-04T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
