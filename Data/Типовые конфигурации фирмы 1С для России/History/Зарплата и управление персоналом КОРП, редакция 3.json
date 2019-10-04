@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 42,
+  "ReleasesCount": 43,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -631,6 +631,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-04T20:02:22",
+      "Name": "Зарплата и управление персоналом КОРП, редакция 3",
+      "Version": "3.1.11.106",
+      "PublishingDate": "2019-10-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.12.12"
+      ],
+      "DemoPublicationDates": [
+        "2019-10-04T00:00:00"
+      ]
     }
   ]
 }
