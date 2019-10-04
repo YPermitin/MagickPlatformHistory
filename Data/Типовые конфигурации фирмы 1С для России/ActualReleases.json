@@ -195,17 +195,13 @@
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.72.25",
-      "PublishingDate": "2019-10-01T00:00:00",
+      "Version": "3.0.72.31",
+      "PublishingDate": "2019-10-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.72.31"
-      ],
-      "DemoPublicationDates": [
-        "2019-10-03T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
