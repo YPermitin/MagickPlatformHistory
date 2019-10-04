@@ -317,8 +317,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.73.38",
-      "PublishingDate": "2019-09-23T00:00:00",
+      "Version": "3.0.73.50",
+      "PublishingDate": "2019-10-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -691,17 +691,11 @@
     },
     {
       "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
-      "Version": "1.0.8.1",
-      "PublishingDate": "2019-08-23T00:00:00",
-      "PlanVersions": [
-        "1.0.8.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-02T00:00:00"
-      ],
+      "Version": "1.0.8.2",
+      "PublishingDate": "2019-10-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1891,17 +1885,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.73.38",
-      "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [
-        "3.0.73.50"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-04T00:00:00"
-      ],
+      "Version": "3.0.73.50",
+      "PublishingDate": "2019-10-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
