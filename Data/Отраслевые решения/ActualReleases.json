@@ -301,17 +301,11 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.73.46",
-      "PublishingDate": "2019-10-01T00:00:00",
-      "PlanVersions": [
-        "3.0.73.50"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-03T00:00:00"
-      ],
+      "Version": "3.0.73.50",
+      "PublishingDate": "2019-10-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2865,17 +2859,11 @@
     },
     {
       "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.1",
-      "Version": "1.1.4.25",
-      "PublishingDate": "2019-04-16T00:00:00",
-      "PlanVersions": [
-        "1.1.4.55"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-04T00:00:00"
-      ],
+      "Version": "1.1.4.55",
+      "PublishingDate": "2019-10-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
