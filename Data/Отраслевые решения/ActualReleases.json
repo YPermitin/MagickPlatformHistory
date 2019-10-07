@@ -2461,9 +2461,15 @@
       "Name": "Комплексная автоматизация торговли алкогольной продукцией, редакция 1.1",
       "Version": "1.1.115.4",
       "PublishingDate": "2019-08-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.115.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4055,9 +4061,15 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.9.83",
       "PublishingDate": "2019-09-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.9.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
