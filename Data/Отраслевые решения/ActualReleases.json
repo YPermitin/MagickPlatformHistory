@@ -2189,8 +2189,8 @@
     },
     {
       "Name": "Девелопмент и управление недвижимостью, редакция 1.3",
-      "Version": "1.3.126.1",
-      "PublishingDate": "2019-10-02T00:00:00",
+      "Version": "1.3.126.2",
+      "PublishingDate": "2019-10-07T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2573,9 +2573,15 @@
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.9.91",
       "PublishingDate": "2019-10-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.9.98"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
