@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 34,
+  "ReleasesCount": 35,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -497,6 +497,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-07T17:32:25",
+      "Name": "Энергетика. Управление распределительной сетевой компанией",
+      "Version": "1.3.125.1",
+      "PublishingDate": "2019-08-29T00:00:00",
+      "PlanVersions": [
+        "1.3.126.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
