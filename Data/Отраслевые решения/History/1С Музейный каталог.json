@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 12,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -154,6 +154,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-07T14:02:24",
+      "Name": "1С:Музейный каталог",
+      "Version": "1.0.11.3",
+      "PublishingDate": "2019-07-22T00:00:00",
+      "PlanVersions": [
+        "1.0.11.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
