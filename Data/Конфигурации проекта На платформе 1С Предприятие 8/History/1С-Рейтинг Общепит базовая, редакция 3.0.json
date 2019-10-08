@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 22,
+  "ReleasesCount": 23,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -329,6 +329,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-08T08:02:21",
+      "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
+      "Version": "3.0.29.1",
+      "PublishingDate": "2019-09-18T00:00:00",
+      "PlanVersions": [
+        "3.0.30"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
