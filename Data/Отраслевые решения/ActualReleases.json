@@ -1491,17 +1491,11 @@
     },
     {
       "Name": "ERP English Interface",
-      "Version": "1.3.125.1",
-      "PublishingDate": "2019-09-11T00:00:00",
-      "PlanVersions": [
-        "1.3.126.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-03T00:00:00"
-      ],
+      "Version": "1.3.126.1",
+      "PublishingDate": "2019-10-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2585,17 +2579,11 @@
     },
     {
       "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
-      "Version": "2.0.14.1",
-      "PublishingDate": "2019-06-21T00:00:00",
-      "PlanVersions": [
-        "2.0.15.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-07T00:00:00"
-      ],
+      "Version": "2.0.15.1",
+      "PublishingDate": "2019-10-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4223,17 +4211,11 @@
     },
     {
       "Name": "Финансовое планирование. Дополнение к 1С:БГУ 2.0",
-      "Version": "1.0.22.1",
-      "PublishingDate": "2019-08-13T00:00:00",
-      "PlanVersions": [
-        "1.0.23.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-02T00:00:00"
-      ],
+      "Version": "1.0.23.1",
+      "PublishingDate": "2019-10-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
