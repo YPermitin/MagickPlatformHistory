@@ -1295,17 +1295,11 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис",
-      "Version": "2.2.13.11",
-      "PublishingDate": "2019-08-26T00:00:00",
-      "PlanVersions": [
-        "2.2.13.12"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-09-27T00:00:00"
-      ],
+      "Version": "2.2.13.12",
+      "PublishingDate": "2019-10-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
