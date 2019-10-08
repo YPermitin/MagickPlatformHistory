@@ -7,8 +7,8 @@
   "Releases": [
     {
       "Name": "Бухгалтерия для Латвии",
-      "Version": "1.6.45.5",
-      "PublishingDate": "2019-05-05T00:00:00",
+      "Version": "1.6.46.7",
+      "PublishingDate": "2019-10-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -17,8 +17,8 @@
     },
     {
       "Name": "Бухгалтерия для Латвии (базовая версия)",
-      "Version": "1.6.45.7",
-      "PublishingDate": "2019-05-17T00:00:00",
+      "Version": "1.6.46.7",
+      "PublishingDate": "2019-10-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
