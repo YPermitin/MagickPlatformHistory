@@ -186,8 +186,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "8.3.15.66"
+      ],
+      "DemoPublicationDates": [
+        "2019-10-09T00:00:00"
+      ]
     },
     {
       "Name": "Обработки обслуживания торгового оборудования - для Технологической платформы 8.2",
