@@ -469,9 +469,15 @@
       "Name": "1С:Ломбард КОРП",
       "Version": "3.0.72.70",
       "PublishingDate": "2019-09-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.50"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -479,9 +485,15 @@
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
       "Version": "3.0.72.70",
       "PublishingDate": "2019-09-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.50"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -803,17 +815,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.84",
-      "PublishingDate": "2019-08-30T00:00:00",
-      "PlanVersions": [
-        "2.0.66.85"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-07T00:00:00"
-      ],
+      "Version": "2.0.66.85",
+      "PublishingDate": "2019-10-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
