@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2019-07-08T14:40:10",
@@ -33,6 +33,17 @@
       "Name": "1С:Налоговый мониторинг",
       "Version": "3.0.8.6",
       "PublishingDate": "2019-08-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-10T19:32:24",
+      "Name": "1С:Налоговый мониторинг",
+      "Version": "3.0.8.11",
+      "PublishingDate": "2019-10-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
