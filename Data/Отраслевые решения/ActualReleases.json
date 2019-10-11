@@ -815,17 +815,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.84",
-      "PublishingDate": "2019-08-30T00:00:00",
-      "PlanVersions": [
-        "2.0.66.85"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-10T00:00:00"
-      ],
+      "Version": "2.0.66.85",
+      "PublishingDate": "2019-10-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1817,17 +1811,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
-      "Version": "3.0.73.46",
-      "PublishingDate": "2019-10-03T00:00:00",
-      "PlanVersions": [
-        "3.0.73.50"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-10T00:00:00"
-      ],
+      "Version": "3.0.73.50",
+      "PublishingDate": "2019-10-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3587,17 +3575,11 @@
     },
     {
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
-      "Version": "1.3.125.1",
-      "PublishingDate": "2019-08-30T00:00:00",
-      "PlanVersions": [
-        "1.3.126.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-07T00:00:00"
-      ],
+      "Version": "1.3.126.2",
+      "PublishingDate": "2019-10-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
