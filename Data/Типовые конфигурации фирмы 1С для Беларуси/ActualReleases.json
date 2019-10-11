@@ -117,17 +117,11 @@
     },
     {
       "Name": "Управление производственным предприятием для Беларуси",
-      "Version": "1.3.32.1",
-      "PublishingDate": "2019-08-21T00:00:00",
-      "PlanVersions": [
-        "1.3.33.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-10T00:00:00"
-      ],
+      "Version": "1.3.33.1",
+      "PublishingDate": "2019-10-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
