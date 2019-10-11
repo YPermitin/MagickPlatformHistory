@@ -233,9 +233,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Version": "3.0.45.44",
       "PublishingDate": "2019-09-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.45.45"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2683,9 +2689,15 @@
       "Name": "Мясокомбинат 8, редакция 1.3",
       "Version": "1.3.126.1",
       "PublishingDate": "2019-10-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.126.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
