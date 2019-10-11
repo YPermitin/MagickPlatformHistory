@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2019-09-05T15:02:23",
@@ -98,6 +98,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-11T10:32:22",
+      "Name": "1С:Управление недвижимостью и арендой КОРП",
+      "Version": "3.0.73.46",
+      "PublishingDate": "2019-10-07T00:00:00",
+      "PlanVersions": [
+        "3.0.73.50"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
