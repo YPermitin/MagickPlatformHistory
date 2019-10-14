@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 427,
+  "ReleasesCount": 428,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -273,6 +273,16 @@
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
       "Version": "3.0.73.51",
       "PublishingDate": "2019-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
