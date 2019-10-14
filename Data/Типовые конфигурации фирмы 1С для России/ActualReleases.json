@@ -699,8 +699,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
-      "Version": "3.1.11.106",
-      "PublishingDate": "2019-10-03T00:00:00",
+      "Version": "3.1.11.108",
+      "PublishingDate": "2019-10-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -723,8 +723,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.11.106",
-      "PublishingDate": "2019-10-03T00:00:00",
+      "Version": "3.1.11.108",
+      "PublishingDate": "2019-10-14T00:00:00",
       "PlanVersions": [
         "3.1.12",
         "3.1.11.",
@@ -745,8 +745,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом базовая, редакция 3",
-      "Version": "3.1.11.106",
-      "PublishingDate": "2019-10-03T00:00:00",
+      "Version": "3.1.11.108",
+      "PublishingDate": "2019-10-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -779,8 +779,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
-      "Version": "3.1.11.106",
-      "PublishingDate": "2019-10-03T00:00:00",
+      "Version": "3.1.11.108",
+      "PublishingDate": "2019-10-14T00:00:00",
       "PlanVersions": [
         "3.1.12",
         "3.1.11.",
@@ -1071,8 +1071,8 @@
     },
     {
       "Name": "Розница, редакция 2.3",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
+      "Version": "2.3.1.30",
+      "PublishingDate": "2019-10-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
