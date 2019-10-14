@@ -3,7 +3,7 @@
     "ID": 755,
     "Name": "Microsoft SQL Server для пользователей 1С:Предприятие 8"
   },
-  "ReleasesCount": 9,
+  "ReleasesCount": 10,
   "Releases": [
     {
       "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2012",
@@ -89,6 +89,16 @@
       "Name": "Microsoft SQL Server. Редакция Standard. Версия 2016",
       "Version": "2016",
       "PublishingDate": "2016-09-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard. Версия 2017",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
