@@ -231,17 +231,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
-      "Version": "3.0.45.44",
-      "PublishingDate": "2019-09-11T00:00:00",
-      "PlanVersions": [
-        "3.0.45.45"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-11T00:00:00"
-      ],
+      "Version": "3.0.45.45",
+      "PublishingDate": "2019-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
