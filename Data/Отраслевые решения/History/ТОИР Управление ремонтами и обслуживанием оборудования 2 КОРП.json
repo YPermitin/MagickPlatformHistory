@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -182,6 +182,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-15T14:32:24",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
+      "Version": "2.0.26.1",
+      "PublishingDate": "2019-08-14T00:00:00",
+      "PlanVersions": [
+        "2.0.27.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
