@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -22,6 +22,17 @@
       "Name": "1С:Управление учебным центром",
       "Version": "2.0.1.6",
       "PublishingDate": "2019-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-16T20:32:24",
+      "Name": "1С:Управление учебным центром",
+      "Version": "2.0.1.6",
+      "PublishingDate": "2019-10-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
