@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 33,
+  "ReleasesCount": 34,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -467,6 +467,23 @@
       ],
       "PlanUpdateDates": [
         "2019-10-15T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-16T20:32:24",
+      "Name": "Процессное производство. Химия",
+      "Version": "1.3.125.1",
+      "PublishingDate": "2019-09-09T00:00:00",
+      "PlanVersions": [
+        "1.3.126.2"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
