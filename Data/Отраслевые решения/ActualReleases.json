@@ -4053,17 +4053,11 @@
     },
     {
       "Name": "Управление торговлей алкогольной продукцией",
-      "Version": "10.3.55.3",
-      "PublishingDate": "2019-09-06T00:00:00",
-      "PlanVersions": [
-        "10.3.56.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-15T00:00:00"
-      ],
+      "Version": "10.3.56.1",
+      "PublishingDate": "2019-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
