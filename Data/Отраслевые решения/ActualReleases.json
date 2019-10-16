@@ -477,17 +477,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.72.70",
-      "PublishingDate": "2019-09-17T00:00:00",
-      "PlanVersions": [
-        "3.0.73.50"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-10T00:00:00"
-      ],
+      "Version": "3.0.73.50",
+      "PublishingDate": "2019-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1538,7 +1532,7 @@
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
       "Version": "2.4.10.56",
-      "PublishingDate": "2019-10-11T00:00:00",
+      "PublishingDate": "2019-10-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
