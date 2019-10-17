@@ -1841,10 +1841,10 @@
         "2.0.5.1"
       ],
       "PlanReleaseDates": [
-        "2019-10-17T00:00:00"
+        "2019-10-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-10-15T00:00:00"
+        "2019-10-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1891,17 +1891,11 @@
     },
     {
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
-      "Version": "3.0.26.1",
-      "PublishingDate": "2019-10-01T00:00:00",
-      "PlanVersions": [
-        "3.0.28.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-16T00:00:00"
-      ],
+      "Version": "3.0.28.1",
+      "PublishingDate": "2019-10-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4117,9 +4111,15 @@
       "Name": "Управляющий базовая, для Технологической платформы 8.2, 8.3",
       "Version": "2.0.7.2",
       "PublishingDate": "2019-09-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4157,9 +4157,15 @@
       "Name": "Управляющий. Стандарт, для Технологической платформы 8.2, 8.3",
       "Version": "2.0.7.2",
       "PublishingDate": "2019-09-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.8"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
