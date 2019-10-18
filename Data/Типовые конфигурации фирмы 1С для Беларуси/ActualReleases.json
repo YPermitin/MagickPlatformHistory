@@ -139,9 +139,15 @@
       "Name": "Управление торговлей для Беларуси, редакция 3",
       "Version": "3.4.9.98",
       "PublishingDate": "2019-10-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.4.10"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
