@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -14,6 +14,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-18T12:32:24",
+      "Name": "Реестр государственного и муниципального имущества, редакция 3.0",
+      "Version": "3.0.2.9",
+      "PublishingDate": "2016-11-21T00:00:00",
+      "PlanVersions": [
+        "3.0.2.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
