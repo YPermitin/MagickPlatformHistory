@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 428,
+  "ReleasesCount": 429,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -785,10 +785,10 @@
         "3.0.74.7"
       ],
       "PlanReleaseDates": [
-        "2019-10-18T00:00:00"
+        "2019-10-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-10-07T00:00:00"
+        "2019-10-18T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -841,10 +841,10 @@
         "3.0.74.7"
       ],
       "PlanReleaseDates": [
-        "2019-10-18T00:00:00"
+        "2019-10-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-10-07T00:00:00"
+        "2019-10-18T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -1329,6 +1329,16 @@
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия",
       "Version": "2.2.13.12",
       "PublishingDate": "2019-10-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
