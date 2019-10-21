@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 46,
+  "ReleasesCount": 47,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -653,6 +653,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-21T17:32:28",
+      "Name": "Молокозавод, редакция 1.3",
+      "Version": "1.3.126.2",
+      "PublishingDate": "2019-10-04T00:00:00",
+      "PlanVersions": [
+        "1.3.126.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
