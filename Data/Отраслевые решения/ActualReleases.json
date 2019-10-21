@@ -771,9 +771,15 @@
       "Name": "1С:Мясопереработка MES. Модуль для 1С:ERP",
       "Version": "2.4.9.82",
       "PublishingDate": "2019-09-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.62"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2173,9 +2179,15 @@
       "Name": "Горнодобывающая промышленность. Управление карьером",
       "Version": "1.3.126.2",
       "PublishingDate": "2019-10-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.126.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
