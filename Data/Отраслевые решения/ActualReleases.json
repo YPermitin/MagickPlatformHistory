@@ -49,9 +49,15 @@
       "Name": "1С:CRM. Модуль для 1С:ERP и 1С:КА2",
       "Version": "3.0.16.9",
       "PublishingDate": "2019-09-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.17.28"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
