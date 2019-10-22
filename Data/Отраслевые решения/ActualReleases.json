@@ -367,17 +367,11 @@
     },
     {
       "Name": "1С:Детская школа искусств",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "1.0.1.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-15T00:00:00"
-      ],
+      "Version": "1.0.1.8",
+      "PublishingDate": "2019-10-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
