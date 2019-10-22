@@ -1,0 +1,21 @@
+{
+  "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2019-10-22T20:32:23",
+      "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
