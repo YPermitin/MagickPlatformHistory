@@ -387,8 +387,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения",
-      "Version": "1.0.59.3",
-      "PublishingDate": "2019-09-26T00:00:00",
+      "Version": "1.0.59.4",
+      "PublishingDate": "2019-10-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -397,8 +397,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая",
-      "Version": "1.0.59.3",
-      "PublishingDate": "2019-09-26T00:00:00",
+      "Version": "1.0.59.4",
+      "PublishingDate": "2019-10-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -721,8 +721,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.11.108",
-      "PublishingDate": "2019-10-14T00:00:00",
+      "Version": "3.1.10.199",
+      "PublishingDate": "2019-10-22T00:00:00",
       "PlanVersions": [
         "3.1.12",
         "3.1.11.",
@@ -763,8 +763,8 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 3",
-      "Version": "3.1.11.108",
-      "PublishingDate": "2019-10-14T00:00:00",
+      "Version": "3.1.10.199",
+      "PublishingDate": "2019-10-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -777,8 +777,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
-      "Version": "3.1.11.108",
-      "PublishingDate": "2019-10-14T00:00:00",
+      "Version": "3.1.10.199",
+      "PublishingDate": "2019-10-22T00:00:00",
       "PlanVersions": [
         "3.1.12",
         "3.1.11.",
