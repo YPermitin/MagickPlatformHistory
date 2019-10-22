@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2019-08-19T19:02:24",
@@ -31,6 +31,17 @@
       "PlanUpdateDates": [
         "2019-10-15T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-22T19:32:22",
+      "Name": "1С:Детская школа искусств",
+      "Version": "1.0.1.8",
+      "PublishingDate": "2019-10-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
