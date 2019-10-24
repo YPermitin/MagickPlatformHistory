@@ -1227,9 +1227,15 @@
       "Name": "1С:Управление недвижимостью и арендой КОРП",
       "Version": "3.0.73.50",
       "PublishingDate": "2019-10-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.54"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1321,7 +1327,7 @@
         "3.0.73.40"
       ],
       "PlanReleaseDates": [
-        "2019-10-24T00:00:00"
+        "2019-10-28T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-10-24T00:00:00"
@@ -1833,9 +1839,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.73.50",
       "PublishingDate": "2019-10-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.54"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
