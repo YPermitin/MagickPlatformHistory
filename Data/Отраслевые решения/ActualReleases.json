@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.10.56",
       "PublishingDate": "2019-10-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.62"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4304,17 +4310,11 @@
     },
     {
       "Name": "Управляющий базовая, для Технологической платформы 8.2, 8.3",
-      "Version": "2.0.7.2",
-      "PublishingDate": "2019-09-18T00:00:00",
-      "PlanVersions": [
-        "2.0.8"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-24T00:00:00"
-      ],
+      "Version": "2.0.8.1",
+      "PublishingDate": "2019-10-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
