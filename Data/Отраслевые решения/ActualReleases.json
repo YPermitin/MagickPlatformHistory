@@ -769,17 +769,11 @@
     },
     {
       "Name": "1С:Мясопереработка MES. Модуль для 1С:ERP",
-      "Version": "2.4.9.82",
-      "PublishingDate": "2019-09-16T00:00:00",
-      "PlanVersions": [
-        "2.4.10.62"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-22T00:00:00"
-      ],
+      "Version": "2.4.10.62",
+      "PublishingDate": "2019-10-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
