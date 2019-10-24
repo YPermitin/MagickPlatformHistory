@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 16,
+  "ReleasesCount": 17,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -233,6 +233,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-24T11:32:21",
+      "Name": "Колледж, редакция 2.0",
+      "Version": "2.0.10.1",
+      "PublishingDate": "2019-09-27T00:00:00",
+      "PlanVersions": [
+        "2.0.11.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-10-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-10-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
