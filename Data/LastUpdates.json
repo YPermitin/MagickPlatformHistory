@@ -15,6 +15,18 @@
       "Link": ""
     },
     {
+      "Title": "1С:Общепит, редакция 2.0",
+      "Description": "2.0.66.86",
+      "PublishingDate": "2019-10-28T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Description": "2.1.46.2",
+      "PublishingDate": "2019-10-28T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "PostgreSQL",
       "Description": "11.5-1.1C",
       "PublishingDate": "2019-10-28T00:00:00",
@@ -215,12 +227,6 @@
     {
       "Title": "1С:Общепит КОРП",
       "Description": "3.0.73.54",
-      "PublishingDate": "2019-10-24T00:00:00",
-      "Link": ""
-    },
-    {
-      "Title": "1С:Общепит, редакция 2.0",
-      "Description": "2.0.66.85",
       "PublishingDate": "2019-10-24T00:00:00",
       "Link": ""
     },
