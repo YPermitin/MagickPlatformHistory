@@ -12,14 +12,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "1.15.0.302",
-        "1.15.0.292"
-      ],
-      "DemoPublicationDates": [
-        "2019-10-29T00:00:00",
-        "2019-10-18T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Конвертация данных 2.0",
