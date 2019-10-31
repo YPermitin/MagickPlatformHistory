@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 61,
+  "ReleasesCount": 62,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -860,6 +860,17 @@
       "PlanUpdateDates": [
         "2019-10-24T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-31T14:42:12",
+      "Name": "1С:Бухгалтерия строительной организации КОРП",
+      "Version": "3.0.73.54",
+      "PublishingDate": "2019-10-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
