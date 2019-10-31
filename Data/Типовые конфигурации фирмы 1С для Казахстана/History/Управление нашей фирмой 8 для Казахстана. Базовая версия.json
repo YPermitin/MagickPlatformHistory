@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 6,
+  "ReleasesCount": 7,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -72,6 +72,17 @@
       "Name": "Управление нашей фирмой 8 для Казахстана. Базовая версия",
       "Version": "1.6.4.6",
       "PublishingDate": "2019-05-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-10-31T18:02:19",
+      "Name": "Управление нашей фирмой 8 для Казахстана. Базовая версия",
+      "Version": "1.6.4.7",
+      "PublishingDate": "2019-10-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
