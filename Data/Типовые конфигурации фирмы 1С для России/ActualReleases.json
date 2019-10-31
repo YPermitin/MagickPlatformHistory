@@ -1127,8 +1127,8 @@
     },
     {
       "Name": "Управление нашей фирмой базовая, редакция 1.6",
-      "Version": "1.6.18.168",
-      "PublishingDate": "2019-09-10T00:00:00",
+      "Version": "1.6.19.128",
+      "PublishingDate": "2019-10-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1191,26 +1191,18 @@
     },
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
-      "Version": "1.6.18.168",
-      "PublishingDate": "2019-09-10T00:00:00",
-      "PlanVersions": [
-        "1.6.19"
-      ],
-      "PlanReleaseDates": [
-        "2019-10-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-25T00:00:00"
-      ],
+      "Version": "1.6.19.128",
+      "PublishingDate": "2019-10-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
-        "1.6.19.128",
         "1.6.19.120",
         "1.6.19.118",
         "1.6.18.191",
         "1.6.19.99"
       ],
       "DemoPublicationDates": [
-        "2019-10-28T00:00:00",
         "2019-10-24T00:00:00",
         "2019-10-16T00:00:00",
         "2019-10-12T00:00:00",
