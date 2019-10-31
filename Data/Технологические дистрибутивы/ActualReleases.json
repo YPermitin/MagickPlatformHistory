@@ -13,9 +13,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "1.15.0.302",
         "1.15.0.292"
       ],
       "DemoPublicationDates": [
+        "2019-10-29T00:00:00",
         "2019-10-18T00:00:00"
       ]
     },
@@ -111,8 +113,8 @@
     },
     {
       "Name": "PostgreSQL",
-      "Version": "10.9-5.1C",
-      "PublishingDate": "2019-08-30T00:00:00",
+      "Version": "11.5-1.1C",
+      "PublishingDate": "2019-10-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -157,10 +159,10 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "2.1.5.8"
+        "2.1.5.9"
       ],
       "DemoPublicationDates": [
-        "2019-09-20T00:00:00"
+        "2019-10-29T00:00:00"
       ]
     },
     {
@@ -279,11 +281,13 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "8.3.15.1738",
+        "8.3.14.1976",
+        "8.3.15.1747",
         "8.3.16.942"
       ],
       "DemoPublicationDates": [
-        "2019-10-23T00:00:00",
+        "2019-10-29T00:00:00",
+        "2019-10-28T00:00:00",
         "2019-09-27T00:00:00"
       ]
     },
