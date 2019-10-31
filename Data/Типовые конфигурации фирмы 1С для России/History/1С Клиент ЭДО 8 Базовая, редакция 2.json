@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 22,
+  "ReleasesCount": 23,
   "ReleasesHistory": [
     {
       "Created": "2019-01-09T13:13:11",
@@ -333,6 +333,17 @@
       "DemoPublicationDates": [
         "2019-08-06T00:00:00"
       ]
+    },
+    {
+      "Created": "2019-10-31T14:42:11",
+      "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
+      "Version": "2.6.4.37",
+      "PublishingDate": "2019-10-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
