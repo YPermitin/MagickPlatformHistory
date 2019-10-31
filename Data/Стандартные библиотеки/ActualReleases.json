@@ -196,8 +196,8 @@
     },
     {
       "Name": "1С:Библиотека стандартных подсистем, редакция 3.0",
-      "Version": "3.0.3.116",
-      "PublishingDate": "2019-10-18T00:00:00",
+      "Version": "3.0.3.121",
+      "PublishingDate": "2019-10-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -206,8 +206,8 @@
     },
     {
       "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
-      "Version": "3.1.2.182",
-      "PublishingDate": "2019-10-18T00:00:00",
+      "Version": "3.1.2.189",
+      "PublishingDate": "2019-10-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -236,8 +236,8 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.1",
-      "Version": "1.1.26.61",
-      "PublishingDate": "2019-10-22T00:00:00",
+      "Version": "1.1.26.63",
+      "PublishingDate": "2019-10-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -286,8 +286,8 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.6",
-      "Version": "1.6.1.81",
-      "PublishingDate": "2019-10-22T00:00:00",
+      "Version": "1.6.4.37",
+      "PublishingDate": "2019-10-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
