@@ -1537,9 +1537,15 @@
       "Name": "CRM, редакция 3.0",
       "Version": "3.0.17.31",
       "PublishingDate": "2019-10-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.17.32"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1949,9 +1955,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.73.54",
       "PublishingDate": "2019-10-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.60"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2651,17 +2663,11 @@
     },
     {
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
-      "Version": "2.4.9.91",
-      "PublishingDate": "2019-10-01T00:00:00",
-      "PlanVersions": [
-        "2.4.10.56"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-21T00:00:00"
-      ],
+      "Version": "2.4.10.56",
+      "PublishingDate": "2019-11-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
