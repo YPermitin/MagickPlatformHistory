@@ -1369,33 +1369,21 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "2.3.1.30"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-30T00:00:00"
-      ],
+      "Version": "2.3.1.30",
+      "PublishingDate": "2019-11-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "2.3.1.30"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-30T00:00:00"
-      ],
+      "Version": "2.3.1.30",
+      "PublishingDate": "2019-11-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
