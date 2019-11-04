@@ -903,9 +903,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
       "Version": "2.0.66.86",
       "PublishingDate": "2019-10-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.88"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2115,9 +2121,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
       "Version": "2.0.66.86",
       "PublishingDate": "2019-10-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.88"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
