@@ -4,13 +4,24 @@
     "ID": 1014,
     "Name": "Международные конфигурации"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2019-10-31T14:42:10",
       "Name": "1С:ERP WE, бета-версия",
       "Version": "2.5.3.81",
       "PublishingDate": "2019-10-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-06T20:02:22",
+      "Name": "1С:ERP WE, бета-версия",
+      "Version": "2.5.3.91",
+      "PublishingDate": "2019-11-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
