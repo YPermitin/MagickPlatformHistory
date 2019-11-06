@@ -1023,17 +1023,11 @@
     },
     {
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
-      "Version": "2.4.9.82",
-      "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [
-        "2.4.9.98"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-06T00:00:00"
-      ],
+      "Version": "2.4.9.98",
+      "PublishingDate": "2019-11-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1845,9 +1839,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.73.54",
       "PublishingDate": "2019-10-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.73.60"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
