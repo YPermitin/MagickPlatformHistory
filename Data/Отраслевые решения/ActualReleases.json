@@ -1023,10 +1023,10 @@
         "2.4.9.98"
       ],
       "PlanReleaseDates": [
-        "2019-11-05T00:00:00"
+        "2019-11-06T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-01T00:00:00"
+        "2019-11-06T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1153,17 +1153,11 @@
     },
     {
       "Name": "1С:Управление лесозаготовительным предприятием. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.9.70",
-      "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [
-        "2.4.10.62"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-05T00:00:00"
-      ],
+      "Version": "2.4.10.62",
+      "PublishingDate": "2019-11-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1997,10 +1991,10 @@
         "3.0.73.2"
       ],
       "PlanReleaseDates": [
-        "2019-11-05T00:00:00"
+        "2019-11-06T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-05T00:00:00"
+        "2019-11-06T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
