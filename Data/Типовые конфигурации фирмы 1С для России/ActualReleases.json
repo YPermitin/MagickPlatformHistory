@@ -512,8 +512,12 @@
         "2019-11-01T00:00:00",
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-11-07T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -538,8 +542,12 @@
         "2019-11-01T00:00:00",
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.51"
+      ],
+      "DemoPublicationDates": [
+        "2019-11-07T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
