@@ -351,8 +351,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.73.54",
-      "PublishingDate": "2019-10-22T00:00:00",
+      "Version": "3.0.73.60",
+      "PublishingDate": "2019-11-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3301,17 +3301,11 @@
     },
     {
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "2.3.1.30"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-10-23T00:00:00"
-      ],
+      "Version": "2.3.1.30",
+      "PublishingDate": "2019-11-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
