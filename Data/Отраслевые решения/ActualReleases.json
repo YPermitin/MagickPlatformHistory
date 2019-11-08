@@ -677,9 +677,15 @@
       "Name": "1С:Медицина. Стоматологическая клиника",
       "Version": "1.0.37.2",
       "PublishingDate": "2019-06-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.38.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
