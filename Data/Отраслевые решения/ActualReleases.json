@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.10.63",
       "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.75"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1177,9 +1183,15 @@
       "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
       "Version": "2.4.10.62",
       "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.75"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
