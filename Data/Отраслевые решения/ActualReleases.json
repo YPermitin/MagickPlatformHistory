@@ -1257,8 +1257,8 @@
     },
     {
       "Name": "1С:Управление нашей строительной фирмой",
-      "Version": "1.6.18.168",
-      "PublishingDate": "2019-09-19T00:00:00",
+      "Version": "1.6.19.128",
+      "PublishingDate": "2019-11-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2517,9 +2517,15 @@
       "Name": "Комбинат ЖБИ",
       "Version": "1.3.124.2",
       "PublishingDate": "2019-08-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.127.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
