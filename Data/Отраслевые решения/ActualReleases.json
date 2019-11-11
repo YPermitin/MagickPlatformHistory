@@ -3387,17 +3387,11 @@
     },
     {
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "2.3.1.30"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-08T00:00:00"
-      ],
+      "Version": "2.3.1.30",
+      "PublishingDate": "2019-11-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
