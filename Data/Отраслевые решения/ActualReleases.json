@@ -1895,9 +1895,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
       "Version": "2.0.66.86",
       "PublishingDate": "2019-10-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.88"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2421,9 +2427,15 @@
       "Name": "Издательство, редакция 1.6",
       "Version": "1.6.18.98",
       "PublishingDate": "2019-07-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.137"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2471,9 +2483,15 @@
       "Name": "Колледж ПРОФ, редакция 2.0",
       "Version": "2.0.11.2",
       "PublishingDate": "2019-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2501,9 +2519,15 @@
       "Name": "Колледж, редакция 2.0",
       "Version": "2.0.11.3",
       "PublishingDate": "2019-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4437,9 +4461,15 @@
       "Name": "Фотоуслуги, редакция 1.6",
       "Version": "1.6.18.98",
       "PublishingDate": "2019-07-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.137"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
