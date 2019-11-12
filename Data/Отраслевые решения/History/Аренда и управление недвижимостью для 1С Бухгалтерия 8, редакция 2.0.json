@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 33,
+  "ReleasesCount": 34,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -456,6 +456,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-12T12:32:24",
+      "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
+      "Version": "2.0.66.86",
+      "PublishingDate": "2019-10-28T00:00:00",
+      "PlanVersions": [
+        "2.0.66.88"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
