@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 18,
+  "ReleasesCount": 19,
   "ReleasesHistory": [
     {
       "Created": "2019-07-25T19:32:23",
@@ -235,6 +235,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-12T13:32:23",
+      "Name": "1С:Садовод (базовая версия)",
+      "Version": "3.0.73.14",
+      "PublishingDate": "2019-10-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.73.22"
+      ],
+      "DemoPublicationDates": [
+        "2019-11-12T00:00:00"
+      ]
     }
   ]
 }
