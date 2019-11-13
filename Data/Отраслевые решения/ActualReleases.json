@@ -67,17 +67,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.10.63",
-      "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [
-        "2.4.10.75"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-12T00:00:00"
-      ],
+      "Version": "2.4.10.75",
+      "PublishingDate": "2019-11-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -811,11 +805,11 @@
       ],
       "PlanReleaseDates": [
         "2019-11-22T00:00:00",
-        "2019-11-12T00:00:00"
+        "2019-11-13T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-11-11T00:00:00",
-        "2019-11-11T00:00:00"
+        "2019-11-13T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -870,11 +864,11 @@
       ],
       "PlanReleaseDates": [
         "2019-11-22T00:00:00",
-        "2019-11-12T00:00:00"
+        "2019-11-13T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-11-11T00:00:00",
-        "2019-11-11T00:00:00"
+        "2019-11-13T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -1818,13 +1812,13 @@
       "Version": "1.6.18.156",
       "PublishingDate": "2019-09-09T00:00:00",
       "PlanVersions": [
-        "1.6.19"
+        "1.6.19.128"
       ],
       "PlanReleaseDates": [
-        "2019-11-12T00:00:00"
+        "2019-11-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-12T00:00:00"
+        "2019-11-13T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2603,10 +2597,10 @@
         "1.1.122.1"
       ],
       "PlanReleaseDates": [
-        "2019-11-12T00:00:00"
+        "2019-11-13T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-11T00:00:00"
+        "2019-11-13T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
