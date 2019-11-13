@@ -9,9 +9,15 @@
       "Name": "ERP Управление предприятием 2 для Беларуси",
       "Version": "2.4.7.152",
       "PublishingDate": "2019-11-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.7.153"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
