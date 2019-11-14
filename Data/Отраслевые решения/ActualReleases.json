@@ -199,9 +199,15 @@
       "Name": "1С:Автоматизированное составление расписания. Школа. Базовая версия",
       "Version": "1.0.7.1",
       "PublishingDate": "2019-01-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.8.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -769,9 +775,15 @@
       "Name": "1С:Музей",
       "Version": "1.0.12.11",
       "PublishingDate": "2019-10-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.12.15"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
