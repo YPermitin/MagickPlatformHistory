@@ -315,8 +315,8 @@
     },
     {
       "Name": "1С:Бухгалтерия СНТ",
-      "Version": "3.0.72.8",
-      "PublishingDate": "2019-09-23T00:00:00",
+      "Version": "3.0.73.7",
+      "PublishingDate": "2019-11-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4239,9 +4239,15 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.10.62",
       "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.10.75"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
