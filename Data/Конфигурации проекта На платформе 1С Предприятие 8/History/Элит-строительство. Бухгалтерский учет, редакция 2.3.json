@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 20,
+  "ReleasesCount": 21,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -271,6 +271,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-14T12:32:25",
+      "Name": "Элит-строительство. Бухгалтерский учет, редакция 2.3",
+      "Version": "2.3.39.45",
+      "PublishingDate": "2019-10-02T00:00:00",
+      "PlanVersions": [
+        "2.3.39.46"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
