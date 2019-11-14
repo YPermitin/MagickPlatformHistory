@@ -698,13 +698,11 @@
       "Version": "3.1.10.223",
       "PublishingDate": "2019-11-14T00:00:00",
       "PlanVersions": [
-        "3.1.12",
         "3.1.10.",
         "3.1.11."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2019-09-11T00:00:00",
         "2019-11-14T00:00:00",
         "2019-10-24T00:00:00"
       ],
@@ -754,22 +752,16 @@
       "Version": "3.1.10.223",
       "PublishingDate": "2019-11-14T00:00:00",
       "PlanVersions": [
-        "3.1.12",
         "3.1.10.",
         "3.1.11."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2019-09-11T00:00:00",
         "2019-11-14T00:00:00",
         "2019-10-24T00:00:00"
       ],
-      "DemoVersions": [
-        "3.1.12.12"
-      ],
-      "DemoPublicationDates": [
-        "2019-10-04T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Комплексная автоматизация, редакция 1.0",
