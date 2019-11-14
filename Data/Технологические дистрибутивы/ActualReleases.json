@@ -173,10 +173,10 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "8.3.15.71"
+        "8.3.15.75"
       ],
       "DemoPublicationDates": [
-        "2019-10-24T00:00:00"
+        "2019-11-14T00:00:00"
       ]
     },
     {
@@ -271,9 +271,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "8.3.15.1771",
         "8.3.16.1048"
       ],
       "DemoPublicationDates": [
+        "2019-11-14T00:00:00",
         "2019-11-12T00:00:00"
       ]
     },
