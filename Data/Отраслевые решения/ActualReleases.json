@@ -663,17 +663,11 @@
     },
     {
       "Name": "1С:Медицина. Стоматологическая клиника",
-      "Version": "1.0.37.2",
-      "PublishingDate": "2019-06-07T00:00:00",
-      "PlanVersions": [
-        "1.0.38.4"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-08T00:00:00"
-      ],
+      "Version": "1.0.38.4",
+      "PublishingDate": "2019-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3939,17 +3933,11 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 3.0",
-      "Version": "3.0.73.1",
-      "PublishingDate": "2019-10-01T00:00:00",
-      "PlanVersions": [
-        "3.0.74.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-11T00:00:00"
-      ],
+      "Version": "3.0.74.1",
+      "PublishingDate": "2019-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
