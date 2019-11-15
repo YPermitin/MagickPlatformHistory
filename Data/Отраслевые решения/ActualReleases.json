@@ -247,17 +247,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
-      "Version": "4.0.24.4",
-      "PublishingDate": "2019-11-05T00:00:00",
-      "PlanVersions": [
-        "4.0.25.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-14T00:00:00"
-      ],
+      "Version": "4.0.25.1",
+      "PublishingDate": "2019-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1803,17 +1797,11 @@
     },
     {
       "Name": "Автосервис, редакция 1.6",
-      "Version": "1.6.18.156",
-      "PublishingDate": "2019-09-09T00:00:00",
-      "PlanVersions": [
-        "1.6.19.128"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-13T00:00:00"
-      ],
+      "Version": "1.6.19.128",
+      "PublishingDate": "2019-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1991,17 +1979,11 @@
     },
     {
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
-      "Version": "3.0.29.2",
-      "PublishingDate": "2019-11-11T00:00:00",
-      "PlanVersions": [
-        "3.0.30.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-13T00:00:00"
-      ],
+      "Version": "3.0.30.1",
+      "PublishingDate": "2019-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
