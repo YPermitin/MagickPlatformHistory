@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -70,6 +70,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-15T20:02:23",
+      "Name": "Университет",
+      "Version": "2.0.17.8",
+      "PublishingDate": "2019-06-05T00:00:00",
+      "PlanVersions": [
+        "2.0.18.16"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
