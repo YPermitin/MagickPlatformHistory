@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 24,
+  "ReleasesCount": 25,
   "ReleasesHistory": [
     {
       "Created": "2019-02-28T18:24:18",
@@ -304,6 +304,17 @@
       "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
       "Version": "3.1.2.202",
       "PublishingDate": "2019-11-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-15T14:02:24",
+      "Name": "1С:Библиотека стандартных подсистем, редакция 3.1",
+      "Version": "3.1.2.208",
+      "PublishingDate": "2019-11-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
