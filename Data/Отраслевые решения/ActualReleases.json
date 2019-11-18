@@ -1543,9 +1543,15 @@
       "Name": "CRM, редакция 3.0",
       "Version": "3.0.17.32",
       "PublishingDate": "2019-11-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.17.38"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3109,9 +3115,15 @@
       "Name": "Розница. Аптека, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3159,9 +3171,15 @@
       "Name": "Розница. Книжный магазин, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3209,9 +3227,15 @@
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3259,9 +3283,15 @@
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3309,9 +3339,15 @@
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-08T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3359,9 +3395,15 @@
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3409,9 +3451,15 @@
       "Name": "Розница. Салон оптики, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3459,9 +3507,15 @@
       "Name": "Розница. Ювелирный магазин, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
