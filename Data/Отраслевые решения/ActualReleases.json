@@ -77,8 +77,8 @@
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.10.62",
-      "PublishingDate": "2019-10-23T00:00:00",
+      "Version": "2.4.10.75",
+      "PublishingDate": "2019-11-19T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -323,17 +323,11 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.73.60",
-      "PublishingDate": "2019-11-12T00:00:00",
-      "PlanVersions": [
-        "3.0.74.51"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-15T00:00:00"
-      ],
+      "Version": "3.0.74.51",
+      "PublishingDate": "2019-11-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -489,17 +483,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.73.50",
-      "PublishingDate": "2019-10-16T00:00:00",
-      "PlanVersions": [
-        "3.0.74"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-18T00:00:00"
-      ],
+      "Version": "3.0.74.51",
+      "PublishingDate": "2019-11-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
