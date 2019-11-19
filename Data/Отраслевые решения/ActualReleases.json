@@ -2669,10 +2669,10 @@
         "2.4.10.75"
       ],
       "PlanReleaseDates": [
-        "2019-12-03T00:00:00"
+        "2019-11-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-07T00:00:00"
+        "2019-11-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3847,17 +3847,11 @@
     },
     {
       "Name": "Университет",
-      "Version": "2.0.17.8",
-      "PublishingDate": "2019-06-05T00:00:00",
-      "PlanVersions": [
-        "2.0.18.16"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-15T00:00:00"
-      ],
+      "Version": "2.0.18.16",
+      "PublishingDate": "2019-11-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
