@@ -511,10 +511,10 @@
         "3.0.74"
       ],
       "PlanReleaseDates": [
-        "2019-11-19T00:00:00"
+        "2019-11-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-01T00:00:00"
+        "2019-11-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3071,9 +3071,15 @@
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
       "Version": "11.4.10.62",
       "PublishingDate": "2019-10-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.10.75"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
