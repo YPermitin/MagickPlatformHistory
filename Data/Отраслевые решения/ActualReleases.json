@@ -2439,17 +2439,11 @@
     },
     {
       "Name": "Колледж ПРОФ, редакция 2.0",
-      "Version": "2.0.11.2",
-      "PublishingDate": "2019-11-05T00:00:00",
-      "PlanVersions": [
-        "2.0.12.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-12T00:00:00"
-      ],
+      "Version": "2.0.12.1",
+      "PublishingDate": "2019-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3449,17 +3443,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.1.30",
-      "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [
-        "2.3.1.40"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-18T00:00:00"
-      ],
+      "Version": "2.3.1.40",
+      "PublishingDate": "2019-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3863,17 +3851,11 @@
     },
     {
       "Name": "Университет ПРОФ",
-      "Version": "2.1.6.8",
-      "PublishingDate": "2019-06-07T00:00:00",
-      "PlanVersions": [
-        "2.1.7.16"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-19T00:00:00"
-      ],
+      "Version": "2.1.7.16",
+      "PublishingDate": "2019-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
