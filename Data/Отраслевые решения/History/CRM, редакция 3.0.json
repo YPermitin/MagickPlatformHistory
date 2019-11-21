@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 58,
+  "ReleasesCount": 59,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -862,6 +862,23 @@
       ],
       "PlanUpdateDates": [
         "2019-11-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-21T11:02:23",
+      "Name": "CRM, редакция 3.0",
+      "Version": "3.0.17.32",
+      "PublishingDate": "2019-11-01T00:00:00",
+      "PlanVersions": [
+        "3.0.17.38"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-21T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
