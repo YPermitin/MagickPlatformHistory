@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 56,
+  "ReleasesCount": 57,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -891,6 +891,23 @@
       ],
       "PlanUpdateDates": [
         "2019-11-20T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-21T11:02:23",
+      "Name": "Комбинат ЖБИ",
+      "Version": "1.3.124.2",
+      "PublishingDate": "2019-08-30T00:00:00",
+      "PlanVersions": [
+        "1.3.127.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-21T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
