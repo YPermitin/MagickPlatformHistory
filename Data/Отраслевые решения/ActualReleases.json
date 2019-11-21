@@ -1879,17 +1879,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.66.12",
-      "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [
-        "2.0.66.17"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-19T00:00:00"
-      ],
+      "Version": "2.0.66.17",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2457,17 +2451,11 @@
     },
     {
       "Name": "Колледж, редакция 2.0",
-      "Version": "2.0.11.3",
-      "PublishingDate": "2019-11-05T00:00:00",
-      "PlanVersions": [
-        "2.0.12.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-12T00:00:00"
-      ],
+      "Version": "2.0.12.1",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3275,17 +3263,11 @@
     },
     {
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
-      "Version": "2.3.1.30",
-      "PublishingDate": "2019-11-11T00:00:00",
-      "PlanVersions": [
-        "2.3.1.40"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-18T00:00:00"
-      ],
+      "Version": "2.3.1.40",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3487,17 +3469,11 @@
     },
     {
       "Name": "Розница. Ювелирный магазин, редакция 2.3",
-      "Version": "2.3.1.30",
-      "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [
-        "2.3.1.40"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-18T00:00:00"
-      ],
+      "Version": "2.3.1.40",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
