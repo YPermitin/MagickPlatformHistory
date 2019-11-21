@@ -3045,17 +3045,11 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.10.62",
-      "PublishingDate": "2019-10-25T00:00:00",
-      "PlanVersions": [
-        "11.4.10.75"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-19T00:00:00"
-      ],
+      "Version": "11.4.10.75",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3101,17 +3095,11 @@
     },
     {
       "Name": "Розница. Аптека, редакция 2.3",
-      "Version": "2.3.1.30",
-      "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [
-        "2.3.1.40"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-18T00:00:00"
-      ],
+      "Version": "2.3.1.40",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3481,9 +3469,15 @@
       "Name": "Рыбопереработка",
       "Version": "1.3.126.2",
       "PublishingDate": "2019-10-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.127.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
