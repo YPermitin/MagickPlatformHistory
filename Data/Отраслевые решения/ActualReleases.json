@@ -241,17 +241,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
-      "Version": "4.0.25.1",
-      "PublishingDate": "2019-11-15T00:00:00",
-      "PlanVersions": [
-        "4.0.25.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-21T00:00:00"
-      ],
+      "Version": "4.0.25.2",
+      "PublishingDate": "2019-11-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -989,17 +983,11 @@
     },
     {
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
-      "Version": "1.6.18.168",
-      "PublishingDate": "2019-09-13T00:00:00",
-      "PlanVersions": [
-        "1.6.19.137"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-21T00:00:00"
-      ],
+      "Version": "1.6.19.137",
+      "PublishingDate": "2019-11-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2975,17 +2963,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 2.0",
-      "Version": "2.0.66.85",
-      "PublishingDate": "2019-10-24T00:00:00",
-      "PlanVersions": [
-        "2.0.66.88"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-22T00:00:00"
-      ],
+      "Version": "2.0.66.88",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
