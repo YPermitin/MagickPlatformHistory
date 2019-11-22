@@ -333,8 +333,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.74.51",
-      "PublishingDate": "2019-11-14T00:00:00",
+      "Version": "3.0.74.58",
+      "PublishingDate": "2019-11-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2937,17 +2937,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 2.0",
-      "Version": "2.0.66.85",
-      "PublishingDate": "2019-10-24T00:00:00",
-      "PlanVersions": [
-        "2.0.66.88"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-22T00:00:00"
-      ],
+      "Version": "2.0.66.88",
+      "PublishingDate": "2019-11-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
