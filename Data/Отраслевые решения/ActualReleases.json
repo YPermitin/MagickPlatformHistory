@@ -1961,9 +1961,15 @@
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
       "Version": "3.0.73.3",
       "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
