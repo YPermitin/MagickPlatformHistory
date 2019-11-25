@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 16,
+  "ReleasesCount": 17,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -194,6 +194,17 @@
       "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
       "Version": "4.0.20.2",
       "PublishingDate": "2019-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-25T20:02:23",
+      "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
+      "Version": "4.0.20.3",
+      "PublishingDate": "2019-11-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
