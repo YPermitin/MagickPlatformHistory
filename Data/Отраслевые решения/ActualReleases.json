@@ -1351,9 +1351,15 @@
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1361,9 +1367,15 @@
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
       "Version": "2.3.1.30",
       "PublishingDate": "2019-11-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.1.40"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1929,9 +1941,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.74.51",
       "PublishingDate": "2019-11-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.58"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1947,17 +1965,11 @@
     },
     {
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
-      "Version": "3.0.30.1",
-      "PublishingDate": "2019-11-15T00:00:00",
-      "PlanVersions": [
-        "3.0.31.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-25T00:00:00"
-      ],
+      "Version": "3.0.31.1",
+      "PublishingDate": "2019-11-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
