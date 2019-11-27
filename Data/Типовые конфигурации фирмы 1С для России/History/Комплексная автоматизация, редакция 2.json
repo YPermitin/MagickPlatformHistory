@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 52,
+  "ReleasesCount": 53,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -902,6 +902,17 @@
       "Name": "Комплексная автоматизация, редакция 2",
       "Version": "2.4.10.75",
       "PublishingDate": "2019-11-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-27T17:02:28",
+      "Name": "Комплексная автоматизация, редакция 2",
+      "Version": "2.4.10.89",
+      "PublishingDate": "2019-11-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
