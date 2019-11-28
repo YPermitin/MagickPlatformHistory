@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -98,6 +98,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-28T18:02:26",
+      "Name": "1С:Сервер взаимодействия",
+      "Version": "6.0.47",
+      "PublishingDate": "2019-04-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "7.0.25."
+      ],
+      "DemoPublicationDates": [
+        "2019-11-28T00:00:00"
+      ]
     }
   ]
 }
