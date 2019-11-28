@@ -72,8 +72,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "7.0.25."
+      ],
+      "DemoPublicationDates": [
+        "2019-11-28T00:00:00"
+      ]
     },
     {
       "Name": "1С:Сканер штрихкода (COM)",
