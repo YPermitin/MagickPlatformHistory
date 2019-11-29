@@ -36,16 +36,6 @@
       "DemoPublicationDates": []
     },
     {
-      "Name": "1С:Облачная технология 1cFresh",
-      "Version": "1.0.27.1",
-      "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
       "Name": "1С:Переводчик, редакция 2.1",
       "Version": "2.1.15.1",
       "PublishingDate": "2017-04-28T00:00:00",
@@ -59,6 +49,16 @@
       "Name": "1С:Печать штрихкодов (ActiveX)",
       "Version": "8.0.16.4",
       "PublishingDate": "2014-03-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Предприятие. Облачная подсистема Фреш",
+      "Version": "1.0.27.1",
+      "PublishingDate": "2019-11-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
