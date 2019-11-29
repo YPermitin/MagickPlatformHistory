@@ -183,17 +183,11 @@
     },
     {
       "Name": "1С:WMS Логистика. Управление складом",
-      "Version": "4.6.2.1",
-      "PublishingDate": "2019-11-12T00:00:00",
-      "PlanVersions": [
-        "4.6.2.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-27T00:00:00"
-      ],
+      "Version": "4.6.2.2",
+      "PublishingDate": "2019-11-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1865,17 +1859,11 @@
     },
     {
       "Name": "Аптека для Казахстана, редакция 2.2",
-      "Version": "2.2.6.8",
-      "PublishingDate": "2019-09-18T00:00:00",
-      "PlanVersions": [
-        "2.2.7.7"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-22T00:00:00"
-      ],
+      "Version": "2.2.7.7",
+      "PublishingDate": "2019-11-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
