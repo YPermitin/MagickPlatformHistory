@@ -310,7 +310,7 @@
     {
       "Name": "1С:Бухгалтерия СНТ",
       "Version": "3.0.73.13",
-      "PublishingDate": "2019-11-26T00:00:00",
+      "PublishingDate": "2019-11-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -320,7 +320,7 @@
     {
       "Name": "1С:Бухгалтерия СНТ. Базовая версия",
       "Version": "3.0.73.13",
-      "PublishingDate": "2019-11-26T00:00:00",
+      "PublishingDate": "2019-11-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1007,9 +1007,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.9.98",
       "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.75"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
