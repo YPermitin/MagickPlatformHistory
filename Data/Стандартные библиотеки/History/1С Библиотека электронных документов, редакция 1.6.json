@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 39,
+  "ReleasesCount": 40,
   "ReleasesHistory": [
     {
       "Created": "2019-04-01T20:54:27",
@@ -441,6 +441,17 @@
       "Name": "1С:Библиотека электронных документов, редакция 1.6",
       "Version": "1.6.4.43",
       "PublishingDate": "2019-11-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-11-29T22:02:23",
+      "Name": "1С:Библиотека электронных документов, редакция 1.6",
+      "Version": "1.6.4.46",
+      "PublishingDate": "2019-11-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
