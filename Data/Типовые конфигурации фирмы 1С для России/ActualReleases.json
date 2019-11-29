@@ -65,8 +65,8 @@
     },
     {
       "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
-      "Version": "3.0.8.11",
-      "PublishingDate": "2019-10-10T00:00:00",
+      "Version": "3.0.9.1",
+      "PublishingDate": "2019-11-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -163,8 +163,8 @@
     },
     {
       "Name": "1С:Налоговый мониторинг",
-      "Version": "3.0.8.11",
-      "PublishingDate": "2019-10-10T00:00:00",
+      "Version": "3.0.9.1",
+      "PublishingDate": "2019-11-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -525,8 +525,8 @@
     },
     {
       "Name": "Бюджетная отчетность",
-      "Version": "1.1.45.2",
-      "PublishingDate": "2019-09-25T00:00:00",
+      "Version": "1.1.46.1",
+      "PublishingDate": "2019-11-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
