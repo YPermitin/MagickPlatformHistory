@@ -299,10 +299,10 @@
         "3.0.74.51"
       ],
       "PlanReleaseDates": [
-        "2019-11-28T00:00:00"
+        "2019-11-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-28T00:00:00"
+        "2019-11-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -773,10 +773,10 @@
         "3.0.74.51"
       ],
       "PlanReleaseDates": [
-        "2019-11-28T00:00:00"
+        "2019-11-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-28T00:00:00"
+        "2019-11-29T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -829,10 +829,10 @@
         "3.0.74.51"
       ],
       "PlanReleaseDates": [
-        "2019-11-28T00:00:00"
+        "2019-11-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-28T00:00:00"
+        "2019-11-29T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -1611,8 +1611,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.10.75",
-      "PublishingDate": "2019-11-08T00:00:00",
+      "Version": "2.4.10.89",
+      "PublishingDate": "2019-11-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2098,7 +2098,7 @@
         "2019-11-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-11-25T00:00:00"
+        "2019-11-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
