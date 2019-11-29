@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.10.75",
       "PublishingDate": "2019-11-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.89"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1189,9 +1195,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
       "Version": "3.0.74.51",
       "PublishingDate": "2019-11-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.52"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1199,9 +1211,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
       "Version": "3.0.74.51",
       "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.52"
+      ],
+      "PlanReleaseDates": [
+        "2019-11-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1323,17 +1341,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
-      "Version": "3.0.74.2",
-      "PublishingDate": "2019-11-20T00:00:00",
-      "PlanVersions": [
-        "3.0.74.3"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-21T00:00:00"
-      ],
+      "Version": "3.0.74.3",
+      "PublishingDate": "2019-11-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
