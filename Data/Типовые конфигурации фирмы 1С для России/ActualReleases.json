@@ -115,8 +115,8 @@
     },
     {
       "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
-      "Version": "2.6.4.43",
-      "PublishingDate": "2019-11-22T00:00:00",
+      "Version": "2.6.4.46",
+      "PublishingDate": "2019-12-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -671,8 +671,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
-      "Version": "3.1.12.56",
-      "PublishingDate": "2019-11-22T00:00:00",
+      "Version": "3.1.10.253",
+      "PublishingDate": "2019-12-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -691,8 +691,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.12.56",
-      "PublishingDate": "2019-11-22T00:00:00",
+      "Version": "3.1.10.253",
+      "PublishingDate": "2019-12-02T00:00:00",
       "PlanVersions": [
         "3.1.13",
         "3.1.12.",
@@ -739,8 +739,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
-      "Version": "3.1.12.56",
-      "PublishingDate": "2019-11-22T00:00:00",
+      "Version": "3.1.10.253",
+      "PublishingDate": "2019-12-02T00:00:00",
       "PlanVersions": [
         "3.1.13",
         "3.1.12.",
