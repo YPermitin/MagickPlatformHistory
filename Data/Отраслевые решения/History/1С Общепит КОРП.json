@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 76,
+  "ReleasesCount": 77,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1286,6 +1286,27 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.71.90"
+      ],
+      "DemoPublicationDates": [
+        "2019-08-03T00:00:00"
+      ]
+    },
+    {
+      "Created": "2019-12-02T20:02:23",
+      "Name": "1С:Общепит КОРП",
+      "Version": "3.0.74.58",
+      "PublishingDate": "2019-11-30T00:00:00",
+      "PlanVersions": [
+        "3.0.74.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-02T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
