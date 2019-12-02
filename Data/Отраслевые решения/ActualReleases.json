@@ -549,8 +549,8 @@
     },
     {
       "Name": "1С:Медицина. Больничная аптека, редакция 2",
-      "Version": "2.1.5.8",
-      "PublishingDate": "2019-11-15T00:00:00",
+      "Version": "2.1.5.9",
+      "PublishingDate": "2019-12-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -781,9 +781,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.74.58",
       "PublishingDate": "2019-11-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-02T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -831,9 +837,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.74.58",
       "PublishingDate": "2019-11-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.63"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-02T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
