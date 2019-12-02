@@ -709,9 +709,15 @@
       "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
       "Version": "1.0.8.2",
       "PublishingDate": "2019-10-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.8.3"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2977,17 +2983,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
-      "Version": "3.0.73.50",
-      "PublishingDate": "2019-10-21T00:00:00",
-      "PlanVersions": [
-        "3.0.74.58"
-      ],
-      "PlanReleaseDates": [
-        "2019-11-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-29T00:00:00"
-      ],
+      "Version": "3.0.74.58",
+      "PublishingDate": "2019-11-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
