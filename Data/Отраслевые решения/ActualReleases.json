@@ -1315,15 +1315,9 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.74.3",
       "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [
-        "3.0.74.4"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-02T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1331,15 +1325,9 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.74.3",
       "PublishingDate": "2019-11-29T00:00:00",
-      "PlanVersions": [
-        "3.0.74.4"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-02T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1823,17 +1811,11 @@
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.73.38",
-      "PublishingDate": "2019-10-03T00:00:00",
-      "PlanVersions": [
-        "3.0.74.51"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-02T00:00:00"
-      ],
+      "Version": "3.0.74.51",
+      "PublishingDate": "2019-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
