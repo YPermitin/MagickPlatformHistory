@@ -67,17 +67,13 @@
     },
     {
       "Name": "1С:Сервер взаимодействия",
-      "Version": "6.0.47",
-      "PublishingDate": "2019-04-15T00:00:00",
+      "Version": "7.0.25",
+      "PublishingDate": "2019-11-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "7.0.25."
-      ],
-      "DemoPublicationDates": [
-        "2019-11-28T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Сканер штрихкода (COM)",
