@@ -67,17 +67,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.10.75",
-      "PublishingDate": "2019-11-13T00:00:00",
-      "PlanVersions": [
-        "2.4.10.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-11-29T00:00:00"
-      ],
+      "Version": "2.4.10.89",
+      "PublishingDate": "2019-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4123,15 +4117,9 @@
       "Name": "Управление сельскохозяйственным предприятием",
       "Version": "1.3.127.1",
       "PublishingDate": "2019-11-01T00:00:00",
-      "PlanVersions": [
-        "1.3.128"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-02T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
