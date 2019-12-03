@@ -178,8 +178,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.2"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-03T00:00:00"
+      ]
     },
     {
       "Name": "1С:Садовод (базовая версия)",
@@ -188,8 +192,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.2"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-03T00:00:00"
+      ]
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
@@ -448,8 +456,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.69"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-03T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -472,8 +484,12 @@
       "PlanUpdateDates": [
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.69"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-03T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -496,13 +512,17 @@
       "PlanUpdateDates": [
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.69"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-03T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
-      "Version": "2.0.66.88",
-      "PublishingDate": "2019-10-28T00:00:00",
+      "Version": "2.0.66.89",
+      "PublishingDate": "2019-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -520,8 +540,12 @@
       "PlanUpdateDates": [
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.69"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-03T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
