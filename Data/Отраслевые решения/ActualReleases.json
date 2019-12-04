@@ -287,17 +287,11 @@
     },
     {
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "3.0.74.51"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-04T00:00:00"
-      ],
+      "Version": "3.0.74.51",
+      "PublishingDate": "2019-12-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
