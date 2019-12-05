@@ -671,8 +671,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
-      "Version": "3.1.10.253",
-      "PublishingDate": "2019-12-02T00:00:00",
+      "Version": "3.1.12.76",
+      "PublishingDate": "2019-12-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -709,8 +709,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом базовая, редакция 3",
-      "Version": "3.1.10.253",
-      "PublishingDate": "2019-12-02T00:00:00",
+      "Version": "3.1.12.76",
+      "PublishingDate": "2019-12-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1163,11 +1163,9 @@
         "2019-10-31T00:00:00"
       ],
       "DemoVersions": [
-        "1.6.19.150",
         "1.6.18.191"
       ],
       "DemoPublicationDates": [
-        "2019-11-20T00:00:00",
         "2019-10-12T00:00:00"
       ]
     },
