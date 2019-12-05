@@ -39,9 +39,15 @@
       "Name": "Бухгалтерия для Молдовы, редакция 3",
       "Version": "3.0.34.1",
       "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
