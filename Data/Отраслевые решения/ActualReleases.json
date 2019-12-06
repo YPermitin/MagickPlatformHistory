@@ -979,9 +979,15 @@
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
       "Version": "1.6.19.137",
       "PublishingDate": "2019-11-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.160"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2633,9 +2639,15 @@
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.10.75",
       "PublishingDate": "2019-12-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.89"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
