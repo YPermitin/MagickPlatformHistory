@@ -331,16 +331,22 @@
       "Name": "1С:Бухгалтерия строительной организации КОРП",
       "Version": "3.0.74.63",
       "PublishingDate": "2019-12-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.69"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.74.59",
-      "PublishingDate": "2019-11-25T00:00:00",
+      "Version": "3.0.74.69",
+      "PublishingDate": "2019-12-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4230,7 +4236,7 @@
     {
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.10.89",
-      "PublishingDate": "2019-12-03T00:00:00",
+      "PublishingDate": "2019-12-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
