@@ -1300,8 +1300,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.4"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-10T00:00:00"
+      ]
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
@@ -1310,8 +1314,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.74.4"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-10T00:00:00"
+      ]
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
