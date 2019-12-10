@@ -3961,17 +3961,11 @@
     },
     {
       "Name": "Управление переработкой отходов и вторсырья",
-      "Version": "1.3.127.1",
-      "PublishingDate": "2019-11-06T00:00:00",
-      "PlanVersions": [
-        "1.3.128.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-09T00:00:00"
-      ],
+      "Version": "1.3.128.2",
+      "PublishingDate": "2019-12-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
