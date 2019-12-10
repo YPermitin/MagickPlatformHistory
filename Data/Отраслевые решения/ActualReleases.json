@@ -1844,7 +1844,7 @@
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
       "Version": "2.0.66.89",
-      "PublishingDate": "2019-12-09T00:00:00",
+      "PublishingDate": "2019-12-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2705,17 +2705,11 @@
     },
     {
       "Name": "Мясокомбинат 8, редакция 1.3",
-      "Version": "1.3.128.1",
-      "PublishingDate": "2019-12-04T00:00:00",
-      "PlanVersions": [
-        "1.3.128.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-09T00:00:00"
-      ],
+      "Version": "1.3.128.2",
+      "PublishingDate": "2019-12-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3021,17 +3015,11 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.127.1",
-      "PublishingDate": "2019-10-29T00:00:00",
-      "PlanVersions": [
-        "1.3.128.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-09T00:00:00"
-      ],
+      "Version": "1.3.128.2",
+      "PublishingDate": "2019-12-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4223,17 +4211,11 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.17.29",
-      "PublishingDate": "2019-11-12T00:00:00",
-      "PlanVersions": [
-        "3.0.17.30"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-10T00:00:00"
-      ],
+      "Version": "3.0.17.30",
+      "PublishingDate": "2019-12-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
