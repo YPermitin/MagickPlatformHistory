@@ -213,17 +213,11 @@
     },
     {
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.10.75",
-      "PublishingDate": "2019-11-11T00:00:00",
-      "PlanVersions": [
-        "2.4.10.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-09T00:00:00"
-      ],
+      "Version": "2.4.10.89",
+      "PublishingDate": "2019-12-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -1849,17 +1843,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.88",
-      "PublishingDate": "2019-11-12T00:00:00",
-      "PlanVersions": [
-        "2.0.66.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-09T00:00:00"
-      ],
+      "Version": "2.0.66.89",
+      "PublishingDate": "2019-12-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4105,8 +4093,8 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.19.137",
-      "PublishingDate": "2019-11-14T00:00:00",
+      "Version": "1.6.19.160",
+      "PublishingDate": "2019-12-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
