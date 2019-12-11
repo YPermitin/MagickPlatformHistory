@@ -39,9 +39,15 @@
       "Name": "1С:ERP Управление предприятием 2",
       "Version": "2.4.10.89",
       "PublishingDate": "2019-11-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-11T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.11.35",
         "2.5.3.91",
@@ -797,9 +803,15 @@
       "Name": "Комплексная автоматизация, редакция 2",
       "Version": "2.4.10.89",
       "PublishingDate": "2019-11-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-11T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.11.35"
       ],
@@ -1251,9 +1263,15 @@
       "Name": "Управление торговлей, редакция 11",
       "Version": "11.4.10.89",
       "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.11"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-11T00:00:00"
+      ],
       "DemoVersions": [
         "11.4.11.35"
       ],
