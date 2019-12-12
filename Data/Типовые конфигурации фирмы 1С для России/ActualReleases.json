@@ -451,17 +451,13 @@
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
-      "Version": "3.0.74.69",
-      "PublishingDate": "2019-12-04T00:00:00",
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.74.76"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-10T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -475,8 +471,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
-      "Version": "3.0.74.69",
-      "PublishingDate": "2019-12-04T00:00:00",
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-12T00:00:00",
       "PlanVersions": [
         "3.0.75"
       ],
@@ -484,12 +480,8 @@
       "PlanUpdateDates": [
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [
-        "3.0.74.76"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-10T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -503,8 +495,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
-      "Version": "3.0.74.69",
-      "PublishingDate": "2019-12-04T00:00:00",
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-12T00:00:00",
       "PlanVersions": [
         "3.0.75"
       ],
@@ -512,12 +504,8 @@
       "PlanUpdateDates": [
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [
-        "3.0.74.76"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-10T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -531,8 +519,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 3.0",
-      "Version": "3.0.74.69",
-      "PublishingDate": "2019-12-04T00:00:00",
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-12T00:00:00",
       "PlanVersions": [
         "3.0.75"
       ],
@@ -540,12 +528,8 @@
       "PlanUpdateDates": [
         "2019-11-01T00:00:00"
       ],
-      "DemoVersions": [
-        "3.0.74.76"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-10T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бюджетная отчетность",
