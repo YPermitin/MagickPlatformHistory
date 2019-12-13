@@ -1043,17 +1043,11 @@
     },
     {
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.9.98",
-      "PublishingDate": "2019-11-11T00:00:00",
-      "PlanVersions": [
-        "2.4.10.75"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-12T00:00:00"
-      ],
+      "Version": "2.4.10.75",
+      "PublishingDate": "2019-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1303,9 +1297,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.74.3",
       "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-13T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.74.4"
       ],
@@ -1317,9 +1317,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.74.3",
       "PublishingDate": "2019-11-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.5"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-13T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.74.4"
       ],
@@ -2039,9 +2045,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
       "Version": "3.0.32.3",
       "PublishingDate": "2019-10-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.32.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3629,17 +3641,11 @@
     },
     {
       "Name": "Технический расчетный центр теплосети",
-      "Version": "1.0.22.4",
-      "PublishingDate": "2019-10-16T00:00:00",
-      "PlanVersions": [
-        "1.0.22.5"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-12T00:00:00"
-      ],
+      "Version": "1.0.22.5",
+      "PublishingDate": "2019-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
