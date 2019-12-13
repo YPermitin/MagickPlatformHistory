@@ -3,7 +3,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 28,
+  "ReleasesCount": 25,
   "Releases": [
     {
       "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
@@ -76,36 +76,6 @@
       "DemoPublicationDates": []
     },
     {
-      "Name": "1С:Библиотека подключаемого оборудования, редакция 1.0",
-      "Version": "1.0.25.1",
-      "PublishingDate": "2015-02-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "1С:Библиотека подключаемого оборудования, редакция 1.1",
-      "Version": "1.1.7.4",
-      "PublishingDate": "2015-02-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "1С:Библиотека подключаемого оборудования, редакция 1.2",
-      "Version": "1.2.5.16",
-      "PublishingDate": "2016-08-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
       "Name": "1С:Библиотека подключаемого оборудования, редакция 2.0",
       "Version": "2.0.6.14",
       "PublishingDate": "2018-12-05T00:00:00",
@@ -117,8 +87,8 @@
     },
     {
       "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
-      "Version": "2.1.2.5",
-      "PublishingDate": "2019-11-11T00:00:00",
+      "Version": "2.1.2.6",
+      "PublishingDate": "2019-12-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
