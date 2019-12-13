@@ -3651,17 +3651,11 @@
     },
     {
       "Name": "Технический расчетный центр теплосети базовая",
-      "Version": "1.0.22.4",
-      "PublishingDate": "2019-10-16T00:00:00",
-      "PlanVersions": [
-        "1.0.22.5"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-12T00:00:00"
-      ],
+      "Version": "1.0.22.5",
+      "PublishingDate": "2019-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
