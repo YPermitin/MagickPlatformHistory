@@ -3027,17 +3027,11 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.10.75",
-      "PublishingDate": "2019-11-21T00:00:00",
-      "PlanVersions": [
-        "11.4.10.89"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-11T00:00:00"
-      ],
+      "Version": "11.4.10.89",
+      "PublishingDate": "2019-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
