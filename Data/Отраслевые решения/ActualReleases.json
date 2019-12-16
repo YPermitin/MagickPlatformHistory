@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.10.89",
       "PublishingDate": "2019-12-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.94"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -313,9 +319,15 @@
       "Name": "1С:Бухгалтерия строительной организации КОРП",
       "Version": "3.0.74.69",
       "PublishingDate": "2019-12-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.76"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -887,10 +899,10 @@
         "3.0.74.63"
       ],
       "PlanReleaseDates": [
-        "2019-12-13T00:00:00"
+        "2019-12-17T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-13T00:00:00"
+        "2019-12-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1753,9 +1765,15 @@
       "Name": "Автоматизированное составление расписания. Университет, редакция 1.0",
       "Version": "1.1.7.5",
       "PublishingDate": "2019-06-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.8.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1935,10 +1953,10 @@
         "2.0.5.2"
       ],
       "PlanReleaseDates": [
-        "2019-12-16T00:00:00"
+        "2019-12-17T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-13T00:00:00"
+        "2019-12-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2159,9 +2177,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
       "Version": "3.1.74.69",
       "PublishingDate": "2019-12-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.74.76"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3749,10 +3773,10 @@
         "1.6.19.160"
       ],
       "PlanReleaseDates": [
-        "2019-12-13T00:00:00"
+        "2019-12-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-13T00:00:00"
+        "2019-12-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3795,10 +3819,10 @@
         "1.6.19.160"
       ],
       "PlanReleaseDates": [
-        "2019-12-13T00:00:00"
+        "2019-12-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-13T00:00:00"
+        "2019-12-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
