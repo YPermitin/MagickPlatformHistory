@@ -1631,8 +1631,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.10.89",
-      "PublishingDate": "2019-11-29T00:00:00",
+      "Version": "2.4.10.94",
+      "PublishingDate": "2019-12-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1903,17 +1903,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
-      "Version": "3.0.74.63",
-      "PublishingDate": "2019-12-05T00:00:00",
-      "PlanVersions": [
-        "3.0.74.69"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-12T00:00:00"
-      ],
+      "Version": "3.0.74.69",
+      "PublishingDate": "2019-12-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
