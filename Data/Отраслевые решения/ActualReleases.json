@@ -2309,8 +2309,8 @@
     },
     {
       "Name": "Горнодобывающая промышленность. Управление карьером",
-      "Version": "1.3.128.2",
-      "PublishingDate": "2019-12-09T00:00:00",
+      "Version": "1.3.129.1",
+      "PublishingDate": "2019-12-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3799,15 +3799,9 @@
       "Name": "Турагентство Базовая, редакция 1.6",
       "Version": "1.6.18.168",
       "PublishingDate": "2019-12-17T00:00:00",
-      "PlanVersions": [
-        "1.6.19.160"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-17T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
