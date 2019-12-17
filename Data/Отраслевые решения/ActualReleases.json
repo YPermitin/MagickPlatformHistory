@@ -1221,9 +1221,15 @@
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.10.89",
       "PublishingDate": "2019-12-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.94"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3791,8 +3797,8 @@
     },
     {
       "Name": "Турагентство Базовая, редакция 1.6",
-      "Version": "1.6.18.98",
-      "PublishingDate": "2019-07-17T00:00:00",
+      "Version": "1.6.18.168",
+      "PublishingDate": "2019-12-17T00:00:00",
       "PlanVersions": [
         "1.6.19.160"
       ],
