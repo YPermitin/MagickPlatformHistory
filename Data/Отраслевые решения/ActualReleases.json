@@ -917,17 +917,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.74.51",
-      "PublishingDate": "2019-11-21T00:00:00",
-      "PlanVersions": [
-        "3.0.74.69"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-16T00:00:00"
-      ],
+      "Version": "3.0.74.69",
+      "PublishingDate": "2019-12-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3843,8 +3837,8 @@
     },
     {
       "Name": "Турагентство, редакция 1.6",
-      "Version": "1.6.18.98",
-      "PublishingDate": "2019-07-17T00:00:00",
+      "Version": "1.6.18.168",
+      "PublishingDate": "2019-12-17T00:00:00",
       "PlanVersions": [
         "1.6.19.160"
       ],
