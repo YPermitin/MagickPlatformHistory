@@ -3845,15 +3845,9 @@
       "Name": "Турагентство, редакция 1.6",
       "Version": "1.6.18.168",
       "PublishingDate": "2019-12-17T00:00:00",
-      "PlanVersions": [
-        "1.6.19.160"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-17T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
