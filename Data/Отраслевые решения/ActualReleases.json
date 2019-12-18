@@ -489,17 +489,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.74.51",
-      "PublishingDate": "2019-11-19T00:00:00",
-      "PlanVersions": [
-        "3.0.74.76"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-17T00:00:00"
-      ],
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1995,17 +1989,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.74.69",
-      "PublishingDate": "2019-12-11T00:00:00",
-      "PlanVersions": [
-        "3.0.74.76"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
-      ],
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
