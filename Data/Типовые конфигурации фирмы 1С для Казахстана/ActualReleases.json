@@ -232,8 +232,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "1.6.5.2"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-18T00:00:00"
+      ]
     },
     {
       "Name": "Управление нашей фирмой 8 для Казахстана. Базовая версия",
