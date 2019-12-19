@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2019-04-29T13:24:50",
@@ -182,6 +182,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-12-19T14:32:22",
+      "Name": "1С:Бухгалтерия СНТ",
+      "Version": "3.0.73.13",
+      "PublishingDate": "2019-11-28T00:00:00",
+      "PlanVersions": [
+        "3.0.74.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
