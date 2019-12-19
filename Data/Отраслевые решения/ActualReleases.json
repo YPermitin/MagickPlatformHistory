@@ -99,9 +99,15 @@
       "Name": "1С:ERP Энергетика 2",
       "Version": "2.4.10.89",
       "PublishingDate": "2019-12-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.94"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -779,10 +785,10 @@
         "3.0.74.69"
       ],
       "PlanReleaseDates": [
-        "2019-12-18T00:00:00"
+        "2019-12-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
+        "2019-12-19T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -835,10 +841,10 @@
         "3.0.74.69"
       ],
       "PlanReleaseDates": [
-        "2019-12-18T00:00:00"
+        "2019-12-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
+        "2019-12-19T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -2571,9 +2577,15 @@
       "Name": "Комплексная автоматизация торговли алкогольной продукцией, редакция 1.1",
       "Version": "1.1.115.5",
       "PublishingDate": "2019-10-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.115.6"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
