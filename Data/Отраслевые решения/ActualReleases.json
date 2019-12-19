@@ -779,17 +779,11 @@
     },
     {
       "Name": "1С:Общепит КОРП",
-      "Version": "3.0.74.64",
-      "PublishingDate": "2019-12-06T00:00:00",
-      "PlanVersions": [
-        "3.0.74.69"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
-      ],
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -925,8 +919,8 @@
     },
     {
       "Name": "1С:Полиграфия 2. Модуль для 1С:ERP, 1С:КА2 и 1С:УТ",
-      "Version": "2.4.9.82",
-      "PublishingDate": "2019-09-05T00:00:00",
+      "Version": "2.4.10.94",
+      "PublishingDate": "2019-12-19T00:00:00",
       "PlanVersions": [
         "2.4.10.9"
       ],
