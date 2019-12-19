@@ -52,8 +52,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.3.5.14"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-19T00:00:00"
+      ]
     },
     {
       "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
@@ -62,8 +66,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.4.2.13"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-19T00:00:00"
+      ]
     },
     {
       "Name": "1С:Библиотека подключаемого оборудования для мобильных приложений",
