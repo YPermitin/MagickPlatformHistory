@@ -311,9 +311,15 @@
       "Name": "1С:Бухгалтерия СНТ",
       "Version": "3.0.73.13",
       "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -321,9 +327,15 @@
       "Name": "1С:Бухгалтерия СНТ. Базовая версия",
       "Version": "3.0.73.13",
       "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.12"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -829,17 +841,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 3.0",
-      "Version": "3.0.74.64",
-      "PublishingDate": "2019-12-06T00:00:00",
-      "PlanVersions": [
-        "3.0.74.69"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
-      ],
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -4101,10 +4107,10 @@
         "2.1.7.4"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
+        "2019-12-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
