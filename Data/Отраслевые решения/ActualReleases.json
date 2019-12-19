@@ -927,9 +927,15 @@
       "Name": "1С:Полиграфия 2. Модуль для 1С:ERP, 1С:КА2 и 1С:УТ",
       "Version": "2.4.9.82",
       "PublishingDate": "2019-09-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.9"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1825,17 +1831,11 @@
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.74.51",
-      "PublishingDate": "2019-12-03T00:00:00",
-      "PlanVersions": [
-        "3.0.74.52"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
-      ],
+      "Version": "3.0.74.52",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2843,17 +2843,11 @@
     },
     {
       "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
-      "Version": "1.3.128.2",
-      "PublishingDate": "2019-12-12T00:00:00",
-      "PlanVersions": [
-        "1.3.129.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
-      ],
+      "Version": "1.3.129.1",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4057,10 +4051,10 @@
         "1.3.128.2"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
+        "2019-12-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
