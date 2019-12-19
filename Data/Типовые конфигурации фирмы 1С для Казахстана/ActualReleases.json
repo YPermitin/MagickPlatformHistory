@@ -79,9 +79,15 @@
       "Name": "Бухгалтерия для Казахстана, редакция 3.0",
       "Version": "3.0.32.1",
       "PublishingDate": "2019-10-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.33"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -199,9 +205,15 @@
       "Name": "Розница для Казахстана",
       "Version": "2.2.3.1",
       "PublishingDate": "2019-09-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.4"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
