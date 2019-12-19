@@ -3,7 +3,25 @@
   "PublishingDate": "2019-12-19T00:00:00",
   "Items": [
     {
+      "Title": "1С:Общепит КОРП",
+      "Description": "3.0.74.76",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "1С:Полиграфия 2. Модуль для 1С:ERP, 1С:КА2 и 1С:УТ",
+      "Description": "2.4.10.94",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "1С:Садовод",
+      "Description": "3.0.74.7",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "1С:Садовод (базовая версия)",
       "Description": "3.0.74.7",
       "PublishingDate": "2019-12-19T00:00:00",
       "Link": ""
