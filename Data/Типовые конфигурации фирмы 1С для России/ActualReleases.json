@@ -183,8 +183,8 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.74.5",
-      "PublishingDate": "2019-12-10T00:00:00",
+      "Version": "3.0.74.7",
+      "PublishingDate": "2019-12-19T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1195,9 +1195,11 @@
         "2019-10-31T00:00:00"
       ],
       "DemoVersions": [
+        "1.6.19.183",
         "1.6.18.191"
       ],
       "DemoPublicationDates": [
+        "2019-12-19T00:00:00",
         "2019-10-12T00:00:00"
       ]
     },
