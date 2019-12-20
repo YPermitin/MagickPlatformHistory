@@ -9,9 +9,15 @@
       "Name": "Розница для Балтии",
       "Version": "2.2.7.8",
       "PublishingDate": "2019-08-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -29,9 +35,15 @@
       "Name": "Управление торговлей для стран Балтии, редакция 11.0",
       "Version": "11.0.7.14",
       "PublishingDate": "2019-08-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.0.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
