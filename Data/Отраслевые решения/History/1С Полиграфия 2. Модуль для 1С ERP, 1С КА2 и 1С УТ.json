@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2019-07-29T14:02:21",
@@ -115,6 +115,17 @@
       "PlanUpdateDates": [
         "2019-12-19T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-12-20T19:32:21",
+      "Name": "1С:Полиграфия 2. Модуль для 1С:ERP, 1С:КА2 и 1С:УТ",
+      "Version": "2.4.10.94",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
