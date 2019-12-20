@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2019-09-26T14:02:22",
@@ -72,6 +72,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-12-20T18:32:22",
+      "Name": "1C:Касса (приложение для ПК), редакция 2.0",
+      "Version": "2.0.2.7",
+      "PublishingDate": "2019-10-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.0.3.9"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-20T00:00:00"
+      ]
     }
   ]
 }
