@@ -12,8 +12,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.0.3.9"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-20T00:00:00"
+      ]
     },
     {
       "Name": "1С:275ФЗ",
