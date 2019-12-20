@@ -309,17 +309,11 @@
     },
     {
       "Name": "1С:Бухгалтерия СНТ",
-      "Version": "3.0.73.13",
-      "PublishingDate": "2019-11-28T00:00:00",
-      "PlanVersions": [
-        "3.0.74.12"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
-      ],
+      "Version": "3.0.74.12",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1947,7 +1941,7 @@
         "2.0.5.2"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-12-20T00:00:00"
