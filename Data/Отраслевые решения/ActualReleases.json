@@ -283,10 +283,10 @@
         "3.0.74.76"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-16T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -733,10 +733,10 @@
         "1.3.128.2"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1549,9 +1549,15 @@
       "Name": "CRM, редакция 3.0",
       "Version": "3.0.17.38",
       "PublishingDate": "2019-11-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.18.21"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1803,10 +1809,10 @@
         "1.6.19.160"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-06T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2091,10 +2097,10 @@
         "3.0.74.76"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-16T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2587,10 +2593,10 @@
         "1.3.129.1"
       ],
       "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
+        "2019-12-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2607,17 +2613,11 @@
     },
     {
       "Name": "Ликероводочный и винный завод, редакция 1.3",
-      "Version": "1.3.128.1",
-      "PublishingDate": "2019-12-06T00:00:00",
-      "PlanVersions": [
-        "1.3.129.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-18T00:00:00"
-      ],
+      "Version": "1.3.129.1",
+      "PublishingDate": "2019-12-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2840,7 +2840,7 @@
     {
       "Name": "Полиграфия, редакция 1.3",
       "Version": "1.3.129.1",
-      "PublishingDate": "2019-12-17T00:00:00",
+      "PublishingDate": "2019-12-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
