@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -59,6 +59,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-12-23T11:02:21",
+      "Name": "Автоматизированное составление расписания. Колледж",
+      "Version": "1.1.5.1",
+      "PublishingDate": "2018-12-25T00:00:00",
+      "PlanVersions": [
+        "1.1.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
