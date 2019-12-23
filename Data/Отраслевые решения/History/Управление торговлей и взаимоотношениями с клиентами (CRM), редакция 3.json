@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 52,
+  "ReleasesCount": 53,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -737,6 +737,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-12-23T19:02:22",
+      "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
+      "Version": "3.0.17.31",
+      "PublishingDate": "2019-12-18T00:00:00",
+      "PlanVersions": [
+        "3.0.17.32"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
