@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -182,6 +182,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-12-23T18:02:22",
+      "Name": "Транспортная логистика, экспедирование и управление автотранспортом КОРП",
+      "Version": "1.1.8.1",
+      "PublishingDate": "2019-10-22T00:00:00",
+      "PlanVersions": [
+        "1.1.9.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
