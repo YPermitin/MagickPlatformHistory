@@ -1315,9 +1315,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.74.5",
       "PublishingDate": "2019-12-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1325,9 +1331,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.74.5",
       "PublishingDate": "2019-12-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1382,13 +1394,13 @@
       "Version": "2.3.1.40",
       "PublishingDate": "2019-12-06T00:00:00",
       "PlanVersions": [
-        "2.3.1.47"
+        "2.3.2.26"
       ],
       "PlanReleaseDates": [
         "2019-12-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-16T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1398,13 +1410,13 @@
       "Version": "2.3.1.40",
       "PublishingDate": "2019-12-06T00:00:00",
       "PlanVersions": [
-        "2.3.1.47"
+        "2.3.2.26"
       ],
       "PlanReleaseDates": [
         "2019-12-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-16T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2198,9 +2210,15 @@
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
       "Version": "2.0.66.88",
       "PublishingDate": "2019-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.89"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2750,17 +2768,11 @@
     },
     {
       "Name": "Молокозавод, редакция 1.3",
-      "Version": "1.3.128.2",
-      "PublishingDate": "2019-12-11T00:00:00",
-      "PlanVersions": [
-        "1.3.129.1"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
-      ],
+      "Version": "1.3.129.1",
+      "PublishingDate": "2019-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
