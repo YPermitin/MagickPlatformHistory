@@ -277,10 +277,10 @@
         "3.0.74.76"
       ],
       "PlanReleaseDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -293,10 +293,10 @@
         "3.0.74.76"
       ],
       "PlanReleaseDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1817,10 +1817,10 @@
         "1.6.19.160"
       ],
       "PlanReleaseDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2041,10 +2041,10 @@
         "3.0.74.2"
       ],
       "PlanReleaseDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2267,9 +2267,15 @@
       "Name": "Воинская часть, редакция 2.0",
       "Version": "2.0.80.1",
       "PublishingDate": "2019-10-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.81.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3013,9 +3019,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 2.0",
       "Version": "2.0.66.88",
       "PublishingDate": "2019-11-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.89"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3023,9 +3035,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.74.58",
       "PublishingDate": "2019-12-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.76"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3033,9 +3051,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 2.0",
       "Version": "2.0.66.88",
       "PublishingDate": "2019-11-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.89"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3043,9 +3067,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
       "Version": "3.0.74.58",
       "PublishingDate": "2019-12-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.76"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
