@@ -69,8 +69,8 @@
     },
     {
       "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
-      "Version": "3.0.9.1",
-      "PublishingDate": "2019-11-29T00:00:00",
+      "Version": "3.0.9.3",
+      "PublishingDate": "2019-12-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -247,8 +247,8 @@
     },
     {
       "Name": "1С:Управление холдингом 3.0",
-      "Version": "3.0.9.1",
-      "PublishingDate": "2019-11-29T00:00:00",
+      "Version": "3.0.9.3",
+      "PublishingDate": "2019-12-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -452,8 +452,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -472,8 +476,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -492,8 +500,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -512,8 +524,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
