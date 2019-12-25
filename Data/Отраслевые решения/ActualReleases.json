@@ -875,17 +875,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.74.69",
-      "PublishingDate": "2019-12-17T00:00:00",
-      "PlanVersions": [
-        "3.0.74.76"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
-      ],
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2016,17 +2010,11 @@
     },
     {
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
-      "Version": "3.0.74.1",
-      "PublishingDate": "2019-12-02T00:00:00",
-      "PlanVersions": [
-        "3.0.74.2"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-25T00:00:00"
-      ],
+      "Version": "3.0.74.2",
+      "PublishingDate": "2019-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
