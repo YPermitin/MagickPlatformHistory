@@ -1161,17 +1161,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
-      "Version": "3.0.74.52",
-      "PublishingDate": "2019-11-30T00:00:00",
-      "PlanVersions": [
-        "3.0.74.54"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-12T00:00:00"
-      ],
+      "Version": "3.0.74.54",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3327,17 +3321,11 @@
     },
     {
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
-      "Version": "2.3.1.40",
-      "PublishingDate": "2019-11-21T00:00:00",
-      "PlanVersions": [
-        "2.3.1.47"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-17T00:00:00"
-      ],
+      "Version": "2.3.1.47",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3383,17 +3371,11 @@
     },
     {
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
-      "Version": "2.3.1.40",
-      "PublishingDate": "2019-11-20T00:00:00",
-      "PlanVersions": [
-        "2.3.1.47"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-17T00:00:00"
-      ],
+      "Version": "2.3.1.47",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
