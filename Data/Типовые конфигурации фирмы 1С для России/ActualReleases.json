@@ -411,8 +411,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
-      "Version": "2.0.67.29",
-      "PublishingDate": "2019-12-19T00:00:00",
+      "Version": "2.0.68.2",
+      "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -421,8 +421,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения, редакция 2.0",
-      "Version": "2.0.67.29",
-      "PublishingDate": "2019-12-19T00:00:00",
+      "Version": "2.0.68.2",
+      "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -633,8 +633,8 @@
     },
     {
       "Name": "Документооборот КОРП",
-      "Version": "2.1.15.4",
-      "PublishingDate": "2019-11-29T00:00:00",
+      "Version": "2.1.16.1",
+      "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -653,8 +653,8 @@
     },
     {
       "Name": "Документооборот ПРОФ",
-      "Version": "2.1.15.4",
-      "PublishingDate": "2019-12-16T00:00:00",
+      "Version": "2.1.16.1",
+      "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
