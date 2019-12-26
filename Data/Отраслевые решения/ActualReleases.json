@@ -727,10 +727,10 @@
         "1.3.128.2"
       ],
       "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -797,10 +797,10 @@
         "2.4.10.94"
       ],
       "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1185,9 +1185,15 @@
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.10.94",
       "PublishingDate": "2019-12-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.43"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1783,10 +1789,10 @@
         "1.6.19.160"
       ],
       "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1801,11 +1807,11 @@
       ],
       "PlanReleaseDates": [
         "2020-01-20T00:00:00",
-        "2019-12-25T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "PlanUpdateDates": [
         "2019-12-23T00:00:00",
-        "2019-12-24T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2012,9 +2018,15 @@
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
       "Version": "3.0.74.2",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2588,10 +2600,10 @@
         "1.3.129.1"
       ],
       "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3002,10 +3014,10 @@
         "3.0.74.76"
       ],
       "PlanReleaseDates": [
-        "2019-12-24T00:00:00"
+        "2019-12-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-24T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3018,10 +3030,10 @@
         "2.0.66.89"
       ],
       "PlanReleaseDates": [
-        "2019-12-24T00:00:00"
+        "2019-12-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-24T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4030,10 +4042,10 @@
         "3.0.75.1"
       ],
       "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4046,10 +4058,10 @@
         "1.3.128.2"
       ],
       "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4102,10 +4114,10 @@
         "2.1.7.4"
       ],
       "PlanReleaseDates": [
-        "2019-12-25T00:00:00"
+        "2019-12-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2019-12-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4154,9 +4166,15 @@
       "Name": "Управление птицефабрикой",
       "Version": "1.3.128.1",
       "PublishingDate": "2019-12-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.129.1"
+      ],
+      "PlanReleaseDates": [
+        "2019-12-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
