@@ -451,13 +451,17 @@
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
-      "Version": "3.0.75.48",
-      "PublishingDate": "2019-12-26T00:00:00",
+      "Version": "3.0.75.37",
+      "PublishingDate": "2019-12-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -471,13 +475,17 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
-      "Version": "3.0.75.48",
-      "PublishingDate": "2019-12-26T00:00:00",
+      "Version": "3.0.75.37",
+      "PublishingDate": "2019-12-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -491,13 +499,17 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
-      "Version": "3.0.75.48",
-      "PublishingDate": "2019-12-26T00:00:00",
+      "Version": "3.0.75.37",
+      "PublishingDate": "2019-12-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -511,13 +523,17 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 3.0",
-      "Version": "3.0.75.48",
-      "PublishingDate": "2019-12-26T00:00:00",
+      "Version": "3.0.75.37",
+      "PublishingDate": "2019-12-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.48"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-24T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
@@ -681,7 +697,7 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.10.276",
+      "Version": "3.1.12.110",
       "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
@@ -741,7 +757,7 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 3",
-      "Version": "3.1.10.276",
+      "Version": "3.1.12.110",
       "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
