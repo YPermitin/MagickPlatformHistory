@@ -2146,17 +2146,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.74.76",
-      "PublishingDate": "2019-12-17T00:00:00",
-      "PlanVersions": [
-        "3.1.75.37"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-25T00:00:00"
-      ],
+      "Version": "3.1.75.37",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
