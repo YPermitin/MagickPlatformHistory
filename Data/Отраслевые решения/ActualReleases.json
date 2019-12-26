@@ -1367,17 +1367,11 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
-      "Version": "2.3.1.40",
-      "PublishingDate": "2019-12-06T00:00:00",
-      "PlanVersions": [
-        "2.3.2.26"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-24T00:00:00"
-      ],
+      "Version": "2.3.2.26",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1627,8 +1621,8 @@
     },
     {
       "Name": "ERP Управление строительной организацией 2.0",
-      "Version": "2.4.10.89",
-      "PublishingDate": "2019-12-10T00:00:00",
+      "Version": "2.4.10.94",
+      "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
