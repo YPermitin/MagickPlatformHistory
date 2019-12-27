@@ -17,33 +17,21 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата. Версия 5.0",
-      "Version": "5.0.59.6",
-      "PublishingDate": "2019-12-20T00:00:00",
-      "PlanVersions": [
-        "5.0.60"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
-      ],
+      "Version": "5.0.60.2",
+      "PublishingDate": "2019-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С-КАМИН: Зарплата. Версия 5.0. Базовая версия",
-      "Version": "5.0.59.6",
-      "PublishingDate": "2019-12-20T00:00:00",
-      "PlanVersions": [
-        "5.0.60"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
-      ],
+      "Version": "5.0.60.2",
+      "PublishingDate": "2019-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -169,17 +157,11 @@
     },
     {
       "Name": "Айлант: Управление ЖКХ  ПРОФ, ред. 3.1",
-      "Version": "3.1.73.60",
-      "PublishingDate": "2019-11-19T00:00:00",
-      "PlanVersions": [
-        "3.1.74.69"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-24T00:00:00"
-      ],
+      "Version": "3.1.74.69",
+      "PublishingDate": "2019-12-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
