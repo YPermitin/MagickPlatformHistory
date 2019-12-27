@@ -2966,17 +2966,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
-      "Version": "3.0.74.58",
-      "PublishingDate": "2019-12-02T00:00:00",
-      "PlanVersions": [
-        "3.0.74.76"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-26T00:00:00"
-      ],
+      "Version": "3.0.74.76",
+      "PublishingDate": "2019-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
