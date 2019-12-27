@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -83,6 +83,17 @@
       "Name": "1С:PM Управление проектами КОРП",
       "Version": "4.2.11.5",
       "PublishingDate": "2019-08-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2019-12-27T21:02:26",
+      "Name": "1С:PM Управление проектами КОРП",
+      "Version": "4.2.12.1",
+      "PublishingDate": "2019-12-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
