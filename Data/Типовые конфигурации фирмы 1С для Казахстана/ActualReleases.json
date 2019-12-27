@@ -83,10 +83,10 @@
         "3.0.33"
       ],
       "PlanReleaseDates": [
-        "2019-12-30T00:00:00"
+        "2020-01-09T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-19T00:00:00"
+        "2019-12-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -219,8 +219,8 @@
     },
     {
       "Name": "Розница для Казахстана базовая",
-      "Version": "2.2.3.1",
-      "PublishingDate": "2019-09-02T00:00:00",
+      "Version": "2.2.4.1",
+      "PublishingDate": "2019-12-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
