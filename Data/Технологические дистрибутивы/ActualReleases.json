@@ -98,8 +98,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.20.1"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-27T00:00:00"
+      ]
     },
     {
       "Name": "IBM DB2 Express-C",
