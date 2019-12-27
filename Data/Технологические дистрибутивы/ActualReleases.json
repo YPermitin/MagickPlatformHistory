@@ -133,8 +133,8 @@
     },
     {
       "Name": "Автоматизированная проверка конфигураций",
-      "Version": "1.2.4.42",
-      "PublishingDate": "2019-10-22T00:00:00",
+      "Version": "1.2.4.50",
+      "PublishingDate": "2019-12-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -213,8 +213,8 @@
     },
     {
       "Name": "Система проектирования прикладных решений",
-      "Version": "2.0.1.57",
-      "PublishingDate": "2019-12-27T00:00:00",
+      "Version": "2.0.1.50",
+      "PublishingDate": "2019-09-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
