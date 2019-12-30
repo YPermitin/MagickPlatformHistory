@@ -122,8 +122,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "11.5-9.1C"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-30T00:00:00"
+      ]
     },
     {
       "Name": "Web-расширение",
@@ -217,8 +221,8 @@
     },
     {
       "Name": "Система проектирования прикладных решений",
-      "Version": "2.0.1.50",
-      "PublishingDate": "2019-09-26T00:00:00",
+      "Version": "2.0.1.58",
+      "PublishingDate": "2019-12-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
