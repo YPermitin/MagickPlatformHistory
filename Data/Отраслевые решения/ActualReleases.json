@@ -993,9 +993,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.10.75",
       "PublishingDate": "2019-12-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.10.94"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-31T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2511,17 +2517,11 @@
     },
     {
       "Name": "Комплексная автоматизация торговли алкогольной продукцией, редакция 1.1",
-      "Version": "1.1.115.5",
-      "PublishingDate": "2019-10-07T00:00:00",
-      "PlanVersions": [
-        "1.1.115.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
-      ],
+      "Version": "1.1.115.6",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3421,17 +3421,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.1.40",
-      "PublishingDate": "2019-11-20T00:00:00",
-      "PlanVersions": [
-        "2.3.1.47"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
-      ],
+      "Version": "2.3.1.47",
+      "PublishingDate": "2019-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
