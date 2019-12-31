@@ -1763,17 +1763,11 @@
     },
     {
       "Name": "Автосервис, редакция 1.6",
-      "Version": "1.6.19.128",
-      "PublishingDate": "2019-11-15T00:00:00",
-      "PlanVersions": [
-        "1.6.19.183"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
-      ],
+      "Version": "1.6.19.183",
+      "PublishingDate": "2019-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
