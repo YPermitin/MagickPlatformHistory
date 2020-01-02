@@ -145,9 +145,15 @@
       "Name": "Документооборот КОРП для Казахстана",
       "Version": "2.0.2.1",
       "PublishingDate": "2019-01-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
