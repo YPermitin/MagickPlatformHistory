@@ -17,8 +17,8 @@
     },
     {
       "Name": "Бухгалтерия для Молдовы базовая, редакция 3",
-      "Version": "3.0.30.2",
-      "PublishingDate": "2019-07-08T00:00:00",
+      "Version": "3.0.34.2",
+      "PublishingDate": "2019-12-19T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -37,11 +37,17 @@
     },
     {
       "Name": "Бухгалтерия для Молдовы, редакция 3",
-      "Version": "3.0.30.2",
-      "PublishingDate": "2019-07-08T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "3.0.34.2",
+      "PublishingDate": "2019-12-19T00:00:00",
+      "PlanVersions": [
+        "3.0.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -71,18 +77,24 @@
     },
     {
       "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
-      "Version": "3.1.9.1",
-      "PublishingDate": "2019-07-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "3.1.10.1",
+      "PublishingDate": "2019-09-24T00:00:00",
+      "PlanVersions": [
+        "3.1.11"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-11-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Розница для Молдовы, редакция 2",
-      "Version": "2.2.9.20",
-      "PublishingDate": "2018-09-28T00:00:00",
+      "Version": "2.2.11.32",
+      "PublishingDate": "2019-11-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -91,8 +103,8 @@
     },
     {
       "Name": "Управление компанией для Молдовы",
-      "Version": "1.6.17.174",
-      "PublishingDate": "2019-07-11T00:00:00",
+      "Version": "1.6.19.160",
+      "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -101,8 +113,8 @@
     },
     {
       "Name": "Управление компанией для Молдовы базовая",
-      "Version": "1.6.17.174",
-      "PublishingDate": "2019-07-11T00:00:00",
+      "Version": "1.6.19.160",
+      "PublishingDate": "2019-12-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -135,17 +147,11 @@
     },
     {
       "Name": "Управление торговлей для Молдовы, редакция 2",
-      "Version": "2.4.9.1",
-      "PublishingDate": "2019-04-24T00:00:00",
-      "PlanVersions": [
-        "2.4.10"
-      ],
-      "PlanReleaseDates": [
-        "2019-07-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-07-03T00:00:00"
-      ],
+      "Version": "2.4.12.2",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.4.6.1"
       ],
