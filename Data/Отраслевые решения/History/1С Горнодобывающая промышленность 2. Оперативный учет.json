@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -39,6 +39,17 @@
       "Name": "1С:Горнодобывающая промышленность 2. Оперативный учет",
       "Version": "1.0.8.7",
       "PublishingDate": "2019-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-06T01:27:02",
+      "Name": "1С:Горнодобывающая промышленность 2. Оперативный учет",
+      "Version": "1.1.2.8",
+      "PublishingDate": "2019-11-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
