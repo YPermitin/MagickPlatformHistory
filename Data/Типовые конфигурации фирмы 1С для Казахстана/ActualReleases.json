@@ -7,8 +7,8 @@
   "Releases": [
     {
       "Name": "ERP Управление предприятием 2 для Казахстана",
-      "Version": "2.4.4.45",
-      "PublishingDate": "2019-07-03T00:00:00",
+      "Version": "2.4.4.56",
+      "PublishingDate": "2019-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -37,8 +37,8 @@
     },
     {
       "Name": "Бухгалтерия для Казахстана базовая, редакция 2.0",
-      "Version": "2.0.30.1",
-      "PublishingDate": "2019-06-26T00:00:00",
+      "Version": "2.0.31.2",
+      "PublishingDate": "2019-08-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -47,8 +47,8 @@
     },
     {
       "Name": "Бухгалтерия для Казахстана базовая, редакция 3.0",
-      "Version": "3.0.29.1",
-      "PublishingDate": "2019-06-11T00:00:00",
+      "Version": "3.0.32.1",
+      "PublishingDate": "2019-10-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -67,8 +67,8 @@
     },
     {
       "Name": "Бухгалтерия для Казахстана, редакция 2.0",
-      "Version": "2.0.30.1",
-      "PublishingDate": "2019-06-26T00:00:00",
+      "Version": "2.0.31.2",
+      "PublishingDate": "2019-08-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -77,11 +77,17 @@
     },
     {
       "Name": "Бухгалтерия для Казахстана, редакция 3.0",
-      "Version": "3.0.29.1",
-      "PublishingDate": "2019-06-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "3.0.32.1",
+      "PublishingDate": "2019-10-03T00:00:00",
+      "PlanVersions": [
+        "3.0.33"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -97,8 +103,8 @@
     },
     {
       "Name": "Бухгалтерский учет для государственных предприятий Казахстана, редакция 2",
-      "Version": "2.0.12.1",
-      "PublishingDate": "2019-05-29T00:00:00",
+      "Version": "2.0.15.1",
+      "PublishingDate": "2019-10-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -127,8 +133,8 @@
     },
     {
       "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
-      "Version": "4.0.18.19",
-      "PublishingDate": "2019-07-04T00:00:00",
+      "Version": "4.0.20.3",
+      "PublishingDate": "2019-11-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -139,9 +145,15 @@
       "Name": "Документооборот КОРП для Казахстана",
       "Version": "2.0.2.1",
       "PublishingDate": "2019-01-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -157,8 +169,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Казахстана",
-      "Version": "3.1.1.37",
-      "PublishingDate": "2019-07-01T00:00:00",
+      "Version": "3.1.1.48",
+      "PublishingDate": "2019-11-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -167,8 +179,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом КОРП для Казахстана",
-      "Version": "2.0.18.3",
-      "PublishingDate": "2019-04-16T00:00:00",
+      "Version": "2.0.18.5",
+      "PublishingDate": "2019-08-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -177,8 +189,8 @@
     },
     {
       "Name": "Комплексная автоматизация для Казахстана",
-      "Version": "2.4.4.45",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "2.4.4.56",
+      "PublishingDate": "2019-12-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -187,8 +199,8 @@
     },
     {
       "Name": "Комплексная автоматизация для Казахстана. Модуль \"Бюджетирование\"",
-      "Version": "2.4.4.45",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "2.4.4.53",
+      "PublishingDate": "2019-10-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -197,8 +209,8 @@
     },
     {
       "Name": "Розница для Казахстана",
-      "Version": "2.2.2.7",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "2.2.4.1",
+      "PublishingDate": "2019-12-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -207,8 +219,8 @@
     },
     {
       "Name": "Розница для Казахстана базовая",
-      "Version": "2.2.2.7",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "2.2.4.1",
+      "PublishingDate": "2019-12-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -217,8 +229,8 @@
     },
     {
       "Name": "Свод отчетов для Казахстана",
-      "Version": "1.0.10.3",
-      "PublishingDate": "2019-06-24T00:00:00",
+      "Version": "1.0.10.4",
+      "PublishingDate": "2019-08-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -227,18 +239,22 @@
     },
     {
       "Name": "Управление нашей фирмой 8 для Казахстана",
-      "Version": "1.6.4.6",
-      "PublishingDate": "2019-05-16T00:00:00",
+      "Version": "1.6.4.7",
+      "PublishingDate": "2019-10-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "1.6.5.2"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-18T00:00:00"
+      ]
     },
     {
       "Name": "Управление нашей фирмой 8 для Казахстана. Базовая версия",
-      "Version": "1.6.4.6",
-      "PublishingDate": "2019-05-16T00:00:00",
+      "Version": "1.6.4.7",
+      "PublishingDate": "2019-10-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -247,8 +263,8 @@
     },
     {
       "Name": "Управление производственным предприятием для Казахстана",
-      "Version": "1.3.18.3",
-      "PublishingDate": "2019-04-15T00:00:00",
+      "Version": "1.3.19.1",
+      "PublishingDate": "2019-08-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -267,8 +283,8 @@
     },
     {
       "Name": "Управление торговлей для Казахстана базовая, редакция 3",
-      "Version": "3.4.4.46",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "3.4.4.48",
+      "PublishingDate": "2019-09-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -287,8 +303,8 @@
     },
     {
       "Name": "Управление торговлей для Казахстана, редакция 3",
-      "Version": "3.4.4.46",
-      "PublishingDate": "2019-07-05T00:00:00",
+      "Version": "3.4.4.48",
+      "PublishingDate": "2019-09-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -307,8 +323,8 @@
     },
     {
       "Name": "Управление торговым предприятием для Казахстана, редакция 2.0",
-      "Version": "2.0.17.2",
-      "PublishingDate": "2019-07-11T00:00:00",
+      "Version": "2.0.18.1",
+      "PublishingDate": "2019-08-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -327,8 +343,8 @@
     },
     {
       "Name": "Управление холдингом для Казахстана, редакция 1.3",
-      "Version": "1.3.3.4",
-      "PublishingDate": "2019-06-20T00:00:00",
+      "Version": "1.3.3.5",
+      "PublishingDate": "2019-09-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
