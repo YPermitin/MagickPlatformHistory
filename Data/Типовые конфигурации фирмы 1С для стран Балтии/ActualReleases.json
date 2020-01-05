@@ -7,18 +7,24 @@
   "Releases": [
     {
       "Name": "Розница для Балтии",
-      "Version": "2.2.6.2",
-      "PublishingDate": "2017-08-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "2.2.7.8",
+      "PublishingDate": "2019-08-15T00:00:00",
+      "PlanVersions": [
+        "2.2.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Управление компанией для Балтии",
-      "Version": "1.5.6.1",
-      "PublishingDate": "2018-06-05T00:00:00",
+      "Version": "1.5.10.2",
+      "PublishingDate": "2019-11-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -27,11 +33,17 @@
     },
     {
       "Name": "Управление торговлей для стран Балтии, редакция 11.0",
-      "Version": "11.0.6.31",
-      "PublishingDate": "2018-08-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "11.0.7.14",
+      "PublishingDate": "2019-08-27T00:00:00",
+      "PlanVersions": [
+        "11.0.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
