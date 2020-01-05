@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -73,6 +73,17 @@
       "Name": "Инвентаризация и управление имуществом, редакция 2.0",
       "Version": "2.0.8.8",
       "PublishingDate": "2019-07-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-06T01:27:02",
+      "Name": "Инвентаризация и управление имуществом, редакция 2.0",
+      "Version": "2.0.9.1",
+      "PublishingDate": "2019-09-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
