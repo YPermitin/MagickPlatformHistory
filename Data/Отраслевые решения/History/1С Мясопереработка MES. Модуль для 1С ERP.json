@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 17,
+  "ReleasesCount": 18,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -244,6 +244,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-06T01:27:02",
+      "Name": "1С:Мясопереработка MES. Модуль для 1С:ERP",
+      "Version": "2.4.10.62",
+      "PublishingDate": "2019-10-24T00:00:00",
+      "PlanVersions": [
+        "2.4.11.43"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2019-12-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
