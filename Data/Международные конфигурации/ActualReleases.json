@@ -1,0 +1,19 @@
+{
+  "Category": {
+    "ID": 1014,
+    "Name": "Международные конфигурации"
+  },
+  "ReleasesCount": 1,
+  "Releases": [
+    {
+      "Name": "1С:ERP WE, бета-версия",
+      "Version": "2.5.3.113",
+      "PublishingDate": "2019-12-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
