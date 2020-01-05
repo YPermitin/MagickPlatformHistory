@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-01-06T01:27:02",
+      "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
+      "Version": "2.3.2.26",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
