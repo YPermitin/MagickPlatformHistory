@@ -699,17 +699,11 @@
     },
     {
       "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
-      "Version": "1.0.8.3",
-      "PublishingDate": "2019-12-03T00:00:00",
-      "PlanVersions": [
-        "1.0.8.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
-      ],
+      "Version": "1.0.8.4",
+      "PublishingDate": "2020-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -767,10 +761,10 @@
         "2.4.11.43"
       ],
       "PlanReleaseDates": [
-        "2020-01-09T00:00:00"
+        "2020-01-13T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
+        "2020-01-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1847,8 +1841,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.89",
-      "PublishingDate": "2019-12-10T00:00:00",
+      "Version": "2.0.66.90",
+      "PublishingDate": "2020-01-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
