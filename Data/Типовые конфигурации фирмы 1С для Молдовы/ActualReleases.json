@@ -88,8 +88,12 @@
       "PlanUpdateDates": [
         "2019-11-21T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.11.1"
+      ],
+      "DemoPublicationDates": [
+        "2020-01-09T00:00:00"
+      ]
     },
     {
       "Name": "Розница для Молдовы, редакция 2",
