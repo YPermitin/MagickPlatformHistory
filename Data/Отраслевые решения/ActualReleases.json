@@ -243,9 +243,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Version": "3.0.45.46",
       "PublishingDate": "2019-11-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.45.47"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -253,9 +259,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
       "Version": "4.0.25.4",
       "PublishingDate": "2019-12-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.25.5"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1197,9 +1209,15 @@
       "Name": "1С:Управление недвижимостью и арендой КОРП",
       "Version": "3.0.74.69",
       "PublishingDate": "2019-12-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.37"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2649,17 +2667,11 @@
     },
     {
       "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
-      "Version": "2.0.15.1",
-      "PublishingDate": "2019-10-08T00:00:00",
-      "PlanVersions": [
-        "2.0.16.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
-      ],
+      "Version": "2.0.16.1",
+      "PublishingDate": "2020-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3869,17 +3881,11 @@
     },
     {
       "Name": "Управление автотранспортом Стандарт, редакция 2.1",
-      "Version": "2.2.8.1",
-      "PublishingDate": "2019-10-22T00:00:00",
-      "PlanVersions": [
-        "2.2.9.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
-      ],
+      "Version": "2.2.9.1",
+      "PublishingDate": "2020-01-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
