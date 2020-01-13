@@ -453,17 +453,13 @@
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2019-12-18T00:00:00",
+      "Version": "3.0.75.58",
+      "PublishingDate": "2020-01-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.75.58"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -477,17 +473,13 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2019-12-18T00:00:00",
+      "Version": "3.0.75.58",
+      "PublishingDate": "2020-01-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.75.58"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -501,17 +493,13 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2019-12-18T00:00:00",
+      "Version": "3.0.75.58",
+      "PublishingDate": "2020-01-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.75.58"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -525,17 +513,13 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 3.0",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2019-12-18T00:00:00",
+      "Version": "3.0.75.58",
+      "PublishingDate": "2020-01-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.75.58"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бюджетная отчетность",
