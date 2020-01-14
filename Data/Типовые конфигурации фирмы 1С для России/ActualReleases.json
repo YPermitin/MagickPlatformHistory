@@ -1249,17 +1249,11 @@
     },
     {
       "Name": "Управление торговлей, редакция 11",
-      "Version": "11.4.10.94",
-      "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [
-        "11.4.11"
-      ],
-      "PlanReleaseDates": [
-        "2019-12-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-16T00:00:00"
-      ],
+      "Version": "11.4.11.55",
+      "PublishingDate": "2020-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "11.4.11.35"
       ],
