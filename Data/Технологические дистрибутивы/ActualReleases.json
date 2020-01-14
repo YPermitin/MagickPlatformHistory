@@ -281,9 +281,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "8.3.16.1148",
         "8.3.17.1032"
       ],
       "DemoPublicationDates": [
+        "2020-01-14T00:00:00",
         "2019-12-27T00:00:00"
       ]
     },
