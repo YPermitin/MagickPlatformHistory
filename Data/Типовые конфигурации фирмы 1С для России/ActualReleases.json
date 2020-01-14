@@ -157,8 +157,8 @@
     },
     {
       "Name": "1С:Мобильная касса (для разработчиков)",
-      "Version": "2.24.2.0",
-      "PublishingDate": "2019-06-24T00:00:00",
+      "Version": "3.1.7.0",
+      "PublishingDate": "2020-01-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -183,8 +183,8 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.74.7",
-      "PublishingDate": "2019-12-19T00:00:00",
+      "Version": "3.0.74.12",
+      "PublishingDate": "2020-01-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -193,8 +193,8 @@
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.74.7",
-      "PublishingDate": "2019-12-19T00:00:00",
+      "Version": "3.0.74.12",
+      "PublishingDate": "2020-01-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
