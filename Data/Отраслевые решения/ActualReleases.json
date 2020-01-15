@@ -299,9 +299,15 @@
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
       "Version": "3.0.74.76",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.37"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -797,9 +803,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.74.77",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.58"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-15T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -847,9 +859,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.74.77",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.58"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-15T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1367,9 +1385,15 @@
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
       "Version": "3.0.74.54",
       "PublishingDate": "2019-12-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.74.56"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1831,10 +1855,10 @@
         "3.0.75.37"
       ],
       "PlanReleaseDates": [
-        "2020-01-20T00:00:00"
+        "2020-01-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-23T00:00:00"
+        "2020-01-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1977,8 +2001,8 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2019-12-30T00:00:00",
+      "Version": "3.0.75.58",
+      "PublishingDate": "2020-01-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2111,9 +2135,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
       "Version": "3.0.74.76",
       "PublishingDate": "2019-12-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.37"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
