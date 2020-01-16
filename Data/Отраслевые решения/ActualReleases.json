@@ -2241,9 +2241,15 @@
       "Name": "Бухгалтерія будівельної організації",
       "Version": "1.2.55.1",
       "PublishingDate": "2019-08-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.56.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4015,9 +4021,15 @@
       "Name": "Управление корпоративными финансами, редакция 2.1 для Технологической платформы 8.2",
       "Version": "2.1.66.35",
       "PublishingDate": "2019-10-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.66.36"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
