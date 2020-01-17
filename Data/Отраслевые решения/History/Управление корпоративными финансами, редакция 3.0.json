@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 40,
+  "ReleasesCount": 41,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -587,6 +587,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-17T19:32:34",
+      "Name": "Управление корпоративными финансами, редакция 3.0",
+      "Version": "3.0.75.1",
+      "PublishingDate": "2019-12-26T00:00:00",
+      "PlanVersions": [
+        "3.0.75.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
