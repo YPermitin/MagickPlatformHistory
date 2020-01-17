@@ -1989,10 +1989,10 @@
         "2.0.5.2"
       ],
       "PlanReleaseDates": [
-        "2020-01-20T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-16T00:00:00"
+        "2020-01-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2257,17 +2257,11 @@
     },
     {
       "Name": "Бухгалтерія будівельної організації",
-      "Version": "1.2.55.1",
-      "PublishingDate": "2019-08-20T00:00:00",
-      "PlanVersions": [
-        "1.2.56.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-16T00:00:00"
-      ],
+      "Version": "1.2.56.1",
+      "PublishingDate": "2020-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4379,17 +4373,11 @@
     },
     {
       "Name": "Управляющий базовая, для Технологической платформы 8.2, 8.3",
-      "Version": "2.0.8.1",
-      "PublishingDate": "2019-10-24T00:00:00",
-      "PlanVersions": [
-        "2.1.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-13T00:00:00"
-      ],
+      "Version": "2.1.1.1",
+      "PublishingDate": "2020-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4425,17 +4413,11 @@
     },
     {
       "Name": "Управляющий. Стандарт, для Технологической платформы 8.2, 8.3",
-      "Version": "2.0.8.1",
-      "PublishingDate": "2019-10-23T00:00:00",
-      "PlanVersions": [
-        "2.1.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-13T00:00:00"
-      ],
+      "Version": "2.1.1.1",
+      "PublishingDate": "2020-01-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
