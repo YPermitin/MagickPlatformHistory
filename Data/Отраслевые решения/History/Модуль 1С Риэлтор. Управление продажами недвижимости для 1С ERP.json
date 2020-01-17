@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -137,6 +137,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-17T16:32:33",
+      "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
+      "Version": "2.4.10.62",
+      "PublishingDate": "2019-10-29T00:00:00",
+      "PlanVersions": [
+        "2.4.11.43"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
