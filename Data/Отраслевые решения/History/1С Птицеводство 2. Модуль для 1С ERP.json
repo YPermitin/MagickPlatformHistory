@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -134,6 +134,17 @@
       "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
       "Version": "2.4.10.62",
       "PublishingDate": "2019-10-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-21T01:32:35",
+      "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
+      "Version": "2.4.11.43",
+      "PublishingDate": "2020-01-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
