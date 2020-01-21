@@ -103,10 +103,10 @@
         "2.4.11.43"
       ],
       "PlanReleaseDates": [
-        "2020-01-20T00:00:00"
+        "2020-01-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-16T00:00:00"
+        "2020-01-21T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -321,10 +321,10 @@
         "3.0.75.37"
       ],
       "PlanReleaseDates": [
-        "2020-01-17T00:00:00"
+        "2020-01-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-15T00:00:00"
+        "2020-01-21T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -747,17 +747,11 @@
     },
     {
       "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
-      "Version": "1.0.8.4",
-      "PublishingDate": "2020-01-09T00:00:00",
-      "PlanVersions": [
-        "1.0.8.5"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-14T00:00:00"
-      ],
+      "Version": "1.0.8.5",
+      "PublishingDate": "2020-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4149,17 +4143,11 @@
     },
     {
       "Name": "Управление по целям и KPI, редакция 2.0",
-      "Version": "2.1.7.3",
-      "PublishingDate": "2019-08-23T00:00:00",
-      "PlanVersions": [
-        "2.1.7.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-16T00:00:00"
-      ],
+      "Version": "2.1.7.4",
+      "PublishingDate": "2020-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4389,9 +4377,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.17.32",
       "PublishingDate": "2019-12-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.17.33"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
