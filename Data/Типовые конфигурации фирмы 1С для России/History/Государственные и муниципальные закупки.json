@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 12,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -121,6 +121,17 @@
       "Name": "Государственные и муниципальные закупки",
       "Version": "1.1.19.1",
       "PublishingDate": "2019-12-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-21T19:32:32",
+      "Name": "Государственные и муниципальные закупки",
+      "Version": "1.1.20.1",
+      "PublishingDate": "2020-01-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
