@@ -1363,17 +1363,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.75.2",
-      "PublishingDate": "2020-01-20T00:00:00",
-      "PlanVersions": [
-        "3.0.75.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-21T00:00:00"
-      ],
+      "Version": "3.0.75.3",
+      "PublishingDate": "2020-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3589,9 +3583,15 @@
       "Name": "Рыбопереработка",
       "Version": "1.3.129.1",
       "PublishingDate": "2019-12-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.130.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4595,24 +4595,18 @@
     },
     {
       "Name": "Хлебобулочное и кондитерское производство, редакция 1.3",
-      "Version": "1.3.129.1",
-      "PublishingDate": "2019-12-30T00:00:00",
-      "PlanVersions": [
-        "1.3.130.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-21T00:00:00"
-      ],
+      "Version": "1.3.130.2",
+      "PublishingDate": "2020-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Хлебобулочное и кондитерское производство (Управление сбытом продукции), редакция 1.3",
-      "Version": "1.3.129.1",
-      "PublishingDate": "2019-12-30T00:00:00",
+      "Version": "1.3.130.2",
+      "PublishingDate": "2020-01-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
