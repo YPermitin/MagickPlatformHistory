@@ -357,9 +357,15 @@
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
       "Version": "3.0.75.37",
       "PublishingDate": "2019-12-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.58"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1843,17 +1849,11 @@
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.74.53",
-      "PublishingDate": "2019-12-27T00:00:00",
-      "PlanVersions": [
-        "3.0.75.37"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-15T00:00:00"
-      ],
+      "Version": "3.0.75.37",
+      "PublishingDate": "2020-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2231,9 +2231,15 @@
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
       "Version": "3.0.75.37",
       "PublishingDate": "2019-12-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.58"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
