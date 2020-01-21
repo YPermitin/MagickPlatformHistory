@@ -4,7 +4,7 @@
     "ID": 126,
     "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
   },
-  "ReleasesCount": 18,
+  "ReleasesCount": 19,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:41",
@@ -277,6 +277,17 @@
       "DemoPublicationDates": [
         "2020-01-09T00:00:00"
       ]
+    },
+    {
+      "Created": "2020-01-21T16:32:35",
+      "Name": "Зарплата и управление Персоналом КОРП для Молдовы",
+      "Version": "3.1.11.2",
+      "PublishingDate": "2020-01-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
