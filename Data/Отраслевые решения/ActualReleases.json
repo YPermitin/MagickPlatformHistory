@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.11.43",
       "PublishingDate": "2019-12-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.56"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -299,10 +305,10 @@
         "3.0.75.37"
       ],
       "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -315,10 +321,10 @@
         "3.0.75.37"
       ],
       "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -801,10 +807,10 @@
         "3.0.75.58"
       ],
       "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-15T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -851,10 +857,10 @@
         "3.0.75.58"
       ],
       "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-15T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -1147,10 +1153,10 @@
         "2.4.11.43"
       ],
       "PlanReleaseDates": [
-        "2020-01-22T00:00:00"
+        "2020-01-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-13T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1183,10 +1189,10 @@
         "2.4.11.43"
       ],
       "PlanReleaseDates": [
-        "2020-01-22T00:00:00"
+        "2020-01-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-13T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1649,8 +1655,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.11.43",
-      "PublishingDate": "2019-12-30T00:00:00",
+      "Version": "2.4.11.56",
+      "PublishingDate": "2020-01-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2645,9 +2651,15 @@
       "Name": "Ликероводочный и винный завод, редакция 1.3",
       "Version": "1.3.130.1",
       "PublishingDate": "2020-01-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.131.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2851,9 +2863,15 @@
       "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
       "Version": "1.3.130.1",
       "PublishingDate": "2020-01-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.131.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3211,10 +3229,10 @@
         "2.3.2.28"
       ],
       "PlanReleaseDates": [
-        "2020-01-22T00:00:00"
+        "2020-01-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3635,9 +3653,15 @@
       "Name": "Спиртовое производство",
       "Version": "1.3.130.1",
       "PublishingDate": "2020-01-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.131.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4113,9 +4137,15 @@
       "Name": "Управление предприятием ЖКХ",
       "Version": "1.3.130.1",
       "PublishingDate": "2020-01-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.131.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4157,10 +4187,10 @@
         "1.3.130.1"
       ],
       "PlanReleaseDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-21T00:00:00"
+        "2020-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
