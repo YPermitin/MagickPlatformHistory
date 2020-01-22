@@ -801,7 +801,7 @@
         "3.0.75.58"
       ],
       "PlanReleaseDates": [
-        "2020-01-22T00:00:00"
+        "2020-01-24T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-01-22T00:00:00"
@@ -837,9 +837,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.89",
       "PublishingDate": "2019-12-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.91"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -851,7 +857,7 @@
         "3.0.75.58"
       ],
       "PlanReleaseDates": [
-        "2020-01-22T00:00:00"
+        "2020-01-24T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-01-22T00:00:00"
@@ -1351,17 +1357,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.75.3",
-      "PublishingDate": "2020-01-21T00:00:00",
-      "PlanVersions": [
-        "3.0.75.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-22T00:00:00"
-      ],
+      "Version": "3.0.75.4",
+      "PublishingDate": "2020-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4045,9 +4045,15 @@
       "Name": "Управление корпоративными финансами, редакция 2.1 для Технологической платформы 8.2",
       "Version": "2.1.66.36",
       "PublishingDate": "2020-01-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.66.37"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
