@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 21,
+  "ReleasesCount": 22,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -318,6 +318,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-22T18:02:35",
+      "Name": "Управляющий. Стандарт, для Технологической платформы 8.2, 8.3",
+      "Version": "2.1.1.1",
+      "PublishingDate": "2020-01-17T00:00:00",
+      "PlanVersions": [
+        "2.1.1.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
