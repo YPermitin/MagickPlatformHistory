@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -58,6 +58,23 @@
       ],
       "PlanUpdateDates": [
         "2020-01-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-23T16:02:26",
+      "Name": "Документооборот КОРП для Казахстана",
+      "Version": "2.0.2.1",
+      "PublishingDate": "2019-01-02T00:00:00",
+      "PlanVersions": [
+        "2.0.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
