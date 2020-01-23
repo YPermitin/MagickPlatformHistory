@@ -3247,17 +3247,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.3",
-      "Version": "2.3.1.47",
-      "PublishingDate": "2019-12-27T00:00:00",
-      "PlanVersions": [
-        "2.3.2.28"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-22T00:00:00"
-      ],
+      "Version": "2.3.2.28",
+      "PublishingDate": "2020-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3415,17 +3409,11 @@
     },
     {
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
-      "Version": "2.3.1.47",
-      "PublishingDate": "2019-12-26T00:00:00",
-      "PlanVersions": [
-        "2.3.2.28"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-30T00:00:00"
-      ],
+      "Version": "2.3.2.28",
+      "PublishingDate": "2020-01-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
