@@ -1237,10 +1237,10 @@
         "3.0.75.58"
       ],
       "PlanReleaseDates": [
-        "2020-01-29T00:00:00"
+        "2020-02-04T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-15T00:00:00"
+        "2020-01-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1253,10 +1253,10 @@
         "3.0.75.58"
       ],
       "PlanReleaseDates": [
-        "2020-01-31T00:00:00"
+        "2020-02-06T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-15T00:00:00"
+        "2020-01-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1283,17 +1283,11 @@
     },
     {
       "Name": "1С:Управление недвижимостью и арендой КОРП",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2020-01-09T00:00:00",
-      "PlanVersions": [
-        "3.0.75.58"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-22T00:00:00"
-      ],
+      "Version": "3.0.75.58",
+      "PublishingDate": "2020-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1401,17 +1395,11 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.74.54",
-      "PublishingDate": "2019-12-10T00:00:00",
-      "PlanVersions": [
-        "3.0.74.56"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
-      ],
+      "Version": "3.0.74.56",
+      "PublishingDate": "2020-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3477,17 +3465,11 @@
     },
     {
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
-      "Version": "2.3.1.47",
-      "PublishingDate": "2019-12-31T00:00:00",
-      "PlanVersions": [
-        "2.3.2.28"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2019-12-31T00:00:00"
-      ],
+      "Version": "2.3.2.28",
+      "PublishingDate": "2020-01-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
