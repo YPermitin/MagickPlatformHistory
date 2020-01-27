@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 34,
+  "ReleasesCount": 35,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -550,6 +550,23 @@
       ],
       "PlanUpdateDates": [
         "2020-01-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-27T19:14:03",
+      "Name": "1С:Управление деревообрабатывающим предприятием. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "2.4.10.62",
+      "PublishingDate": "2019-10-31T00:00:00",
+      "PlanVersions": [
+        "2.4.11.43"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
