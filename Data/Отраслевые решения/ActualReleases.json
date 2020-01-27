@@ -893,17 +893,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2020-01-14T00:00:00",
-      "PlanVersions": [
-        "3.0.75.58"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
-      ],
+      "Version": "3.0.75.58",
+      "PublishingDate": "2020-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1415,17 +1409,11 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
-      "Version": "2.3.2.26",
-      "PublishingDate": "2019-12-26T00:00:00",
-      "PlanVersions": [
-        "2.3.2.28"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-16T00:00:00"
-      ],
+      "Version": "2.3.2.28",
+      "PublishingDate": "2020-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
