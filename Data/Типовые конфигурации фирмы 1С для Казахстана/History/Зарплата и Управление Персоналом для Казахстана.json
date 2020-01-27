@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 27,
+  "ReleasesCount": 28,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -356,6 +356,23 @@
       ],
       "PlanUpdateDates": [
         "2020-01-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-27T17:44:04",
+      "Name": "Зарплата и Управление Персоналом для Казахстана",
+      "Version": "3.1.1.51",
+      "PublishingDate": "2020-01-09T00:00:00",
+      "PlanVersions": [
+        "2.0.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
