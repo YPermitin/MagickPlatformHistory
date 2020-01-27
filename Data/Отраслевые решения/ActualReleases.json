@@ -67,17 +67,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.11.43",
-      "PublishingDate": "2019-12-30T00:00:00",
-      "PlanVersions": [
-        "2.4.11.56"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-27T00:00:00"
-      ],
+      "Version": "2.4.11.56",
+      "PublishingDate": "2020-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -905,9 +899,15 @@
       "Name": "1С:Подрядчик строительства. Управление строительным производством, редакция 3.0",
       "Version": "3.0.2.7",
       "PublishingDate": "2019-04-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1355,9 +1355,15 @@
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
       "Version": "3.0.74.56",
       "PublishingDate": "2020-01-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.60"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
