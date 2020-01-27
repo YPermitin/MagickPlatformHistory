@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -36,6 +36,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-27T17:14:03",
+      "Name": "1С:Подрядчик строительства. Управление строительным производством, редакция 3.0",
+      "Version": "3.0.2.7",
+      "PublishingDate": "2019-04-22T00:00:00",
+      "PlanVersions": [
+        "3.0.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
