@@ -7,8 +7,8 @@
   "Releases": [
     {
       "Name": "1C:Касса (приложение для ПК), редакция 2.0",
-      "Version": "2.0.3.13",
-      "PublishingDate": "2020-01-24T00:00:00",
+      "Version": "2.0.3.14",
+      "PublishingDate": "2020-01-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -57,8 +57,8 @@
     },
     {
       "Name": "1С:ERP.Управление холдингом",
-      "Version": "3.0.2.15",
-      "PublishingDate": "2019-12-27T00:00:00",
+      "Version": "3.0.2.17",
+      "PublishingDate": "2020-01-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
