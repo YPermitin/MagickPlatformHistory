@@ -299,17 +299,11 @@
     },
     {
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
-      "Version": "3.0.74.76",
-      "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [
-        "3.0.75.37"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-27T00:00:00"
-      ],
+      "Version": "3.0.75.37",
+      "PublishingDate": "2020-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -889,17 +883,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
-      "Version": "2.0.66.90",
-      "PublishingDate": "2020-01-09T00:00:00",
-      "PlanVersions": [
-        "2.0.66.91"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
-      ],
+      "Version": "2.0.66.91",
+      "PublishingDate": "2020-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1331,17 +1319,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
-      "Version": "2.0.66.63",
-      "PublishingDate": "2020-01-14T00:00:00",
-      "PlanVersions": [
-        "2.0.66.64"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-23T00:00:00"
-      ],
+      "Version": "2.0.66.64",
+      "PublishingDate": "2020-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2191,17 +2173,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
-      "Version": "2.0.66.90",
-      "PublishingDate": "2020-01-10T00:00:00",
-      "PlanVersions": [
-        "2.0.66.91"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
-      ],
+      "Version": "2.0.66.91",
+      "PublishingDate": "2020-01-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
