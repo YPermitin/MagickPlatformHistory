@@ -899,15 +899,9 @@
       "Name": "1С:Подрядчик строительства. Управление строительным производством, редакция 3.0",
       "Version": "3.0.2.7",
       "PublishingDate": "2019-04-22T00:00:00",
-      "PlanVersions": [
-        "3.0.7.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-27T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2123,10 +2117,10 @@
         "3.0.33.2"
       ],
       "PlanReleaseDates": [
-        "2020-01-28T00:00:00"
+        "2020-01-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
+        "2020-01-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
