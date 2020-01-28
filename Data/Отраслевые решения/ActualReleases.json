@@ -955,9 +955,15 @@
       "Name": "1С:Предприятие 8. MDM Управление нормативно-справочной информацией, редакция 2.0",
       "Version": "2.0.4.11",
       "PublishingDate": "2020-01-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1423,17 +1429,11 @@
     },
     {
       "Name": "1С:Энергетика 2. Учет технологических присоединений",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "2.4.11.43"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-27T00:00:00"
-      ],
+      "Version": "2.4.11.43",
+      "PublishingDate": "2020-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
