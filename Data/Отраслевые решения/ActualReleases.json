@@ -716,7 +716,7 @@
         "2020-01-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-22T00:00:00"
+        "2020-01-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2559,9 +2559,15 @@
       "Name": "Комплексная автоматизация торговли алкогольной продукцией, редакция 1.1",
       "Version": "1.1.115.6",
       "PublishingDate": "2019-12-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.115.7"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2569,9 +2575,15 @@
       "Name": "Комплексный учет сельскохозяйственного предприятия",
       "Version": "1.1.122.1",
       "PublishingDate": "2019-11-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.123.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
