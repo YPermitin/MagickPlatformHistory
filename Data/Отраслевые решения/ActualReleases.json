@@ -4301,17 +4301,11 @@
     },
     {
       "Name": "Управляющий базовая, для Технологической платформы 8.2, 8.3",
-      "Version": "2.1.1.1",
-      "PublishingDate": "2020-01-17T00:00:00",
-      "PlanVersions": [
-        "2.1.1.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
-      ],
+      "Version": "2.1.1.2",
+      "PublishingDate": "2020-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4347,17 +4341,11 @@
     },
     {
       "Name": "Управляющий. Стандарт, для Технологической платформы 8.2, 8.3",
-      "Version": "2.1.1.1",
-      "PublishingDate": "2020-01-17T00:00:00",
-      "PlanVersions": [
-        "2.1.1.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
-      ],
+      "Version": "2.1.1.2",
+      "PublishingDate": "2020-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
