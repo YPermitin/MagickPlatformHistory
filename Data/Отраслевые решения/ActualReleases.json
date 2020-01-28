@@ -3225,17 +3225,11 @@
     },
     {
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
-      "Version": "2.3.1.47",
-      "PublishingDate": "2019-12-27T00:00:00",
-      "PlanVersions": [
-        "2.3.2.28"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-27T00:00:00"
-      ],
+      "Version": "2.3.2.28",
+      "PublishingDate": "2020-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
