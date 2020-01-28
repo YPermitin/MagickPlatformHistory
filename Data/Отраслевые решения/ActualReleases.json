@@ -3975,17 +3975,11 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 3.0",
-      "Version": "3.0.75.1",
-      "PublishingDate": "2019-12-26T00:00:00",
-      "PlanVersions": [
-        "3.0.75.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-24T00:00:00"
-      ],
+      "Version": "3.0.75.2",
+      "PublishingDate": "2020-01-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
