@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 66,
+  "ReleasesCount": 67,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1013,6 +1013,23 @@
       ],
       "PlanUpdateDates": [
         "2020-01-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-01-28T17:44:07",
+      "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
+      "Version": "3.0.75.37",
+      "PublishingDate": "2020-01-22T00:00:00",
+      "PlanVersions": [
+        "3.0.75.70"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
