@@ -1619,8 +1619,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.11.57",
-      "PublishingDate": "2020-01-22T00:00:00",
+      "Version": "2.4.11.63",
+      "PublishingDate": "2020-01-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3137,10 +3137,10 @@
         "2.3.2.28"
       ],
       "PlanReleaseDates": [
-        "2020-01-28T00:00:00"
+        "2020-01-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2019-12-31T00:00:00"
+        "2020-01-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
