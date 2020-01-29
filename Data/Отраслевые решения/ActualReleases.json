@@ -801,17 +801,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.89",
-      "PublishingDate": "2019-12-05T00:00:00",
-      "PlanVersions": [
-        "2.0.66.91"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-22T00:00:00"
-      ],
+      "Version": "2.0.66.91",
+      "PublishingDate": "2020-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2121,17 +2115,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации для Казахстана",
-      "Version": "3.0.32.1",
-      "PublishingDate": "2019-10-17T00:00:00",
-      "PlanVersions": [
-        "3.0.33.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-28T00:00:00"
-      ],
+      "Version": "3.0.33.2",
+      "PublishingDate": "2020-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
