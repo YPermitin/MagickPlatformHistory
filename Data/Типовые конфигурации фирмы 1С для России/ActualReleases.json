@@ -122,8 +122,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.6.4.64"
+      ],
+      "DemoPublicationDates": [
+        "2020-01-29T00:00:00"
+      ]
     },
     {
       "Name": "1С:Клиент ЭДО 8, редакция 1.0",
