@@ -2037,9 +2037,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 2.1",
       "Version": "2.1.30.5",
       "PublishingDate": "2019-10-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.30.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-01-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
