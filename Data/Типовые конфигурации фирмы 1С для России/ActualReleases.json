@@ -721,8 +721,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.10.307",
-      "PublishingDate": "2020-01-23T00:00:00",
+      "Version": "3.1.12.140",
+      "PublishingDate": "2020-01-30T00:00:00",
       "PlanVersions": [
         "3.1.13",
         "3.1.10.",
@@ -1273,8 +1273,8 @@
     },
     {
       "Name": "Управление торговлей, редакция 11",
-      "Version": "11.4.11.55",
-      "PublishingDate": "2020-01-14T00:00:00",
+      "Version": "11.4.11.63",
+      "PublishingDate": "2020-01-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
