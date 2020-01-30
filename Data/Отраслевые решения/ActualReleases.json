@@ -2015,9 +2015,15 @@
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
       "Version": "3.0.75.58",
       "PublishingDate": "2020-01-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.70"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
