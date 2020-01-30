@@ -1147,10 +1147,10 @@
         "2.4.11.43"
       ],
       "PlanReleaseDates": [
-        "2020-01-29T00:00:00"
+        "2020-01-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-29T00:00:00"
+        "2020-01-30T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1433,9 +1433,15 @@
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
       "Version": "2.3.2.28",
       "PublishingDate": "2020-01-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.2.33"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1443,9 +1449,15 @@
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
       "Version": "2.3.2.28",
       "PublishingDate": "2020-01-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.2.33"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2047,10 +2059,10 @@
         "3.0.75.2"
       ],
       "PlanReleaseDates": [
-        "2020-01-29T00:00:00"
+        "2020-01-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-29T00:00:00"
+        "2020-01-30T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3991,10 +4003,10 @@
         "2.1.66.37"
       ],
       "PlanReleaseDates": [
-        "2020-01-29T00:00:00"
+        "2020-01-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-22T00:00:00"
+        "2020-01-30T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4399,9 +4411,15 @@
       "Name": "Финансовое планирование. Дополнение к 1С:БГУ 2.0",
       "Version": "1.0.25.1",
       "PublishingDate": "2020-01-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.26.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-01-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
