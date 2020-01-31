@@ -37,8 +37,8 @@
     },
     {
       "Name": "Бухгалтерия для Казахстана базовая, редакция 2.0",
-      "Version": "2.0.31.2",
-      "PublishingDate": "2019-08-22T00:00:00",
+      "Version": "2.0.32.1",
+      "PublishingDate": "2020-01-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -67,17 +67,11 @@
     },
     {
       "Name": "Бухгалтерия для Казахстана, редакция 2.0",
-      "Version": "2.0.31.2",
-      "PublishingDate": "2019-08-22T00:00:00",
-      "PlanVersions": [
-        "2.0.32"
-      ],
-      "PlanReleaseDates": [
-        "2020-01-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-27T00:00:00"
-      ],
+      "Version": "2.0.32.1",
+      "PublishingDate": "2020-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
