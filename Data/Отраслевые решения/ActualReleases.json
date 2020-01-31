@@ -1441,17 +1441,11 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
-      "Version": "2.3.2.28",
-      "PublishingDate": "2020-01-27T00:00:00",
-      "PlanVersions": [
-        "2.3.2.33"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-30T00:00:00"
-      ],
+      "Version": "2.3.2.33",
+      "PublishingDate": "2020-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
