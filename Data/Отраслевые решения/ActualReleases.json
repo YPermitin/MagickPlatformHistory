@@ -923,17 +923,11 @@
     },
     {
       "Name": "1С:Похозяйственный учет муниципального образования",
-      "Version": "2.0.1.27",
-      "PublishingDate": "2019-12-02T00:00:00",
-      "PlanVersions": [
-        "2.0.1.28"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-31T00:00:00"
-      ],
+      "Version": "2.0.1.28",
+      "PublishingDate": "2020-02-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
