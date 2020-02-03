@@ -887,17 +887,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.75.58",
-      "PublishingDate": "2020-01-27T00:00:00",
-      "PlanVersions": [
-        "3.0.75.70"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-30T00:00:00"
-      ],
+      "Version": "3.0.75.70",
+      "PublishingDate": "2020-02-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2143,17 +2137,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации для Казахстана",
-      "Version": "3.0.33.2",
-      "PublishingDate": "2020-01-29T00:00:00",
-      "PlanVersions": [
-        "3.0.33.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-03T00:00:00"
-      ],
+      "Version": "3.0.33.3",
+      "PublishingDate": "2020-02-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
