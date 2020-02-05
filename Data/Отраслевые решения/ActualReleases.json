@@ -3023,9 +3023,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.75.37",
       "PublishingDate": "2020-01-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.70"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3043,9 +3049,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
       "Version": "3.0.75.37",
       "PublishingDate": "2020-01-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.70"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
