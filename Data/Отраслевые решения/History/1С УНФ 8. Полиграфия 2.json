@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -366,6 +366,23 @@
       ],
       "PlanUpdateDates": [
         "2020-01-31T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-06T01:14:02",
+      "Name": "1С:УНФ 8. Полиграфия 2",
+      "Version": "1.6.19.138",
+      "PublishingDate": "2019-11-13T00:00:00",
+      "PlanVersions": [
+        "1.6.19.203"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-05T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
