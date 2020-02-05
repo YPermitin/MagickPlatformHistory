@@ -251,8 +251,8 @@
     },
     {
       "Name": "Управление нашей фирмой 8 для Казахстана. Базовая версия",
-      "Version": "1.6.4.8",
-      "PublishingDate": "2020-01-08T00:00:00",
+      "Version": "1.6.4.9",
+      "PublishingDate": "2020-02-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -321,17 +321,11 @@
     },
     {
       "Name": "Управление торговым предприятием для Казахстана, редакция 2.0",
-      "Version": "2.0.18.1",
-      "PublishingDate": "2019-08-28T00:00:00",
-      "PlanVersions": [
-        "2.0.19"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-27T00:00:00"
-      ],
+      "Version": "2.0.19.2",
+      "PublishingDate": "2020-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
