@@ -1363,17 +1363,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.75.4",
-      "PublishingDate": "2020-01-22T00:00:00",
-      "PlanVersions": [
-        "3.0.75.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-30T00:00:00"
-      ],
+      "Version": "3.0.75.6",
+      "PublishingDate": "2020-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.75.5"
       ],
@@ -1953,8 +1947,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.68.2",
-      "PublishingDate": "2020-01-13T00:00:00",
+      "Version": "2.0.68.18",
+      "PublishingDate": "2020-02-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4146,7 +4140,7 @@
         "2020-02-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-05T00:00:00"
+        "2020-02-06T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
