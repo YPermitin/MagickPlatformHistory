@@ -1069,9 +1069,15 @@
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
       "Version": "2.1.48.1",
       "PublishingDate": "2019-12-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.48.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1913,9 +1919,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.75.58",
       "PublishingDate": "2020-01-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.70"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
