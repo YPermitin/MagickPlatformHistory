@@ -1011,17 +1011,13 @@
     },
     {
       "Name": "Розница базовая, редакция 2.3",
-      "Version": "2.3.2.33",
-      "PublishingDate": "2020-01-29T00:00:00",
+      "Version": "2.3.3.12",
+      "PublishingDate": "2020-02-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.3.3.12"
-      ],
-      "DemoPublicationDates": [
-        "2020-02-03T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Розница, редакция 1.0 для Технологической платформы 8.1",
