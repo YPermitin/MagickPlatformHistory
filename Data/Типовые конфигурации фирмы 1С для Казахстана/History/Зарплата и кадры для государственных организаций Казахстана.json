@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -55,6 +55,17 @@
       "Name": "Зарплата и кадры для государственных организаций Казахстана",
       "Version": "1.0.30.1",
       "PublishingDate": "2019-06-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-07T19:44:04",
+      "Name": "Зарплата и кадры для государственных организаций Казахстана",
+      "Version": "1.0.31.3",
+      "PublishingDate": "2020-02-07T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
