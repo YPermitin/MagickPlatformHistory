@@ -501,10 +501,10 @@
         "3.0.75.70"
       ],
       "PlanReleaseDates": [
-        "2020-02-07T00:00:00"
+        "2020-02-10T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-06T00:00:00"
+        "2020-02-07T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -838,13 +838,13 @@
       "Version": "3.0.75.58",
       "PublishingDate": "2020-01-26T00:00:00",
       "PlanVersions": [
-        "3.0.75.70"
+        "3.0.75.93"
       ],
       "PlanReleaseDates": [
-        "2020-02-07T00:00:00"
+        "2020-02-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-03T00:00:00"
+        "2020-02-07T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
