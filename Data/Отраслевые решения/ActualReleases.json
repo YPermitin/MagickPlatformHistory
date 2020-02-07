@@ -561,9 +561,15 @@
       "Name": "1С:Медицина. Больничные",
       "Version": "2.0.3.2",
       "PublishingDate": "2019-01-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3255,17 +3261,11 @@
     },
     {
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
-      "Version": "2.3.2.28",
-      "PublishingDate": "2020-01-28T00:00:00",
-      "PlanVersions": [
-        "2.3.2.33"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-31T00:00:00"
-      ],
+      "Version": "2.3.2.33",
+      "PublishingDate": "2020-02-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
