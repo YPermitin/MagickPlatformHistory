@@ -259,10 +259,10 @@
         "4.0.26.1"
       ],
       "PlanReleaseDates": [
-        "2020-02-11T00:00:00"
+        "2020-02-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-07T00:00:00"
+        "2020-02-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2583,9 +2583,15 @@
       "Name": "Комплексная автоматизация торговли алкогольной продукцией, редакция 1.1",
       "Version": "1.1.115.7",
       "PublishingDate": "2020-01-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.115.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
