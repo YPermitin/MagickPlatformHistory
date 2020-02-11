@@ -2057,17 +2057,11 @@
     },
     {
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
-      "Version": "3.0.75.1",
-      "PublishingDate": "2020-01-20T00:00:00",
-      "PlanVersions": [
-        "3.0.75.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-11T00:00:00"
-      ],
+      "Version": "3.0.75.2",
+      "PublishingDate": "2020-02-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2887,8 +2881,8 @@
     },
     {
       "Name": "Полиграфия, редакция 1.3",
-      "Version": "1.3.131.1",
-      "PublishingDate": "2020-01-22T00:00:00",
+      "Version": "1.3.132.2",
+      "PublishingDate": "2020-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4159,9 +4153,15 @@
       "Name": "Управление птицефабрикой",
       "Version": "1.3.131.1",
       "PublishingDate": "2020-02-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.132.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
