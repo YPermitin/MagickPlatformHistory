@@ -689,9 +689,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.1.12.144",
         "3.1.13.24"
       ],
       "DemoPublicationDates": [
+        "2020-02-11T00:00:00",
         "2019-12-16T00:00:00"
       ]
     },
@@ -742,9 +744,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.1.12.144",
         "3.1.13.24"
       ],
       "DemoPublicationDates": [
+        "2020-02-11T00:00:00",
         "2019-12-16T00:00:00"
       ]
     },
