@@ -37,8 +37,8 @@
     },
     {
       "Name": "1С:ERP Управление предприятием 2",
-      "Version": "2.4.11.65",
-      "PublishingDate": "2020-02-06T00:00:00",
+      "Version": "2.4.11.63",
+      "PublishingDate": "2020-01-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1194,7 +1194,7 @@
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
       "Version": "1.6.19.215",
-      "PublishingDate": "2020-02-07T00:00:00",
+      "PublishingDate": "2020-02-11T00:00:00",
       "PlanVersions": [
         "1.6.20"
       ],
@@ -1243,8 +1243,8 @@
     },
     {
       "Name": "Управление торговлей базовая, редакция 11",
-      "Version": "11.4.10.94",
-      "PublishingDate": "2019-12-13T00:00:00",
+      "Version": "11.4.11.65",
+      "PublishingDate": "2020-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
