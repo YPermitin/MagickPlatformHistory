@@ -4393,9 +4393,15 @@
       "Name": "Фармпроизводство, редакция 1.3",
       "Version": "1.3.132.1",
       "PublishingDate": "2020-02-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.132.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
