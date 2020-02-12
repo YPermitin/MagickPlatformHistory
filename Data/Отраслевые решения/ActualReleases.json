@@ -189,10 +189,10 @@
         "4.6.2.3"
       ],
       "PlanReleaseDates": [
-        "2020-02-18T00:00:00"
+        "2020-02-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-01-20T00:00:00"
+        "2020-02-12T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1985,9 +1985,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.75.70",
       "PublishingDate": "2020-02-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.93"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3729,9 +3735,15 @@
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
       "Version": "2.0.28.1",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.29.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
