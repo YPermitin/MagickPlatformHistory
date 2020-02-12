@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 57,
+  "ReleasesCount": 58,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -822,6 +822,17 @@
       "PlanUpdateDates": [
         "2020-02-06T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-12T13:44:03",
+      "Name": "Управление предприятием ЖКХ",
+      "Version": "1.3.132.1",
+      "PublishingDate": "2020-02-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
