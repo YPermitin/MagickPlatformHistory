@@ -2609,17 +2609,11 @@
     },
     {
       "Name": "Комплексный учет сельскохозяйственного предприятия",
-      "Version": "1.1.123.1",
-      "PublishingDate": "2020-01-31T00:00:00",
-      "PlanVersions": [
-        "1.1.124.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-11T00:00:00"
-      ],
+      "Version": "1.1.124.2",
+      "PublishingDate": "2020-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
