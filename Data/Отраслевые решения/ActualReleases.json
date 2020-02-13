@@ -1507,8 +1507,8 @@
     },
     {
       "Name": "CRM для Казахстана, редакция 3.0",
-      "Version": "3.0.14.12",
-      "PublishingDate": "2019-02-26T00:00:00",
+      "Version": "3.0.17.28",
+      "PublishingDate": "2020-02-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3805,9 +3805,15 @@
       "Name": "Турагентство Базовая, редакция 1.6",
       "Version": "1.6.18.168",
       "PublishingDate": "2019-12-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.215"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3845,9 +3851,15 @@
       "Name": "Турагентство, редакция 1.6",
       "Version": "1.6.18.168",
       "PublishingDate": "2019-12-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.215"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
