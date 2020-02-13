@@ -12,8 +12,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.0.0.3"
+      ],
+      "DemoPublicationDates": [
+        "2020-02-13T00:00:00"
+      ]
     },
     {
       "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
