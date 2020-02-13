@@ -3,8 +3,18 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "Releases": [
+    {
+      "Name": "1C:Библиотека технологии сервиса, редакция 2.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
     {
       "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
       "Version": "1.1.15.1",
