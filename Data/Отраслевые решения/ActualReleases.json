@@ -685,9 +685,15 @@
       "Name": "1С:Медицина. Федеральные регистры, редакция 3.0",
       "Version": "3.0.4.16",
       "PublishingDate": "2019-10-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.4.18"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3161,17 +3167,11 @@
     },
     {
       "Name": "Розница. Аптека, редакция 2.3",
-      "Version": "2.3.2.28",
-      "PublishingDate": "2019-12-31T00:00:00",
-      "PlanVersions": [
-        "2.3.2.33"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-01-31T00:00:00"
-      ],
+      "Version": "2.3.2.33",
+      "PublishingDate": "2020-02-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4299,9 +4299,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.18.31",
       "PublishingDate": "2020-02-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.18.32"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
