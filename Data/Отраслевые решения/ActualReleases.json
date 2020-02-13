@@ -835,10 +835,10 @@
         "3.0.75.93"
       ],
       "PlanReleaseDates": [
-        "2020-02-12T00:00:00"
+        "2020-02-13T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-07T00:00:00"
+        "2020-02-13T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -1001,9 +1001,15 @@
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
       "Version": "1.6.19.203",
       "PublishingDate": "2020-02-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.215"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1011,9 +1017,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.10.94",
       "PublishingDate": "2020-01-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.65"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3163,9 +3175,15 @@
       "Name": "Розница. Аптека, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-02-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3269,9 +3287,15 @@
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3319,9 +3343,15 @@
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-02-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3425,9 +3455,15 @@
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-02-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3475,9 +3511,15 @@
       "Name": "Розница. Салон оптики, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3525,9 +3567,15 @@
       "Name": "Розница. Ювелирный магазин, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-02-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
