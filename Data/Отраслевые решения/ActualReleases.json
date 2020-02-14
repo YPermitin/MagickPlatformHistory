@@ -867,9 +867,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
       "Version": "2.0.66.93",
       "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.96"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2023,17 +2029,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 2.1",
-      "Version": "2.1.30.8",
-      "PublishingDate": "2020-01-29T00:00:00",
-      "PlanVersions": [
-        "2.1.31.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-13T00:00:00"
-      ],
+      "Version": "2.1.31.4",
+      "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2127,9 +2127,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
       "Version": "2.0.66.93",
       "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.96"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
