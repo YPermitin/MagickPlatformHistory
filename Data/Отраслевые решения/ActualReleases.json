@@ -665,17 +665,11 @@
     },
     {
       "Name": "1С:Медицина. Федеральные регистры, редакция 3.0",
-      "Version": "3.0.4.16",
-      "PublishingDate": "2019-10-07T00:00:00",
-      "PlanVersions": [
-        "3.0.4.18"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-13T00:00:00"
-      ],
+      "Version": "3.0.4.18",
+      "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
