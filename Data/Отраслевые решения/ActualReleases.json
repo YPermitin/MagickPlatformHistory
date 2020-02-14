@@ -2187,17 +2187,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.75.58",
-      "PublishingDate": "2020-01-21T00:00:00",
-      "PlanVersions": [
-        "3.0.75.93"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-13T00:00:00"
-      ],
+      "Version": "3.0.75.93",
+      "PublishingDate": "2020-02-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2997,17 +2991,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 2.0",
-      "Version": "2.0.66.89",
-      "PublishingDate": "2019-12-27T00:00:00",
-      "PlanVersions": [
-        "2.0.66.93"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-14T00:00:00"
-      ],
+      "Version": "2.0.66.93",
+      "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
