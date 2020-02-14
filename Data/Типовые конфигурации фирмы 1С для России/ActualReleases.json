@@ -481,17 +481,15 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
-      "Version": "3.0.75.93",
-      "PublishingDate": "2020-02-07T00:00:00",
+      "Version": "3.0.75.100",
+      "PublishingDate": "2020-02-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.75.100",
         "3.0.75.97"
       ],
       "DemoPublicationDates": [
-        "2020-02-13T00:00:00",
         "2020-02-12T00:00:00"
       ]
     },
@@ -533,17 +531,15 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 3.0",
-      "Version": "3.0.75.93",
-      "PublishingDate": "2020-02-07T00:00:00",
+      "Version": "3.0.75.100",
+      "PublishingDate": "2020-02-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.75.100",
         "3.0.75.97"
       ],
       "DemoPublicationDates": [
-        "2020-02-13T00:00:00",
         "2020-02-12T00:00:00"
       ]
     },
