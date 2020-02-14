@@ -323,17 +323,11 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.75.70",
-      "PublishingDate": "2020-02-06T00:00:00",
-      "PlanVersions": [
-        "3.0.75.93"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-11T00:00:00"
-      ],
+      "Version": "3.0.75.93",
+      "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2181,17 +2175,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.75.70",
-      "PublishingDate": "2020-02-06T00:00:00",
-      "PlanVersions": [
-        "3.1.75.93"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-11T00:00:00"
-      ],
+      "Version": "3.1.75.93",
+      "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
