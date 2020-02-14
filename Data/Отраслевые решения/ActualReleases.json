@@ -1185,17 +1185,11 @@
     },
     {
       "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
-      "Version": "2.4.10.94",
-      "PublishingDate": "2020-02-06T00:00:00",
-      "PlanVersions": [
-        "2.4.11.43"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-10T00:00:00"
-      ],
+      "Version": "2.4.11.43",
+      "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1975,17 +1969,11 @@
     },
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.75.58",
-      "PublishingDate": "2020-01-27T00:00:00",
-      "PlanVersions": [
-        "3.0.75.70"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-11T00:00:00"
-      ],
+      "Version": "3.0.75.70",
+      "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2999,9 +2987,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 2.0",
       "Version": "2.0.66.89",
       "PublishingDate": "2019-12-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.93"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3017,8 +3011,8 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 2.0",
-      "Version": "2.0.66.89",
-      "PublishingDate": "2019-12-27T00:00:00",
+      "Version": "2.0.66.93",
+      "PublishingDate": "2020-02-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
