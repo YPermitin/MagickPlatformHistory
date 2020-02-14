@@ -2211,9 +2211,15 @@
       "Name": "Бухгалтерія будівельної організації",
       "Version": "1.2.56.1",
       "PublishingDate": "2020-01-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.57.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
