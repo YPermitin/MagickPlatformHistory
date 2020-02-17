@@ -1,0 +1,21 @@
+{
+  "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2017",
+  "Category": {
+    "ID": 755,
+    "Name": "Microsoft SQL Server для пользователей 1С:Предприятие 8"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-02-17T19:14:06",
+      "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2017",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
