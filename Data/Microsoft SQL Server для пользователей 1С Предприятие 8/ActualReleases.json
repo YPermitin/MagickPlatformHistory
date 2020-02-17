@@ -37,8 +37,8 @@
     },
     {
       "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2017",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
+      "Version": "2017",
+      "PublishingDate": "2020-02-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
