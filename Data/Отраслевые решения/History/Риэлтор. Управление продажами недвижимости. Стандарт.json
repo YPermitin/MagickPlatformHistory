@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 45,
+  "ReleasesCount": 46,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -630,6 +630,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-17T15:14:07",
+      "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
+      "Version": "11.4.11.55",
+      "PublishingDate": "2020-01-29T00:00:00",
+      "PlanVersions": [
+        "11.4.11.65"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
