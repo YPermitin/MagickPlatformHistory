@@ -131,8 +131,8 @@
     },
     {
       "Name": "Автоматизированная проверка конфигураций",
-      "Version": "1.2.5.16",
-      "PublishingDate": "2019-12-27T00:00:00",
+      "Version": "1.2.5.25",
+      "PublishingDate": "2020-02-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -282,12 +282,10 @@
       "PlanUpdateDates": [],
       "DemoVersions": [
         "8.3.16.1224",
-        "8.3.15.1869",
         "8.3.17.1091"
       ],
       "DemoPublicationDates": [
         "2020-02-13T00:00:00",
-        "2020-02-03T00:00:00",
         "2020-01-21T00:00:00"
       ]
     },
