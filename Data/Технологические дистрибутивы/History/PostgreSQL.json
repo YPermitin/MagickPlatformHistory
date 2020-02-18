@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 21,
+  "ReleasesCount": 22,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -280,6 +280,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-18T13:44:07",
+      "Name": "PostgreSQL",
+      "Version": "11.5-12.1C",
+      "PublishingDate": "2020-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "10.11-5.1C"
+      ],
+      "DemoPublicationDates": [
+        "2020-02-18T00:00:00"
+      ]
     }
   ]
 }
