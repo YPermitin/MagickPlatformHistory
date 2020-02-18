@@ -3,19 +3,21 @@
     "ID": 755,
     "Name": "Microsoft SQL Server для пользователей 1С:Предприятие 8"
   },
-  "LastUpdated": "2020-02-17T20:14:05",
-  "ProductsCount": 11,
+  "LastUpdated": "2020-02-18T12:44:06",
+  "ProductsCount": 13,
   "Products": [
     "Microsoft SQL Server. Редакция Enterprise Core. Версия 2012",
     "Microsoft SQL Server. Редакция Enterprise Core. Версия 2014",
     "Microsoft SQL Server. Редакция Enterprise Core. Версия 2016",
     "Microsoft SQL Server. Редакция Enterprise Core. Версия 2017",
+    "Microsoft SQL Server. Редакция Enterprise Core. Версия 2019",
     "Microsoft SQL Server. Редакция Standard Core. Версия 2012",
     "Microsoft SQL Server. Редакция Standard Core. Версия 2014",
     "Microsoft SQL Server. Редакция Standard Core. Версия 2016",
     "Microsoft SQL Server. Редакция Standard. Версия 2012",
     "Microsoft SQL Server. Редакция Standard. Версия 2014",
     "Microsoft SQL Server. Редакция Standard. Версия 2016",
-    "Microsoft SQL Server. Редакция Standard. Версия 2017"
+    "Microsoft SQL Server. Редакция Standard. Версия 2017",
+    "Microsoft SQL Server. Редакция Standard. Версия 2019"
   ]
 }
