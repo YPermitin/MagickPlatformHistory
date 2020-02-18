@@ -3,7 +3,7 @@
     "ID": 755,
     "Name": "Microsoft SQL Server для пользователей 1С:Предприятие 8"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 13,
   "Releases": [
     {
       "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2012",
@@ -39,6 +39,16 @@
       "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2017",
       "Version": "2017",
       "PublishingDate": "2020-02-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Enterprise Core. Версия 2019",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -109,6 +119,16 @@
       "Name": "Microsoft SQL Server. Редакция Standard. Версия 2017",
       "Version": "2017",
       "PublishingDate": "2019-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Microsoft SQL Server. Редакция Standard. Версия 2019",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
