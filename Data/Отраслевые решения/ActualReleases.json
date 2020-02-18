@@ -339,17 +339,11 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.75.70",
-      "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [
-        "3.0.75.100"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-18T00:00:00"
-      ],
+      "Version": "3.0.75.100",
+      "PublishingDate": "2020-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4179,8 +4173,8 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.19.203",
-      "PublishingDate": "2020-01-30T00:00:00",
+      "Version": "1.6.19.215",
+      "PublishingDate": "2020-02-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
