@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.11.65",
       "PublishingDate": "2020-02-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.67"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1059,10 +1065,10 @@
         "2.4.10.94"
       ],
       "PlanReleaseDates": [
-        "2020-02-17T00:00:00"
+        "2020-02-18T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-17T00:00:00"
+        "2020-02-18T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4161,9 +4167,15 @@
       "Name": "Управление ремонтным предприятием, редакция 1.3",
       "Version": "1.3.132.1",
       "PublishingDate": "2020-02-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.132.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
