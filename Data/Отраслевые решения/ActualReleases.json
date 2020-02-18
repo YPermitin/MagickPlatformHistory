@@ -1003,17 +1003,11 @@
     },
     {
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
-      "Version": "2.4.10.94",
-      "PublishingDate": "2020-01-09T00:00:00",
-      "PlanVersions": [
-        "2.4.11.65"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-17T00:00:00"
-      ],
+      "Version": "2.4.11.65",
+      "PublishingDate": "2020-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1831,17 +1825,11 @@
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.75.37",
-      "PublishingDate": "2020-01-21T00:00:00",
-      "PlanVersions": [
-        "3.0.75.38"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-18T00:00:00"
-      ],
+      "Version": "3.0.75.38",
+      "PublishingDate": "2020-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2079,17 +2067,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
-      "Version": "3.0.33.4",
-      "PublishingDate": "2020-01-23T00:00:00",
-      "PlanVersions": [
-        "3.0.33.5"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-12T00:00:00"
-      ],
+      "Version": "3.0.33.5",
+      "PublishingDate": "2020-02-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
