@@ -1097,10 +1097,10 @@
         "1.0.4.1"
       ],
       "PlanReleaseDates": [
-        "2020-02-19T00:00:00"
+        "2020-02-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-17T00:00:00"
+        "2020-02-19T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4069,17 +4069,11 @@
     },
     {
       "Name": "Управление предприятием ЖКХ",
-      "Version": "1.3.132.1",
-      "PublishingDate": "2020-02-12T00:00:00",
-      "PlanVersions": [
-        "1.3.132.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-13T00:00:00"
-      ],
+      "Version": "1.3.132.2",
+      "PublishingDate": "2020-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4135,17 +4129,11 @@
     },
     {
       "Name": "Управление ремонтным предприятием, редакция 1.3",
-      "Version": "1.3.132.1",
-      "PublishingDate": "2020-02-05T00:00:00",
-      "PlanVersions": [
-        "1.3.132.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-18T00:00:00"
-      ],
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
