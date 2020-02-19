@@ -3193,17 +3193,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.3",
-      "Version": "2.3.2.33",
-      "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [
-        "2.3.3.12"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-13T00:00:00"
-      ],
+      "Version": "2.3.3.12",
+      "PublishingDate": "2020-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
