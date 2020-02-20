@@ -7,8 +7,8 @@
   "Releases": [
     {
       "Name": "Бухгалтерия для Узбекистана",
-      "Version": "2.0.2.1",
-      "PublishingDate": "2020-01-21T00:00:00",
+      "Version": "2.0.3.1",
+      "PublishingDate": "2020-02-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -23,8 +23,8 @@
     },
     {
       "Name": "Бухгалтерия для Узбекистана, редакция 3.0",
-      "Version": "3.0.5.1",
-      "PublishingDate": "2020-01-21T00:00:00",
+      "Version": "3.0.6.1",
+      "PublishingDate": "2020-02-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
