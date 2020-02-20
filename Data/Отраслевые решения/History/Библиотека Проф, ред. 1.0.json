@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -484,6 +484,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-20T11:44:10",
+      "Name": "Библиотека Проф, ред. 1.0",
+      "Version": "2.0.5.2",
+      "PublishingDate": "2019-12-13T00:00:00",
+      "PlanVersions": [
+        "2.0.5.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
