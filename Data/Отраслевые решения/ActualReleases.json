@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 443,
+  "ReleasesCount": 444,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -1089,6 +1089,16 @@
       "Name": "1С:Реестр кадров",
       "Version": "2.0.1.2",
       "PublishingDate": "2019-07-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Ресторан.Фронт-офис",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
