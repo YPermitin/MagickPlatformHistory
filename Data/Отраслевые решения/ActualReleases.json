@@ -2075,9 +2075,15 @@
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
       "Version": "3.0.75.2",
       "PublishingDate": "2020-02-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
