@@ -3725,9 +3725,15 @@
       "Name": "Технический расчетный центр водоканала",
       "Version": "1.0.22.5",
       "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3735,9 +3741,15 @@
       "Name": "Технический расчетный центр водоканала базовая",
       "Version": "1.0.22.5",
       "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3745,9 +3757,15 @@
       "Name": "Технический расчетный центр теплосети",
       "Version": "1.0.22.5",
       "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3755,9 +3773,15 @@
       "Name": "Технический расчетный центр теплосети базовая",
       "Version": "1.0.22.5",
       "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.22.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
