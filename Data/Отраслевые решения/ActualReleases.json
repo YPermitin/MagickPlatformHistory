@@ -105,9 +105,15 @@
       "Name": "1С:ERP Энергетика 2",
       "Version": "2.4.11.63",
       "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.67"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1955,9 +1961,15 @@
       "Name": "Библиотека Проф, ред. 1.0",
       "Version": "2.0.5.2",
       "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.5.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3249,17 +3261,11 @@
     },
     {
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
-      "Version": "2.3.2.33",
-      "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [
-        "2.3.3.12"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-13T00:00:00"
-      ],
+      "Version": "2.3.3.12",
+      "PublishingDate": "2020-02-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
