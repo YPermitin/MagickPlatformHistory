@@ -257,8 +257,8 @@
     },
     {
       "Name": "1С:Библиотека для Казахстана",
-      "Version": "1.0.2.1",
-      "PublishingDate": "2019-10-30T00:00:00",
+      "Version": "1.0.3.6",
+      "PublishingDate": "2020-02-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2015,9 +2015,15 @@
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
       "Version": "3.0.32.1",
       "PublishingDate": "2019-12-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.33.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
