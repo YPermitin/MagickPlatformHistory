@@ -1467,17 +1467,11 @@
     },
     {
       "Name": "1С:Энергетика 2. Учет транспорта электроэнергии",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "2.4.11.63"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-18T00:00:00"
-      ],
+      "Version": "2.4.11.63",
+      "PublishingDate": "2020-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1837,17 +1831,11 @@
     },
     {
       "Name": "Автосервис, редакция 1.6",
-      "Version": "1.6.19.183",
-      "PublishingDate": "2019-12-31T00:00:00",
-      "PlanVersions": [
-        "1.6.19.215"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-19T00:00:00"
-      ],
+      "Version": "1.6.19.215",
+      "PublishingDate": "2020-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2717,9 +2705,15 @@
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.11.56",
       "PublishingDate": "2020-02-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
