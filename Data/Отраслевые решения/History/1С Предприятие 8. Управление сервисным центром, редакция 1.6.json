@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 50,
+  "ReleasesCount": 51,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -727,6 +727,17 @@
       "PlanUpdateDates": [
         "2020-02-13T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-21T15:44:27",
+      "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
+      "Version": "1.6.19.215",
+      "PublishingDate": "2020-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
