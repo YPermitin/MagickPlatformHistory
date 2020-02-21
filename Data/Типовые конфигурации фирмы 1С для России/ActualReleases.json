@@ -527,8 +527,8 @@
     },
     {
       "Name": "Бюджетная отчетность",
-      "Version": "1.1.46.1",
-      "PublishingDate": "2019-11-29T00:00:00",
+      "Version": "1.1.47.1",
+      "PublishingDate": "2020-02-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1195,8 +1195,8 @@
     },
     {
       "Name": "Управление торговлей базовая, редакция 10.3",
-      "Version": "10.3.59.1",
-      "PublishingDate": "2020-02-19T00:00:00",
+      "Version": "10.3.59.2",
+      "PublishingDate": "2020-02-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
