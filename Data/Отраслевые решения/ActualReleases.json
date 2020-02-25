@@ -1909,17 +1909,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [
-        "1.3.132.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-20T00:00:00"
-      ],
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3117,8 +3111,8 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-02-10T00:00:00",
+      "Version": "1.3.133.2",
+      "PublishingDate": "2020-02-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4071,8 +4065,8 @@
     },
     {
       "Name": "Управление мукомольно-крупяным предприятием",
-      "Version": "1.3.132.3",
-      "PublishingDate": "2020-02-17T00:00:00",
+      "Version": "1.3.133.1",
+      "PublishingDate": "2020-02-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4123,9 +4117,15 @@
       "Name": "Управление предприятием ЖКХ",
       "Version": "1.3.133.1",
       "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.133.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
