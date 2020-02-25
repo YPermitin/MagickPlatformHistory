@@ -1,0 +1,21 @@
+{
+  "Name": "Зарплата и Управление Персоналом для Азербайджана, редакция 1",
+  "Category": {
+    "ID": 633,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Азербайджана"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-02-25T14:14:04",
+      "Name": "Зарплата и Управление Персоналом для Азербайджана, редакция 1",
+      "Version": "1.1.4.1",
+      "PublishingDate": "2019-09-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
