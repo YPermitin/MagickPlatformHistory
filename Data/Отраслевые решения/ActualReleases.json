@@ -769,9 +769,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.75.93",
       "PublishingDate": "2020-02-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-25T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -803,9 +809,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.93",
       "PublishingDate": "2020-02-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.98"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -813,9 +825,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.75.93",
       "PublishingDate": "2020-02-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-25T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1873,8 +1891,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.93",
-      "PublishingDate": "2020-02-10T00:00:00",
+      "Version": "2.0.66.98",
+      "PublishingDate": "2020-02-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
