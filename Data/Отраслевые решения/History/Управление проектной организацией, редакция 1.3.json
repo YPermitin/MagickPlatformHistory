@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 44,
+  "ReleasesCount": 45,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -604,6 +604,17 @@
       "Name": "Управление проектной организацией, редакция 1.3",
       "Version": "1.3.133.1",
       "PublishingDate": "2020-02-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-25T16:44:05",
+      "Name": "Управление проектной организацией, редакция 1.3",
+      "Version": "1.3.133.2",
+      "PublishingDate": "2020-02-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
