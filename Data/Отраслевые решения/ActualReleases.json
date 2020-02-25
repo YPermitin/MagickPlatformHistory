@@ -1327,9 +1327,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.75.8",
       "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.9"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1337,9 +1343,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.75.8",
       "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.9"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1983,17 +1995,11 @@
     },
     {
       "Name": "Бухгалтерия предприятия пищевой промышленности для Казахстана, редакция 3.0",
-      "Version": "3.0.32.1",
-      "PublishingDate": "2019-12-05T00:00:00",
-      "PlanVersions": [
-        "3.0.33.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-21T00:00:00"
-      ],
+      "Version": "3.0.33.1",
+      "PublishingDate": "2020-02-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
