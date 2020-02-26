@@ -215,9 +215,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.11.65",
       "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-26T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -1411,9 +1417,15 @@
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-01-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1421,9 +1433,15 @@
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
       "Version": "2.3.2.33",
       "PublishingDate": "2020-01-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
