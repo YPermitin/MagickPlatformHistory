@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 15,
+  "ReleasesCount": 16,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -222,6 +222,17 @@
       "PlanUpdateDates": [
         "2020-02-21T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-26T10:44:02",
+      "Name": "Розница. Аптека, редакция 2.3",
+      "Version": "2.3.3.12",
+      "PublishingDate": "2020-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
