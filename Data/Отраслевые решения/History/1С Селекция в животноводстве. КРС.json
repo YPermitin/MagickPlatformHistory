@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -64,6 +64,23 @@
       ],
       "PlanUpdateDates": [
         "2020-02-21T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-29T14:15:00",
+      "Name": "1С:Селекция в животноводстве. КРС",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "1.0.4.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
