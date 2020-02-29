@@ -109,8 +109,8 @@
     },
     {
       "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
-      "Version": "2.1.3.7",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "2.1.3.8",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -228,8 +228,8 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.1",
-      "Version": "1.1.27.28",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "1.1.27.30",
+      "PublishingDate": "2020-02-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -278,8 +278,8 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.6",
-      "Version": "1.6.2.74",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "1.6.3.69",
+      "PublishingDate": "2020-02-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
