@@ -7,20 +7,16 @@
   "Releases": [
     {
       "Name": "1C:Enterprise Development Tools",
-      "Version": "1.16.0.363",
-      "PublishingDate": "2019-12-20T00:00:00",
+      "Version": "2020.1",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "2020.1 RC3",
-        "2020.1 RC2",
-        "2020.1.0.640"
+        "2020.2 RC1"
       ],
       "DemoPublicationDates": [
-        "2020-02-20T00:00:00",
-        "2020-02-18T00:00:00",
-        "2020-01-31T00:00:00"
+        "2020-02-27T00:00:00"
       ]
     },
     {
@@ -65,8 +61,8 @@
     },
     {
       "Name": "1С:Предприятие. Облачная подсистема Фреш",
-      "Version": "1.0.27.1",
-      "PublishingDate": "2019-11-28T00:00:00",
+      "Version": "1.0.28.1",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -185,17 +181,15 @@
     },
     {
       "Name": "Мобильная платформа 1С:Предприятия",
-      "Version": "8.3.15.86",
-      "PublishingDate": "2019-12-17T00:00:00",
+      "Version": "8.3.16.130",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "8.3.16.129",
         "8.3.15.93"
       ],
       "DemoPublicationDates": [
-        "2020-02-25T00:00:00",
         "2020-02-06T00:00:00"
       ]
     },
