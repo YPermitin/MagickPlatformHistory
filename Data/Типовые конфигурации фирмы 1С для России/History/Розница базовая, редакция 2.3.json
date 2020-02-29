@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 9,
+  "ReleasesCount": 10,
   "ReleasesHistory": [
     {
       "Created": "2019-09-27T18:32:23",
@@ -103,6 +103,17 @@
       "Name": "Розница базовая, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-02-29T14:15:00",
+      "Name": "Розница базовая, редакция 2.3",
+      "Version": "2.3.3.19",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
