@@ -67,24 +67,18 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.11.67",
-      "PublishingDate": "2020-02-21T00:00:00",
-      "PlanVersions": [
-        "2.4.11.71"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
-      ],
+      "Version": "2.4.11.71",
+      "PublishingDate": "2020-02-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.11.65",
-      "PublishingDate": "2020-02-11T00:00:00",
+      "Version": "2.4.11.67",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -93,8 +87,8 @@
     },
     {
       "Name": "1С:ERP Управление птицеводческим предприятием 2",
-      "Version": "2.4.11.65",
-      "PublishingDate": "2020-02-13T00:00:00",
+      "Version": "2.4.11.67",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -213,17 +207,11 @@
     },
     {
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.11.65",
-      "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [
-        "2.4.11.71"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "2.4.11.71",
+      "PublishingDate": "2020-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -253,17 +241,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4.0",
-      "Version": "4.0.26.1",
-      "PublishingDate": "2020-02-11T00:00:00",
-      "PlanVersions": [
-        "4.0.26.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "4.0.26.2",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -289,33 +271,21 @@
     },
     {
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
-      "Version": "3.0.75.93",
-      "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [
-        "3.0.75.100"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
-      "Version": "3.0.75.93",
-      "PublishingDate": "2020-02-11T00:00:00",
-      "PlanVersions": [
-        "3.0.75.100"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -341,8 +311,8 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.75.100",
-      "PublishingDate": "2020-02-20T00:00:00",
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -503,9 +473,15 @@
       "Name": "1С:Ломбард КОРП",
       "Version": "3.0.75.70",
       "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -513,9 +489,15 @@
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
       "Version": "3.0.75.70",
       "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -745,18 +727,18 @@
         "1.3.132.3"
       ],
       "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
+        "2020-03-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-18T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Музей",
-      "Version": "1.0.12.15",
-      "PublishingDate": "2019-11-19T00:00:00",
+      "Version": "1.0.12.25",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -777,9 +759,15 @@
       "Name": "1С:Мясопереработка MES. Модуль для 1С:ERP",
       "Version": "2.4.11.43",
       "PublishingDate": "2020-01-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -911,8 +899,8 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.75.100",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1077,10 +1065,10 @@
         "2.4.10.94"
       ],
       "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1113,10 +1101,10 @@
         "1.0.4.1"
       ],
       "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
+        "2020-03-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-21T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1133,8 +1121,8 @@
     },
     {
       "Name": "1С:УНФ 8. Полиграфия 2",
-      "Version": "1.6.19.203",
-      "PublishingDate": "2020-02-06T00:00:00",
+      "Version": "1.6.19.215",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1215,9 +1203,15 @@
       "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
       "Version": "2.4.11.43",
       "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.56"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1265,9 +1259,15 @@
       "Name": "1С:Управление недвижимостью и арендой КОРП",
       "Version": "3.0.75.93",
       "PublishingDate": "2020-02-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1377,9 +1377,15 @@
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
       "Version": "3.0.75.60",
       "PublishingDate": "2020-02-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.72"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1418,7 +1424,7 @@
       "Version": "2.3.2.33",
       "PublishingDate": "2020-01-31T00:00:00",
       "PlanVersions": [
-        "2.3.3.12"
+        "2.3.3.19"
       ],
       "PlanReleaseDates": [
         "2020-03-05T00:00:00"
@@ -1434,7 +1440,7 @@
       "Version": "2.3.2.33",
       "PublishingDate": "2020-01-31T00:00:00",
       "PlanVersions": [
-        "2.3.3.12"
+        "2.3.3.19"
       ],
       "PlanReleaseDates": [
         "2020-03-05T00:00:00"
@@ -1457,17 +1463,11 @@
     },
     {
       "Name": "1С:Энергетика 2. Учет технологических присоединений",
-      "Version": "2.4.11.43",
-      "PublishingDate": "2020-01-28T00:00:00",
-      "PlanVersions": [
-        "2.4.11.67"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "2.4.11.67",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1593,17 +1593,11 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.18.31",
-      "PublishingDate": "2020-01-16T00:00:00",
-      "PlanVersions": [
-        "3.0.19.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
-      ],
+      "Version": "3.0.19.26",
+      "PublishingDate": "2020-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1629,8 +1623,8 @@
     },
     {
       "Name": "ERP English Interface",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-02-19T00:00:00",
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1659,8 +1653,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.11.67",
-      "PublishingDate": "2020-02-19T00:00:00",
+      "Version": "2.4.11.71",
+      "PublishingDate": "2020-03-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1693,8 +1687,8 @@
     },
     {
       "Name": "ERP Управление строительной организацией 2.0",
-      "Version": "2.4.11.65",
-      "PublishingDate": "2020-02-11T00:00:00",
+      "Version": "2.4.11.67",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1705,9 +1699,15 @@
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
       "Version": "1.2.2.1",
       "PublishingDate": "2019-12-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.3.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-26T00:00:00"
+      ],
       "DemoVersions": [
         "1.1.12.1"
       ],
@@ -1719,9 +1719,15 @@
       "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
       "Version": "1.2.4.1",
       "PublishingDate": "2019-12-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1849,10 +1855,10 @@
         "1.6.20"
       ],
       "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1927,9 +1933,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.75.93",
       "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1975,17 +1987,11 @@
     },
     {
       "Name": "Библиотека Проф, ред. 1.0",
-      "Version": "2.0.5.2",
-      "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [
-        "2.0.5.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "2.0.5.3",
+      "PublishingDate": "2020-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2011,8 +2017,8 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.75.93",
-      "PublishingDate": "2020-02-12T00:00:00",
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2021,17 +2027,11 @@
     },
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.75.70",
-      "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [
-        "3.0.75.100"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-17T00:00:00"
-      ],
+      "Version": "3.0.75.100",
+      "PublishingDate": "2020-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2107,17 +2107,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
-      "Version": "3.0.33.5",
-      "PublishingDate": "2020-02-18T00:00:00",
-      "PlanVersions": [
-        "3.0.33.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
-      ],
+      "Version": "3.0.33.6",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2143,17 +2137,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.75.93",
-      "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [
-        "3.0.75.100"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2215,8 +2203,8 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.75.100",
-      "PublishingDate": "2020-02-20T00:00:00",
+      "Version": "3.1.75.104",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2245,8 +2233,8 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.75.100",
-      "PublishingDate": "2020-02-19T00:00:00",
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2325,10 +2313,10 @@
         "1.3.133.1"
       ],
       "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2731,8 +2719,8 @@
     },
     {
       "Name": "Модуль 1С:Риэлтор. Управление продажами недвижимости для 1С:ERP",
-      "Version": "2.4.11.43",
-      "PublishingDate": "2020-01-21T00:00:00",
+      "Version": "2.4.11.67",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2871,17 +2859,11 @@
     },
     {
       "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [
-        "1.3.133.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "1.3.133.1",
+      "PublishingDate": "2020-02-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3023,10 +3005,10 @@
         "1.3.131.1"
       ],
       "PlanReleaseDates": [
-        "2020-02-28T00:00:00"
+        "2020-03-04T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3133,8 +3115,8 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.11.65",
-      "PublishingDate": "2020-02-17T00:00:00",
+      "Version": "11.4.11.71",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3185,9 +3167,15 @@
       "Name": "Розница. Аптека, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3235,9 +3223,15 @@
       "Name": "Розница. Книжный магазин, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3285,9 +3279,15 @@
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3335,9 +3335,15 @@
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3385,9 +3391,15 @@
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3435,9 +3447,15 @@
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3483,16 +3501,16 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.2.33",
-      "PublishingDate": "2020-02-10T00:00:00",
+      "Version": "2.3.3.12",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [
-        "2.3.3.12"
+        "2.3.3.19"
       ],
       "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
+        "2020-03-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
+        "2020-02-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3541,9 +3559,15 @@
       "Name": "Розница. Ювелирный магазин, редакция 2.3",
       "Version": "2.3.3.12",
       "PublishingDate": "2020-02-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3551,9 +3575,15 @@
       "Name": "Рыбопереработка",
       "Version": "1.3.131.1",
       "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.132.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3709,81 +3739,51 @@
     },
     {
       "Name": "Технический расчетный центр водоканала",
-      "Version": "1.0.22.5",
-      "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [
-        "1.0.22.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-20T00:00:00"
-      ],
+      "Version": "1.0.22.6",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Технический расчетный центр водоканала базовая",
-      "Version": "1.0.22.5",
-      "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [
-        "1.0.22.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-20T00:00:00"
-      ],
+      "Version": "1.0.22.6",
+      "PublishingDate": "2020-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Технический расчетный центр теплосети",
-      "Version": "1.0.22.5",
-      "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [
-        "1.0.22.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-20T00:00:00"
-      ],
+      "Version": "1.0.22.6",
+      "PublishingDate": "2020-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Технический расчетный центр теплосети базовая",
-      "Version": "1.0.22.5",
-      "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [
-        "1.0.22.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-20T00:00:00"
-      ],
+      "Version": "1.0.22.6",
+      "PublishingDate": "2020-02-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
-      "Version": "2.0.28.1",
-      "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [
-        "2.0.29.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-02-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-12T00:00:00"
-      ],
+      "Version": "2.0.29.1",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3811,9 +3811,15 @@
       "Name": "Транспортная логистика, экспедирование и управление автотранспортом КОРП",
       "Version": "1.1.9.1",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3931,9 +3937,15 @@
       "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
       "Version": "2.2.9.1",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3989,16 +4001,16 @@
     },
     {
       "Name": "Управление водоканалом",
-      "Version": "1.3.131.1",
-      "PublishingDate": "2020-02-19T00:00:00",
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [
-        "1.3.132.3"
+        "1.3.133.2"
       ],
       "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
+        "2020-03-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4045,24 +4057,8 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 3.0",
-      "Version": "3.0.75.2",
-      "PublishingDate": "2020-01-28T00:00:00",
-      "PlanVersions": [
-        "3.0.75.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
-      ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "Управление металлургическим комбинатом",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-02-19T00:00:00",
+      "Version": "3.0.75.3",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4070,9 +4066,25 @@
       "DemoPublicationDates": []
     },
     {
+      "Name": "Управление металлургическим комбинатом",
+      "Version": "1.3.132.2",
+      "PublishingDate": "2020-02-19T00:00:00",
+      "PlanVersions": [
+        "1.3.133.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-02-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
       "Name": "Управление мукомольно-крупяным предприятием",
-      "Version": "1.3.133.1",
-      "PublishingDate": "2020-02-25T00:00:00",
+      "Version": "1.3.133.2",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4257,16 +4269,16 @@
     },
     {
       "Name": "Управление теплосетью",
-      "Version": "1.3.131.1",
-      "PublishingDate": "2020-02-19T00:00:00",
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [
-        "1.3.132.3"
+        "1.3.133.2"
       ],
       "PlanReleaseDates": [
-        "2020-02-27T00:00:00"
+        "2020-03-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-25T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4315,16 +4327,22 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.11.63",
       "PublishingDate": "2020-02-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.11.67"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-02-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 1",
-      "Version": "1.1.60.2",
-      "PublishingDate": "2020-02-03T00:00:00",
+      "Version": "1.1.61.2",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4343,8 +4361,8 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.18.35",
-      "PublishingDate": "2020-02-26T00:00:00",
+      "Version": "3.0.18.36",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4449,10 +4467,10 @@
         "1.3.132.3"
       ],
       "PlanReleaseDates": [
-        "2020-02-26T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4569,8 +4587,8 @@
     },
     {
       "Name": "Хлебобулочное и кондитерское производство, редакция 1.3",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-02-08T00:00:00",
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4579,8 +4597,8 @@
     },
     {
       "Name": "Хлебобулочное и кондитерское производство (Управление сбытом продукции), редакция 1.3",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-02-08T00:00:00",
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
