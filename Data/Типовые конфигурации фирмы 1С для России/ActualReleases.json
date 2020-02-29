@@ -7,8 +7,8 @@
   "Releases": [
     {
       "Name": "1C:Касса (приложение для ПК), редакция 2.0",
-      "Version": "2.0.3.14",
-      "PublishingDate": "2020-01-27T00:00:00",
+      "Version": "2.0.4.16",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -183,8 +183,8 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.75.19",
-      "PublishingDate": "2020-02-14T00:00:00",
+      "Version": "3.0.75.24",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -193,8 +193,8 @@
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.75.19",
-      "PublishingDate": "2020-02-14T00:00:00",
+      "Version": "3.0.75.24",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -437,8 +437,8 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
-      "Version": "3.0.75.13",
-      "PublishingDate": "2020-02-13T00:00:00",
+      "Version": "3.0.75.27",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -447,8 +447,8 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
-      "Version": "3.0.75.13",
-      "PublishingDate": "2020-02-13T00:00:00",
+      "Version": "3.0.75.27",
+      "PublishingDate": "2020-02-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -457,8 +457,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
-      "Version": "3.0.75.104",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "3.0.75.109",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -467,8 +467,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
-      "Version": "2.0.66.98",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "2.0.66.99",
+      "PublishingDate": "2020-02-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -477,8 +477,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
-      "Version": "3.0.75.104",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "3.0.75.109",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -487,8 +487,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
-      "Version": "2.0.66.98",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "2.0.66.99",
+      "PublishingDate": "2020-02-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -497,8 +497,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
-      "Version": "3.0.75.104",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "3.0.75.109",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -507,8 +507,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
-      "Version": "2.0.66.98",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "2.0.66.99",
+      "PublishingDate": "2020-02-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -517,8 +517,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 3.0",
-      "Version": "3.0.75.104",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "3.0.75.109",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -683,8 +683,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.13.75",
-      "PublishingDate": "2020-02-20T00:00:00",
+      "Version": "3.1.13.76",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -719,8 +719,8 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
-      "Version": "2.5.147.2",
-      "PublishingDate": "2020-02-07T00:00:00",
+      "Version": "2.5.148.1",
+      "PublishingDate": "2020-02-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -875,8 +875,8 @@
     },
     {
       "Name": "Налогоплательщик",
-      "Version": "3.0.175.1",
-      "PublishingDate": "2020-01-31T00:00:00",
+      "Version": "3.0.176.1",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -965,8 +965,8 @@
     },
     {
       "Name": "Розница базовая, редакция 2.3",
-      "Version": "2.3.3.12",
-      "PublishingDate": "2020-02-06T00:00:00",
+      "Version": "2.3.3.19",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1025,8 +1025,8 @@
     },
     {
       "Name": "Розница, редакция 2.3",
-      "Version": "2.3.3.12",
-      "PublishingDate": "2020-02-06T00:00:00",
+      "Version": "2.3.3.19",
+      "PublishingDate": "2020-02-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1161,9 +1161,11 @@
         "2020-01-21T00:00:00"
       ],
       "DemoVersions": [
+        "1.6.19.230",
         "1.6.18.191"
       ],
       "DemoPublicationDates": [
+        "2020-02-27T00:00:00",
         "2019-10-12T00:00:00"
       ]
     },
@@ -1179,24 +1181,24 @@
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.133.2",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "1.3.133.3",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [
         "1.3.134"
       ],
       "PlanReleaseDates": [
-        "2020-02-28T00:00:00"
+        "2020-03-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-02-19T00:00:00"
+        "2020-02-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Управление торговлей базовая, редакция 10.3",
-      "Version": "10.3.59.2",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "10.3.59.3",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1215,8 +1217,8 @@
     },
     {
       "Name": "Управление торговлей, редакция 10.3",
-      "Version": "10.3.59.2",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "10.3.59.3",
+      "PublishingDate": "2020-02-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
