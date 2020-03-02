@@ -327,17 +327,11 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.75.100",
-      "PublishingDate": "2020-02-18T00:00:00",
-      "PlanVersions": [
-        "3.0.75.109"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-02T00:00:00"
-      ],
+      "Version": "3.0.75.109",
+      "PublishingDate": "2020-03-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1071,17 +1065,11 @@
     },
     {
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.10.75",
-      "PublishingDate": "2019-12-13T00:00:00",
-      "PlanVersions": [
-        "2.4.10.94"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-02T00:00:00"
-      ],
+      "Version": "2.4.10.94",
+      "PublishingDate": "2020-03-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
