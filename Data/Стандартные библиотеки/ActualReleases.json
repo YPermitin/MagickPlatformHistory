@@ -66,12 +66,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.3.5.14"
-      ],
-      "DemoPublicationDates": [
-        "2019-12-19T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
