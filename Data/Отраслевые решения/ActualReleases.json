@@ -179,9 +179,15 @@
       "Name": "1С:WMS Логистика. Управление складом",
       "Version": "4.6.2.3",
       "PublishingDate": "2020-02-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.6.2.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
