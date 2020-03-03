@@ -1855,27 +1855,21 @@
         "1.6.20"
       ],
       "PlanReleaseDates": [
-        "2020-03-02T00:00:00"
+        "2020-03-04T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-02T00:00:00"
+        "2020-03-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.75.38",
-      "PublishingDate": "2020-02-18T00:00:00",
-      "PlanVersions": [
-        "3.0.75.100"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-18T00:00:00"
-      ],
+      "Version": "3.0.75.100",
+      "PublishingDate": "2020-03-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3997,7 +3991,7 @@
         "11.4.11.71"
       ],
       "PlanReleaseDates": [
-        "2020-03-03T00:00:00"
+        "2020-03-04T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-03-03T00:00:00"
