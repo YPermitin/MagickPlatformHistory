@@ -1207,17 +1207,11 @@
     },
     {
       "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
-      "Version": "2.4.11.43",
-      "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [
-        "2.4.11.56"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-27T00:00:00"
-      ],
+      "Version": "2.4.11.56",
+      "PublishingDate": "2020-03-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1243,17 +1237,11 @@
     },
     {
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.11.67",
-      "PublishingDate": "2020-02-19T00:00:00",
-      "PlanVersions": [
-        "2.4.11.71"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-02T00:00:00"
-      ],
+      "Version": "2.4.11.71",
+      "PublishingDate": "2020-03-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2315,9 +2303,15 @@
       "Name": "Горнодобывающая промышленность. Управление карьером",
       "Version": "1.3.132.3",
       "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.133.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2709,10 +2703,10 @@
         "2.4.11.71"
       ],
       "PlanReleaseDates": [
-        "2020-03-04T00:00:00"
+        "2020-03-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-02T00:00:00"
+        "2020-03-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4379,9 +4373,15 @@
       "Name": "Управление транспортным предприятием",
       "Version": "1.3.132.3",
       "PublishingDate": "2020-02-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.133.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
