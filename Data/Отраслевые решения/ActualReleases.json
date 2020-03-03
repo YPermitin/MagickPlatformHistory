@@ -891,9 +891,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
       "Version": "2.0.66.98",
       "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.99"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2179,9 +2185,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
       "Version": "2.0.66.98",
       "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.99"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4315,9 +4327,15 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.11.67",
       "PublishingDate": "2020-02-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.11.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
