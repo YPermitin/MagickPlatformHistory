@@ -2177,17 +2177,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
-      "Version": "2.0.66.98",
-      "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [
-        "2.0.66.99"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-03T00:00:00"
-      ],
+      "Version": "2.0.66.99",
+      "PublishingDate": "2020-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
