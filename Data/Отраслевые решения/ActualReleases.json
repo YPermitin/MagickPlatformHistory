@@ -487,17 +487,11 @@
     },
     {
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
-      "Version": "3.0.75.70",
-      "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [
-        "3.0.75.104"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-28T00:00:00"
-      ],
+      "Version": "3.0.75.104",
+      "PublishingDate": "2020-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1055,17 +1049,11 @@
     },
     {
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
-      "Version": "2.1.48.2",
-      "PublishingDate": "2020-02-06T00:00:00",
-      "PlanVersions": [
-        "2.1.49.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-04T00:00:00"
-      ],
+      "Version": "2.1.49.2",
+      "PublishingDate": "2020-03-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
