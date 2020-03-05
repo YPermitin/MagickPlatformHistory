@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2020-01-23T16:02:27",
@@ -14,6 +14,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-05T12:44:03",
+      "Name": "1С:Предприятие 8. GIS Управление пространственными данными",
+      "Version": "1.0.5.1",
+      "PublishingDate": "2020-01-23T00:00:00",
+      "PlanVersions": [
+        "1.0.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
