@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 25,
+  "ReleasesCount": 26,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -275,6 +275,17 @@
       "Name": "1С:Бюджет поселения 8",
       "Version": "1.3.16.4",
       "PublishingDate": "2020-02-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-05T23:14:11",
+      "Name": "1С:Бюджет поселения 8",
+      "Version": "1.3.16.19",
+      "PublishingDate": "2020-03-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
