@@ -1427,17 +1427,11 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
-      "Version": "2.3.2.33",
-      "PublishingDate": "2020-01-31T00:00:00",
-      "PlanVersions": [
-        "2.3.3.19"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-26T00:00:00"
-      ],
+      "Version": "2.3.3.19",
+      "PublishingDate": "2020-03-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
