@@ -901,9 +901,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
       "Version": "3.0.75.104",
       "PublishingDate": "2020-02-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.109"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
