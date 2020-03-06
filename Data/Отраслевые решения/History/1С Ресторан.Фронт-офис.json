@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2020-02-20T21:44:13",
@@ -30,6 +30,23 @@
       ],
       "PlanUpdateDates": [
         "2020-03-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-06T12:14:04",
+      "Name": "1С:Ресторан.Фронт-офис",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.3.3.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-06T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
