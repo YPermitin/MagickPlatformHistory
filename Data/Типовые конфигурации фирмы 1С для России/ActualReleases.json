@@ -193,8 +193,8 @@
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.75.24",
-      "PublishingDate": "2020-02-27T00:00:00",
+      "Version": "3.0.75.34",
+      "PublishingDate": "2020-03-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -417,8 +417,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
-      "Version": "2.0.69.10",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "2.0.69.16",
+      "PublishingDate": "2020-03-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -462,8 +462,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.76.61"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-06T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -486,8 +490,12 @@
       "PlanUpdateDates": [
         "2020-03-02T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.76.61"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-06T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -510,8 +518,12 @@
       "PlanUpdateDates": [
         "2020-03-02T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.76.61"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-06T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
