@@ -71,19 +71,13 @@
     },
     {
       "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
-      "Version": "2.4.1.49",
-      "PublishingDate": "2020-02-21T00:00:00",
+      "Version": "2.4.2.29",
+      "PublishingDate": "2020-03-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.4.2.26",
-        "2.4.2.13"
-      ],
-      "DemoPublicationDates": [
-        "2020-03-02T00:00:00",
-        "2019-12-19T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Библиотека подключаемого оборудования для мобильных приложений",
