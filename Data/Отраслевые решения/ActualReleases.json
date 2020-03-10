@@ -501,9 +501,15 @@
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
       "Version": "3.0.75.104",
       "PublishingDate": "2020-03-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.109"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2733,9 +2739,15 @@
       "Name": "Молокозавод, редакция 1.3",
       "Version": "1.3.133.3",
       "PublishingDate": "2020-03-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.134.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3505,17 +3517,11 @@
     },
     {
       "Name": "Розница. Ювелирный магазин, редакция 2.3",
-      "Version": "2.3.3.12",
-      "PublishingDate": "2020-02-19T00:00:00",
-      "PlanVersions": [
-        "2.3.3.19"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-27T00:00:00"
-      ],
+      "Version": "2.3.3.19",
+      "PublishingDate": "2020-03-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3585,9 +3591,15 @@
       "Name": "Смета 3. редакция 3.0. Базовая версия",
       "Version": "3.0.3.16",
       "PublishingDate": "2018-01-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.5.7"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
