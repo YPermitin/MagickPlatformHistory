@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 35,
+  "ReleasesCount": 36,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -442,6 +442,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-10T14:14:08",
+      "Name": "Хлебобулочное и кондитерское производство (Управление сбытом продукции), редакция 1.3",
+      "Version": "1.3.132.3",
+      "PublishingDate": "2020-02-26T00:00:00",
+      "PlanVersions": [
+        "1.3.134.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
