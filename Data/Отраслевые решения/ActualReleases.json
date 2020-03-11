@@ -1123,10 +1123,10 @@
         "2.2.15.1"
       ],
       "PlanReleaseDates": [
-        "2020-03-12T00:00:00"
+        "2020-03-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-10T00:00:00"
+        "2020-03-11T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1203,8 +1203,8 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
-      "Version": "3.0.75.70",
-      "PublishingDate": "2020-02-14T00:00:00",
+      "Version": "3.0.75.100",
+      "PublishingDate": "2020-03-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1561,9 +1561,15 @@
       "Name": "CRM, редакция 3.0",
       "Version": "3.0.19.26",
       "PublishingDate": "2020-02-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.19.30"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3525,17 +3531,11 @@
     },
     {
       "Name": "Смета 3. редакция 3.0",
-      "Version": "3.0.4.22",
-      "PublishingDate": "2019-10-04T00:00:00",
-      "PlanVersions": [
-        "3.0.5.7"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-10T00:00:00"
-      ],
+      "Version": "3.0.5.7",
+      "PublishingDate": "2020-03-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
