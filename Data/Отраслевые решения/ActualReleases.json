@@ -1553,17 +1553,11 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.19.26",
-      "PublishingDate": "2020-02-28T00:00:00",
-      "PlanVersions": [
-        "3.0.19.30"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-11T00:00:00"
-      ],
+      "Version": "3.0.19.30",
+      "PublishingDate": "2020-03-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
