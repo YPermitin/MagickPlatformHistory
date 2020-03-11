@@ -1927,17 +1927,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.68.18",
-      "PublishingDate": "2020-02-06T00:00:00",
-      "PlanVersions": [
-        "2.0.69.10"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-05T00:00:00"
-      ],
+      "Version": "2.0.69.10",
+      "PublishingDate": "2020-03-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3187,17 +3181,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.3",
-      "Version": "2.3.3.12",
-      "PublishingDate": "2020-02-19T00:00:00",
-      "PlanVersions": [
-        "2.3.3.19"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-27T00:00:00"
-      ],
+      "Version": "2.3.3.19",
+      "PublishingDate": "2020-03-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
