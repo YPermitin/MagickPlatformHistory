@@ -1025,17 +1025,11 @@
     },
     {
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
-      "Version": "2.1.49.3",
-      "PublishingDate": "2020-03-06T00:00:00",
-      "PlanVersions": [
-        "2.1.49.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-12T00:00:00"
-      ],
+      "Version": "2.1.49.4",
+      "PublishingDate": "2020-03-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2161,9 +2155,15 @@
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
       "Version": "2.0.66.96",
       "PublishingDate": "2020-02-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.100"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
