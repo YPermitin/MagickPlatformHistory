@@ -202,8 +202,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.75.43"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-12T00:00:00"
+      ]
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
@@ -1070,8 +1074,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.3.3.25"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-12T00:00:00"
+      ]
     },
     {
       "Name": "Свод отчетов ПРОФ, редакция 3.2",
