@@ -118,8 +118,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "11.5-19.1C"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-12T00:00:00"
+      ]
     },
     {
       "Name": "Web-расширение",
