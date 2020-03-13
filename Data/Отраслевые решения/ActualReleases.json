@@ -1953,17 +1953,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.75.104",
-      "PublishingDate": "2020-02-27T00:00:00",
-      "PlanVersions": [
-        "3.0.75.109"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-13T00:00:00"
-      ],
+      "Version": "3.0.75.109",
+      "PublishingDate": "2020-03-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2459,9 +2453,15 @@
       "Name": "Колледж ПРОФ, редакция 2.0",
       "Version": "2.0.12.1",
       "PublishingDate": "2019-11-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2489,9 +2489,15 @@
       "Name": "Колледж, редакция 2.0",
       "Version": "2.0.12.1",
       "PublishingDate": "2019-11-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
