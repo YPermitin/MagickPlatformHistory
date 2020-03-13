@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.11.71",
       "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.83"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1209,9 +1215,15 @@
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.11.71",
       "PublishingDate": "2020-03-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.83"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
