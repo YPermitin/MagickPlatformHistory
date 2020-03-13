@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 48,
+  "ReleasesCount": 49,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -740,6 +740,23 @@
       ],
       "PlanReleaseDates": [
         "2020-03-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-13T17:44:05",
+      "Name": "Автосервис, редакция 1.6",
+      "Version": "1.6.19.215",
+      "PublishingDate": "2020-02-21T00:00:00",
+      "PlanVersions": [
+        "1.6.19.237"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-17T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-03-13T00:00:00"
