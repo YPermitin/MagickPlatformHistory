@@ -184,7 +184,7 @@
     {
       "Name": "1С:WMS Логистика. Управление складом",
       "Version": "4.6.2.4",
-      "PublishingDate": "2020-03-02T00:00:00",
+      "PublishingDate": "2020-03-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2169,17 +2169,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.75.104",
-      "PublishingDate": "2020-02-26T00:00:00",
-      "PlanVersions": [
-        "3.0.75.109"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-16T00:00:00"
-      ],
+      "Version": "3.0.75.109",
+      "PublishingDate": "2020-03-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
