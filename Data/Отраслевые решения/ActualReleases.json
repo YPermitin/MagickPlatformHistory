@@ -801,8 +801,8 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.93",
-      "PublishingDate": "2020-02-11T00:00:00",
+      "Version": "2.0.66.99",
+      "PublishingDate": "2020-03-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2255,17 +2255,11 @@
     },
     {
       "Name": "Горнодобывающая промышленность. Управление карьером",
-      "Version": "1.3.134.1",
-      "PublishingDate": "2020-03-06T00:00:00",
-      "PlanVersions": [
-        "1.3.135.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-12T00:00:00"
-      ],
+      "Version": "1.3.135.1",
+      "PublishingDate": "2020-03-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2977,17 +2971,11 @@
     },
     {
       "Name": "Процессное производство. Химия",
-      "Version": "1.3.133.3",
-      "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [
-        "1.3.134.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-12T00:00:00"
-      ],
+      "Version": "1.3.134.1",
+      "PublishingDate": "2020-03-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
