@@ -1093,9 +1093,15 @@
       "Name": "1С:УНФ 8. Полиграфия 2",
       "Version": "1.6.19.215",
       "PublishingDate": "2020-02-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.237"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4113,9 +4119,15 @@
       "Name": "Управление ремонтным предприятием, редакция 1.3",
       "Version": "1.3.133.3",
       "PublishingDate": "2020-03-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.135.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
