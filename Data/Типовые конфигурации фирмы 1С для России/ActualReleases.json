@@ -717,65 +717,49 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
-      "Version": "3.1.10.349",
-      "PublishingDate": "2020-03-11T00:00:00",
+      "Version": "3.1.13.120",
+      "PublishingDate": "2020-03-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.1.13.120"
-      ],
-      "DemoPublicationDates": [
-        "2020-03-16T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.10.349",
-      "PublishingDate": "2020-03-11T00:00:00",
+      "Version": "3.1.13.120",
+      "PublishingDate": "2020-03-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.1.13.120"
-      ],
-      "DemoPublicationDates": [
-        "2020-03-16T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.10.349",
-      "PublishingDate": "2020-03-11T00:00:00",
+      "Version": "3.1.13.120",
+      "PublishingDate": "2020-03-16T00:00:00",
       "PlanVersions": [
         "3.1.13.",
         "3.1.10."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-02-20T00:00:00",
-        "2020-03-11T00:00:00"
-      ],
-      "DemoVersions": [
-        "3.1.13.120"
-      ],
-      "DemoPublicationDates": [
+        "2020-03-16T00:00:00",
         "2020-03-16T00:00:00"
-      ]
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Зарплата и Управление Персоналом базовая, редакция 3",
-      "Version": "3.1.10.349",
-      "PublishingDate": "2020-03-11T00:00:00",
+      "Version": "3.1.13.120",
+      "PublishingDate": "2020-03-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.1.13.120"
-      ],
-      "DemoPublicationDates": [
-        "2020-03-16T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
@@ -789,37 +773,29 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 3",
-      "Version": "3.1.10.349",
-      "PublishingDate": "2020-03-11T00:00:00",
+      "Version": "3.1.13.120",
+      "PublishingDate": "2020-03-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.1.13.120"
-      ],
-      "DemoPublicationDates": [
-        "2020-03-16T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
-      "Version": "3.1.10.349",
-      "PublishingDate": "2020-03-11T00:00:00",
+      "Version": "3.1.13.120",
+      "PublishingDate": "2020-03-16T00:00:00",
       "PlanVersions": [
         "3.1.13.",
         "3.1.10."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-02-20T00:00:00",
-        "2020-03-11T00:00:00"
-      ],
-      "DemoVersions": [
-        "3.1.13.120"
-      ],
-      "DemoPublicationDates": [
+        "2020-03-16T00:00:00",
         "2020-03-16T00:00:00"
-      ]
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Комплексная автоматизация, редакция 1.0",
