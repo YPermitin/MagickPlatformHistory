@@ -7,8 +7,8 @@
   "Releases": [
     {
       "Name": "1C:Касса (приложение для ПК), редакция 2.0",
-      "Version": "2.0.4.26",
-      "PublishingDate": "2020-03-06T00:00:00",
+      "Version": "2.0.4.28",
+      "PublishingDate": "2020-03-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1021,8 +1021,8 @@
     },
     {
       "Name": "Розница базовая, редакция 2.3",
-      "Version": "2.3.3.19",
-      "PublishingDate": "2020-02-26T00:00:00",
+      "Version": "2.3.3.25",
+      "PublishingDate": "2020-03-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1081,17 +1081,13 @@
     },
     {
       "Name": "Розница, редакция 2.3",
-      "Version": "2.3.3.19",
-      "PublishingDate": "2020-02-26T00:00:00",
+      "Version": "2.3.3.25",
+      "PublishingDate": "2020-03-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.3.3.25"
-      ],
-      "DemoPublicationDates": [
-        "2020-03-12T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Свод отчетов ПРОФ, редакция 3.2",
@@ -1221,11 +1217,13 @@
         "2020-03-10T00:00:00"
       ],
       "DemoVersions": [
+        "1.6.19.243",
         "1.6.20.72",
         "1.6.20.63",
         "1.6.18.191"
       ],
       "DemoPublicationDates": [
+        "2020-03-17T00:00:00",
         "2020-03-12T00:00:00",
         "2020-02-29T00:00:00",
         "2019-10-12T00:00:00"
