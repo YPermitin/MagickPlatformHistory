@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -319,6 +319,17 @@
       "Name": "1С:Бюджет муниципального образования 8",
       "Version": "1.3.16.29",
       "PublishingDate": "2020-03-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-17T21:14:10",
+      "Name": "1С:Бюджет муниципального образования 8",
+      "Version": "1.3.16.31",
+      "PublishingDate": "2020-03-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
