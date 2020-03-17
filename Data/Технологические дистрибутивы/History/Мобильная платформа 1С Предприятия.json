@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 34,
+  "ReleasesCount": 35,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -542,6 +542,21 @@
       ],
       "DemoPublicationDates": [
         "2020-02-06T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-03-17T19:14:04",
+      "Name": "Мобильная платформа 1С:Предприятия",
+      "Version": "8.3.16.130",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.101"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-17T00:00:00"
       ]
     }
   ]
