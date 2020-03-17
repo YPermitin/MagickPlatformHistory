@@ -165,9 +165,15 @@
       "Name": "1С:RCM Управление надежностью",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.8.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -983,9 +989,15 @@
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
       "Version": "1.6.19.215",
       "PublishingDate": "2020-02-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.237"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -993,9 +1005,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.11.65",
       "PublishingDate": "2020-02-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.83"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1377,9 +1395,15 @@
       "Name": "1С:Учет и управление хозяйственной деятельностью банка, редакция 1.2",
       "Version": "3.0.9.1",
       "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.10.13"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1645,17 +1669,11 @@
     },
     {
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
-      "Version": "2.4.11.71",
-      "PublishingDate": "2020-02-25T00:00:00",
-      "PlanVersions": [
-        "2.4.11.83"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-16T00:00:00"
-      ],
+      "Version": "2.4.11.83",
+      "PublishingDate": "2020-03-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.2.3.153"
       ],
@@ -2719,17 +2737,11 @@
     },
     {
       "Name": "Молокозавод, редакция 1.3",
-      "Version": "1.3.134.1",
-      "PublishingDate": "2020-03-12T00:00:00",
-      "PlanVersions": [
-        "1.3.135.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-16T00:00:00"
-      ],
+      "Version": "1.3.135.1",
+      "PublishingDate": "2020-03-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
