@@ -437,8 +437,8 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
-      "Version": "3.0.75.32",
-      "PublishingDate": "2020-03-04T00:00:00",
+      "Version": "3.0.76.6",
+      "PublishingDate": "2020-03-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -447,8 +447,8 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
-      "Version": "3.0.75.32",
-      "PublishingDate": "2020-03-04T00:00:00",
+      "Version": "3.0.76.6",
+      "PublishingDate": "2020-03-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1185,17 +1185,11 @@
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.135.1",
-      "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [
-        "1.3.136"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-12T00:00:00"
-      ],
+      "Version": "1.3.136.1",
+      "PublishingDate": "2020-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
