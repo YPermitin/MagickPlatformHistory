@@ -1383,17 +1383,11 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.75.72",
-      "PublishingDate": "2020-03-02T00:00:00",
-      "PlanVersions": [
-        "3.0.75.102"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-05T00:00:00"
-      ],
+      "Version": "3.0.75.102",
+      "PublishingDate": "2020-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1839,17 +1833,11 @@
     },
     {
       "Name": "Автосервис, редакция 1.6",
-      "Version": "1.6.19.215",
-      "PublishingDate": "2020-02-21T00:00:00",
-      "PlanVersions": [
-        "1.6.19.237"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-13T00:00:00"
-      ],
+      "Version": "1.6.19.237",
+      "PublishingDate": "2020-03-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
