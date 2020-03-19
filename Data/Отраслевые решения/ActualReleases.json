@@ -1237,9 +1237,15 @@
       "Name": "1С:Управление нашей строительной фирмой",
       "Version": "1.6.19.215",
       "PublishingDate": "2020-02-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.237"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
