@@ -1153,17 +1153,11 @@
     },
     {
       "Name": "1С:Управление водоканалом 2",
-      "Version": "2.2.14.1",
-      "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [
-        "2.2.15.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-16T00:00:00"
-      ],
+      "Version": "2.2.15.1",
+      "PublishingDate": "2020-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1289,17 +1283,11 @@
     },
     {
       "Name": "1С:Управление теплосетью 2",
-      "Version": "2.2.14.1",
-      "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [
-        "2.2.15.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-16T00:00:00"
-      ],
+      "Version": "2.2.15.1",
+      "PublishingDate": "2020-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1343,9 +1331,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
       "Version": "2.0.66.68",
       "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.69"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1353,9 +1347,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
       "Version": "2.0.66.68",
       "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.69"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
