@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2019-12-30T19:02:23",
@@ -31,6 +31,17 @@
       "PlanUpdateDates": [
         "2020-03-17T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-19T13:44:05",
+      "Name": "1С:RCM Управление надежностью",
+      "Version": "1.0.8.1",
+      "PublishingDate": "2020-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
