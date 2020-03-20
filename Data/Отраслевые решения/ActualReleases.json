@@ -2305,8 +2305,8 @@
     },
     {
       "Name": "Девелопмент и управление недвижимостью, редакция 1.3",
-      "Version": "1.3.132.2",
-      "PublishingDate": "2020-03-17T00:00:00",
+      "Version": "1.3.133.3",
+      "PublishingDate": "2020-03-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3263,9 +3263,15 @@
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
       "Version": "2.3.3.19",
       "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3313,9 +3319,15 @@
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
       "Version": "2.3.3.19",
       "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3363,9 +3375,15 @@
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
       "Version": "2.3.3.19",
       "PublishingDate": "2020-03-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3513,9 +3531,15 @@
       "Name": "Розница. Ювелирный магазин, редакция 2.3",
       "Version": "2.3.3.19",
       "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
