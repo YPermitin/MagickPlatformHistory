@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 60,
+  "ReleasesCount": 61,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -843,6 +843,17 @@
       "PlanUpdateDates": [
         "2020-03-19T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-20T10:44:13",
+      "Name": "Управление сельскохозяйственным предприятием",
+      "Version": "1.3.136.1",
+      "PublishingDate": "2020-03-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
