@@ -1109,17 +1109,11 @@
     },
     {
       "Name": "1С:УНФ 8. Полиграфия 2",
-      "Version": "1.6.19.215",
-      "PublishingDate": "2020-02-26T00:00:00",
-      "PlanVersions": [
-        "1.6.19.237"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-16T00:00:00"
-      ],
+      "Version": "1.6.19.243",
+      "PublishingDate": "2020-03-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
