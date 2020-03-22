@@ -537,17 +537,11 @@
     },
     {
       "Name": "Вещевое довольствие, редакция 2.0",
-      "Version": "2.0.26.5",
-      "PublishingDate": "2019-08-29T00:00:00",
-      "PlanVersions": [
-        "2.0.27"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-02-20T00:00:00"
-      ],
+      "Version": "2.0.27.1",
+      "PublishingDate": "2020-03-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
