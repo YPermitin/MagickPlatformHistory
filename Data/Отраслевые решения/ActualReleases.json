@@ -993,17 +993,11 @@
     },
     {
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
-      "Version": "1.6.19.215",
-      "PublishingDate": "2020-02-21T00:00:00",
-      "PlanVersions": [
-        "1.6.19.237"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-17T00:00:00"
-      ],
+      "Version": "1.6.19.237",
+      "PublishingDate": "2020-03-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1157,9 +1151,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.101"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1167,9 +1167,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.75.101"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2073,17 +2079,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
-      "Version": "3.0.33.6",
-      "PublishingDate": "2020-02-27T00:00:00",
-      "PlanVersions": [
-        "3.0.33.7"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-20T00:00:00"
-      ],
+      "Version": "3.0.33.7",
+      "PublishingDate": "2020-03-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3981,10 +3981,10 @@
         "11.4.11.84"
       ],
       "PlanReleaseDates": [
-        "2020-03-23T00:00:00"
+        "2020-03-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-20T00:00:00"
+        "2020-03-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
