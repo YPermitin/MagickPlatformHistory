@@ -995,9 +995,15 @@
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
       "Version": "1.6.19.237",
       "PublishingDate": "2020-03-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.243"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1171,7 +1177,7 @@
         "3.0.75.101"
       ],
       "PlanReleaseDates": [
-        "2020-03-10T00:00:00"
+        "2020-04-10T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-03-23T00:00:00"
@@ -1941,9 +1947,15 @@
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
       "Version": "2.0.69.10",
       "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.69.16"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
