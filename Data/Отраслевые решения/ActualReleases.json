@@ -1015,17 +1015,11 @@
     },
     {
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
-      "Version": "2.4.11.65",
-      "PublishingDate": "2020-02-18T00:00:00",
-      "PlanVersions": [
-        "2.4.11.83"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-18T00:00:00"
-      ],
+      "Version": "2.4.11.83",
+      "PublishingDate": "2020-03-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
