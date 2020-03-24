@@ -2003,9 +2003,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.75.109",
       "PublishingDate": "2020-03-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.76.67"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4039,9 +4045,15 @@
       "Name": "Управление корпоративными финансами, редакция 2.1 для Технологической платформы 8.2",
       "Version": "2.1.66.37",
       "PublishingDate": "2020-02-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.66.38"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
