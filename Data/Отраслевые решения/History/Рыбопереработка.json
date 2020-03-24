@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 47,
+  "ReleasesCount": 48,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -688,6 +688,17 @@
       "PlanUpdateDates": [
         "2020-03-20T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-24T18:44:12",
+      "Name": "Рыбопереработка",
+      "Version": "1.3.134.1",
+      "PublishingDate": "2020-03-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
