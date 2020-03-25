@@ -473,9 +473,15 @@
       "Name": "1С:Ломбард КОРП",
       "Version": "3.0.75.104",
       "PublishingDate": "2020-02-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.76.67"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -483,9 +489,15 @@
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
       "Version": "3.0.75.109",
       "PublishingDate": "2020-03-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.76.67"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
