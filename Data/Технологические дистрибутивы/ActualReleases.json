@@ -13,10 +13,12 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "2020.2 RC3",
         "2020.2 RC2",
         "2020.2 RC1"
       ],
       "DemoPublicationDates": [
+        "2020-03-25T00:00:00",
         "2020-03-10T00:00:00",
         "2020-02-27T00:00:00"
       ]
