@@ -303,8 +303,8 @@
     },
     {
       "Name": "1С:Бухгалтерия СНТ",
-      "Version": "3.0.75.10",
-      "PublishingDate": "2020-02-14T00:00:00",
+      "Version": "3.0.75.32",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -313,8 +313,8 @@
     },
     {
       "Name": "1С:Бухгалтерия СНТ. Базовая версия",
-      "Version": "3.0.75.10",
-      "PublishingDate": "2020-02-14T00:00:00",
+      "Version": "3.0.75.32",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -915,17 +915,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.75.109",
-      "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [
-        "3.0.76.67"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-23T00:00:00"
-      ],
+      "Version": "3.0.76.67",
+      "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1415,17 +1409,11 @@
     },
     {
       "Name": "1С:Учет и управление хозяйственной деятельностью банка, редакция 1.2",
-      "Version": "3.0.9.1",
-      "PublishingDate": "2019-12-25T00:00:00",
-      "PlanVersions": [
-        "3.0.10.13"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-17T00:00:00"
-      ],
+      "Version": "3.0.10.13",
+      "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2615,17 +2603,11 @@
     },
     {
       "Name": "Лесозавод, редакция 1.3",
-      "Version": "1.3.134.1",
-      "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [
-        "1.3.136.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-20T00:00:00"
-      ],
+      "Version": "1.3.136.1",
+      "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3961,10 +3943,10 @@
         "11.4.11.84"
       ],
       "PlanReleaseDates": [
-        "2020-03-25T00:00:00"
+        "2020-03-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-23T00:00:00"
+        "2020-03-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4027,17 +4009,11 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 3.0",
-      "Version": "3.0.75.3",
-      "PublishingDate": "2020-02-28T00:00:00",
-      "PlanVersions": [
-        "3.0.76.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-20T00:00:00"
-      ],
+      "Version": "3.0.76.1",
+      "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
