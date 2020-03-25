@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 50,
+  "ReleasesCount": 51,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -724,6 +724,17 @@
       "Name": "Комплексный учет сельскохозяйственного предприятия",
       "Version": "1.1.125.1",
       "PublishingDate": "2020-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-25T20:14:10",
+      "Name": "Комплексный учет сельскохозяйственного предприятия",
+      "Version": "1.1.125.1",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
