@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Горнодобывающая промышленность 2. Модуль для 1С:ERP",
+  "Category": {
+    "ID": 162,
+    "Name": "Отраслевые решения"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-03-25T13:44:10",
+      "Name": "1С:Горнодобывающая промышленность 2. Модуль для 1С:ERP",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
