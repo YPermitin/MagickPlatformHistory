@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -76,6 +76,17 @@
       "PlanUpdateDates": [
         "2020-03-17T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-25T18:14:13",
+      "Name": "1С:Учет и управление хозяйственной деятельностью банка, редакция 1.2",
+      "Version": "3.0.10.13",
+      "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
