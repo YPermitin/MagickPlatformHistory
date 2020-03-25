@@ -701,8 +701,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.13.120",
-      "PublishingDate": "2020-03-16T00:00:00",
+      "Version": "3.1.10.375",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -711,8 +711,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.13.120",
-      "PublishingDate": "2020-03-16T00:00:00",
+      "Version": "3.1.10.375",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [
         "3.1.13.",
         "3.1.10."
@@ -720,7 +720,7 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
         "2020-03-16T00:00:00",
-        "2020-03-16T00:00:00"
+        "2020-03-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -747,8 +747,8 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 3",
-      "Version": "3.1.13.120",
-      "PublishingDate": "2020-03-16T00:00:00",
+      "Version": "3.1.10.375",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -757,8 +757,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
-      "Version": "3.1.13.120",
-      "PublishingDate": "2020-03-16T00:00:00",
+      "Version": "3.1.10.375",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [
         "3.1.13.",
         "3.1.10."
@@ -766,7 +766,7 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
         "2020-03-16T00:00:00",
-        "2020-03-16T00:00:00"
+        "2020-03-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
