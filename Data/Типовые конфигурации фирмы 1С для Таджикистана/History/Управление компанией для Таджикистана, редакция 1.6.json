@@ -4,7 +4,7 @@
     "ID": 912,
     "Name": "Типовые конфигурации фирмы \"1С\" для Таджикистана"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-28T13:20:54",
@@ -44,6 +44,17 @@
       "Name": "Управление компанией для Таджикистана, редакция 1.6",
       "Version": "1.6.18.135",
       "PublishingDate": "2019-08-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-25T21:14:12",
+      "Name": "Управление компанией для Таджикистана, редакция 1.6",
+      "Version": "1.6.19.243",
+      "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
