@@ -1,0 +1,21 @@
+{
+  "Name": "Документооборот КОРП. Антикризис",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-03-25T20:14:10",
+      "Name": "Документооборот КОРП. Антикризис",
+      "Version": "2.1.17.1",
+      "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
