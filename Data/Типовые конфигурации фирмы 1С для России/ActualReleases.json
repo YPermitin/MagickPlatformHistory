@@ -112,16 +112,6 @@
       "DemoPublicationDates": []
     },
     {
-      "Name": "1С:Документооборот КОРП. Антикризис",
-      "Version": "2.1.17.1",
-      "PublishingDate": "2020-03-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
       "Name": "1С:Клиент ЭДО 8 Базовая, редакция 2",
       "Version": "2.7.1.34",
       "PublishingDate": "2020-03-16T00:00:00",
@@ -651,6 +641,16 @@
     },
     {
       "Name": "Документооборот КОРП",
+      "Version": "2.1.17.1",
+      "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Документооборот КОРП. Антикризис",
       "Version": "2.1.17.1",
       "PublishingDate": "2020-03-25T00:00:00",
       "PlanVersions": [],
