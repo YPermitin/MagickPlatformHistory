@@ -795,10 +795,10 @@
         "3.0.76.67"
       ],
       "PlanReleaseDates": [
-        "2020-03-27T00:00:00"
+        "2020-03-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-21T00:00:00"
+        "2020-03-26T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -851,10 +851,10 @@
         "3.0.76.67"
       ],
       "PlanReleaseDates": [
-        "2020-03-27T00:00:00"
+        "2020-03-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-21T00:00:00"
+        "2020-03-26T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -1259,9 +1259,15 @@
       "Name": "1С:Управление нашей строительной фирмой",
       "Version": "1.6.19.237",
       "PublishingDate": "2020-03-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.19.243"
+      ],
+      "PlanReleaseDates": [
+        "2020-03-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3975,17 +3981,11 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 2.1 для Технологической платформы 8.2",
-      "Version": "2.1.66.37",
-      "PublishingDate": "2020-02-03T00:00:00",
-      "PlanVersions": [
-        "2.1.66.38"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-24T00:00:00"
-      ],
+      "Version": "2.1.66.38",
+      "PublishingDate": "2020-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
