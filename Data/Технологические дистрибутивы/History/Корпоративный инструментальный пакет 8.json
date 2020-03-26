@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 24,
+  "ReleasesCount": 25,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -349,6 +349,17 @@
       "DemoPublicationDates": [
         "2020-03-20T00:00:00"
       ]
+    },
+    {
+      "Created": "2020-03-26T22:44:07",
+      "Name": "Корпоративный инструментальный пакет 8",
+      "Version": "2.1.6.8",
+      "PublishingDate": "2020-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
