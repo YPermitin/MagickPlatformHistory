@@ -4,13 +4,24 @@
     "ID": 877,
     "Name": "Типовые конфигурации фирмы \"1С\" для Туркменистана"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:44",
       "Name": "Розница для Туркменистана",
       "Version": "2.1.1.1",
       "PublishingDate": "2017-11-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-26T14:14:05",
+      "Name": "Розница для Туркменистана",
+      "Version": "2.3.1.30",
+      "PublishingDate": "2020-03-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
