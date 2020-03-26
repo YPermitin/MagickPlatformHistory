@@ -1257,17 +1257,11 @@
     },
     {
       "Name": "1С:Управление нашей строительной фирмой",
-      "Version": "1.6.19.237",
-      "PublishingDate": "2020-03-19T00:00:00",
-      "PlanVersions": [
-        "1.6.19.243"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-26T00:00:00"
-      ],
+      "Version": "1.6.19.243",
+      "PublishingDate": "2020-03-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
