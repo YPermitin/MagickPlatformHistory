@@ -155,17 +155,13 @@
     },
     {
       "Name": "Корпоративный инструментальный пакет 8",
-      "Version": "2.1.5.10",
-      "PublishingDate": "2019-11-14T00:00:00",
+      "Version": "2.1.6.8",
+      "PublishingDate": "2020-03-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.1.6.7"
-      ],
-      "DemoPublicationDates": [
-        "2020-03-20T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Менеджер лицензий аппаратной защиты NetHASP",
