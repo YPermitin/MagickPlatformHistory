@@ -3,8 +3,20 @@
   "PublishingDate": "2020-03-26T00:00:00",
   "Items": [
     {
+      "Title": "1С:Библиотека стандартных подсистем, редакция 3.0",
+      "Description": "3.0.3.241",
+      "PublishingDate": "2020-03-26T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "ERP English Interface",
+      "Description": "1.3.135.1",
+      "PublishingDate": "2020-03-26T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "ERP Управление предприятием 2 для Казахстана",
-      "Description": "2.1.3.28",
+      "Description": "2.4.4.62",
       "PublishingDate": "2020-03-26T00:00:00",
       "Link": ""
     },
