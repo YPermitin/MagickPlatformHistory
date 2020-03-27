@@ -3,7 +3,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "Releases": [
     {
       "Name": "1C:Enterprise Development Tools",
@@ -147,6 +147,16 @@
       "Name": "Драйвер аппаратных лицензий платформы 1С:Предприятия (Sentinel HASP)",
       "Version": "7.63",
       "PublishingDate": "2018-05-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Исполнитель. Бета-версия",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
