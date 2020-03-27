@@ -63,8 +63,8 @@
     },
     {
       "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
-      "Version": "3.0.10.14",
-      "PublishingDate": "2020-03-23T00:00:00",
+      "Version": "3.0.10.15",
+      "PublishingDate": "2020-03-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -165,8 +165,8 @@
     },
     {
       "Name": "1С:Налоговый мониторинг. Бухгалтерия КОРП МСФО",
-      "Version": "3.0.10.14",
-      "PublishingDate": "2020-03-23T00:00:00",
+      "Version": "3.0.10.15",
+      "PublishingDate": "2020-03-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -253,8 +253,8 @@
     },
     {
       "Name": "1С:Управление холдингом 3.0",
-      "Version": "3.0.10.14",
-      "PublishingDate": "2020-03-23T00:00:00",
+      "Version": "3.0.10.15",
+      "PublishingDate": "2020-03-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
