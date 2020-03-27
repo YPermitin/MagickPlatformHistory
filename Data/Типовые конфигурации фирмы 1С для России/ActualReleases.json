@@ -180,8 +180,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.76.5"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-27T00:00:00"
+      ]
     },
     {
       "Name": "1С:Садовод (базовая версия)",
@@ -190,8 +194,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.76.5"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-27T00:00:00"
+      ]
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
