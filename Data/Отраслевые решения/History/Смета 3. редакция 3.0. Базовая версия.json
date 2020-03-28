@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -107,6 +107,17 @@
       "Name": "Смета 3. редакция 3.0. Базовая версия",
       "Version": "3.0.5.7",
       "PublishingDate": "2020-03-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-28T14:44:23",
+      "Name": "Смета 3. редакция 3.0. Базовая версия",
+      "Version": "3.0.5.9",
+      "PublishingDate": "2020-03-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
