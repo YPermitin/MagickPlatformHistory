@@ -786,13 +786,13 @@
       "Version": "3.0.75.109",
       "PublishingDate": "2020-03-06T00:00:00",
       "PlanVersions": [
-        "3.0.76.67"
+        "3.0.76.73"
       ],
       "PlanReleaseDates": [
-        "2020-03-31T00:00:00"
+        "2020-04-01T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-26T00:00:00"
+        "2020-03-30T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -825,9 +825,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.101",
       "PublishingDate": "2020-03-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-03-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -836,13 +842,13 @@
       "Version": "3.0.75.109",
       "PublishingDate": "2020-03-06T00:00:00",
       "PlanVersions": [
-        "3.0.76.67"
+        "3.0.76.73"
       ],
       "PlanReleaseDates": [
-        "2020-03-31T00:00:00"
+        "2020-04-01T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-03-26T00:00:00"
+        "2020-03-30T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
