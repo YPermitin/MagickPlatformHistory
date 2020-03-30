@@ -133,8 +133,8 @@
     },
     {
       "Name": "1С:Мобильная касса",
-      "Version": "3.2.7",
-      "PublishingDate": "2020-03-11T00:00:00",
+      "Version": "3.3.1",
+      "PublishingDate": "2020-03-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -437,8 +437,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения, редакция 2.0",
-      "Version": "2.0.69.16",
-      "PublishingDate": "2020-03-05T00:00:00",
+      "Version": "2.0.70.21",
+      "PublishingDate": "2020-03-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -739,8 +739,8 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
-      "Version": "2.5.149.1",
-      "PublishingDate": "2020-03-26T00:00:00",
+      "Version": "2.5.149.2",
+      "PublishingDate": "2020-03-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
