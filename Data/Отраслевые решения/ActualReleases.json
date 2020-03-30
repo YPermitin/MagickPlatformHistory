@@ -4491,33 +4491,21 @@
     },
     {
       "Name": "Хлебобулочное и кондитерское производство, редакция 1.3",
-      "Version": "1.3.136.1",
-      "PublishingDate": "2020-03-25T00:00:00",
-      "PlanVersions": [
-        "1.3.137.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-30T00:00:00"
-      ],
+      "Version": "1.3.137.1",
+      "PublishingDate": "2020-03-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Хлебобулочное и кондитерское производство (Управление сбытом продукции), редакция 1.3",
-      "Version": "1.3.136.1",
-      "PublishingDate": "2020-03-25T00:00:00",
-      "PlanVersions": [
-        "1.3.137.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-30T00:00:00"
-      ],
+      "Version": "1.3.137.1",
+      "PublishingDate": "2020-03-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
