@@ -3267,17 +3267,11 @@
     },
     {
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
-      "Version": "2.3.3.19",
-      "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [
-        "2.3.3.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-20T00:00:00"
-      ],
+      "Version": "2.3.3.25",
+      "PublishingDate": "2020-03-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3429,17 +3423,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.3.19",
-      "PublishingDate": "2020-03-16T00:00:00",
-      "PlanVersions": [
-        "2.3.3.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-20T00:00:00"
-      ],
+      "Version": "2.3.3.25",
+      "PublishingDate": "2020-03-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
