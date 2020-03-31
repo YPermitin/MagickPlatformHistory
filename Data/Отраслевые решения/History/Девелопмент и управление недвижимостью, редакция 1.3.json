@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 40,
+  "ReleasesCount": 41,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -487,6 +487,17 @@
       "Created": "2020-03-31T13:44:09",
       "Name": "Девелопмент и управление недвижимостью, редакция 1.3",
       "Version": "1.3.136.1",
+      "PublishingDate": "2020-03-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-03-31T14:14:06",
+      "Name": "Девелопмент и управление недвижимостью, редакция 1.3",
+      "Version": "1.3.137.1",
       "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
