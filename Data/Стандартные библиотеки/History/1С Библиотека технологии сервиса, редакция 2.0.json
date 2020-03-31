@@ -1,0 +1,25 @@
+{
+  "Name": "1С:Библиотека технологии сервиса, редакция 2.0",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-03-31T13:14:19",
+      "Name": "1С:Библиотека технологии сервиса, редакция 2.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.0.0.3"
+      ],
+      "DemoPublicationDates": [
+        "2020-02-13T00:00:00"
+      ]
+    }
+  ]
+}
