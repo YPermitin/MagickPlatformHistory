@@ -283,18 +283,16 @@
     },
     {
       "Name": "Технологическая платформа 8.3",
-      "Version": "8.3.16.1224",
-      "PublishingDate": "2020-02-26T00:00:00",
+      "Version": "8.3.16.1296",
+      "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "8.3.17.1306",
-        "8.3.16.1296"
+        "8.3.17.1306"
       ],
       "DemoPublicationDates": [
-        "2020-03-26T00:00:00",
-        "2020-03-18T00:00:00"
+        "2020-03-26T00:00:00"
       ]
     },
     {
