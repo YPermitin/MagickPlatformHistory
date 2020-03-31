@@ -133,8 +133,8 @@
     },
     {
       "Name": "1С:Мобильная касса",
-      "Version": "3.3.1",
-      "PublishingDate": "2020-03-30T00:00:00",
+      "Version": "3.3.2",
+      "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -411,8 +411,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения",
-      "Version": "1.0.61.5",
-      "PublishingDate": "2020-03-13T00:00:00",
+      "Version": "1.0.61.6",
+      "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -421,8 +421,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая",
-      "Version": "1.0.61.5",
-      "PublishingDate": "2020-03-13T00:00:00",
+      "Version": "1.0.61.6",
+      "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -723,7 +723,7 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.10.376",
+      "Version": "3.1.13.146",
       "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
@@ -741,8 +741,8 @@
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-03-26T00:00:00",
-        "2020-03-25T00:00:00"
+        "2020-03-31T00:00:00",
+        "2020-03-31T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -769,7 +769,7 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 3",
-      "Version": "3.1.10.376",
+      "Version": "3.1.13.146",
       "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
@@ -787,8 +787,8 @@
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-03-26T00:00:00",
-        "2020-03-25T00:00:00"
+        "2020-03-31T00:00:00",
+        "2020-03-31T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1125,8 +1125,8 @@
     },
     {
       "Name": "Управление нашей фирмой базовая, редакция 1.6",
-      "Version": "1.6.19.243",
-      "PublishingDate": "2020-03-19T00:00:00",
+      "Version": "1.6.20.94",
+      "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
