@@ -3889,17 +3889,11 @@
     },
     {
       "Name": "Управление аптечной сетью, редакция 11.4",
-      "Version": "11.4.11.71",
-      "PublishingDate": "2020-03-04T00:00:00",
-      "PlanVersions": [
-        "11.4.11.84"
-      ],
-      "PlanReleaseDates": [
-        "2020-03-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-27T00:00:00"
-      ],
+      "Version": "11.4.11.84",
+      "PublishingDate": "2020-03-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
