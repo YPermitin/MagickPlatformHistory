@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 15,
+  "ReleasesCount": 16,
   "ReleasesHistory": [
     {
       "Created": "2019-10-18T18:32:23",
@@ -216,6 +216,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-01T20:14:05",
+      "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
+      "Version": "2.3.3.19",
+      "PublishingDate": "2020-03-05T00:00:00",
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
