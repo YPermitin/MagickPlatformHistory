@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.11.88",
       "PublishingDate": "2020-03-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.91"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1841,9 +1847,15 @@
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
       "Version": "3.0.75.100",
       "PublishingDate": "2020-03-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.76.73"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1991,9 +2003,15 @@
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
       "Version": "3.0.75.100",
       "PublishingDate": "2020-02-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.76.73"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2843,9 +2861,15 @@
       "Name": "Полиграфия, редакция 1.3",
       "Version": "1.3.135.1",
       "PublishingDate": "2020-03-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.137.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3973,9 +3997,15 @@
       "Name": "Управление корпоративными финансами, редакция 3.0",
       "Version": "3.0.76.1",
       "PublishingDate": "2020-03-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.76.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4137,17 +4167,11 @@
     },
     {
       "Name": "Управление сельскохозяйственным предприятием",
-      "Version": "1.3.136.1",
-      "PublishingDate": "2020-03-20T00:00:00",
-      "PlanVersions": [
-        "1.3.137"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-31T00:00:00"
-      ],
+      "Version": "1.3.137.1",
+      "PublishingDate": "2020-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4369,17 +4393,11 @@
     },
     {
       "Name": "Фармпроизводство, редакция 1.3",
-      "Version": "1.3.136.1",
-      "PublishingDate": "2020-03-24T00:00:00",
-      "PlanVersions": [
-        "1.3.137.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-31T00:00:00"
-      ],
+      "Version": "1.3.137.1",
+      "PublishingDate": "2020-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
