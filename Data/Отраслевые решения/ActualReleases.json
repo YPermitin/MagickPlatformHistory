@@ -1091,9 +1091,15 @@
       "Name": "1С:Ресторан.Фронт-офис",
       "Version": "2.3.3.19",
       "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1427,9 +1433,15 @@
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
       "Version": "2.3.3.19",
       "PublishingDate": "2020-03-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1437,9 +1449,15 @@
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
       "Version": "2.3.3.19",
       "PublishingDate": "2020-03-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
