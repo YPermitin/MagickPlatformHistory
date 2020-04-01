@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 146,
+  "ReleasesCount": 147,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -2417,6 +2417,17 @@
       "DemoPublicationDates": [
         "2020-03-31T00:00:00"
       ]
+    },
+    {
+      "Created": "2020-04-01T15:14:12",
+      "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
+      "Version": "3.0.76.77",
+      "PublishingDate": "2020-04-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
