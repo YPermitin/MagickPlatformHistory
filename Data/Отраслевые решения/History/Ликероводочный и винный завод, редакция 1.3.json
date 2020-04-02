@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 57,
+  "ReleasesCount": 58,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -816,6 +816,17 @@
       "PlanUpdateDates": [
         "2020-04-01T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-02T14:44:12",
+      "Name": "Ликероводочный и винный завод, редакция 1.3",
+      "Version": "1.3.137.1",
+      "PublishingDate": "2020-04-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
