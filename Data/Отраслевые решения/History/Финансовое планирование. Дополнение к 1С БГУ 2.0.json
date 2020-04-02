@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -417,6 +417,23 @@
       ],
       "PlanUpdateDates": [
         "2020-04-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-02T12:14:10",
+      "Name": "Финансовое планирование. Дополнение к 1С:БГУ 2.0",
+      "Version": "1.0.27.1",
+      "PublishingDate": "2020-04-02T00:00:00",
+      "PlanVersions": [
+        "1.0.27.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
