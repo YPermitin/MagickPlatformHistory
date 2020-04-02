@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 38,
+  "ReleasesCount": 39,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -529,6 +529,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-02T14:14:16",
+      "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
+      "Version": "3.0.45.50",
+      "PublishingDate": "2020-03-13T00:00:00",
+      "PlanVersions": [
+        "3.0.45.51"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
