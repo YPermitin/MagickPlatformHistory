@@ -1120,12 +1120,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "1.6.18.191"
-      ],
-      "DemoPublicationDates": [
-        "2019-10-16T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Управление нашей фирмой, редакция 1.1",
