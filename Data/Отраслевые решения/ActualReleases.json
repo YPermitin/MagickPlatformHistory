@@ -97,17 +97,11 @@
     },
     {
       "Name": "1С:ERP Энергетика 2",
-      "Version": "2.4.11.83",
-      "PublishingDate": "2020-03-23T00:00:00",
-      "PlanVersions": [
-        "2.4.11.91"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-02T00:00:00"
-      ],
+      "Version": "2.4.11.91",
+      "PublishingDate": "2020-04-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
