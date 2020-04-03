@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 66,
+  "ReleasesCount": 67,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1019,6 +1019,23 @@
       ],
       "PlanReleaseDates": [
         "2020-04-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-03T09:44:15",
+      "Name": "Управление водоканалом",
+      "Version": "1.3.134.1",
+      "PublishingDate": "2020-03-12T00:00:00",
+      "PlanVersions": [
+        "1.3.135"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-07T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-04-03T00:00:00"
