@@ -139,9 +139,18 @@
       "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
       "Version": "3.1.75.109",
       "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.76.73",
+        "3.1.76"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-09T00:00:00",
+        "2020-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-03T00:00:00",
+        "2020-04-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -149,9 +158,15 @@
       "Name": "Айлант: Управление ЖКХ  КОРП, ред. 3.1",
       "Version": "3.1.75.109",
       "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.76.73"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -159,9 +174,15 @@
       "Name": "Айлант: Управление ЖКХ  ПРОФ, ред. 3.1",
       "Version": "3.1.75.109",
       "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.76.73"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -179,9 +200,15 @@
       "Name": "Айлант: Управление ЖКХ. Старт, ред. 3.1",
       "Version": "3.1.75.109",
       "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.76.73"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
