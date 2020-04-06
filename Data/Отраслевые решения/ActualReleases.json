@@ -1999,9 +1999,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.76.67",
       "PublishingDate": "2020-03-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.76.77"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3901,9 +3907,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.11.84",
       "PublishingDate": "2020-03-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.11.88"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
