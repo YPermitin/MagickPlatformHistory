@@ -87,8 +87,8 @@
     },
     {
       "Name": "1С:ERP Управление птицеводческим предприятием 2",
-      "Version": "2.4.11.83",
-      "PublishingDate": "2020-03-23T00:00:00",
+      "Version": "2.4.11.91",
+      "PublishingDate": "2020-04-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1347,17 +1347,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.76.3",
-      "PublishingDate": "2020-03-31T00:00:00",
-      "PlanVersions": [
-        "3.0.76.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-03-31T00:00:00"
-      ],
+      "Version": "3.0.76.4",
+      "PublishingDate": "2020-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1673,9 +1667,15 @@
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
       "Version": "2.4.11.83",
       "PublishingDate": "2020-03-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.93"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-06T00:00:00"
+      ],
       "DemoVersions": [
         "2.2.3.153"
       ],
@@ -1991,17 +1991,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.76.67",
-      "PublishingDate": "2020-03-24T00:00:00",
-      "PlanVersions": [
-        "3.0.76.77"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-06T00:00:00"
-      ],
+      "Version": "3.0.76.77",
+      "PublishingDate": "2020-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3101,17 +3095,11 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.11.84",
-      "PublishingDate": "2020-03-23T00:00:00",
-      "PlanVersions": [
-        "11.4.11.93"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-06T00:00:00"
-      ],
+      "Version": "11.4.11.93",
+      "PublishingDate": "2020-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
