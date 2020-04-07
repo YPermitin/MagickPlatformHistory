@@ -1659,17 +1659,11 @@
     },
     {
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
-      "Version": "2.4.11.83",
-      "PublishingDate": "2020-03-16T00:00:00",
-      "PlanVersions": [
-        "2.4.11.93"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-06T00:00:00"
-      ],
+      "Version": "2.4.11.93",
+      "PublishingDate": "2020-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.2.3.153"
       ],
@@ -2041,17 +2035,11 @@
     },
     {
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
-      "Version": "3.0.75.5",
-      "PublishingDate": "2020-03-13T00:00:00",
-      "PlanVersions": [
-        "3.0.76.68"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-06T00:00:00"
-      ],
+      "Version": "3.0.76.68",
+      "PublishingDate": "2020-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2289,10 +2277,10 @@
         "2.0.83.1"
       ],
       "PlanReleaseDates": [
-        "2020-04-07T00:00:00"
+        "2020-04-09T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-06T00:00:00"
+        "2020-04-07T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
