@@ -209,9 +209,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.11.83",
       "PublishingDate": "2020-03-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.93"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-07T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -1813,9 +1819,15 @@
       "Name": "Автосервис, редакция 1.6",
       "Version": "1.6.19.237",
       "PublishingDate": "2020-03-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.20.94"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
