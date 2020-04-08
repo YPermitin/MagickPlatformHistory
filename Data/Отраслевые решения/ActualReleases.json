@@ -1057,17 +1057,11 @@
     },
     {
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.11.65",
-      "PublishingDate": "2020-03-02T00:00:00",
-      "PlanVersions": [
-        "2.4.11.83"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-07T00:00:00"
-      ],
+      "Version": "2.4.11.83",
+      "PublishingDate": "2020-04-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
