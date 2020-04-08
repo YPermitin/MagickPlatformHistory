@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -88,6 +88,17 @@
       "Name": "Управление торговлей для Казахстана, редакция 3",
       "Version": "3.4.4.57",
       "PublishingDate": "2020-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-08T22:44:02",
+      "Name": "Управление торговлей для Казахстана, редакция 3",
+      "Version": "3.4.4.63",
+      "PublishingDate": "2020-04-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
