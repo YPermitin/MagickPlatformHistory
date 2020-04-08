@@ -3763,8 +3763,8 @@
     },
     {
       "Name": "Турагентство Базовая, редакция 1.6",
-      "Version": "1.6.19.215",
-      "PublishingDate": "2020-02-17T00:00:00",
+      "Version": "1.6.20.94",
+      "PublishingDate": "2020-04-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3803,17 +3803,11 @@
     },
     {
       "Name": "Турагентство, редакция 1.6",
-      "Version": "1.6.19.215",
-      "PublishingDate": "2020-02-17T00:00:00",
-      "PlanVersions": [
-        "1.6.20.94"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-07T00:00:00"
-      ],
+      "Version": "1.6.20.94",
+      "PublishingDate": "2020-04-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4277,9 +4271,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.19.30",
       "PublishingDate": "2020-04-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.19.31"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
