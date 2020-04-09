@@ -4,13 +4,24 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
       "Name": "Документооборот ПРОФ для Беларуси",
       "Version": "2.1.12.2",
       "PublishingDate": "2018-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-09T15:14:17",
+      "Name": "Документооборот ПРОФ для Беларуси",
+      "Version": "2.1.16.1",
+      "PublishingDate": "2020-04-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
