@@ -3,7 +3,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 14,
+  "ReleasesCount": 15,
   "Releases": [
     {
       "Name": "ERP Управление предприятием 2 для Беларуси",
@@ -42,9 +42,19 @@
       "DemoPublicationDates": []
     },
     {
+      "Name": "Документооборот КОРП. Антикризис для Беларуси",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
       "Name": "Документооборот КОРП для Беларуси",
-      "Version": "2.1.14.4",
-      "PublishingDate": "2019-12-26T00:00:00",
+      "Version": "2.1.16.1",
+      "PublishingDate": "2020-04-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
