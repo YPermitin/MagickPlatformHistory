@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 59,
+  "ReleasesCount": 61,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -823,6 +823,34 @@
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
       "Version": "2.0.69.16",
       "PublishingDate": "2020-03-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-10T20:14:14",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.69.16",
+      "PublishingDate": "2020-03-23T00:00:00",
+      "PlanVersions": [
+        "2.0.70.21"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-10T20:44:26",
+      "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
+      "Version": "2.0.70.21",
+      "PublishingDate": "2020-04-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
