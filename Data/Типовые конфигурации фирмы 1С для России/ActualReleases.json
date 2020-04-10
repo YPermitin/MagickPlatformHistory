@@ -341,8 +341,8 @@
     },
     {
       "Name": "1С:Электронное обучение. Экзаменатор",
-      "Version": "3.0.10.70",
-      "PublishingDate": "2019-12-26T00:00:00",
+      "Version": "3.0.11.48",
+      "PublishingDate": "2020-04-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -689,8 +689,8 @@
     },
     {
       "Name": "Документооборот ПРОФ",
-      "Version": "2.1.16.1",
-      "PublishingDate": "2019-12-26T00:00:00",
+      "Version": "2.1.18.11",
+      "PublishingDate": "2020-04-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1202,8 +1202,12 @@
       "PlanUpdateDates": [
         "2020-04-01T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "1.6.20.107"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-10T00:00:00"
+      ]
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.2",
