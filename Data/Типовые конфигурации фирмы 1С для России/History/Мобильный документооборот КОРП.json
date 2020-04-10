@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -33,6 +33,17 @@
       "Name": "Мобильный документооборот КОРП",
       "Version": "2.2.1.16",
       "PublishingDate": "2019-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-11T01:14:16",
+      "Name": "Мобильный документооборот КОРП",
+      "Version": "2.2.2.21",
+      "PublishingDate": "2020-04-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
