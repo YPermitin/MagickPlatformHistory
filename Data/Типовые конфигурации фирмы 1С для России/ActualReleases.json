@@ -729,7 +729,7 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.10.378",
+      "Version": "3.1.13.151",
       "PublishingDate": "2020-04-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
@@ -747,8 +747,8 @@
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-03-31T00:00:00",
-        "2020-03-31T00:00:00"
+        "2020-04-10T00:00:00",
+        "2020-04-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -775,7 +775,7 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 3",
-      "Version": "3.1.10.378",
+      "Version": "3.1.13.151",
       "PublishingDate": "2020-04-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
@@ -793,8 +793,8 @@
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-03-31T00:00:00",
-        "2020-03-31T00:00:00"
+        "2020-04-10T00:00:00",
+        "2020-04-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
