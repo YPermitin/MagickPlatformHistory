@@ -3489,9 +3489,15 @@
       "Name": "Рыбопереработка",
       "Version": "1.3.136.1",
       "PublishingDate": "2020-04-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.137.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
