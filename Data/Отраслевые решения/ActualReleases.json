@@ -777,17 +777,11 @@
     },
     {
       "Name": "1С:Общепит КОРП",
-      "Version": "3.0.76.73",
-      "PublishingDate": "2020-04-02T00:00:00",
-      "PlanVersions": [
-        "3.0.76.77"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-02T00:00:00"
-      ],
+      "Version": "3.0.76.77",
+      "PublishingDate": "2020-04-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
