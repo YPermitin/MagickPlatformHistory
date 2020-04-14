@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 23,
+  "ReleasesCount": 24,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -322,6 +322,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-14T10:14:05",
+      "Name": "1С:Механизм XBRL для НПФ. Модуль к 1С:УПЦБ КОРП",
+      "Version": "1.0.8.6",
+      "PublishingDate": "2020-01-28T00:00:00",
+      "PlanVersions": [
+        "1.0.9.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
