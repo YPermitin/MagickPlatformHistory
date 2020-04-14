@@ -689,17 +689,11 @@
     },
     {
       "Name": "1С:Механизм XBRL для НПФ. Модуль к 1С:УПЦБ КОРП",
-      "Version": "1.0.8.6",
-      "PublishingDate": "2020-01-28T00:00:00",
-      "PlanVersions": [
-        "1.0.9.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-14T00:00:00"
-      ],
+      "Version": "1.0.9.1",
+      "PublishingDate": "2020-04-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
