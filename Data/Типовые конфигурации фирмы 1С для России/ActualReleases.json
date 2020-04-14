@@ -39,9 +39,15 @@
       "Name": "1С:ERP Управление предприятием 2",
       "Version": "2.4.11.93",
       "PublishingDate": "2020-04-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-14T00:00:00"
+      ],
       "DemoVersions": [
         "2.5.4.102",
         "2.5.4.94",
@@ -247,8 +253,8 @@
     },
     {
       "Name": "1С:Управление холдингом 3.0",
-      "Version": "3.0.10.15",
-      "PublishingDate": "2020-03-27T00:00:00",
+      "Version": "3.0.10.18",
+      "PublishingDate": "2020-04-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -791,9 +797,15 @@
       "Name": "Комплексная автоматизация, редакция 2",
       "Version": "2.4.11.92",
       "PublishingDate": "2020-04-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1227,9 +1239,15 @@
       "Name": "Управление торговлей, редакция 11",
       "Version": "11.4.11.93",
       "PublishingDate": "2020-04-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
