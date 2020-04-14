@@ -466,16 +466,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.77.32",
-        "3.0.77.30",
-        "3.0.77.27"
-      ],
-      "DemoPublicationDates": [
-        "2020-04-08T00:00:00",
-        "2020-04-07T00:00:00",
-        "2020-04-02T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -494,16 +486,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.77.32",
-        "3.0.77.30",
-        "3.0.77.27"
-      ],
-      "DemoPublicationDates": [
-        "2020-04-08T00:00:00",
-        "2020-04-07T00:00:00",
-        "2020-04-02T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -522,16 +506,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.77.32",
-        "3.0.77.30",
-        "3.0.77.27"
-      ],
-      "DemoPublicationDates": [
-        "2020-04-08T00:00:00",
-        "2020-04-07T00:00:00",
-        "2020-04-02T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -550,16 +526,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.77.32",
-        "3.0.77.30",
-        "3.0.77.27"
-      ],
-      "DemoPublicationDates": [
-        "2020-04-08T00:00:00",
-        "2020-04-07T00:00:00",
-        "2020-04-02T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бюджетная отчетность",
@@ -1131,8 +1099,8 @@
     },
     {
       "Name": "Управление нашей фирмой базовая, редакция 1.6",
-      "Version": "1.6.20.94",
-      "PublishingDate": "2020-03-31T00:00:00",
+      "Version": "1.6.20.107",
+      "PublishingDate": "2020-04-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1191,8 +1159,8 @@
     },
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
-      "Version": "1.6.20.107",
-      "PublishingDate": "2020-04-14T00:00:00",
+      "Version": "1.6.20.94",
+      "PublishingDate": "2020-03-31T00:00:00",
       "PlanVersions": [
         "1.6.21"
       ],
