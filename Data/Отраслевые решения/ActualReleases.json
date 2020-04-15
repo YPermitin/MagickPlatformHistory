@@ -311,8 +311,8 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.76.77",
-      "PublishingDate": "2020-04-03T00:00:00",
+      "Version": "3.0.77.45",
+      "PublishingDate": "2020-04-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -321,8 +321,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.76.77",
-      "PublishingDate": "2020-04-10T00:00:00",
+      "Version": "3.0.77.45",
+      "PublishingDate": "2020-04-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4441,9 +4441,15 @@
       "Name": "Фитнес клуб КОРП, редакция 4.0",
       "Version": "4.0.13.5",
       "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.14"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
