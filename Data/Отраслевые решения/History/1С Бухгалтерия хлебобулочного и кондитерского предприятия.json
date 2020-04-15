@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 59,
+  "ReleasesCount": 60,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -715,6 +715,17 @@
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
       "Version": "3.0.76.77",
       "PublishingDate": "2020-04-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-15T21:44:02",
+      "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
+      "Version": "3.0.77.45",
+      "PublishingDate": "2020-04-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
