@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 12,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -151,6 +151,17 @@
       "Name": "Управление производственным предприятием для Казахстана",
       "Version": "1.3.20.1",
       "PublishingDate": "2020-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-15T13:44:12",
+      "Name": "Управление производственным предприятием для Казахстана",
+      "Version": "1.3.20.2",
+      "PublishingDate": "2020-04-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
