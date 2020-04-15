@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 12,
+  "ReleasesCount": 13,
   "ReleasesHistory": [
     {
       "Created": "2019-01-25T15:18:21",
@@ -193,6 +193,27 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.0.2.1"
+      ],
+      "DemoPublicationDates": [
+        "2019-10-01T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-04-15T14:44:12",
+      "Name": "1С:Медицина. Больница, редакция 2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "2.0.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-15T00:00:00"
+      ],
       "DemoVersions": [
         "2.0.2.1"
       ],
