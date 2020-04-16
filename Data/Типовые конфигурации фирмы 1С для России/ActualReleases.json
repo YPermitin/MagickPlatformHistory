@@ -661,8 +661,8 @@
     },
     {
       "Name": "Документооборот КОРП (русский и английский интерфейс)",
-      "Version": "2.1.16.1",
-      "PublishingDate": "2019-12-31T00:00:00",
+      "Version": "2.1.18.11",
+      "PublishingDate": "2020-04-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1215,8 +1215,8 @@
     },
     {
       "Name": "Управление торговлей базовая, редакция 10.3",
-      "Version": "10.3.60.3",
-      "PublishingDate": "2020-03-26T00:00:00",
+      "Version": "10.3.61.1",
+      "PublishingDate": "2020-04-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1235,8 +1235,8 @@
     },
     {
       "Name": "Управление торговлей, редакция 10.3",
-      "Version": "10.3.60.3",
-      "PublishingDate": "2020-03-26T00:00:00",
+      "Version": "10.3.61.1",
+      "PublishingDate": "2020-04-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
