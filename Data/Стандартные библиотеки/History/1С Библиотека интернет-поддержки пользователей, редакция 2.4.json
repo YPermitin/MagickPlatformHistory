@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 18,
+  "ReleasesCount": 19,
   "ReleasesHistory": [
     {
       "Created": "2019-03-25T19:54:27",
@@ -222,6 +222,17 @@
       "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
       "Version": "2.4.2.37",
       "PublishingDate": "2020-04-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-16T23:44:08",
+      "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.4",
+      "Version": "2.4.1.57",
+      "PublishingDate": "2020-04-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
