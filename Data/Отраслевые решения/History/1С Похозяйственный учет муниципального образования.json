@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 22,
+  "ReleasesCount": 23,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -314,6 +314,17 @@
       "Name": "1С:Похозяйственный учет муниципального образования",
       "Version": "2.0.1.28",
       "PublishingDate": "2020-02-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-17T16:44:05",
+      "Name": "1С:Похозяйственный учет муниципального образования",
+      "Version": "2.0.1.29",
+      "PublishingDate": "2020-04-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
