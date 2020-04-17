@@ -4,7 +4,7 @@
     "ID": 1014,
     "Name": "Международные конфигурации"
   },
-  "ReleasesCount": 6,
+  "ReleasesCount": 7,
   "ReleasesHistory": [
     {
       "Created": "2019-10-31T14:42:10",
@@ -86,6 +86,23 @@
       ],
       "PlanUpdateDates": [
         "2020-04-16T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-17T12:44:06",
+      "Name": "1С:ERP WE, бета-версия",
+      "Version": "2.5.3.113",
+      "PublishingDate": "2019-12-30T00:00:00",
+      "PlanVersions": [
+        "2.5.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
