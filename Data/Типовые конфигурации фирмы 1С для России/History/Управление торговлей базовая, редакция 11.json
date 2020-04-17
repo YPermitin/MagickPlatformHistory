@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 23,
+  "ReleasesCount": 24,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -253,6 +253,17 @@
       "Name": "Управление торговлей базовая, редакция 11",
       "Version": "11.4.11.93",
       "PublishingDate": "2020-04-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-17T20:14:05",
+      "Name": "Управление торговлей базовая, редакция 11",
+      "Version": "11.4.11.98",
+      "PublishingDate": "2020-04-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
