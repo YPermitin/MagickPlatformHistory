@@ -1693,9 +1693,15 @@
       "Name": "ERP Управление строительной организацией 2.0",
       "Version": "2.4.11.92",
       "PublishingDate": "2020-04-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.93"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
