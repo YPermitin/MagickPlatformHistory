@@ -1095,17 +1095,11 @@
     },
     {
       "Name": "1С:Ресторан.Фронт-офис",
-      "Version": "2.3.3.19",
-      "PublishingDate": "2020-03-11T00:00:00",
-      "PlanVersions": [
-        "2.3.3.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-08T00:00:00"
-      ],
+      "Version": "2.3.3.31",
+      "PublishingDate": "2020-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1221,17 +1215,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
-      "Version": "3.0.75.101",
-      "PublishingDate": "2020-03-20T00:00:00",
-      "PlanVersions": [
-        "3.0.76.73"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-15T00:00:00"
-      ],
+      "Version": "3.0.76.73",
+      "PublishingDate": "2020-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1425,17 +1413,11 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
-      "Version": "2.3.3.19",
-      "PublishingDate": "2020-03-05T00:00:00",
-      "PlanVersions": [
-        "2.3.3.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-08T00:00:00"
-      ],
+      "Version": "2.3.3.31",
+      "PublishingDate": "2020-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1691,17 +1673,11 @@
     },
     {
       "Name": "ERP Управление строительной организацией 2.0",
-      "Version": "2.4.11.92",
-      "PublishingDate": "2020-04-13T00:00:00",
-      "PlanVersions": [
-        "2.4.11.93"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
-      ],
+      "Version": "2.4.11.93",
+      "PublishingDate": "2020-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
