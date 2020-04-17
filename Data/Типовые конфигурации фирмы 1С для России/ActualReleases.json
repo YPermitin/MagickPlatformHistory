@@ -283,8 +283,8 @@
     },
     {
       "Name": "1С:Учет обращений ПРОФ",
-      "Version": "1.0.4.1",
-      "PublishingDate": "2018-11-14T00:00:00",
+      "Version": "1.0.5.2",
+      "PublishingDate": "2020-04-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -293,17 +293,13 @@
     },
     {
       "Name": "1С:Электронное обучение. Веб-кабинет преподавателя и студента",
-      "Version": "2.0.2.1067",
-      "PublishingDate": "2019-09-09T00:00:00",
+      "Version": "3.0.1.52",
+      "PublishingDate": "2020-04-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.1.17"
-      ],
-      "DemoPublicationDates": [
-        "2020-01-31T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Электронное обучение. Конструктор курсов. Базовая версия",
