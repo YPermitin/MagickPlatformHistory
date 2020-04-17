@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 33,
+  "ReleasesCount": 34,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -474,6 +474,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-17T15:44:05",
+      "Name": "Управление корпоративными финансами, редакция 2.1 для Технологической платформы 8.2",
+      "Version": "2.1.66.38",
+      "PublishingDate": "2020-03-26T00:00:00",
+      "PlanVersions": [
+        "2.1.66.39"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
