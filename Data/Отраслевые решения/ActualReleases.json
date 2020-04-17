@@ -2663,17 +2663,11 @@
     },
     {
       "Name": "Ликероводочный и винный завод, редакция 1.3",
-      "Version": "1.3.137.2",
-      "PublishingDate": "2020-04-14T00:00:00",
-      "PlanVersions": [
-        "1.3.138.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-16T00:00:00"
-      ],
+      "Version": "1.3.138.1",
+      "PublishingDate": "2020-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
