@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -98,6 +98,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-17T17:14:17",
+      "Name": "CRM для Беларуси, редакция 3.0",
+      "Version": "3.0.16.7",
+      "PublishingDate": "2019-07-26T00:00:00",
+      "PlanVersions": [
+        "3.0.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
