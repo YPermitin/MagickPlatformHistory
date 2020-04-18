@@ -821,9 +821,15 @@
       "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
       "Version": "2.4.11.83",
       "PublishingDate": "2020-03-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.98"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -831,9 +837,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.103",
       "PublishingDate": "2020-04-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4039,8 +4051,8 @@
     },
     {
       "Name": "Управление мукомольно-крупяным предприятием",
-      "Version": "1.3.137.2",
-      "PublishingDate": "2020-04-10T00:00:00",
+      "Version": "1.3.138.1",
+      "PublishingDate": "2020-04-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
