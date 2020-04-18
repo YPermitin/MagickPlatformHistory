@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 58,
+  "ReleasesCount": 59,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -764,6 +764,17 @@
       "Name": "Управление мукомольно-крупяным предприятием",
       "Version": "1.3.137.2",
       "PublishingDate": "2020-04-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-18T19:14:10",
+      "Name": "Управление мукомольно-крупяным предприятием",
+      "Version": "1.3.138.1",
+      "PublishingDate": "2020-04-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
