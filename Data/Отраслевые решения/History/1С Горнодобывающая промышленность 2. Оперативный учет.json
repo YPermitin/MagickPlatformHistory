@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 12,
+  "ReleasesCount": 13,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -171,6 +171,17 @@
       "PlanUpdateDates": [
         "2020-04-16T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-20T14:14:33",
+      "Name": "1С:Горнодобывающая промышленность 2. Оперативный учет",
+      "Version": "1.1.4.16",
+      "PublishingDate": "2020-04-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
