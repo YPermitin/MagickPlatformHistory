@@ -319,9 +319,15 @@
       "Name": "Управление торговым предприятием для Казахстана, редакция 2.0",
       "Version": "2.0.19.2",
       "PublishingDate": "2020-02-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.20"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
