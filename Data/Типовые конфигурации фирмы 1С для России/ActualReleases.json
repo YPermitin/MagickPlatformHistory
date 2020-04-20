@@ -492,8 +492,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.52"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-20T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -536,8 +540,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.52"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-20T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
