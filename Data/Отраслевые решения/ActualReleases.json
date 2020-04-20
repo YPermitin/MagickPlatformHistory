@@ -233,9 +233,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Version": "3.0.45.52",
       "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.45.53"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1267,8 +1273,8 @@
     },
     {
       "Name": "1С:Управление недвижимостью и арендой КОРП",
-      "Version": "3.0.76.77",
-      "PublishingDate": "2020-04-13T00:00:00",
+      "Version": "3.0.77.45",
+      "PublishingDate": "2020-04-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
