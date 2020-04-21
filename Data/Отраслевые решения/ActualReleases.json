@@ -4072,9 +4072,15 @@
       "Name": "Управление по целям и KPI, редакция 2.0",
       "Version": "2.1.7.4",
       "PublishingDate": "2020-01-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.7.5"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
