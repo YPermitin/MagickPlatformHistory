@@ -4184,9 +4184,15 @@
       "Name": "Управление ремонтным предприятием, редакция 1.3",
       "Version": "1.3.137.1",
       "PublishingDate": "2020-04-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.138.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
