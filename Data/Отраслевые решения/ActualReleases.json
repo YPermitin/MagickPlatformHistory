@@ -3336,17 +3336,11 @@
     },
     {
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
-      "Version": "2.3.3.25",
-      "PublishingDate": "2020-03-26T00:00:00",
-      "PlanVersions": [
-        "2.3.3.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
-      ],
+      "Version": "2.3.3.31",
+      "PublishingDate": "2020-04-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4458,17 +4452,11 @@
     },
     {
       "Name": "Фитнес клуб, редакция 4.0",
-      "Version": "4.0.13.1",
-      "PublishingDate": "2019-08-22T00:00:00",
-      "PlanVersions": [
-        "4.0.14"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-16T00:00:00"
-      ],
+      "Version": "4.0.14.15",
+      "PublishingDate": "2020-04-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
