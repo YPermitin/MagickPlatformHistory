@@ -109,9 +109,15 @@
       "Name": "1С-Рейтинг: Общепит базовая",
       "Version": "2.0.40.1",
       "PublishingDate": "2020-02-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.41.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -119,9 +125,15 @@
       "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
       "Version": "3.0.31.5",
       "PublishingDate": "2020-03-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.32.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
