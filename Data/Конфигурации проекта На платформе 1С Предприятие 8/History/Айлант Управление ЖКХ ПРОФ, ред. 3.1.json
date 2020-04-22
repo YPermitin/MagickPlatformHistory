@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 40,
+  "ReleasesCount": 41,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -557,6 +557,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-22T12:44:08",
+      "Name": "Айлант: Управление ЖКХ  ПРОФ, ред. 3.1",
+      "Version": "3.1.76.73",
+      "PublishingDate": "2020-04-07T00:00:00",
+      "PlanVersions": [
+        "3.1.77.45"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
