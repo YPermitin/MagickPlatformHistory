@@ -279,9 +279,15 @@
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
       "Version": "3.0.76.77",
       "PublishingDate": "2020-04-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.52"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -289,9 +295,15 @@
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
       "Version": "3.0.76.77",
       "PublishingDate": "2020-04-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.52"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -303,10 +315,10 @@
         "3.0.77.10"
       ],
       "PlanReleaseDates": [
-        "2020-04-22T00:00:00"
+        "2020-04-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-22T00:00:00"
+        "2020-04-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -319,10 +331,10 @@
         "3.0.77.10"
       ],
       "PlanReleaseDates": [
-        "2020-04-22T00:00:00"
+        "2020-04-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-22T00:00:00"
+        "2020-04-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1367,33 +1379,21 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.76.4",
-      "PublishingDate": "2020-04-06T00:00:00",
-      "PlanVersions": [
-        "3.0.77.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-22T00:00:00"
-      ],
+      "Version": "3.0.77.1",
+      "PublishingDate": "2020-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
-      "Version": "3.0.76.4",
-      "PublishingDate": "2020-04-06T00:00:00",
-      "PlanVersions": [
-        "3.0.77.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-22T00:00:00"
-      ],
+      "Version": "3.0.77.1",
+      "PublishingDate": "2020-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1405,10 +1405,10 @@
         "3.0.76.76"
       ],
       "PlanReleaseDates": [
-        "2020-04-22T00:00:00"
+        "2020-04-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-20T00:00:00"
+        "2020-04-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1685,17 +1685,11 @@
     },
     {
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
-      "Version": "2.4.11.93",
-      "PublishingDate": "2020-04-06T00:00:00",
-      "PlanVersions": [
-        "2.4.11.98"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-22T00:00:00"
-      ],
+      "Version": "2.4.11.98",
+      "PublishingDate": "2020-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.2.3.153"
       ],
@@ -1967,8 +1961,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.70.21",
-      "PublishingDate": "2020-04-10T00:00:00",
+      "Version": "2.0.70.37",
+      "PublishingDate": "2020-04-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2145,9 +2139,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
       "Version": "3.0.76.77",
       "PublishingDate": "2020-04-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.52"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2203,8 +2203,8 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.77.45",
-      "PublishingDate": "2020-04-14T00:00:00",
+      "Version": "3.1.77.52",
+      "PublishingDate": "2020-04-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4044,17 +4044,11 @@
     },
     {
       "Name": "Управление корпоративными финансами, редакция 2.1 для Технологической платформы 8.2",
-      "Version": "2.1.66.38",
-      "PublishingDate": "2020-03-26T00:00:00",
-      "PlanVersions": [
-        "2.1.66.39"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
-      ],
+      "Version": "2.1.66.39",
+      "PublishingDate": "2020-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4120,17 +4114,11 @@
     },
     {
       "Name": "Управление по целям и KPI, редакция 2.0",
-      "Version": "2.1.7.4",
-      "PublishingDate": "2020-01-21T00:00:00",
-      "PlanVersions": [
-        "2.1.7.5"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-21T00:00:00"
-      ],
+      "Version": "2.1.7.5",
+      "PublishingDate": "2020-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
