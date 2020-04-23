@@ -105,17 +105,13 @@
     },
     {
       "Name": "1С:Сценарное тестирование 8",
-      "Version": "3.0.20.1",
-      "PublishingDate": "2019-12-27T00:00:00",
+      "Version": "3.0.21.1",
+      "PublishingDate": "2020-04-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.21.1"
-      ],
-      "DemoPublicationDates": [
-        "2020-04-20T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "IBM DB2 Express-C",
