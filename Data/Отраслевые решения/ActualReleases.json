@@ -3168,9 +3168,15 @@
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
       "Version": "11.4.11.93",
       "PublishingDate": "2020-04-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.11.98"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
