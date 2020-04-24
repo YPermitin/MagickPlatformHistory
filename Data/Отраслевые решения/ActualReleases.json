@@ -239,9 +239,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Version": "3.0.45.53",
       "PublishingDate": "2020-04-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.45.54"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -831,9 +837,15 @@
       "Name": "1С:Мясопереработка MES. Модуль для 1С:ERP",
       "Version": "2.4.11.71",
       "PublishingDate": "2020-03-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.98"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -961,8 +973,8 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
-      "Version": "2.0.66.104",
-      "PublishingDate": "2020-04-17T00:00:00",
+      "Version": "2.0.66.105",
+      "PublishingDate": "2020-04-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2227,9 +2239,15 @@
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
       "Version": "2.0.66.104",
       "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.105"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
