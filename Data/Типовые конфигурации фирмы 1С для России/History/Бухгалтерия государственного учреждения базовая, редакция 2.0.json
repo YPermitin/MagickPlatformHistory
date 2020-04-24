@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 41,
+  "ReleasesCount": 42,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -451,6 +451,17 @@
       "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
       "Version": "2.0.70.37",
       "PublishingDate": "2020-04-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-24T18:14:02",
+      "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
+      "Version": "2.0.70.43",
+      "PublishingDate": "2020-04-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
