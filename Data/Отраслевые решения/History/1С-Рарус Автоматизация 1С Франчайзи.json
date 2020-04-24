@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 35,
+  "ReleasesCount": 36,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -473,6 +473,23 @@
       ],
       "PlanUpdateDates": [
         "2020-04-24T00:00:00",
+        "2020-04-24T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-24T18:14:02",
+      "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
+      "Version": "2.1.50.3",
+      "PublishingDate": "2020-04-24T00:00:00",
+      "PlanVersions": [
+        "2.1.51.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
         "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
