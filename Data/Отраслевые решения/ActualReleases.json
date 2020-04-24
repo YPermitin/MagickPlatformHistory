@@ -67,17 +67,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.11.93",
-      "PublishingDate": "2020-04-09T00:00:00",
-      "PlanVersions": [
-        "2.4.11.98"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-22T00:00:00"
-      ],
+      "Version": "2.4.11.98",
+      "PublishingDate": "2020-04-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2162,9 +2156,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана",
       "Version": "2.0.32.4",
       "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.33.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3103,9 +3103,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.76.67",
       "PublishingDate": "2020-04-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.45"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3129,9 +3135,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
       "Version": "3.0.76.67",
       "PublishingDate": "2020-04-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.45"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4067,7 +4079,7 @@
         "1.3.136.1"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-28T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-04-24T00:00:00"
@@ -4329,7 +4341,7 @@
         "1.3.136.1"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-28T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-04-24T00:00:00"
@@ -4451,9 +4463,15 @@
       "Name": "Управляющий базовая, для Технологической платформы 8.2, 8.3",
       "Version": "2.1.2.1",
       "PublishingDate": "2020-03-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
