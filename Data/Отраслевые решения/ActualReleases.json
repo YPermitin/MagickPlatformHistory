@@ -315,10 +315,10 @@
         "3.0.77.10"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -331,10 +331,10 @@
         "3.0.77.10"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -403,9 +403,15 @@
       "Name": "1С:Горнодобывающая промышленность 2. Модуль для 1С:ERP",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.4.16"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2691,9 +2697,15 @@
       "Name": "Ликероводочный и винный завод, редакция 1.3",
       "Version": "1.3.138.1",
       "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.138.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2900,9 +2912,15 @@
       "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
       "Version": "1.3.138.1",
       "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.138.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3064,10 +3082,10 @@
         "2.0.66.101"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3090,10 +3108,10 @@
         "2.0.66.101"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4040,10 +4058,10 @@
         "1.3.136.1"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-21T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4308,10 +4326,10 @@
         "1.3.136.1"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-21T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4534,10 +4552,10 @@
         "4.0.14"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-21T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
