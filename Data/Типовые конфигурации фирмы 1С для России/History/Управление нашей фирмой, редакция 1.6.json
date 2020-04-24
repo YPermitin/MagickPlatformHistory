@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 97,
+  "ReleasesCount": 98,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -2004,6 +2004,23 @@
       "DemoPublicationDates": [
         "2020-04-22T00:00:00"
       ]
+    },
+    {
+      "Created": "2020-04-24T12:44:08",
+      "Name": "Управление нашей фирмой, редакция 1.6",
+      "Version": "1.6.20.123",
+      "PublishingDate": "2020-04-24T00:00:00",
+      "PlanVersions": [
+        "1.6.21"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-01T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
