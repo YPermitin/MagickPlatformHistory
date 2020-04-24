@@ -280,13 +280,13 @@
       "Version": "3.0.76.77",
       "PublishingDate": "2020-04-13T00:00:00",
       "PlanVersions": [
-        "3.0.77.52"
+        "3.0.77.56"
       ],
       "PlanReleaseDates": [
         "2020-04-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1133,18 +1133,15 @@
     },
     {
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
-      "Version": "2.1.49.4",
-      "PublishingDate": "2020-03-12T00:00:00",
+      "Version": "2.1.50.3",
+      "PublishingDate": "2020-04-24T00:00:00",
       "PlanVersions": [
-        "2.1.51.1",
-        "2.1.50.3"
+        "2.1.51.1"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00",
         "2020-04-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-24T00:00:00",
         "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
@@ -2203,13 +2200,13 @@
       "Version": "3.0.76.77",
       "PublishingDate": "2020-04-13T00:00:00",
       "PlanVersions": [
-        "3.0.77.52"
+        "3.0.77.56"
       ],
       "PlanReleaseDates": [
         "2020-04-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3117,17 +3114,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 2.0",
-      "Version": "2.0.66.100",
-      "PublishingDate": "2020-04-01T00:00:00",
-      "PlanVersions": [
-        "2.0.66.101"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-24T00:00:00"
-      ],
+      "Version": "2.0.66.101",
+      "PublishingDate": "2020-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4509,9 +4500,15 @@
       "Name": "Управляющий. Стандарт, для Технологической платформы 8.2, 8.3",
       "Version": "2.1.2.1",
       "PublishingDate": "2020-03-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
