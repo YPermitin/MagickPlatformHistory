@@ -1,0 +1,21 @@
+{
+  "Name": "1С:Кладовщик для ИТС",
+  "Category": {
+    "ID": 4,
+    "Name": "Типовые конфигурации фирмы \"1С\" для России"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-04-27T12:14:04",
+      "Name": "1С:Кладовщик для ИТС",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
