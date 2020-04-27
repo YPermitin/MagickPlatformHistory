@@ -231,17 +231,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
-      "Version": "3.0.45.53",
-      "PublishingDate": "2020-04-21T00:00:00",
-      "PlanVersions": [
-        "3.0.45.54"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-24T00:00:00"
-      ],
+      "Version": "3.0.45.54",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2345,17 +2339,11 @@
     },
     {
       "Name": "Воинская часть, редакция 2.0",
-      "Version": "2.0.83.1",
-      "PublishingDate": "2020-04-08T00:00:00",
-      "PlanVersions": [
-        "2.0.84.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
-      ],
+      "Version": "2.0.84.1",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4252,8 +4240,8 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.20.107",
-      "PublishingDate": "2020-04-20T00:00:00",
+      "Version": "1.6.20.123",
+      "PublishingDate": "2020-04-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
