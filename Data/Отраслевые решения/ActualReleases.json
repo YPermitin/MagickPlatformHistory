@@ -249,9 +249,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4",
       "Version": "4.1.1.1",
       "PublishingDate": "2020-04-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.1.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -315,10 +321,10 @@
         "3.0.77.10"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -331,10 +337,10 @@
         "3.0.77.10"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -705,10 +711,10 @@
         "3.0.3"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-22T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "DemoVersions": [
         "3.0.2.1"
@@ -1080,13 +1086,13 @@
       "Version": "1.6.20.94",
       "PublishingDate": "2020-04-17T00:00:00",
       "PlanVersions": [
-        "1.6.20.107"
+        "1.6.20.123"
       ],
       "PlanReleaseDates": [
-        "2020-04-29T00:00:00"
+        "2020-05-13T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1453,10 +1459,10 @@
         "3.0.76.76"
       ],
       "PlanReleaseDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1979,17 +1985,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
-      "Version": "3.0.77.45",
-      "PublishingDate": "2020-04-16T00:00:00",
-      "PlanVersions": [
-        "3.0.77.56"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-27T00:00:00"
-      ],
+      "Version": "3.0.77.56",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3252,10 +3252,10 @@
         "2.3.3.31"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4582,10 +4582,10 @@
         "4.0.14"
       ],
       "PlanReleaseDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-24T00:00:00"
+        "2020-04-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
