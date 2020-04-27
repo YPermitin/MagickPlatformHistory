@@ -1453,17 +1453,11 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.75.108",
-      "PublishingDate": "2020-04-14T00:00:00",
-      "PlanVersions": [
-        "3.0.76.76"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-27T00:00:00"
-      ],
+      "Version": "3.0.76.76",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4656,17 +4650,11 @@
     },
     {
       "Name": "Хлебобулочное и кондитерское производство, редакция 1.3",
-      "Version": "1.3.138.1",
-      "PublishingDate": "2020-04-19T00:00:00",
-      "PlanVersions": [
-        "1.3.138.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-27T00:00:00"
-      ],
+      "Version": "1.3.138.2",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
