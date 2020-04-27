@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-28T19:50:47",
@@ -323,6 +323,17 @@
       "Name": "Бухгалтерия некоммерческой организации",
       "Version": "3.0.77.14",
       "PublishingDate": "2020-04-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-28T00:44:03",
+      "Name": "Бухгалтерия некоммерческой организации",
+      "Version": "3.0.77.16",
+      "PublishingDate": "2020-04-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
