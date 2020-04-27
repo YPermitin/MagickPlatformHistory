@@ -2840,17 +2840,11 @@
     },
     {
       "Name": "Мясокомбинат 8, редакция 1.3",
-      "Version": "1.3.138.1",
-      "PublishingDate": "2020-04-21T00:00:00",
-      "PlanVersions": [
-        "1.3.138.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-25T00:00:00"
-      ],
+      "Version": "1.3.138.2",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3396,17 +3390,11 @@
     },
     {
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
-      "Version": "2.3.3.25",
-      "PublishingDate": "2020-03-31T00:00:00",
-      "PlanVersions": [
-        "2.3.3.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
-      ],
+      "Version": "2.3.3.31",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
