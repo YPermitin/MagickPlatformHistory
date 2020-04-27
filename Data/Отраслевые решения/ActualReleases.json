@@ -277,17 +277,11 @@
     },
     {
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
-      "Version": "3.0.76.77",
-      "PublishingDate": "2020-04-13T00:00:00",
-      "PlanVersions": [
-        "3.0.77.56"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-24T00:00:00"
-      ],
+      "Version": "3.0.77.56",
+      "PublishingDate": "2020-04-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
