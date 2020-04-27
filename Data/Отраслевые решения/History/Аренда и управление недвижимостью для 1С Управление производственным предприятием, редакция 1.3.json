@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 60,
+  "ReleasesCount": 61,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -825,6 +825,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-04-27T11:14:04",
+      "Name": "Аренда и управление недвижимостью для 1С:Управление производственным предприятием, редакция 1.3",
+      "Version": "1.3.137.2",
+      "PublishingDate": "2020-04-17T00:00:00",
+      "PlanVersions": [
+        "1.3.138.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-04-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-04-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
