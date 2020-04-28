@@ -303,17 +303,11 @@
     },
     {
       "Name": "1С:Бухгалтерия СНТ",
-      "Version": "3.0.76.11",
-      "PublishingDate": "2020-04-01T00:00:00",
-      "PlanVersions": [
-        "3.0.77.10"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-28T00:00:00"
-      ],
+      "Version": "3.0.77.10",
+      "PublishingDate": "2020-04-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1357,17 +1351,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.72",
-      "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [
-        "2.0.66.73"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-23T00:00:00"
-      ],
+      "Version": "2.0.66.73",
+      "PublishingDate": "2020-04-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
