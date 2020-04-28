@@ -1663,17 +1663,11 @@
     },
     {
       "Name": "ERP Управление строительной организацией 2.0",
-      "Version": "2.4.11.93",
-      "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [
-        "2.4.11.98"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-28T00:00:00"
-      ],
+      "Version": "2.4.11.98",
+      "PublishingDate": "2020-04-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2675,11 +2669,11 @@
       ],
       "PlanReleaseDates": [
         "2020-04-30T00:00:00",
-        "2020-04-28T00:00:00"
+        "2020-04-29T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-04-20T00:00:00",
-        "2020-04-27T00:00:00"
+        "2020-04-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3200,10 +3194,10 @@
         "2.3.3.31"
       ],
       "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
+        "2020-04-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
+        "2020-04-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3524,10 +3518,10 @@
         "2.3.3.31"
       ],
       "PlanReleaseDates": [
-        "2020-04-27T00:00:00"
+        "2020-04-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
+        "2020-04-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
