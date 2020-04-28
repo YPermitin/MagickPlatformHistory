@@ -1883,10 +1883,10 @@
         "2.2.10.2"
       ],
       "PlanReleaseDates": [
-        "2020-04-29T00:00:00"
+        "2020-04-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-20T00:00:00"
+        "2020-04-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2073,17 +2073,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана",
-      "Version": "2.0.32.4",
-      "PublishingDate": "2020-02-10T00:00:00",
-      "PlanVersions": [
-        "2.0.33.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-24T00:00:00"
-      ],
+      "Version": "2.0.33.3",
+      "PublishingDate": "2020-04-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
