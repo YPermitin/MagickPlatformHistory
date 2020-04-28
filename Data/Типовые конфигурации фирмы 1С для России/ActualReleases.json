@@ -435,8 +435,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения",
-      "Version": "1.0.62.2",
-      "PublishingDate": "2020-04-14T00:00:00",
+      "Version": "1.0.62.3",
+      "PublishingDate": "2020-04-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -445,8 +445,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая",
-      "Version": "1.0.62.2",
-      "PublishingDate": "2020-04-14T00:00:00",
+      "Version": "1.0.62.3",
+      "PublishingDate": "2020-04-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -769,8 +769,8 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
-      "Version": "2.5.149.4",
-      "PublishingDate": "2020-04-06T00:00:00",
+      "Version": "2.5.150.1",
+      "PublishingDate": "2020-04-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
