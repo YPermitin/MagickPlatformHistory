@@ -1981,17 +1981,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.77.52",
-      "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [
-        "3.0.77.56"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-29T00:00:00"
-      ],
+      "Version": "3.0.77.56",
+      "PublishingDate": "2020-04-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2668,12 +2662,12 @@
         "2.4.11.91"
       ],
       "PlanReleaseDates": [
-        "2020-04-30T00:00:00",
-        "2020-04-29T00:00:00"
+        "2020-05-07T00:00:00",
+        "2020-04-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-20T00:00:00",
-        "2020-04-28T00:00:00"
+        "2020-04-29T00:00:00",
+        "2020-04-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3406,10 +3400,10 @@
         "2.3.3.31"
       ],
       "PlanReleaseDates": [
-        "2020-04-29T00:00:00"
+        "2020-04-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
+        "2020-04-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
