@@ -220,8 +220,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.22"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-29T00:00:00"
+      ]
     },
     {
       "Name": "1С:Садовод (базовая версия)",
@@ -500,8 +504,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.71"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-29T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -520,8 +528,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.71"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-29T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -540,8 +552,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.71"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-29T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -560,8 +576,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.71"
+      ],
+      "DemoPublicationDates": [
+        "2020-04-29T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
@@ -827,8 +847,8 @@
     },
     {
       "Name": "Комплексная автоматизация, редакция 2",
-      "Version": "2.4.11.98",
-      "PublishingDate": "2020-04-17T00:00:00",
+      "Version": "2.4.11.100",
+      "PublishingDate": "2020-04-29T00:00:00",
       "PlanVersions": [
         "2.4.12"
       ],
