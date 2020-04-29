@@ -3922,17 +3922,11 @@
     },
     {
       "Name": "Управление аптечной сетью, редакция 11.4",
-      "Version": "11.4.11.93",
-      "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [
-        "11.4.11.98"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-17T00:00:00"
-      ],
+      "Version": "11.4.11.98",
+      "PublishingDate": "2020-04-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
