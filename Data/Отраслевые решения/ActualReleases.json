@@ -1275,17 +1275,11 @@
     },
     {
       "Name": "1С:Управление недвижимостью и арендой КОРП",
-      "Version": "3.0.77.45",
-      "PublishingDate": "2020-04-20T00:00:00",
-      "PlanVersions": [
-        "3.0.77.56"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-30T00:00:00"
-      ],
+      "Version": "3.0.77.56",
+      "PublishingDate": "2020-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
