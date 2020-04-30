@@ -1235,8 +1235,8 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
-      "Version": "3.0.76.73",
-      "PublishingDate": "2020-04-17T00:00:00",
+      "Version": "3.0.77.45",
+      "PublishingDate": "2020-04-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1679,17 +1679,11 @@
     },
     {
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
-      "Version": "1.2.3.1",
-      "PublishingDate": "2020-03-16T00:00:00",
-      "PlanVersions": [
-        "1.2.3.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-04-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-28T00:00:00"
-      ],
+      "Version": "1.2.3.2",
+      "PublishingDate": "2020-04-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "1.1.12.1"
       ],
