@@ -4095,17 +4095,11 @@
     },
     {
       "Name": "Управление птицефабрикой",
-      "Version": "1.3.137.1",
-      "PublishingDate": "2020-04-14T00:00:00",
-      "PlanVersions": [
-        "1.3.138.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-04-30T00:00:00"
-      ],
+      "Version": "1.3.138.1",
+      "PublishingDate": "2020-05-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
