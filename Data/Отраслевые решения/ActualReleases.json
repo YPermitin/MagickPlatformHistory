@@ -249,17 +249,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
-      "Version": "3.0.45.54",
-      "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [
-        "3.0.45.55"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-06T00:00:00"
-      ],
+      "Version": "3.0.45.55",
+      "PublishingDate": "2020-05-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -943,9 +937,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
       "Version": "3.0.77.56",
       "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.78"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4327,9 +4327,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.19.33",
       "PublishingDate": "2020-04-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.19.34"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
