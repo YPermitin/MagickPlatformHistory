@@ -25,9 +25,15 @@
       "Name": "Бухгалтерия для Узбекистана, редакция 3.0",
       "Version": "3.0.9.1",
       "PublishingDate": "2020-04-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.10"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
