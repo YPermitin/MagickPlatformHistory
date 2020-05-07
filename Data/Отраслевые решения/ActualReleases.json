@@ -3893,9 +3893,15 @@
       "Name": "Университет ПРОФ",
       "Version": "2.1.7.16",
       "PublishingDate": "2019-11-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.8.10"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
