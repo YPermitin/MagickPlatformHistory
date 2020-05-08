@@ -3001,9 +3001,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.77.45",
       "PublishingDate": "2020-05-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.78"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3021,9 +3027,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
       "Version": "3.0.77.45",
       "PublishingDate": "2020-05-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.78"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3179,17 +3191,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.3",
-      "Version": "2.3.3.25",
-      "PublishingDate": "2020-04-01T00:00:00",
-      "PlanVersions": [
-        "2.3.3.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-07T00:00:00"
-      ],
+      "Version": "2.3.3.31",
+      "PublishingDate": "2020-04-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3441,17 +3447,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.3.25",
-      "PublishingDate": "2020-03-31T00:00:00",
-      "PlanVersions": [
-        "2.3.3.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-07T00:00:00"
-      ],
+      "Version": "2.3.3.31",
+      "PublishingDate": "2020-05-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
