@@ -2093,9 +2093,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана",
       "Version": "2.0.33.3",
       "PublishingDate": "2020-04-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.33.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2103,9 +2109,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
       "Version": "3.0.33.8",
       "PublishingDate": "2020-04-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.33.9"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2867,17 +2879,11 @@
     },
     {
       "Name": "Полиграфия, редакция 1.3",
-      "Version": "1.3.137.1",
-      "PublishingDate": "2020-04-02T00:00:00",
-      "PlanVersions": [
-        "1.3.139.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-12T00:00:00"
-      ],
+      "Version": "1.3.139.2",
+      "PublishingDate": "2020-05-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4647,9 +4653,15 @@
       "Name": "Энергетика. Управление распределительной сетевой компанией",
       "Version": "1.3.138.1",
       "PublishingDate": "2020-04-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.139.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
