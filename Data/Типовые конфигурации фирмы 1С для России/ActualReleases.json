@@ -840,8 +840,12 @@
       "PlanUpdateDates": [
         "2020-04-14T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.4.114"
+      ],
+      "DemoPublicationDates": [
+        "2020-05-12T00:00:00"
+      ]
     },
     {
       "Name": "Консолидация",
