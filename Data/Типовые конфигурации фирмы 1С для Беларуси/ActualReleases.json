@@ -32,8 +32,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.1.33.4"
+      ],
+      "DemoPublicationDates": [
+        "2020-05-12T00:00:00"
+      ]
     },
     {
       "Name": "Документооборот КОРП. Антикризис для Беларуси",
