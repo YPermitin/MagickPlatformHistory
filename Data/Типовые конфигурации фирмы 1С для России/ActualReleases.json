@@ -738,8 +738,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.14.32"
+      ],
+      "DemoPublicationDates": [
+        "2020-05-13T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
@@ -790,8 +794,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.14.32"
+      ],
+      "DemoPublicationDates": [
+        "2020-05-13T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
