@@ -4477,9 +4477,15 @@
       "Name": "Фитнес клуб, редакция 4.0",
       "Version": "4.0.14.15",
       "PublishingDate": "2020-04-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.15.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
