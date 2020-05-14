@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -83,6 +83,17 @@
       "Name": "1С:PM Управление проектами ПРОФ",
       "Version": "4.2.12.1",
       "PublishingDate": "2020-01-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-05-14T19:14:03",
+      "Name": "1С:PM Управление проектами ПРОФ",
+      "Version": "4.2.13.1",
+      "PublishingDate": "2020-05-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
