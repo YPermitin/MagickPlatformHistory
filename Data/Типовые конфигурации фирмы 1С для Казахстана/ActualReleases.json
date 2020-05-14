@@ -249,9 +249,15 @@
       "Name": "Управление нашей фирмой 8 для Казахстана. Базовая версия",
       "Version": "1.6.4.9",
       "PublishingDate": "2020-02-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.5"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
