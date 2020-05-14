@@ -1907,8 +1907,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
-      "Version": "3.0.77.56",
-      "PublishingDate": "2020-04-27T00:00:00",
+      "Version": "3.0.77.78",
+      "PublishingDate": "2020-05-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3745,17 +3745,11 @@
     },
     {
       "Name": "Технический расчетный центр теплосети базовая",
-      "Version": "1.0.22.6",
-      "PublishingDate": "2020-02-28T00:00:00",
-      "PlanVersions": [
-        "1.0.22.7"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-13T00:00:00"
-      ],
+      "Version": "1.0.22.7",
+      "PublishingDate": "2020-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
