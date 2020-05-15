@@ -216,8 +216,8 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.1",
-      "Version": "1.1.27.41",
-      "PublishingDate": "2020-04-04T00:00:00",
+      "Version": "1.1.27.43",
+      "PublishingDate": "2020-05-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -266,8 +266,8 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.6",
-      "Version": "1.6.4.95",
-      "PublishingDate": "2020-04-30T00:00:00",
+      "Version": "1.6.4.97",
+      "PublishingDate": "2020-05-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -276,15 +276,17 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.7",
-      "Version": "1.7.1.57",
-      "PublishingDate": "2020-04-30T00:00:00",
+      "Version": "1.7.1.59",
+      "PublishingDate": "2020-05-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "1.7.2.16",
         "1.7.2.13"
       ],
       "DemoPublicationDates": [
+        "2020-05-15T00:00:00",
         "2020-04-30T00:00:00"
       ]
     }
