@@ -1735,17 +1735,11 @@
     },
     {
       "Name": "MES Оперативное управление производством, редакция 1.2",
-      "Version": "1.2.2.13",
-      "PublishingDate": "2017-06-05T00:00:00",
-      "PlanVersions": [
-        "1.2.3.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-07T00:00:00"
-      ],
+      "Version": "1.2.3.1",
+      "PublishingDate": "2020-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
