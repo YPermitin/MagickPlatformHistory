@@ -567,8 +567,8 @@
     },
     {
       "Name": "1С:Медицина. Больничная аптека, редакция 2",
-      "Version": "2.1.5.13",
-      "PublishingDate": "2020-04-27T00:00:00",
+      "Version": "2.1.5.14",
+      "PublishingDate": "2020-05-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -837,17 +837,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.105",
-      "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [
-        "2.0.66.106"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-02T00:00:00"
-      ],
+      "Version": "2.0.66.107",
+      "PublishingDate": "2020-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4265,17 +4259,11 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.19.34",
-      "PublishingDate": "2020-05-08T00:00:00",
-      "PlanVersions": [
-        "3.0.19.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-15T00:00:00"
-      ],
+      "Version": "3.0.19.35",
+      "PublishingDate": "2020-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
