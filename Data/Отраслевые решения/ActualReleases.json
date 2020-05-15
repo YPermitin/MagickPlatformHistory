@@ -2073,17 +2073,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана",
-      "Version": "2.0.33.3",
-      "PublishingDate": "2020-04-28T00:00:00",
-      "PlanVersions": [
-        "2.0.33.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-12T00:00:00"
-      ],
+      "Version": "2.0.33.4",
+      "PublishingDate": "2020-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2199,17 +2193,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
-      "Version": "2.0.66.103",
-      "PublishingDate": "2020-04-16T00:00:00",
-      "PlanVersions": [
-        "2.0.66.107"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-12T00:00:00"
-      ],
+      "Version": "2.0.66.107",
+      "PublishingDate": "2020-05-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4321,9 +4309,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.19.34",
       "PublishingDate": "2020-05-08T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.19.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
