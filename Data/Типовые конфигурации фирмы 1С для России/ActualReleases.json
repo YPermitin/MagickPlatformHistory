@@ -945,8 +945,8 @@
     },
     {
       "Name": "Мобильный документооборот КОРП",
-      "Version": "2.2.3.19",
-      "PublishingDate": "2020-05-01T00:00:00",
+      "Version": "2.2.4.22",
+      "PublishingDate": "2020-05-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1301,8 +1301,8 @@
     },
     {
       "Name": "Управление торговлей, редакция 11",
-      "Version": "11.4.11.102",
-      "PublishingDate": "2020-05-04T00:00:00",
+      "Version": "11.4.11.104",
+      "PublishingDate": "2020-05-16T00:00:00",
       "PlanVersions": [
         "11.4.12"
       ],
