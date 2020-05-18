@@ -3,6 +3,12 @@
   "PublishingDate": "2020-05-18T00:00:00",
   "Items": [
     {
+      "Title": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
+      "Description": "2.4.11.98",
+      "PublishingDate": "2020-05-18T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "1С:Управление недвижимостью и арендой КОРП",
       "Description": "3.0.77.78",
       "PublishingDate": "2020-05-18T00:00:00",
@@ -11,6 +17,12 @@
     {
       "Title": "ERP English Interface",
       "Description": "1.3.138.2",
+      "PublishingDate": "2020-05-18T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "Государственные и муниципальные закупки",
+      "Description": "1.1.22.1",
       "PublishingDate": "2020-05-18T00:00:00",
       "Link": ""
     },
