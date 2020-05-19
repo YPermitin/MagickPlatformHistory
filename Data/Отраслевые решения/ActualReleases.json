@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.11.102",
       "PublishingDate": "2020-05-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.104"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1063,8 +1069,8 @@
     },
     {
       "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
-      "Version": "2.4.11.43",
-      "PublishingDate": "2020-01-20T00:00:00",
+      "Version": "2.4.11.102",
+      "PublishingDate": "2020-05-19T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
