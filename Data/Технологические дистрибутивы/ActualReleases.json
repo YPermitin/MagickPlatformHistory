@@ -292,8 +292,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "8.3.17.1469"
+      ],
+      "DemoPublicationDates": [
+        "2020-05-19T00:00:00"
+      ]
     },
     {
       "Name": "Технологическая платформа 8.3 (учебная версия)",
