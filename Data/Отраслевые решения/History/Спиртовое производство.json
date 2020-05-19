@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 66,
+  "ReleasesCount": 67,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -939,6 +939,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-05-19T13:14:04",
+      "Name": "Спиртовое производство",
+      "Version": "1.3.140.1",
+      "PublishingDate": "2020-05-15T00:00:00",
+      "PlanVersions": [
+        "1.3.140.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
