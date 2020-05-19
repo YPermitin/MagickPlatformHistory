@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 61,
+  "ReleasesCount": 62,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -884,6 +884,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-05-19T19:44:06",
+      "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
+      "Version": "3.0.76.76",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [
+        "3.0.77.46"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
