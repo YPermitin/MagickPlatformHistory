@@ -2473,9 +2473,15 @@
       "Name": "Колледж ПРОФ, редакция 2.0",
       "Version": "2.0.13.1",
       "PublishingDate": "2020-03-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.14.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2503,9 +2509,15 @@
       "Name": "Колледж, редакция 2.0",
       "Version": "2.0.13.1",
       "PublishingDate": "2020-03-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.14.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2607,10 +2619,10 @@
         "1.3.140.1"
       ],
       "PlanReleaseDates": [
-        "2020-05-19T00:00:00"
+        "2020-05-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-14T00:00:00"
+        "2020-05-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3581,10 +3593,10 @@
         "3.0.6.3"
       ],
       "PlanReleaseDates": [
-        "2020-05-19T00:00:00"
+        "2020-05-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-18T00:00:00"
+        "2020-05-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
