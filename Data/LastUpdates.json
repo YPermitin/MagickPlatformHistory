@@ -3,6 +3,12 @@
   "PublishingDate": "2020-05-21T00:00:00",
   "Items": [
     {
+      "Title": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
+      "Description": "2.4.11.104",
+      "PublishingDate": "2020-05-21T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
       "Description": "2.0.66.108",
       "PublishingDate": "2020-05-21T00:00:00",
@@ -11,6 +17,12 @@
     {
       "Title": "1С:Электронное обучение. Корпоративный университет",
       "Description": "3.0.11.71",
+      "PublishingDate": "2020-05-21T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "ERP English Interface",
+      "Description": "1.3.139.1",
       "PublishingDate": "2020-05-21T00:00:00",
       "Link": ""
     },
@@ -341,12 +353,6 @@
     {
       "Title": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Description": "3.0.45.56",
-      "PublishingDate": "2020-05-18T00:00:00",
-      "Link": ""
-    },
-    {
-      "Title": "ERP English Interface",
-      "Description": "1.3.138.2",
       "PublishingDate": "2020-05-18T00:00:00",
       "Link": ""
     },
