@@ -490,8 +490,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.77.29"
+      ],
+      "DemoPublicationDates": [
+        "2020-05-21T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
