@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -418,6 +418,29 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.34.3",
+        "3.0.34.1"
+      ],
+      "DemoPublicationDates": [
+        "2020-03-26T00:00:00",
+        "2020-01-09T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-05-21T17:14:05",
+      "Name": "Бухгалтерия для Казахстана, редакция 3.0",
+      "Version": "3.0.33.6",
+      "PublishingDate": "2020-04-30T00:00:00",
+      "PlanVersions": [
+        "3.0.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.34.3",
         "3.0.34.1"
