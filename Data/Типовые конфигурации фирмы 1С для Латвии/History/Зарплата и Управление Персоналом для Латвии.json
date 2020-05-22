@@ -4,7 +4,7 @@
     "ID": 119,
     "Name": "Типовые конфигурации фирмы \"1С\" для Латвии"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:38",
@@ -53,6 +53,17 @@
       "PlanUpdateDates": [
         "2020-05-07T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-05-22T17:44:04",
+      "Name": "Зарплата и Управление Персоналом для Латвии",
+      "Version": "1.0.23.6",
+      "PublishingDate": "2020-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
