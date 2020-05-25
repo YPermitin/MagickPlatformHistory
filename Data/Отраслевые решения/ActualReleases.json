@@ -2543,17 +2543,11 @@
     },
     {
       "Name": "Колледж ПРОФ, редакция 2.0",
-      "Version": "2.0.13.1",
-      "PublishingDate": "2020-03-19T00:00:00",
-      "PlanVersions": [
-        "2.0.14.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-20T00:00:00"
-      ],
+      "Version": "2.0.14.1",
+      "PublishingDate": "2020-05-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3097,17 +3091,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 2.0",
-      "Version": "2.0.66.101",
-      "PublishingDate": "2020-04-24T00:00:00",
-      "PlanVersions": [
-        "2.0.66.106"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-25T00:00:00"
-      ],
+      "Version": "2.0.66.106",
+      "PublishingDate": "2020-05-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
