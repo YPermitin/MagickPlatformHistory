@@ -4429,9 +4429,15 @@
       "Name": "Финансовое планирование. Дополнение к 1С:БГУ 2.0",
       "Version": "1.0.27.2",
       "PublishingDate": "2020-04-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.28.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
