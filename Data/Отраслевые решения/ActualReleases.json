@@ -313,17 +313,11 @@
     },
     {
       "Name": "1С:Бухгалтерия СНТ. Базовая версия",
-      "Version": "3.0.77.10",
-      "PublishingDate": "2020-04-28T00:00:00",
-      "PlanVersions": [
-        "3.0.77.22"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-25T00:00:00"
-      ],
+      "Version": "3.0.77.22",
+      "PublishingDate": "2020-05-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2267,17 +2261,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.77.78",
-      "PublishingDate": "2020-05-13T00:00:00",
-      "PlanVersions": [
-        "3.0.77.89"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-22T00:00:00"
-      ],
+      "Version": "3.0.77.89",
+      "PublishingDate": "2020-05-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
