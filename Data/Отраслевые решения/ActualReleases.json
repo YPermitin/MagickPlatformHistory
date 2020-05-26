@@ -427,8 +427,8 @@
     },
     {
       "Name": "1С:Детская школа искусств",
-      "Version": "1.0.1.8",
-      "PublishingDate": "2019-10-22T00:00:00",
+      "Version": "1.0.2.1",
+      "PublishingDate": "2020-05-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2847,17 +2847,11 @@
     },
     {
       "Name": "Мясокомбинат 8, редакция 1.3",
-      "Version": "1.3.140.1",
-      "PublishingDate": "2020-05-20T00:00:00",
-      "PlanVersions": [
-        "1.3.140.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-25T00:00:00"
-      ],
+      "Version": "1.3.140.2",
+      "PublishingDate": "2020-05-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
