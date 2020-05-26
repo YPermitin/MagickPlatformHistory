@@ -4,13 +4,24 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
       "Name": "Театр",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-05-26T15:14:04",
+      "Name": "Театр",
+      "Version": "1.0.2.5",
+      "PublishingDate": "2020-05-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
