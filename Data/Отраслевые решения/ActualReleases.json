@@ -1745,9 +1745,15 @@
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
       "Version": "1.2.3.2",
       "PublishingDate": "2020-04-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.3.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-26T00:00:00"
+      ],
       "DemoVersions": [
         "1.1.12.1"
       ],
@@ -1759,9 +1765,15 @@
       "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
       "Version": "1.2.5.2",
       "PublishingDate": "2020-04-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.5.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
