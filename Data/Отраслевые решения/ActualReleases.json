@@ -2353,17 +2353,11 @@
     },
     {
       "Name": "Воинская часть, редакция 2.0",
-      "Version": "2.0.84.1",
-      "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [
-        "2.0.85.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-25T00:00:00"
-      ],
+      "Version": "2.0.85.1",
+      "PublishingDate": "2020-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
