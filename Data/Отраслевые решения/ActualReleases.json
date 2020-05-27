@@ -995,17 +995,11 @@
     },
     {
       "Name": "1С:Предприятие 8. GIS Управление пространственными данными",
-      "Version": "1.0.6.1",
-      "PublishingDate": "2020-03-16T00:00:00",
-      "PlanVersions": [
-        "1.0.6.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-21T00:00:00"
-      ],
+      "Version": "1.0.6.2",
+      "PublishingDate": "2020-05-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
