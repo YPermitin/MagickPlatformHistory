@@ -531,17 +531,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.77.45",
-      "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [
-        "3.0.77.89"
-      ],
-      "PlanReleaseDates": [
-        "2020-05-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-19T00:00:00"
-      ],
+      "Version": "3.0.77.89",
+      "PublishingDate": "2020-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1725,9 +1719,15 @@
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
       "Version": "2.4.11.102",
       "PublishingDate": "2020-05-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.106"
+      ],
+      "PlanReleaseDates": [
+        "2020-05-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-28T00:00:00"
+      ],
       "DemoVersions": [
         "2.2.3.153"
       ],
