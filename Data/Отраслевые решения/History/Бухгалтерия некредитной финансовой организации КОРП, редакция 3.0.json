@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 52,
+  "ReleasesCount": 53,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -764,6 +764,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-05-28T12:44:09",
+      "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
+      "Version": "3.0.77.46",
+      "PublishingDate": "2020-05-25T00:00:00",
+      "PlanVersions": [
+        "3.0.77.106"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
