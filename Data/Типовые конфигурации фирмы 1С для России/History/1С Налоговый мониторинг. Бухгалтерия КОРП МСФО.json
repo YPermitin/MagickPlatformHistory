@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 9,
+  "ReleasesCount": 10,
   "ReleasesHistory": [
     {
       "Created": "2019-12-25T15:02:22",
@@ -99,6 +99,17 @@
       "Name": "1С:Налоговый мониторинг. Бухгалтерия КОРП МСФО",
       "Version": "3.0.10.20",
       "PublishingDate": "2020-05-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-05-29T15:14:03",
+      "Name": "1С:Налоговый мониторинг. Бухгалтерия КОРП МСФО",
+      "Version": "3.0.10.21",
+      "PublishingDate": "2020-05-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
