@@ -1395,9 +1395,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.77.5",
       "PublishingDate": "2020-05-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.9"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-29T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.77.8",
         "3.0.77.7"
@@ -1411,9 +1417,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.77.5",
       "PublishingDate": "2020-05-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.9"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-29T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.77.8",
         "3.0.77.7"
@@ -4001,9 +4013,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.11.104",
       "PublishingDate": "2020-05-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.11.106"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
