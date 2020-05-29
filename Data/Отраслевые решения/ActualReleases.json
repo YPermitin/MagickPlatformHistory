@@ -87,8 +87,8 @@
     },
     {
       "Name": "1С:ERP Управление птицеводческим предприятием 2",
-      "Version": "2.4.11.102",
-      "PublishingDate": "2020-05-18T00:00:00",
+      "Version": "2.4.11.106",
+      "PublishingDate": "2020-05-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1309,9 +1309,15 @@
       "Name": "1С:Управление недвижимостью и арендой КОРП",
       "Version": "3.0.77.78",
       "PublishingDate": "2020-05-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.77.95"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
