@@ -1155,9 +1155,15 @@
       "Name": "1С:УНФ 8. Полиграфия 2",
       "Version": "1.6.20.94",
       "PublishingDate": "2020-04-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.20.159"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-31T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2487,9 +2493,15 @@
       "Name": "Издательство, редакция 1.6",
       "Version": "1.6.19.215",
       "PublishingDate": "2020-02-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.20.159"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-31T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4527,9 +4539,15 @@
       "Name": "Фотоуслуги, редакция 1.6",
       "Version": "1.6.19.215",
       "PublishingDate": "2020-02-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.20.159"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-05-31T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
