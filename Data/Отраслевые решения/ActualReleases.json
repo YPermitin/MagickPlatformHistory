@@ -69,9 +69,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.11.104",
       "PublishingDate": "2020-05-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.11.106"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -243,17 +249,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
-      "Version": "3.0.45.57",
-      "PublishingDate": "2020-05-25T00:00:00",
-      "PlanVersions": [
-        "3.0.45.58"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-29T00:00:00"
-      ],
+      "Version": "3.0.45.58",
+      "PublishingDate": "2020-06-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1235,10 +1235,10 @@
         "1.0.1.2"
       ],
       "PlanReleaseDates": [
-        "2020-06-01T00:00:00"
+        "2020-06-04T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-29T00:00:00"
+        "2020-06-01T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4347,9 +4347,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.19.36",
       "PublishingDate": "2020-05-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.19.38"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
