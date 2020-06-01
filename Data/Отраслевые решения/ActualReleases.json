@@ -357,8 +357,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.77.95",
-      "PublishingDate": "2020-05-27T00:00:00",
+      "Version": "3.0.77.106",
+      "PublishingDate": "2020-06-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -877,8 +877,8 @@
     },
     {
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия КОРП",
-      "Version": "1.0.2.2",
-      "PublishingDate": "2019-04-10T00:00:00",
+      "Version": "1.5.1.1",
+      "PublishingDate": "2020-06-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1149,8 +1149,8 @@
     },
     {
       "Name": "1С:СЛК",
-      "Version": "3.0.20.8469",
-      "PublishingDate": "2019-12-05T00:00:00",
+      "Version": "3.0.21.8611",
+      "PublishingDate": "2020-06-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1477,33 +1477,21 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
-      "Version": "2.3.3.31",
-      "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [
-        "2.3.4.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-21T00:00:00"
-      ],
+      "Version": "2.3.4.31",
+      "PublishingDate": "2020-06-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
-      "Version": "2.3.3.31",
-      "PublishingDate": "2020-04-17T00:00:00",
-      "PlanVersions": [
-        "2.3.4.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-21T00:00:00"
-      ],
+      "Version": "2.3.4.31",
+      "PublishingDate": "2020-06-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
