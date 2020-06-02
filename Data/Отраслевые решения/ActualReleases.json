@@ -1297,8 +1297,8 @@
     },
     {
       "Name": "1С:Управление нашей строительной фирмой",
-      "Version": "1.6.20.144",
-      "PublishingDate": "2020-05-25T00:00:00",
+      "Version": "1.6.20.159",
+      "PublishingDate": "2020-06-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3055,9 +3055,15 @@
       "Name": "Процессное производство. Химия",
       "Version": "1.3.140.1",
       "PublishingDate": "2020-05-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.140.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4197,17 +4203,11 @@
     },
     {
       "Name": "Управление птицефабрикой",
-      "Version": "1.3.140.1",
-      "PublishingDate": "2020-05-24T00:00:00",
-      "PlanVersions": [
-        "1.3.140.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-02T00:00:00"
-      ],
+      "Version": "1.3.140.2",
+      "PublishingDate": "2020-06-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4373,17 +4373,11 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.19.36",
-      "PublishingDate": "2020-05-21T00:00:00",
-      "PlanVersions": [
-        "3.0.19.38"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-01T00:00:00"
-      ],
+      "Version": "3.0.19.38",
+      "PublishingDate": "2020-06-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
