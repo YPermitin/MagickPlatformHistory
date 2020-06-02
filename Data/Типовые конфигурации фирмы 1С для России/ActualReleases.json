@@ -971,8 +971,8 @@
     },
     {
       "Name": "Налогоплательщик",
-      "Version": "3.0.181.1",
-      "PublishingDate": "2020-05-29T00:00:00",
+      "Version": "3.0.182.1",
+      "PublishingDate": "2020-06-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1247,10 +1247,10 @@
         "1.6.21"
       ],
       "PlanReleaseDates": [
-        "2020-06-19T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-04-01T00:00:00"
+        "2020-06-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
