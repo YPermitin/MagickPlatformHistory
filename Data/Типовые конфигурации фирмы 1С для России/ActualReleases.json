@@ -463,31 +463,23 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
-      "Version": "3.0.77.29",
-      "PublishingDate": "2020-05-22T00:00:00",
+      "Version": "3.0.77.33",
+      "PublishingDate": "2020-06-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.77.33"
-      ],
-      "DemoPublicationDates": [
-        "2020-06-01T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
-      "Version": "3.0.77.29",
-      "PublishingDate": "2020-05-22T00:00:00",
+      "Version": "3.0.77.33",
+      "PublishingDate": "2020-06-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.77.33"
-      ],
-      "DemoPublicationDates": [
-        "2020-06-01T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
