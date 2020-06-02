@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 53,
+  "ReleasesCount": 54,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -739,6 +739,17 @@
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.11.104",
       "PublishingDate": "2020-05-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-03T00:14:15",
+      "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "2.4.11.106",
+      "PublishingDate": "2020-06-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
