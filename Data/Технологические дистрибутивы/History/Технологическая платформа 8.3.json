@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 119,
+  "ReleasesCount": 120,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -1926,6 +1926,23 @@
       "DemoPublicationDates": [
         "2020-06-03T00:00:00",
         "2020-06-02T00:00:00",
+        "2020-06-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-06-04T14:14:08",
+      "Name": "Технологическая платформа 8.3",
+      "Version": "8.3.17.1496",
+      "PublishingDate": "2020-06-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "8.3.15.1985",
+        "8.3.16.1497"
+      ],
+      "DemoPublicationDates": [
+        "2020-06-03T00:00:00",
         "2020-06-02T00:00:00"
       ]
     }
