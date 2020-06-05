@@ -4581,17 +4581,11 @@
     },
     {
       "Name": "Фотоуслуги, редакция 1.6",
-      "Version": "1.6.19.215",
-      "PublishingDate": "2020-02-23T00:00:00",
-      "PlanVersions": [
-        "1.6.20.159"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-05-31T00:00:00"
-      ],
+      "Version": "1.6.20.159",
+      "PublishingDate": "2020-05-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
