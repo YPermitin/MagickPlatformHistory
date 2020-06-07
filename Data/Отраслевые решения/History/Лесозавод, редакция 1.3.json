@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 66,
+  "ReleasesCount": 67,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -980,6 +980,17 @@
       "Name": "Лесозавод, редакция 1.3",
       "Version": "1.3.140.2",
       "PublishingDate": "2020-05-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-07T21:44:11",
+      "Name": "Лесозавод, редакция 1.3",
+      "Version": "1.3.142.1",
+      "PublishingDate": "2020-06-07T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
