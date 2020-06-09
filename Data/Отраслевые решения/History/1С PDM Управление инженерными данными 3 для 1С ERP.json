@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -408,6 +408,23 @@
       ],
       "PlanUpdateDates": [
         "2020-05-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-09T18:30:46",
+      "Name": "1С:PDM Управление инженерными данными 3 для 1С:ERP",
+      "Version": "3.1.3.2",
+      "PublishingDate": "2019-11-14T00:00:00",
+      "PlanVersions": [
+        "3.1.3.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
