@@ -1113,9 +1113,15 @@
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
       "Version": "2.1.52.2",
       "PublishingDate": "2020-05-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.54.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2322,9 +2328,15 @@
       "Name": "Бухгалтерія будівельної організації, редакція 2.0",
       "Version": "2.0.10.1",
       "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.11.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
