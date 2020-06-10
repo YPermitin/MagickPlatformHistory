@@ -2065,9 +2065,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.77.106",
       "PublishingDate": "2020-06-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.78.54"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3202,13 +3208,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-04-29T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
-        "2020-06-10T00:00:00"
+        "2020-06-18T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-27T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3258,13 +3264,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-04-17T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
-        "2020-06-12T00:00:00"
+        "2020-06-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-27T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3314,13 +3320,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-05-08T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
-        "2020-06-11T00:00:00"
+        "2020-06-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-09T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3370,13 +3376,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-04-27T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
-        "2020-06-11T00:00:00"
+        "2020-06-19T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-27T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3426,13 +3432,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-04-22T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
-        "2020-06-12T00:00:00"
+        "2020-06-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-27T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3482,13 +3488,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-05-12T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
-        "2020-06-16T00:00:00"
+        "2020-06-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-27T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3538,13 +3544,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-05-08T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
         "2020-06-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-05-27T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3594,13 +3600,13 @@
       "Version": "2.3.3.31",
       "PublishingDate": "2020-05-14T00:00:00",
       "PlanVersions": [
-        "2.3.4.31"
+        "2.3.4.33"
       ],
       "PlanReleaseDates": [
         "2020-06-11T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-09T00:00:00"
+        "2020-06-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
