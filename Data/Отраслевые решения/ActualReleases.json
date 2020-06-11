@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 450,
+  "ReleasesCount": 451,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -179,6 +179,16 @@
     },
     {
       "Name": "1С:RengaBIM и Смета. Комплект решений для 3D-проектирования и подготовки сметной документации",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:StopCOVID",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
@@ -1896,9 +1906,15 @@
       "Name": "Автосервис, редакция 1.6",
       "Version": "1.6.20.159",
       "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.20.178"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1986,8 +2002,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
-      "Version": "3.0.77.106",
-      "PublishingDate": "2020-06-04T00:00:00",
+      "Version": "3.0.78.64",
+      "PublishingDate": "2020-06-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
