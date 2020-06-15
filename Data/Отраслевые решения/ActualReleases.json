@@ -2286,8 +2286,8 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.78.54",
-      "PublishingDate": "2020-06-09T00:00:00",
+      "Version": "3.1.78.64",
+      "PublishingDate": "2020-06-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2306,17 +2306,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
-      "Version": "2.0.66.107",
-      "PublishingDate": "2020-05-15T00:00:00",
-      "PlanVersions": [
-        "2.0.66.110"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-15T00:00:00"
-      ],
+      "Version": "2.0.66.110",
+      "PublishingDate": "2020-06-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2794,8 +2788,8 @@
     },
     {
       "Name": "Модуль 1С:Аренда и управление недвижимостью для 1С:ERP, редакция 2.4",
-      "Version": "2.4.11.98",
-      "PublishingDate": "2020-04-29T00:00:00",
+      "Version": "2.4.12.64",
+      "PublishingDate": "2020-06-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
