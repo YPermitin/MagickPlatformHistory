@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 25,
+  "ReleasesCount": 26,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -362,6 +362,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-15T08:00:17",
+      "Name": "Колледж ПРОФ, редакция 2.0",
+      "Version": "2.0.14.1",
+      "PublishingDate": "2020-05-25T00:00:00",
+      "PlanVersions": [
+        "2.0.15.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
