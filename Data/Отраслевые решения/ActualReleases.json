@@ -1475,33 +1475,21 @@
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис.Базовая версия, редакция 2.3",
-      "Version": "2.3.4.31",
-      "PublishingDate": "2020-06-01T00:00:00",
-      "PlanVersions": [
-        "2.3.4.33"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-03T00:00:00"
-      ],
+      "Version": "2.3.4.33",
+      "PublishingDate": "2020-06-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Фастфуд.Фронт-офис, редакция 2.3",
-      "Version": "2.3.4.31",
-      "PublishingDate": "2020-06-01T00:00:00",
-      "PlanVersions": [
-        "2.3.4.33"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-03T00:00:00"
-      ],
+      "Version": "2.3.4.33",
+      "PublishingDate": "2020-06-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2730,9 +2718,15 @@
       "Name": "Лесозавод, редакция 1.3",
       "Version": "1.3.142.1",
       "PublishingDate": "2020-06-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.142.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
