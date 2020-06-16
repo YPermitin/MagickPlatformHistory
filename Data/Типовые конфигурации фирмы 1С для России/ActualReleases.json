@@ -458,8 +458,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.78.7"
+      ],
+      "DemoPublicationDates": [
+        "2020-06-16T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
@@ -468,8 +472,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.78.7"
+      ],
+      "DemoPublicationDates": [
+        "2020-06-16T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
