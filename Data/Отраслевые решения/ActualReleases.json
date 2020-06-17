@@ -669,11 +669,17 @@
     },
     {
       "Name": "1С:Медицина. Поликлиника, редакция 3",
-      "Version": "3.0.3.2",
-      "PublishingDate": "2020-06-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "3.0.3.1",
+      "PublishingDate": "2020-04-27T00:00:00",
+      "PlanVersions": [
+        "3.0.3.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
