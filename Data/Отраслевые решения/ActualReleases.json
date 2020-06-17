@@ -669,17 +669,11 @@
     },
     {
       "Name": "1С:Медицина. Поликлиника, редакция 3",
-      "Version": "3.0.3.1",
-      "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [
-        "3.0.3.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-17T00:00:00"
-      ],
+      "Version": "3.0.3.2",
+      "PublishingDate": "2020-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -867,17 +861,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 3.0",
-      "Version": "3.0.77.106",
-      "PublishingDate": "2020-05-30T00:00:00",
-      "PlanVersions": [
-        "3.0.78.54"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-17T00:00:00"
-      ],
+      "Version": "3.0.78.64",
+      "PublishingDate": "2020-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -947,8 +935,8 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.78.64",
-      "PublishingDate": "2020-06-16T00:00:00",
+      "Version": "3.0.78.68",
+      "PublishingDate": "2020-06-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1925,10 +1913,10 @@
         "1.6.20.178"
       ],
       "PlanReleaseDates": [
-        "2020-06-17T00:00:00"
+        "2020-06-18T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-11T00:00:00"
+        "2020-06-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
