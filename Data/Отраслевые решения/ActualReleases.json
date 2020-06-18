@@ -851,17 +851,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.109",
-      "PublishingDate": "2020-05-30T00:00:00",
-      "PlanVersions": [
-        "2.0.66.110"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-17T00:00:00"
-      ],
+      "Version": "2.0.66.110",
+      "PublishingDate": "2020-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
