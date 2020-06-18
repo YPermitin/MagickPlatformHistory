@@ -1919,17 +1919,11 @@
     },
     {
       "Name": "Автосервис, редакция 1.6",
-      "Version": "1.6.20.159",
-      "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [
-        "1.6.20.178"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-17T00:00:00"
-      ],
+      "Version": "1.6.20.178",
+      "PublishingDate": "2020-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
