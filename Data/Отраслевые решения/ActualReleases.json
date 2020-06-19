@@ -577,17 +577,11 @@
     },
     {
       "Name": "1С:Медицина. Больница, редакция 2",
-      "Version": "2.0.3.1",
-      "PublishingDate": "2020-04-30T00:00:00",
-      "PlanVersions": [
-        "2.0.3.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-19T00:00:00"
-      ],
+      "Version": "2.0.3.2",
+      "PublishingDate": "2020-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1433,17 +1427,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.77.9",
-      "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [
-        "3.0.78.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-19T00:00:00"
-      ],
+      "Version": "3.0.78.1",
+      "PublishingDate": "2020-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2295,8 +2283,8 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.78.68",
-      "PublishingDate": "2020-06-18T00:00:00",
+      "Version": "3.1.78.69",
+      "PublishingDate": "2020-06-19T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
