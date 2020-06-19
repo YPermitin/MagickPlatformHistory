@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 101,
+  "ReleasesCount": 102,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1363,6 +1363,17 @@
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
       "Version": "3.1.78.68",
       "PublishingDate": "2020-06-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-19T16:00:34",
+      "Name": "Бухгалтерия строительной организации, редакция 3.1",
+      "Version": "3.1.78.69",
+      "PublishingDate": "2020-06-19T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
