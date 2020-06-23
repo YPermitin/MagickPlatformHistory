@@ -359,10 +359,10 @@
         "3.0.78.64"
       ],
       "PlanReleaseDates": [
-        "2020-06-24T00:00:00"
+        "2020-06-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-22T00:00:00"
+        "2020-06-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -375,10 +375,10 @@
         "3.0.78.64"
       ],
       "PlanReleaseDates": [
-        "2020-06-24T00:00:00"
+        "2020-06-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-22T00:00:00"
+        "2020-06-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -709,9 +709,15 @@
       "Name": "1С:Медицина. Стоматологическая клиника",
       "Version": "1.0.39.3",
       "PublishingDate": "2020-02-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.40.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -975,7 +981,7 @@
         "3.0.2.8"
       ],
       "PlanReleaseDates": [
-        "2020-06-24T00:00:00"
+        "2020-06-25T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-06-23T00:00:00"
@@ -1077,10 +1083,10 @@
         "1.6.20.178"
       ],
       "PlanReleaseDates": [
-        "2020-06-24T00:00:00"
+        "2020-06-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-22T00:00:00"
+        "2020-06-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4111,10 +4117,10 @@
         "1.3.141.1"
       ],
       "PlanReleaseDates": [
-        "2020-06-23T00:00:00"
+        "2020-06-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-19T00:00:00"
+        "2020-06-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4545,10 +4551,10 @@
         "4.0.16.3"
       ],
       "PlanReleaseDates": [
-        "2020-06-23T00:00:00"
+        "2020-06-25T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-18T00:00:00"
+        "2020-06-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
