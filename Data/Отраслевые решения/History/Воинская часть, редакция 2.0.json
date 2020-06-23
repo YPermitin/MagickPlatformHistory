@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -411,6 +411,23 @@
       ],
       "PlanUpdateDates": [
         "2020-06-17T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-23T08:30:16",
+      "Name": "Воинская часть, редакция 2.0",
+      "Version": "2.0.85.1",
+      "PublishingDate": "2020-05-27T00:00:00",
+      "PlanVersions": [
+        "2.0.86.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
