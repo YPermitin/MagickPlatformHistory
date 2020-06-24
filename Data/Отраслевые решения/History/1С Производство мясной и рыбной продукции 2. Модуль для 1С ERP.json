@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 12,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -145,6 +145,17 @@
       "Name": "1С:Производство мясной и рыбной продукции 2. Модуль для 1С:ERP",
       "Version": "2.4.11.43",
       "PublishingDate": "2020-01-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-24T17:30:16",
+      "Name": "1С:Производство мясной и рыбной продукции 2. Модуль для 1С:ERP",
+      "Version": "2.4.12.64",
+      "PublishingDate": "2020-06-24T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
