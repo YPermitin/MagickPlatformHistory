@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 34,
+  "ReleasesCount": 35,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -545,6 +545,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-24T19:00:18",
+      "Name": "1С:Управление лесозаготовительным предприятием. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "2.4.11.63",
+      "PublishingDate": "2020-01-31T00:00:00",
+      "PlanVersions": [
+        "2.4.12.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
