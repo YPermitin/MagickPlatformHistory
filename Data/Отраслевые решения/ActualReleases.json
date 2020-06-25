@@ -2241,17 +2241,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.77.106",
-      "PublishingDate": "2020-06-03T00:00:00",
-      "PlanVersions": [
-        "3.0.78.69"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-23T00:00:00"
-      ],
+      "Version": "3.0.78.69",
+      "PublishingDate": "2020-06-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
