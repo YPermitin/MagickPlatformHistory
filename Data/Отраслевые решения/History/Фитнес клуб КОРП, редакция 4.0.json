@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 23,
+  "ReleasesCount": 24,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -351,6 +351,23 @@
       ],
       "PlanUpdateDates": [
         "2020-06-23T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-25T14:30:18",
+      "Name": "Фитнес клуб КОРП, редакция 4.0",
+      "Version": "4.0.15.1",
+      "PublishingDate": "2020-05-15T00:00:00",
+      "PlanVersions": [
+        "4.0.16.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
