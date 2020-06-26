@@ -297,10 +297,10 @@
         "3.0.78.69"
       ],
       "PlanReleaseDates": [
-        "2020-06-25T00:00:00"
+        "2020-06-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-23T00:00:00"
+        "2020-06-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1709,8 +1709,8 @@
     },
     {
       "Name": "ERP English Interface",
-      "Version": "1.3.140.2",
-      "PublishingDate": "2020-06-16T00:00:00",
+      "Version": "1.3.141.1",
+      "PublishingDate": "2020-06-25T00:00:00",
       "PlanVersions": [
         "1.3.142.2",
         "1.3.142.1"
@@ -2166,10 +2166,10 @@
         "3.0.78.54"
       ],
       "PlanReleaseDates": [
-        "2020-06-25T00:00:00"
+        "2020-06-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-25T00:00:00"
+        "2020-06-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
