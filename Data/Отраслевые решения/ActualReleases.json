@@ -401,9 +401,15 @@
       "Name": "1С:Горнодобывающая промышленность 2. Модуль для 1С:ERP",
       "Version": "1.1.4.16",
       "PublishingDate": "2020-04-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-06-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1067,9 +1073,15 @@
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
       "Version": "1.6.20.178",
       "PublishingDate": "2020-06-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.20.189"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2108,17 +2120,11 @@
     },
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.77.106",
-      "PublishingDate": "2020-06-09T00:00:00",
-      "PlanVersions": [
-        "3.0.78.64"
-      ],
-      "PlanReleaseDates": [
-        "2020-06-26T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-16T00:00:00"
-      ],
+      "Version": "3.0.78.64",
+      "PublishingDate": "2020-06-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
