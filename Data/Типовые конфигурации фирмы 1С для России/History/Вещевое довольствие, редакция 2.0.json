@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 14,
+  "ReleasesCount": 15,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -217,6 +217,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-26T23:30:18",
+      "Name": "Вещевое довольствие, редакция 2.0",
+      "Version": "2.0.28.3",
+      "PublishingDate": "2020-06-26T00:00:00",
+      "PlanVersions": [
+        "2.0.29"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
