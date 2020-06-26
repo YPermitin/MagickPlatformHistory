@@ -555,9 +555,15 @@
       "Name": "Вещевое довольствие, редакция 2.0",
       "Version": "2.0.28.3",
       "PublishingDate": "2020-06-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.29"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
