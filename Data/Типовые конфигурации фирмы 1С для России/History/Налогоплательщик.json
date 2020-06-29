@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -343,6 +343,17 @@
       "Name": "Налогоплательщик",
       "Version": "3.0.182.1",
       "PublishingDate": "2020-06-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-29T18:01:23",
+      "Name": "Налогоплательщик",
+      "Version": "3.0.183.1",
+      "PublishingDate": "2020-06-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
