@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 52,
+  "ReleasesCount": 53,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -671,6 +671,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-30T15:30:22",
+      "Name": "1С-КАМИН: Зарплата. Версия 5.0. Базовая версия",
+      "Version": "5.0.65.5",
+      "PublishingDate": "2020-06-16T00:00:00",
+      "PlanVersions": [
+        "5.0.66"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-06-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
