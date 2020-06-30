@@ -4,7 +4,7 @@
     "ID": 135,
     "Name": "Типовые конфигурации фирмы \"1С\" для Узбекистана"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:46",
@@ -42,6 +42,17 @@
       "PlanUpdateDates": [
         "2020-06-09T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-30T12:00:13",
+      "Name": "Управление компанией для Узбекистана",
+      "Version": "1.6.13.1",
+      "PublishingDate": "2020-06-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
