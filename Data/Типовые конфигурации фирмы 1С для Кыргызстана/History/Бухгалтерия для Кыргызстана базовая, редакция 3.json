@@ -4,7 +4,7 @@
     "ID": 113,
     "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2019-07-05T15:10:10",
@@ -143,6 +143,17 @@
       "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3",
       "Version": "3.1.8.14",
       "PublishingDate": "2020-05-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-30T14:30:43",
+      "Name": "Бухгалтерия для Кыргызстана базовая, редакция 3",
+      "Version": "3.1.9.1",
+      "PublishingDate": "2020-06-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
