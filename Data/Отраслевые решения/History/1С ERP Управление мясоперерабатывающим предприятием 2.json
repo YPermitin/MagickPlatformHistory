@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 40,
+  "ReleasesCount": 41,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -470,6 +470,17 @@
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
       "Version": "2.4.12.64",
       "PublishingDate": "2020-06-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-06-30T21:30:10",
+      "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
+      "Version": "2.4.12.71",
+      "PublishingDate": "2020-06-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
