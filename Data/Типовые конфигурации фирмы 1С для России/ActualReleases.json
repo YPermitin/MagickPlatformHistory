@@ -655,8 +655,8 @@
     },
     {
       "Name": "Документооборот КОРП",
-      "Version": "2.1.21.12",
-      "PublishingDate": "2020-06-09T00:00:00",
+      "Version": "2.1.22.8",
+      "PublishingDate": "2020-06-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -685,8 +685,8 @@
     },
     {
       "Name": "Документооборот ПРОФ",
-      "Version": "2.1.21.12",
-      "PublishingDate": "2020-06-09T00:00:00",
+      "Version": "2.1.22.8",
+      "PublishingDate": "2020-06-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1229,8 +1229,8 @@
     },
     {
       "Name": "Управление торговлей базовая, редакция 10.3",
-      "Version": "10.3.64.2",
-      "PublishingDate": "2020-06-10T00:00:00",
+      "Version": "10.3.64.3",
+      "PublishingDate": "2020-06-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
