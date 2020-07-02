@@ -353,10 +353,10 @@
         "3.0.78.69"
       ],
       "PlanReleaseDates": [
-        "2020-06-30T00:00:00"
+        "2020-07-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-30T00:00:00"
+        "2020-07-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -369,10 +369,10 @@
         "3.0.78.69"
       ],
       "PlanReleaseDates": [
-        "2020-06-30T00:00:00"
+        "2020-07-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-30T00:00:00"
+        "2020-07-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1401,8 +1401,8 @@
     },
     {
       "Name": "1С:Управляющая компания ЖКХ. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.9.82",
-      "PublishingDate": "2019-09-18T00:00:00",
+      "Version": "2.4.12.64",
+      "PublishingDate": "2020-07-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2151,11 +2151,17 @@
     },
     {
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
-      "Version": "3.0.78.55",
-      "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "3.0.77.78",
+      "PublishingDate": "2020-05-12T00:00:00",
+      "PlanVersions": [
+        "3.0.78.55"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
