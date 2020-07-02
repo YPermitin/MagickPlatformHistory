@@ -983,8 +983,8 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.79.11",
-      "PublishingDate": "2020-06-29T00:00:00",
+      "Version": "3.0.79.14",
+      "PublishingDate": "2020-07-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1317,17 +1317,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
-      "Version": "3.0.77.47",
-      "PublishingDate": "2020-06-04T00:00:00",
-      "PlanVersions": [
-        "3.0.78.64"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-29T00:00:00"
-      ],
+      "Version": "3.0.78.64",
+      "PublishingDate": "2020-06-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
