@@ -1945,10 +1945,10 @@
         "3.0.78.64"
       ],
       "PlanReleaseDates": [
-        "2020-07-03T00:00:00"
+        "2020-07-06T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-30T00:00:00"
+        "2020-07-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2163,9 +2163,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
       "Version": "1.6.75.1",
       "PublishingDate": "2019-10-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.75.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2339,9 +2345,15 @@
       "Name": "Бухгалтерія будівельної організації, редакція 2.0",
       "Version": "2.0.11.1",
       "PublishingDate": "2020-06-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
