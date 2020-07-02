@@ -2023,9 +2023,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.78.68",
       "PublishingDate": "2020-06-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.79.11"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
