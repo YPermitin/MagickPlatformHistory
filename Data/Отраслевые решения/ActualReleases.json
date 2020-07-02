@@ -901,9 +901,15 @@
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия КОРП",
       "Version": "1.5.1.1",
       "PublishingDate": "2020-06-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.5.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -911,9 +917,15 @@
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия ПРОФ",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.5.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
