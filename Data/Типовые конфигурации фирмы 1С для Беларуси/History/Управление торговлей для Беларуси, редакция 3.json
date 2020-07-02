@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 25,
+  "ReleasesCount": 26,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -298,6 +298,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-02T19:00:12",
+      "Name": "Управление торговлей для Беларуси, редакция 3",
+      "Version": "3.4.11.102",
+      "PublishingDate": "2020-05-26T00:00:00",
+      "PlanVersions": [
+        "3.4.12"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
