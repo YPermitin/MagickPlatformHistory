@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 15,
+  "ReleasesCount": 16,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -177,6 +177,17 @@
       "Name": "Зарплата и Управление Персоналом для Беларуси, редакция 3",
       "Version": "3.0.19.194",
       "PublishingDate": "2020-02-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-03T11:30:13",
+      "Name": "Зарплата и Управление Персоналом для Беларуси, редакция 3",
+      "Version": "3.0.19.196",
+      "PublishingDate": "2020-07-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
