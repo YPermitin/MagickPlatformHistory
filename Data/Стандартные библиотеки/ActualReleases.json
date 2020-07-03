@@ -270,8 +270,8 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.6",
-      "Version": "1.6.4.108",
-      "PublishingDate": "2020-06-26T00:00:00",
+      "Version": "1.6.4.111",
+      "PublishingDate": "2020-07-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -280,7 +280,7 @@
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.7",
-      "Version": "1.7.1.71",
+      "Version": "1.7.1.75",
       "PublishingDate": "2020-07-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
