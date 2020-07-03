@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 41,
+  "ReleasesCount": 42,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -586,6 +586,17 @@
       "PlanUpdateDates": [
         "2020-06-29T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-03T15:00:12",
+      "Name": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Version": "1.0.9.4",
+      "PublishingDate": "2020-07-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
