@@ -1,7 +1,13 @@
 {
   "Title": "Текущие релизы программ фирмы «1С»",
-  "PublishingDate": "2020-07-03T00:00:00",
+  "PublishingDate": "2020-07-04T00:00:00",
   "Items": [
+    {
+      "Title": "1С:Библиотека стандартных подсистем, редакция 3.0",
+      "Description": "3.0.3.341",
+      "PublishingDate": "2020-07-04T00:00:00",
+      "Link": ""
+    },
     {
       "Title": "1C:Enterprise Development Tools",
       "Description": "2020.4",
