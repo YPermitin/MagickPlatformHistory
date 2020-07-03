@@ -3,6 +3,12 @@
   "PublishingDate": "2020-07-03T00:00:00",
   "Items": [
     {
+      "Title": "1C:Enterprise Development Tools",
+      "Description": "2020.4",
+      "PublishingDate": "2020-07-03T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "1С:Библиотека электронных документов, редакция 1.7",
       "Description": "1.7.1.71",
       "PublishingDate": "2020-07-03T00:00:00",
@@ -11,6 +17,12 @@
     {
       "Title": "1С:Ломбард КОРП",
       "Description": "3.0.78.68",
+      "PublishingDate": "2020-07-03T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "1С:Механизм XBRL для ПУРЦБ. Модуль для 1С:УПЦБ",
+      "Description": "1.0.9.4",
       "PublishingDate": "2020-07-03T00:00:00",
       "Link": ""
     },
