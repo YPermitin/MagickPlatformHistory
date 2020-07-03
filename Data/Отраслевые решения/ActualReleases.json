@@ -353,10 +353,10 @@
         "3.0.78.69"
       ],
       "PlanReleaseDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -369,10 +369,10 @@
         "3.0.78.69"
       ],
       "PlanReleaseDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1281,10 +1281,10 @@
         "2.4.12.71"
       ],
       "PlanReleaseDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1777,17 +1777,11 @@
     },
     {
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
-      "Version": "2.4.11.106",
-      "PublishingDate": "2020-05-28T00:00:00",
-      "PlanVersions": [
-        "2.4.12"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
-      ],
+      "Version": "2.4.12.75",
+      "PublishingDate": "2020-07-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.2.3.153"
       ],
@@ -2059,8 +2053,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.142.2",
-      "PublishingDate": "2020-06-19T00:00:00",
+      "Version": "1.3.143.1",
+      "PublishingDate": "2020-07-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2741,10 +2735,10 @@
         "1.3.143.1"
       ],
       "PlanReleaseDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-30T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3149,10 +3143,10 @@
         "3.0.78.54"
       ],
       "PlanReleaseDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3175,10 +3169,10 @@
         "3.0.78.54"
       ],
       "PlanReleaseDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3235,8 +3229,8 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.12.61",
-      "PublishingDate": "2020-06-03T00:00:00",
+      "Version": "11.4.12.71",
+      "PublishingDate": "2020-07-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4139,10 +4133,10 @@
         "1.3.142.2"
       ],
       "PlanReleaseDates": [
-        "2020-07-03T00:00:00"
+        "2020-07-07T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-06-30T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
