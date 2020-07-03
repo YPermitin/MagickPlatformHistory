@@ -103,10 +103,10 @@
         "2.4.12.71"
       ],
       "PlanReleaseDates": [
-        "2020-07-06T00:00:00"
+        "2020-07-07T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
+        "2020-07-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -353,7 +353,7 @@
         "3.0.78.69"
       ],
       "PlanReleaseDates": [
-        "2020-07-03T00:00:00"
+        "2020-07-06T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-07-03T00:00:00"
@@ -369,7 +369,7 @@
         "3.0.78.69"
       ],
       "PlanReleaseDates": [
-        "2020-07-03T00:00:00"
+        "2020-07-06T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-07-03T00:00:00"
@@ -1335,8 +1335,8 @@
     },
     {
       "Name": "1С:Управление нашей строительной фирмой",
-      "Version": "1.6.20.178",
-      "PublishingDate": "2020-06-15T00:00:00",
+      "Version": "1.6.20.189",
+      "PublishingDate": "2020-07-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1935,9 +1935,15 @@
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
       "Version": "3.0.78.64",
       "PublishingDate": "2020-07-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.79.14"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
