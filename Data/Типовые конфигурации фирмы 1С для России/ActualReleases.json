@@ -1185,15 +1185,17 @@
       "Name": "Управление нашей фирмой, редакция 1.6",
       "Version": "1.6.21.103",
       "PublishingDate": "2020-07-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [
-        "1.6.21.102"
+      "PlanVersions": [
+        "1.6.22"
       ],
-      "DemoPublicationDates": [
-        "2020-07-01T00:00:00"
-      ]
+      "PlanReleaseDates": [
+        "2020-08-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.2",
