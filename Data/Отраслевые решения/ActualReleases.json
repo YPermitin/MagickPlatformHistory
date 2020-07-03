@@ -535,17 +535,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.77.89",
-      "PublishingDate": "2020-05-28T00:00:00",
-      "PlanVersions": [
-        "3.0.78.68"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
-      ],
+      "Version": "3.0.78.68",
+      "PublishingDate": "2020-07-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1282,7 +1276,7 @@
     {
       "Name": "1С:Управление лесозаготовительным предприятием. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.71",
-      "PublishingDate": "2020-06-24T00:00:00",
+      "PublishingDate": "2020-07-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
