@@ -15,6 +15,12 @@
       "Link": ""
     },
     {
+      "Title": "1С:Бухгалтерия строительной организации КОРП",
+      "Description": "3.0.79.14",
+      "PublishingDate": "2020-07-04T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "1C:Enterprise Development Tools",
       "Description": "2020.4",
       "PublishingDate": "2020-07-03T00:00:00",
@@ -407,12 +413,6 @@
     {
       "Title": "1С:ERP Управление птицеводческим предприятием 2",
       "Description": "2.4.12.71",
-      "PublishingDate": "2020-06-30T00:00:00",
-      "Link": ""
-    },
-    {
-      "Title": "1С:Бухгалтерия строительной организации КОРП",
-      "Description": "3.0.79.11",
       "PublishingDate": "2020-06-30T00:00:00",
       "Link": ""
     },
