@@ -49,17 +49,11 @@
     },
     {
       "Name": "Управление компанией для Таджикистана, редакция 1.6",
-      "Version": "1.6.19.243",
-      "PublishingDate": "2020-03-25T00:00:00",
-      "PlanVersions": [
-        "1.6.20"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-25T00:00:00"
-      ],
+      "Version": "1.6.20.178",
+      "PublishingDate": "2020-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
