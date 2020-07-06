@@ -1327,17 +1327,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
-      "Version": "3.0.77.47",
-      "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [
-        "3.0.78.64"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-29T00:00:00"
-      ],
+      "Version": "3.0.78.64",
+      "PublishingDate": "2020-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2837,17 +2831,11 @@
     },
     {
       "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
-      "Version": "2.0.18.1",
-      "PublishingDate": "2020-05-27T00:00:00",
-      "PlanVersions": [
-        "2.0.19.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-22T00:00:00"
-      ],
+      "Version": "2.0.19.1",
+      "PublishingDate": "2020-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
