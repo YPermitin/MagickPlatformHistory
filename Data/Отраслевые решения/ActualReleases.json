@@ -1419,9 +1419,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
       "Version": "2.0.66.77",
       "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.78"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1429,9 +1435,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
       "Version": "2.0.66.77",
       "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.78"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3815,17 +3827,11 @@
     },
     {
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
-      "Version": "2.0.31.1",
-      "PublishingDate": "2020-06-08T00:00:00",
-      "PlanVersions": [
-        "2.0.32.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-22T00:00:00"
-      ],
+      "Version": "2.0.32.1",
+      "PublishingDate": "2020-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
