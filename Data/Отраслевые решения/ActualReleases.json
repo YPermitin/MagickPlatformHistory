@@ -1127,17 +1127,11 @@
     },
     {
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
-      "Version": "2.1.54.3",
-      "PublishingDate": "2020-07-03T00:00:00",
-      "PlanVersions": [
-        "2.1.54.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-06T00:00:00"
-      ],
+      "Version": "2.1.54.4",
+      "PublishingDate": "2020-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
