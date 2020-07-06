@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 17,
+  "ReleasesCount": 18,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -250,6 +250,17 @@
       "PlanUpdateDates": [
         "2020-06-22T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-06T16:30:12",
+      "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
+      "Version": "2.0.19.1",
+      "PublishingDate": "2020-07-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
