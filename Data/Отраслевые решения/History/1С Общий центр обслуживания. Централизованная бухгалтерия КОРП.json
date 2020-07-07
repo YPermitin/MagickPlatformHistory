@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -63,6 +63,23 @@
       ],
       "PlanUpdateDates": [
         "2020-07-02T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-07T10:30:11",
+      "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия КОРП",
+      "Version": "1.5.1.1",
+      "PublishingDate": "2020-06-01T00:00:00",
+      "PlanVersions": [
+        "1.5.2.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-07T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
