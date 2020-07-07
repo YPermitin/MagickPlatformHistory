@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 21,
+  "ReleasesCount": 22,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -324,6 +324,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-07T17:30:12",
+      "Name": "1С:Управление тепловодоканалом 2",
+      "Version": "2.2.15.1",
+      "PublishingDate": "2020-03-10T00:00:00",
+      "PlanVersions": [
+        "2.2.16"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
