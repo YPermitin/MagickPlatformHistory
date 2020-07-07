@@ -1219,9 +1219,15 @@
       "Name": "1С:Управление водоканалом 2",
       "Version": "2.2.15.1",
       "PublishingDate": "2020-03-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.16"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1357,9 +1363,15 @@
       "Name": "1С:Управление тепловодоканалом 2",
       "Version": "2.2.15.1",
       "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.16"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1367,9 +1379,15 @@
       "Name": "1С:Управление теплосетью 2",
       "Version": "2.2.15.1",
       "PublishingDate": "2020-03-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.16"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
