@@ -301,17 +301,13 @@
     },
     {
       "Name": "Технологическая платформа 8.3",
-      "Version": "8.3.17.1496",
-      "PublishingDate": "2020-06-04T00:00:00",
+      "Version": "8.3.17.1549",
+      "PublishingDate": "2020-07-07T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "8.3.17.1549"
-      ],
-      "DemoPublicationDates": [
-        "2020-06-26T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Технологическая платформа 8.3 (учебная версия)",
