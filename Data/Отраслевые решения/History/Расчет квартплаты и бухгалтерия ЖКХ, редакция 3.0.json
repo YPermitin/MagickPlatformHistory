@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 65,
+  "ReleasesCount": 66,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -969,6 +969,23 @@
       ],
       "PlanUpdateDates": [
         "2020-07-06T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-07T08:00:11",
+      "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
+      "Version": "3.0.77.78",
+      "PublishingDate": "2020-05-19T00:00:00",
+      "PlanVersions": [
+        "3.0.78.54"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-07T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
