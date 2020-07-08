@@ -539,17 +539,11 @@
     },
     {
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
-      "Version": "3.0.77.89",
-      "PublishingDate": "2020-05-29T00:00:00",
-      "PlanVersions": [
-        "3.0.78.68"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-06T00:00:00"
-      ],
+      "Version": "3.0.78.68",
+      "PublishingDate": "2020-07-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -845,17 +839,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.110",
-      "PublishingDate": "2020-06-18T00:00:00",
-      "PlanVersions": [
-        "2.0.66.111"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-29T00:00:00"
-      ],
+      "Version": "2.0.66.112",
+      "PublishingDate": "2020-06-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
