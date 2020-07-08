@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2020-04-22T13:14:15",
@@ -211,6 +211,23 @@
       ],
       "PlanUpdateDates": [
         "2020-07-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-08T08:30:10",
+      "Name": "1С:Бухгалтерский и управленческий учет дорожно-строительной организации ПРОФ",
+      "Version": "3.0.77.89",
+      "PublishingDate": "2020-05-27T00:00:00",
+      "PlanVersions": [
+        "3.0.78.69"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-08T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
