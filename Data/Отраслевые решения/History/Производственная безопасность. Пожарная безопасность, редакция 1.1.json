@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -70,6 +70,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-09T17:00:11",
+      "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
+      "Version": "1.1.4.30",
+      "PublishingDate": "2019-10-04T00:00:00",
+      "PlanVersions": [
+        "1.1.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
