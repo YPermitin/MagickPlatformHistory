@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -172,6 +172,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-09T10:30:12",
+      "Name": "1С:Сценарное тестирование 8",
+      "Version": "3.0.21.1",
+      "PublishingDate": "2020-04-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.22.1"
+      ],
+      "DemoPublicationDates": [
+        "2020-07-09T00:00:00"
+      ]
     }
   ]
 }
