@@ -349,8 +349,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.79.11",
-      "PublishingDate": "2020-07-02T00:00:00",
+      "Version": "3.0.79.14",
+      "PublishingDate": "2020-07-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1231,17 +1231,11 @@
     },
     {
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
-      "Version": "3.0.75.101",
-      "PublishingDate": "2020-04-03T00:00:00",
-      "PlanVersions": [
-        "3.0.78.64"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-16T00:00:00"
-      ],
+      "Version": "3.0.78.64",
+      "PublishingDate": "2020-07-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1443,17 +1437,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.78.3",
-      "PublishingDate": "2020-06-29T00:00:00",
-      "PlanVersions": [
-        "3.0.79.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-10T00:00:00"
-      ],
+      "Version": "3.0.79.2",
+      "PublishingDate": "2020-07-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2623,17 +2611,11 @@
     },
     {
       "Name": "Колледж, редакция 2.0",
-      "Version": "2.0.15.1",
-      "PublishingDate": "2020-06-17T00:00:00",
-      "PlanVersions": [
-        "2.0.16.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-06T00:00:00"
-      ],
+      "Version": "2.0.16.1",
+      "PublishingDate": "2020-07-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
