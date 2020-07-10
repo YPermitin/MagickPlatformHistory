@@ -875,17 +875,11 @@
     },
     {
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия КОРП",
-      "Version": "1.5.1.1",
-      "PublishingDate": "2020-06-01T00:00:00",
-      "PlanVersions": [
-        "1.5.2.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-08T00:00:00"
-      ],
+      "Version": "1.5.2.1",
+      "PublishingDate": "2020-07-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3119,8 +3113,8 @@
     },
     {
       "Name": "Процессное производство. Химия",
-      "Version": "1.3.142.2",
-      "PublishingDate": "2020-06-19T00:00:00",
+      "Version": "1.3.143.1",
+      "PublishingDate": "2020-07-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
