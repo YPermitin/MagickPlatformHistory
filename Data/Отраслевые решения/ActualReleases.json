@@ -2319,8 +2319,8 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
-      "Version": "2.0.66.110",
-      "PublishingDate": "2020-06-15T00:00:00",
+      "Version": "2.0.66.112",
+      "PublishingDate": "2020-07-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3917,9 +3917,15 @@
       "Name": "Турагентство Базовая, редакция 1.6",
       "Version": "1.6.20.178",
       "PublishingDate": "2020-06-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.21.103"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3957,9 +3963,15 @@
       "Name": "Турагентство, редакция 1.6",
       "Version": "1.6.20.178",
       "PublishingDate": "2020-06-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.21.103"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
