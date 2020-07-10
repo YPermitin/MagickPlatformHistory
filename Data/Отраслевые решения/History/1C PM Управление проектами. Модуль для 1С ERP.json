@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2019-02-28T21:54:33",
@@ -89,6 +89,17 @@
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
       "Version": "4.2.13.3",
       "PublishingDate": "2020-05-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-10T14:30:11",
+      "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
+      "Version": "4.2.13.6",
+      "PublishingDate": "2020-07-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
