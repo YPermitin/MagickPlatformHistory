@@ -3169,17 +3169,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
-      "Version": "3.0.77.78",
-      "PublishingDate": "2020-05-19T00:00:00",
-      "PlanVersions": [
-        "3.0.78.54"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-10T00:00:00"
-      ],
+      "Version": "3.0.78.54",
+      "PublishingDate": "2020-07-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
