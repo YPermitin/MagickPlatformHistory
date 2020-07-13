@@ -1445,17 +1445,11 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.77.108",
-      "PublishingDate": "2020-06-18T00:00:00",
-      "PlanVersions": [
-        "3.0.78.66"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-29T00:00:00"
-      ],
+      "Version": "3.0.78.66",
+      "PublishingDate": "2020-07-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
