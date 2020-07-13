@@ -1415,17 +1415,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.77",
-      "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [
-        "2.0.66.78"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-06T00:00:00"
-      ],
+      "Version": "2.0.66.78",
+      "PublishingDate": "2020-07-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1539,9 +1533,15 @@
       "Name": "1С:Энергетика 2. Учет технологических присоединений",
       "Version": "2.4.11.67",
       "PublishingDate": "2020-02-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1549,9 +1549,15 @@
       "Name": "1С:Энергетика 2. Учет транспорта электроэнергии",
       "Version": "2.4.11.63",
       "PublishingDate": "2020-02-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1773,9 +1779,15 @@
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
       "Version": "1.2.3.3",
       "PublishingDate": "2020-05-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.3.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [
         "1.1.12.1"
       ],
@@ -1787,9 +1799,15 @@
       "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
       "Version": "1.2.5.3",
       "PublishingDate": "2020-05-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.5.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
