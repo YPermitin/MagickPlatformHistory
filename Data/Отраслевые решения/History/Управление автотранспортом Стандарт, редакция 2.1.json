@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 20,
+  "ReleasesCount": 21,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -283,6 +283,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-13T17:00:11",
+      "Name": "Управление автотранспортом Стандарт, редакция 2.1",
+      "Version": "2.2.11.1",
+      "PublishingDate": "2020-05-18T00:00:00",
+      "PlanVersions": [
+        "2.2.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
