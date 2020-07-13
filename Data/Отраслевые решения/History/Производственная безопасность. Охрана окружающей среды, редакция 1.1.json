@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 17,
+  "ReleasesCount": 18,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -274,6 +274,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-13T08:00:10",
+      "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
+      "Version": "1.1.4.27",
+      "PublishingDate": "2019-10-03T00:00:00",
+      "PlanVersions": [
+        "1.1.5.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
