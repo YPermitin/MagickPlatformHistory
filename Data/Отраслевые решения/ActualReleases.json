@@ -3853,9 +3853,15 @@
       "Name": "Транспортная логистика, экспедирование и управление автотранспортом КОРП",
       "Version": "1.1.11.1",
       "PublishingDate": "2020-05-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3985,9 +3991,15 @@
       "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
       "Version": "2.2.11.1",
       "PublishingDate": "2020-05-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4005,9 +4017,15 @@
       "Name": "Управление автотранспортом Стандарт, редакция 2.1",
       "Version": "2.2.11.1",
       "PublishingDate": "2020-05-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.12.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
