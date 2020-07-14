@@ -501,9 +501,13 @@
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
       "Version": "3.0.79.14",
       "PublishingDate": "2020-07-02T00:00:00",
-      "PlanVersions": [],
+      "PlanVersions": [
+        "3.0.80"
+      ],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanUpdateDates": [
+        "2020-07-14T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.79.21"
       ],
@@ -549,9 +553,13 @@
       "Name": "Бухгалтерия предприятия, редакция 3.0",
       "Version": "3.0.79.14",
       "PublishingDate": "2020-07-02T00:00:00",
-      "PlanVersions": [],
+      "PlanVersions": [
+        "3.0.80"
+      ],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanUpdateDates": [
+        "2020-07-14T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.79.21"
       ],
@@ -727,8 +735,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.14.97",
-      "PublishingDate": "2020-07-09T00:00:00",
+      "Version": "3.1.10.492",
+      "PublishingDate": "2020-07-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -737,8 +745,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.14.97",
-      "PublishingDate": "2020-07-09T00:00:00",
+      "Version": "3.1.10.492",
+      "PublishingDate": "2020-07-14T00:00:00",
       "PlanVersions": [
         "3.1.14.",
         "3.1.10."
