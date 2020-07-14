@@ -1083,12 +1083,10 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "2.3.5.24",
-        "2.3.5.21"
+        "2.3.5.24"
       ],
       "DemoPublicationDates": [
-        "2020-07-13T00:00:00",
-        "2020-07-02T00:00:00"
+        "2020-07-13T00:00:00"
       ]
     },
     {
