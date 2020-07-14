@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2019-09-20T13:32:20",
@@ -33,6 +33,17 @@
       "Name": "1С:Библиотека для Казахстана",
       "Version": "1.0.3.6",
       "PublishingDate": "2020-02-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-14T09:30:11",
+      "Name": "1С:Библиотека для Казахстана",
+      "Version": "1.0.4.22",
+      "PublishingDate": "2020-07-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
