@@ -1235,17 +1235,11 @@
     },
     {
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
-      "Version": "3.0.75.101",
-      "PublishingDate": "2020-04-10T00:00:00",
-      "PlanVersions": [
-        "3.0.78.64"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-06-16T00:00:00"
-      ],
+      "Version": "3.0.78.64",
+      "PublishingDate": "2020-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4128,17 +4122,11 @@
     },
     {
       "Name": "Управление металлургическим комбинатом",
-      "Version": "1.3.141.1",
-      "PublishingDate": "2020-06-26T00:00:00",
-      "PlanVersions": [
-        "1.3.142.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-10T00:00:00"
-      ],
+      "Version": "1.3.142.2",
+      "PublishingDate": "2020-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4574,10 +4562,10 @@
         "4.0.16.3"
       ],
       "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
+        "2020-07-17T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-10T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
