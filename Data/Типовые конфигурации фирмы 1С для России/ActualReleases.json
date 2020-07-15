@@ -220,8 +220,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.79.13"
+      ],
+      "DemoPublicationDates": [
+        "2020-07-15T00:00:00"
+      ]
     },
     {
       "Name": "1С:Садовод (базовая версия)",
@@ -230,8 +234,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.79.13"
+      ],
+      "DemoPublicationDates": [
+        "2020-07-15T00:00:00"
+      ]
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
@@ -460,8 +468,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.79.6"
+      ],
+      "DemoPublicationDates": [
+        "2020-07-15T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
@@ -470,8 +482,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.79.6"
+      ],
+      "DemoPublicationDates": [
+        "2020-07-15T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
