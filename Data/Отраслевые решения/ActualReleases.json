@@ -277,10 +277,10 @@
         "1.1.1.17"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-07T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -293,10 +293,10 @@
         "3.0.79.14"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -309,10 +309,10 @@
         "3.0.79.14"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -811,10 +811,10 @@
         "3.0.79.14"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -861,10 +861,10 @@
         "3.0.79.14"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -885,17 +885,11 @@
     },
     {
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия ПРОФ",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "1.5.2.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
-      ],
+      "Version": "1.5.2.1",
+      "PublishingDate": "2020-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1355,10 +1349,10 @@
         "2.2.16"
       ],
       "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
+        "2020-07-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-07T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2188,10 +2182,10 @@
         "3.0.79.11"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2270,10 +2264,10 @@
         "3.0.79.14"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4282,10 +4276,10 @@
         "1.3.143.1"
       ],
       "PlanReleaseDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
