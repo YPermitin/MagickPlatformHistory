@@ -1093,9 +1093,15 @@
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
       "Version": "2.1.54.4",
       "PublishingDate": "2020-07-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.54.5"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3010,17 +3016,11 @@
     },
     {
       "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
-      "Version": "1.1.4.27",
-      "PublishingDate": "2019-10-03T00:00:00",
-      "PlanVersions": [
-        "1.1.5.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-15T00:00:00"
-      ],
+      "Version": "1.1.5.1",
+      "PublishingDate": "2020-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
