@@ -849,17 +849,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 3.0",
-      "Version": "3.0.79.11",
-      "PublishingDate": "2020-07-01T00:00:00",
-      "PlanVersions": [
-        "3.0.79.14"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-15T00:00:00"
-      ],
+      "Version": "3.0.79.14",
+      "PublishingDate": "2020-07-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1199,10 +1193,10 @@
         "2.2.16"
       ],
       "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
+        "2020-07-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-07T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1359,10 +1353,10 @@
         "2.2.16"
       ],
       "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
+        "2020-07-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-07T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3040,10 +3034,10 @@
         "1.1.5.1"
       ],
       "PlanReleaseDates": [
-        "2020-07-15T00:00:00"
+        "2020-07-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-13T00:00:00"
+        "2020-07-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
