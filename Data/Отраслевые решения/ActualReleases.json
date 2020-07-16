@@ -271,17 +271,11 @@
     },
     {
       "Name": "1С:Биллинг",
-      "Version": "1.1.1.16",
-      "PublishingDate": "2019-09-16T00:00:00",
-      "PlanVersions": [
-        "1.1.1.17"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "1.1.1.17",
+      "PublishingDate": "2020-07-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -297,17 +291,11 @@
     },
     {
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
-      "Version": "3.0.78.69",
-      "PublishingDate": "2020-06-26T00:00:00",
-      "PlanVersions": [
-        "3.0.79.14"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "3.0.79.14",
+      "PublishingDate": "2020-07-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
