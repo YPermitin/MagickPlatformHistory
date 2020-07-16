@@ -1401,9 +1401,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.79.2",
       "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.79.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2722,9 +2728,15 @@
       "Name": "Ликероводочный и винный завод, редакция 1.3",
       "Version": "1.3.143.1",
       "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.144.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2928,9 +2940,15 @@
       "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
       "Version": "1.3.143.1",
       "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.144.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3664,9 +3682,15 @@
       "Name": "Спиртовое производство",
       "Version": "1.3.143.1",
       "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.144.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3868,17 +3892,11 @@
     },
     {
       "Name": "Турагентство Базовая, редакция 1.6",
-      "Version": "1.6.20.178",
-      "PublishingDate": "2020-06-16T00:00:00",
-      "PlanVersions": [
-        "1.6.21.103"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "1.6.21.103",
+      "PublishingDate": "2020-07-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
