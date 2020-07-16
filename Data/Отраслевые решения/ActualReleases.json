@@ -3914,17 +3914,11 @@
     },
     {
       "Name": "Турагентство, редакция 1.6",
-      "Version": "1.6.20.178",
-      "PublishingDate": "2020-06-16T00:00:00",
-      "PlanVersions": [
-        "1.6.21.103"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "1.6.21.103",
+      "PublishingDate": "2020-07-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
