@@ -153,17 +153,11 @@
     },
     {
       "Name": "Управление торговлей для Беларуси, редакция 3",
-      "Version": "3.4.11.102",
-      "PublishingDate": "2020-05-26T00:00:00",
-      "PlanVersions": [
-        "3.4.12"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-02T00:00:00"
-      ],
+      "Version": "3.4.12.61",
+      "PublishingDate": "2020-07-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
