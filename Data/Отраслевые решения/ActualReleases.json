@@ -243,9 +243,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Version": "3.0.45.61",
       "PublishingDate": "2020-07-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.45.62"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1391,9 +1397,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.79.2",
       "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.79.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
