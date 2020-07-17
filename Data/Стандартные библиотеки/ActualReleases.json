@@ -17,17 +17,13 @@
     },
     {
       "Name": "1С:Библиотека интеграции с МДЛП",
-      "Version": "1.1.2.16",
-      "PublishingDate": "2020-06-05T00:00:00",
+      "Version": "1.2.1.2",
+      "PublishingDate": "2020-07-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "1.2.1.1"
-      ],
-      "DemoPublicationDates": [
-        "2020-07-03T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Библиотека интернет-поддержки пользователей, редакция 2.1",
