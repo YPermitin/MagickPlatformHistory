@@ -241,17 +241,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
-      "Version": "3.0.45.61",
-      "PublishingDate": "2020-07-07T00:00:00",
-      "PlanVersions": [
-        "3.0.45.62"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "3.0.45.62",
+      "PublishingDate": "2020-07-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1175,17 +1169,11 @@
     },
     {
       "Name": "1С:УНФ 8. Полиграфия 2",
-      "Version": "1.6.20.159",
-      "PublishingDate": "2020-06-03T00:00:00",
-      "PlanVersions": [
-        "1.6.21.103"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-17T00:00:00"
-      ],
+      "Version": "1.6.21.103",
+      "PublishingDate": "2020-07-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3900,17 +3888,11 @@
     },
     {
       "Name": "Транспортная логистика, экспедирование и управление автотранспортом КОРП",
-      "Version": "1.1.11.1",
-      "PublishingDate": "2020-05-06T00:00:00",
-      "PlanVersions": [
-        "1.1.12.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-13T00:00:00"
-      ],
+      "Version": "1.1.12.1",
+      "PublishingDate": "2020-07-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
