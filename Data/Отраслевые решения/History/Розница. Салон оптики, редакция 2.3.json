@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 30,
+  "ReleasesCount": 31,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -453,6 +453,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-20T18:00:14",
+      "Name": "Розница. Салон оптики, редакция 2.3",
+      "Version": "2.3.4.33",
+      "PublishingDate": "2020-06-18T00:00:00",
+      "PlanVersions": [
+        "2.3.5.24"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
