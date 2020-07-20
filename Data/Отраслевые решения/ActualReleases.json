@@ -403,17 +403,11 @@
     },
     {
       "Name": "1С:Горнодобывающая промышленность 2. Оперативный учет",
-      "Version": "1.1.5.6",
-      "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [
-        "1.1.6.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-17T00:00:00"
-      ],
+      "Version": "1.1.6.4",
+      "PublishingDate": "2020-07-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1191,17 +1185,11 @@
     },
     {
       "Name": "1С:УНФ 8. Управление предприятием общепита",
-      "Version": "1.6.20.180",
-      "PublishingDate": "2020-07-13T00:00:00",
-      "PlanVersions": [
-        "1.6.21.103"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "1.6.21.103",
+      "PublishingDate": "2020-07-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
