@@ -3698,17 +3698,11 @@
     },
     {
       "Name": "Смета 3. редакция 3.0",
-      "Version": "3.0.6.3",
-      "PublishingDate": "2020-05-22T00:00:00",
-      "PlanVersions": [
-        "3.0.6.7"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-17T00:00:00"
-      ],
+      "Version": "3.0.6.7",
+      "PublishingDate": "2020-07-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
