@@ -757,9 +757,13 @@
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
       "Version": "2.5.154.1",
       "PublishingDate": "2020-07-08T00:00:00",
-      "PlanVersions": [],
+      "PlanVersions": [
+        "2.5."
+      ],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanUpdateDates": [
+        "2020-07-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
