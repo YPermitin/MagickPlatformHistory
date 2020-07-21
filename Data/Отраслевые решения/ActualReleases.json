@@ -1803,17 +1803,11 @@
     },
     {
       "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
-      "Version": "1.2.5.3",
-      "PublishingDate": "2020-05-27T00:00:00",
-      "PlanVersions": [
-        "1.2.5.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-13T00:00:00"
-      ],
+      "Version": "1.2.5.4",
+      "PublishingDate": "2020-07-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
