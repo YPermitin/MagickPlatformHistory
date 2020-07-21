@@ -1745,8 +1745,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.12.77",
-      "PublishingDate": "2020-07-14T00:00:00",
+      "Version": "2.4.12.80",
+      "PublishingDate": "2020-07-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1789,17 +1789,11 @@
     },
     {
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
-      "Version": "1.2.3.3",
-      "PublishingDate": "2020-05-27T00:00:00",
-      "PlanVersions": [
-        "1.2.3.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-13T00:00:00"
-      ],
+      "Version": "1.2.3.4",
+      "PublishingDate": "2020-07-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "1.1.12.1"
       ],
