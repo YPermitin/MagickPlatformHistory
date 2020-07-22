@@ -511,17 +511,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.78.68",
-      "PublishingDate": "2020-07-03T00:00:00",
-      "PlanVersions": [
-        "3.0.79.21"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-20T00:00:00"
-      ],
+      "Version": "3.0.79.21",
+      "PublishingDate": "2020-07-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1193,17 +1187,11 @@
     },
     {
       "Name": "1С:Управление водоканалом 2",
-      "Version": "2.2.15.1",
-      "PublishingDate": "2020-03-19T00:00:00",
-      "PlanVersions": [
-        "2.2.16"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-21T00:00:00"
-      ],
+      "Version": "2.2.16.1",
+      "PublishingDate": "2020-07-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3119,9 +3107,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.78.54",
       "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.79.14"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3137,8 +3131,8 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
-      "Version": "3.0.78.54",
-      "PublishingDate": "2020-07-10T00:00:00",
+      "Version": "3.0.79.14",
+      "PublishingDate": "2020-07-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
