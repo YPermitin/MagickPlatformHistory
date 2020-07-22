@@ -4137,17 +4137,11 @@
     },
     {
       "Name": "Управление металлургическим комбинатом",
-      "Version": "1.3.142.2",
-      "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [
-        "1.3.143.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-20T00:00:00"
-      ],
+      "Version": "1.3.143.2",
+      "PublishingDate": "2020-07-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
