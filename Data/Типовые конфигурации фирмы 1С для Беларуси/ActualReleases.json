@@ -83,17 +83,11 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Беларуси, редакция 3",
-      "Version": "3.0.19.196",
-      "PublishingDate": "2020-07-03T00:00:00",
-      "PlanVersions": [
-        "3.0.20"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-20T00:00:00"
-      ],
+      "Version": "3.0.20.200",
+      "PublishingDate": "2020-07-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
