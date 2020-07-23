@@ -1057,10 +1057,10 @@
         "2.4.12.75"
       ],
       "PlanReleaseDates": [
-        "2020-07-23T00:00:00"
+        "2020-07-27T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-21T00:00:00"
+        "2020-07-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1249,10 +1249,10 @@
         "1.0.1.2"
       ],
       "PlanReleaseDates": [
-        "2020-07-22T00:00:00"
+        "2020-07-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-19T00:00:00"
+        "2020-07-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1327,15 +1327,9 @@
       "Name": "1С:Управление тепловодоканалом 2",
       "Version": "2.2.15.1",
       "PublishingDate": "2020-03-10T00:00:00",
-      "PlanVersions": [
-        "2.2.16"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-22T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1938,7 +1932,7 @@
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
       "Version": "3.0.79.14",
-      "PublishingDate": "2020-07-03T00:00:00",
+      "PublishingDate": "2020-07-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
