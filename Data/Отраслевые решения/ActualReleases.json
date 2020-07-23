@@ -1119,10 +1119,10 @@
         "2.4.12.75"
       ],
       "PlanReleaseDates": [
-        "2020-07-23T00:00:00"
+        "2020-07-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-21T00:00:00"
+        "2020-07-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1255,7 +1255,7 @@
         "1.0.1.2"
       ],
       "PlanReleaseDates": [
-        "2020-07-23T00:00:00"
+        "2020-07-24T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-07-23T00:00:00"
@@ -2997,9 +2997,15 @@
       "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
       "Version": "1.1.5.1",
       "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3017,9 +3023,15 @@
       "Name": "Производственная безопасность. Охрана труда, редакция 1.1",
       "Version": "1.1.5.1",
       "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3037,9 +3049,15 @@
       "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
       "Version": "1.1.5.1",
       "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3057,9 +3075,15 @@
       "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.1",
       "Version": "1.1.5.1",
       "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
