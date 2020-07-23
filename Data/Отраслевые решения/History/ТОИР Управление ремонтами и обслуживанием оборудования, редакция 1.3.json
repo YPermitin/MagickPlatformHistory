@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 32,
+  "ReleasesCount": 33,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -460,6 +460,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-23T13:30:12",
+      "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
+      "Version": "1.3.142.2",
+      "PublishingDate": "2020-06-22T00:00:00",
+      "PlanVersions": [
+        "1.3.144.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-07-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
