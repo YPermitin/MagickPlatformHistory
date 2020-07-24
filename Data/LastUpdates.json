@@ -21,6 +21,12 @@
       "Link": ""
     },
     {
+      "Title": "1С:Общепит КОРП",
+      "Description": "3.0.79.21",
+      "PublishingDate": "2020-07-24T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
       "Description": "2.4.12.75",
       "PublishingDate": "2020-07-24T00:00:00",
@@ -35,6 +41,12 @@
     {
       "Title": "PostgreSQL",
       "Description": "11.7-7.1C",
+      "PublishingDate": "2020-07-24T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "Комплексная автоматизация для Казахстана",
+      "Description": "2.4.4.68",
       "PublishingDate": "2020-07-24T00:00:00",
       "Link": ""
     },
