@@ -1389,17 +1389,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.79.2",
-      "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [
-        "3.0.79.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "3.0.79.3",
+      "PublishingDate": "2020-07-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
