@@ -223,17 +223,11 @@
     },
     {
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.12.77",
-      "PublishingDate": "2020-07-21T00:00:00",
-      "PlanVersions": [
-        "2.4.12.80"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-24T00:00:00"
-      ],
+      "Version": "2.4.12.80",
+      "PublishingDate": "2020-07-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -833,17 +827,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.112",
-      "PublishingDate": "2020-06-29T00:00:00",
-      "PlanVersions": [
-        "2.0.66.114"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-16T00:00:00"
-      ],
+      "Version": "2.0.66.114",
+      "PublishingDate": "2020-07-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1915,10 +1903,10 @@
         "1.6.21.114"
       ],
       "PlanReleaseDates": [
-        "2020-07-27T00:00:00"
+        "2020-07-28T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-23T00:00:00"
+        "2020-07-24T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
