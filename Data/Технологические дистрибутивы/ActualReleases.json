@@ -149,10 +149,12 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "12.3-2.1C",
         "11.8-2.1C",
         "10.13-2.1C"
       ],
       "DemoPublicationDates": [
+        "2020-07-24T00:00:00",
         "2020-07-24T00:00:00",
         "2020-07-24T00:00:00"
       ]
