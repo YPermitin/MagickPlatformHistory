@@ -481,9 +481,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.0.80.36",
         "3.0.80.33"
       ],
       "DemoPublicationDates": [
+        "2020-07-24T00:00:00",
         "2020-07-22T00:00:00"
       ]
     },
@@ -509,9 +511,11 @@
         "2020-07-14T00:00:00"
       ],
       "DemoVersions": [
+        "3.0.80.36",
         "3.0.80.33"
       ],
       "DemoPublicationDates": [
+        "2020-07-24T00:00:00",
         "2020-07-22T00:00:00"
       ]
     },
@@ -533,9 +537,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.0.80.36",
         "3.0.80.33"
       ],
       "DemoPublicationDates": [
+        "2020-07-24T00:00:00",
         "2020-07-22T00:00:00"
       ]
     },
