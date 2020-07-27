@@ -12,8 +12,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.4.4.69"
+      ],
+      "DemoPublicationDates": [
+        "2020-07-27T00:00:00"
+      ]
     },
     {
       "Name": "ERP Управление предприятием 2 для Казахстана (бета-версия)",
