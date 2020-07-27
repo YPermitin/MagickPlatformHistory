@@ -3017,17 +3017,11 @@
     },
     {
       "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
-      "Version": "1.1.5.1",
-      "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [
-        "1.1.6.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-23T00:00:00"
-      ],
+      "Version": "1.1.6.1",
+      "PublishingDate": "2020-07-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
