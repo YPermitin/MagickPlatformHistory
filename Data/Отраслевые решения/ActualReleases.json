@@ -4045,9 +4045,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.12.71",
       "PublishingDate": "2020-07-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.12.75"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
