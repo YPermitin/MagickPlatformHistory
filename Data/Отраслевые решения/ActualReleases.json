@@ -1487,17 +1487,11 @@
     },
     {
       "Name": "1С:Энергетика 2. Учет транспорта электроэнергии",
-      "Version": "2.4.12.71",
-      "PublishingDate": "2020-07-13T00:00:00",
-      "PlanVersions": [
-        "2.4.12.77"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-27T00:00:00"
-      ],
+      "Version": "2.4.12.77",
+      "PublishingDate": "2020-07-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3025,17 +3019,11 @@
     },
     {
       "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.1",
-      "Version": "1.1.5.1",
-      "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [
-        "1.1.6.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-07-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-23T00:00:00"
-      ],
+      "Version": "1.1.6.1",
+      "PublishingDate": "2020-07-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4151,10 +4139,10 @@
         "2.1.7.7"
       ],
       "PlanReleaseDates": [
-        "2020-07-30T00:00:00"
+        "2020-08-07T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-07-23T00:00:00"
+        "2020-07-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
