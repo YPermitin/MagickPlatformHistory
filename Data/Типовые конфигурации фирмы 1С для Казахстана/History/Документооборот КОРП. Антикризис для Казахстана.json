@@ -1,0 +1,21 @@
+{
+  "Name": "Документооборот КОРП. Антикризис для Казахстана",
+  "Category": {
+    "ID": 93,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-07-28T16:30:12",
+      "Name": "Документооборот КОРП. Антикризис для Казахстана",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
