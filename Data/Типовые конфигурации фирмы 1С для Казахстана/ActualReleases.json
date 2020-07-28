@@ -3,7 +3,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 33,
+  "ReleasesCount": 34,
   "Releases": [
     {
       "Name": "ERP Управление предприятием 2 для Казахстана",
@@ -143,6 +143,16 @@
       "Name": "Бухгалтерский учет для государственных учреждений Казахстана, редакция 4.0",
       "Version": "4.0.23.1",
       "PublishingDate": "2020-07-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Документооборот КОРП. Антикризис для Казахстана",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
