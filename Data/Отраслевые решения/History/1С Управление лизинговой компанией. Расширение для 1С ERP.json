@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "ReleasesHistory": [
     {
       "Created": "2020-01-10T19:32:36",
@@ -439,6 +439,17 @@
       "PlanUpdateDates": [
         "2020-07-23T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-28T16:00:13",
+      "Name": "1С:Управление лизинговой компанией. Расширение для 1С:ERP",
+      "Version": "1.0.1.2",
+      "PublishingDate": "2020-07-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
