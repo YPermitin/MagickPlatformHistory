@@ -463,45 +463,35 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
-      "Version": "3.0.79.6",
-      "PublishingDate": "2020-07-17T00:00:00",
+      "Version": "3.0.80.4",
+      "PublishingDate": "2020-07-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.80.4"
-      ],
-      "DemoPublicationDates": [
-        "2020-07-28T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
-      "Version": "3.0.79.6",
-      "PublishingDate": "2020-07-17T00:00:00",
+      "Version": "3.0.80.4",
+      "PublishingDate": "2020-07-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.80.4"
-      ],
-      "DemoPublicationDates": [
-        "2020-07-28T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
-      "Version": "3.0.79.21",
-      "PublishingDate": "2020-07-15T00:00:00",
+      "Version": "3.0.80.36",
+      "PublishingDate": "2020-07-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.80.36",
         "3.0.80.33"
       ],
       "DemoPublicationDates": [
-        "2020-07-24T00:00:00",
         "2020-07-22T00:00:00"
       ]
     },
@@ -517,21 +507,15 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
-      "Version": "3.0.79.21",
-      "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [
-        "3.0.80"
-      ],
+      "Version": "3.0.80.36",
+      "PublishingDate": "2020-07-29T00:00:00",
+      "PlanVersions": [],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
-      ],
+      "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.80.36",
         "3.0.80.33"
       ],
       "DemoPublicationDates": [
-        "2020-07-24T00:00:00",
         "2020-07-22T00:00:00"
       ]
     },
@@ -547,17 +531,15 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
-      "Version": "3.0.79.21",
-      "PublishingDate": "2020-07-15T00:00:00",
+      "Version": "3.0.80.36",
+      "PublishingDate": "2020-07-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.80.36",
         "3.0.80.33"
       ],
       "DemoPublicationDates": [
-        "2020-07-24T00:00:00",
         "2020-07-22T00:00:00"
       ]
     },
@@ -573,21 +555,15 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 3.0",
-      "Version": "3.0.79.21",
-      "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [
-        "3.0.80"
-      ],
+      "Version": "3.0.80.36",
+      "PublishingDate": "2020-07-29T00:00:00",
+      "PlanVersions": [],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [
-        "2020-07-14T00:00:00"
-      ],
+      "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.80.36",
         "3.0.80.33"
       ],
       "DemoPublicationDates": [
-        "2020-07-24T00:00:00",
         "2020-07-22T00:00:00"
       ]
     },
