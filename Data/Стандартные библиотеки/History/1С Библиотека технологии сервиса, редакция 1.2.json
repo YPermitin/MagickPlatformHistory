@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2019-03-15T14:54:25",
@@ -96,6 +96,17 @@
       "Name": "1С:Библиотека технологии сервиса, редакция 1.2",
       "Version": "1.2.2.31",
       "PublishingDate": "2020-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-07-30T12:30:12",
+      "Name": "1С:Библиотека технологии сервиса, редакция 1.2",
+      "Version": "1.2.2.35",
+      "PublishingDate": "2020-07-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
