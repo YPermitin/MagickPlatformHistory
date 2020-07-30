@@ -491,8 +491,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
-      "Version": "2.0.66.114",
-      "PublishingDate": "2020-07-15T00:00:00",
+      "Version": "2.0.66.115",
+      "PublishingDate": "2020-07-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -511,8 +511,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
-      "Version": "2.0.66.114",
-      "PublishingDate": "2020-07-15T00:00:00",
+      "Version": "2.0.66.115",
+      "PublishingDate": "2020-07-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -531,8 +531,8 @@
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
-      "Version": "2.0.66.114",
-      "PublishingDate": "2020-07-15T00:00:00",
+      "Version": "2.0.66.115",
+      "PublishingDate": "2020-07-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -815,9 +815,15 @@
       "Name": "Комплексная автоматизация, редакция 2",
       "Version": "2.4.12.81",
       "PublishingDate": "2020-07-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-30T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.12.80",
         "2.5.4.127",
@@ -1267,9 +1273,15 @@
       "Name": "Управление торговлей, редакция 11",
       "Version": "11.4.12.81",
       "PublishingDate": "2020-07-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.13"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-07-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
