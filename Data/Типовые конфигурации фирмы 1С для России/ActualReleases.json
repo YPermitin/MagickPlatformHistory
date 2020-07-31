@@ -665,8 +665,8 @@
     },
     {
       "Name": "Документооборот КОРП",
-      "Version": "2.1.22.8",
-      "PublishingDate": "2020-06-30T00:00:00",
+      "Version": "2.1.23.10",
+      "PublishingDate": "2020-07-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -695,8 +695,8 @@
     },
     {
       "Name": "Документооборот ПРОФ",
-      "Version": "2.1.22.8",
-      "PublishingDate": "2020-06-30T00:00:00",
+      "Version": "2.1.23.10",
+      "PublishingDate": "2020-07-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
