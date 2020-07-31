@@ -166,8 +166,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.7.2.52"
+      ],
+      "DemoPublicationDates": [
+        "2020-07-31T00:00:00"
+      ]
     },
     {
       "Name": "1С:Клиент ЭДО 8, редакция 1.0",
@@ -771,14 +775,14 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
-      "Version": "2.5.155.2",
-      "PublishingDate": "2020-07-30T00:00:00",
+      "Version": "2.5.155.3",
+      "PublishingDate": "2020-07-31T00:00:00",
       "PlanVersions": [
         "2.5."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-07-30T00:00:00"
+        "2020-07-31T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
