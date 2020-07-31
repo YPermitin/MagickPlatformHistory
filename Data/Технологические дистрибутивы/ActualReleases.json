@@ -215,17 +215,13 @@
     },
     {
       "Name": "Мобильная платформа 1С:Предприятия",
-      "Version": "8.3.16.142",
-      "PublishingDate": "2020-04-22T00:00:00",
+      "Version": "8.3.17.67",
+      "PublishingDate": "2020-07-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "8.3.17.67"
-      ],
-      "DemoPublicationDates": [
-        "2020-07-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Обработки обслуживания торгового оборудования - для Технологической платформы 8.2",
