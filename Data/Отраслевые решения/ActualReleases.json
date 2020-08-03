@@ -825,9 +825,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.79.21",
       "PublishingDate": "2020-07-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.80.36"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-03T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -849,9 +855,15 @@
       "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
       "Version": "2.4.12.65",
       "PublishingDate": "2020-06-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.83"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -859,9 +871,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.114",
       "PublishingDate": "2020-07-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.116"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -869,9 +887,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.79.21",
       "PublishingDate": "2020-07-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.80.36"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-03T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
