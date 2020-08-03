@@ -3,7 +3,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 58,
+  "ReleasesCount": 59,
   "Releases": [
     {
       "Name": "1С-ВЕКТРО: Управляющий турагентства. Базовая версия",
@@ -439,6 +439,16 @@
       "Name": "Омега. Интеграция АСУ ПФХД. Включает платформу 1C:Предприятие 8",
       "Version": "1.0.1.5",
       "PublishingDate": "2017-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Омега: Управление ФХД вуза",
+      "Version": "1.1.3.2",
+      "PublishingDate": "2020-06-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
