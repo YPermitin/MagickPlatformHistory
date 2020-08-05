@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 89,
+  "ReleasesCount": 90,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1309,6 +1309,26 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-05T14:00:14",
+      "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
+      "Version": "3.0.79.21",
+      "PublishingDate": "2020-07-21T00:00:00",
+      "PlanVersions": [
+        "3.0.80.40",
+        "3.0.80"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-05T00:00:00",
+        "2020-08-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-05T00:00:00",
+        "2020-08-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
