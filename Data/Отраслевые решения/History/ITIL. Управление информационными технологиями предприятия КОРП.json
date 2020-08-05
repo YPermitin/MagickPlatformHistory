@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 42,
+  "ReleasesCount": 43,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -820,6 +820,27 @@
       ],
       "PlanUpdateDates": [
         "2020-08-03T00:00:00"
+      ],
+      "DemoVersions": [
+        "1.1.12.1"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-02T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-08-05T10:00:12",
+      "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
+      "Version": "1.2.3.4",
+      "PublishingDate": "2020-07-21T00:00:00",
+      "PlanVersions": [
+        "1.2.3.5"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-05T00:00:00"
       ],
       "DemoVersions": [
         "1.1.12.1"
