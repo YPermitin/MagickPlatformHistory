@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 91,
+  "ReleasesCount": 92,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -1147,6 +1147,17 @@
       "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
       "Version": "3.1.10.531",
       "PublishingDate": "2020-08-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-05T14:00:14",
+      "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
+      "Version": "3.1.14.154",
+      "PublishingDate": "2020-08-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
