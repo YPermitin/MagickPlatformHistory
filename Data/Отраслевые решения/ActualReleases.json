@@ -3853,17 +3853,11 @@
     },
     {
       "Name": "Технический расчетный центр водоканала",
-      "Version": "1.0.22.7",
-      "PublishingDate": "2020-05-15T00:00:00",
-      "PlanVersions": [
-        "1.0.22.8"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-04T00:00:00"
-      ],
+      "Version": "1.0.22.8",
+      "PublishingDate": "2020-08-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
