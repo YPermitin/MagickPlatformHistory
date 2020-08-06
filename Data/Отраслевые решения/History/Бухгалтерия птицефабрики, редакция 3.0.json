@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 136,
+  "ReleasesCount": 137,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -2099,6 +2099,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-07T01:00:13",
+      "Name": "Бухгалтерия птицефабрики, редакция 3.0",
+      "Version": "3.0.79.21",
+      "PublishingDate": "2020-08-04T00:00:00",
+      "PlanVersions": [
+        "3.0.80.36"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
