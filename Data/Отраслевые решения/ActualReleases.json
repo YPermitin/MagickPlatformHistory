@@ -583,17 +583,11 @@
     },
     {
       "Name": "1С:Медицина. Больница, редакция 2",
-      "Version": "2.0.3.2",
-      "PublishingDate": "2020-06-17T00:00:00",
-      "PlanVersions": [
-        "2.0.3.3"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-06T00:00:00"
-      ],
+      "Version": "2.0.3.3",
+      "PublishingDate": "2020-08-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4485,17 +4479,11 @@
     },
     {
       "Name": "Управляющий базовая, для Технологической платформы 8.2, 8.3",
-      "Version": "2.1.4.1",
-      "PublishingDate": "2020-06-15T00:00:00",
-      "PlanVersions": [
-        "2.1.4.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-04T00:00:00"
-      ],
+      "Version": "2.1.4.2",
+      "PublishingDate": "2020-08-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4531,17 +4519,11 @@
     },
     {
       "Name": "Управляющий. Стандарт, для Технологической платформы 8.2, 8.3",
-      "Version": "2.1.4.1",
-      "PublishingDate": "2020-06-15T00:00:00",
-      "PlanVersions": [
-        "2.1.4.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-04T00:00:00"
-      ],
+      "Version": "2.1.4.2",
+      "PublishingDate": "2020-08-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
