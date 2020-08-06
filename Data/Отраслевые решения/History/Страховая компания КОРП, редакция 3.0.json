@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -143,6 +143,17 @@
       "Name": "Страховая компания КОРП, редакция 3.0",
       "Version": "3.0.75.58",
       "PublishingDate": "2020-06-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-06T17:00:11",
+      "Name": "Страховая компания КОРП, редакция 3.0",
+      "Version": "3.0.75.59",
+      "PublishingDate": "2020-08-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
