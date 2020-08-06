@@ -255,9 +255,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Version": "3.0.45.64",
       "PublishingDate": "2020-08-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.45.65"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-06T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -584,7 +590,7 @@
     {
       "Name": "1С:Медицина. Больница, редакция 2",
       "Version": "2.0.3.3",
-      "PublishingDate": "2020-08-03T00:00:00",
+      "PublishingDate": "2020-08-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
