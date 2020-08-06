@@ -1419,17 +1419,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
-      "Version": "2.0.66.79",
-      "PublishingDate": "2020-07-23T00:00:00",
-      "PlanVersions": [
-        "2.0.66.80"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-05T00:00:00"
-      ],
+      "Version": "2.0.66.80",
+      "PublishingDate": "2020-08-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1483,8 +1477,8 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.79.16",
-      "PublishingDate": "2020-07-29T00:00:00",
+      "Version": "3.0.79.18",
+      "PublishingDate": "2020-08-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
