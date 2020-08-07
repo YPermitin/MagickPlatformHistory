@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2019-01-23T19:48:22",
@@ -120,6 +120,23 @@
       ],
       "PlanUpdateDates": [
         "2020-07-13T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-07T14:30:10",
+      "Name": "1С:Энергетика 2. Учет технологических присоединений",
+      "Version": "2.4.11.67",
+      "PublishingDate": "2020-02-27T00:00:00",
+      "PlanVersions": [
+        "2.4.12.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-07T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
