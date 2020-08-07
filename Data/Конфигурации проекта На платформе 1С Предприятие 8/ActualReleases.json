@@ -17,8 +17,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата. Версия 5.0",
-      "Version": "5.0.66.3",
-      "PublishingDate": "2020-07-21T00:00:00",
+      "Version": "5.0.66.4",
+      "PublishingDate": "2020-08-07T00:00:00",
       "PlanVersions": [
         "5.0.67"
       ],
@@ -33,8 +33,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата. Версия 5.0. Базовая версия",
-      "Version": "5.0.66.3",
-      "PublishingDate": "2020-07-21T00:00:00",
+      "Version": "5.0.66.4",
+      "PublishingDate": "2020-08-07T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
