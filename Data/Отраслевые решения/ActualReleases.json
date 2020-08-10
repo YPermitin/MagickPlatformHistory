@@ -83,8 +83,8 @@
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.12.80",
-      "PublishingDate": "2020-07-28T00:00:00",
+      "Version": "2.4.12.83",
+      "PublishingDate": "2020-08-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1015,8 +1015,8 @@
     },
     {
       "Name": "1С:Предприятие 8. MDM Управление нормативно-справочной информацией, редакция 2.0",
-      "Version": "2.0.4.14",
-      "PublishingDate": "2020-06-30T00:00:00",
+      "Version": "2.0.4.15",
+      "PublishingDate": "2020-08-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
