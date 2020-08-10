@@ -1267,17 +1267,11 @@
     },
     {
       "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
-      "Version": "2.4.11.67",
-      "PublishingDate": "2020-07-30T00:00:00",
-      "PlanVersions": [
-        "2.4.11.88"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-07T00:00:00"
-      ],
+      "Version": "2.4.11.88",
+      "PublishingDate": "2020-08-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
