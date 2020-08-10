@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2020-05-06T19:14:06",
@@ -50,6 +50,23 @@
         "2020.2.0.547"
       ],
       "DemoPublicationDates": [
+        "2020-06-19T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-08-10T16:30:12",
+      "Name": "1C:Исполнитель. Бета-версия",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2020.2.1.16",
+        "2020.2.0.547"
+      ],
+      "DemoPublicationDates": [
+        "2020-08-10T00:00:00",
         "2020-06-19T00:00:00"
       ]
     }
