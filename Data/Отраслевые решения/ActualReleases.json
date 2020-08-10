@@ -257,17 +257,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4",
-      "Version": "4.1.4.2",
-      "PublishingDate": "2020-07-24T00:00:00",
-      "PlanVersions": [
-        "4.1.5.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-07T00:00:00"
-      ],
+      "Version": "4.1.5.1",
+      "PublishingDate": "2020-08-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3225,17 +3219,11 @@
     },
     {
       "Name": "Розница. Аптека, редакция 2.3",
-      "Version": "2.3.4.33",
-      "PublishingDate": "2020-06-18T00:00:00",
-      "PlanVersions": [
-        "2.3.5.24"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-06T00:00:00"
-      ],
+      "Version": "2.3.5.24",
+      "PublishingDate": "2020-08-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
