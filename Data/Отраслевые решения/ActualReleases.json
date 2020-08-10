@@ -820,13 +820,13 @@
       "Version": "3.0.79.21",
       "PublishingDate": "2020-07-24T00:00:00",
       "PlanVersions": [
-        "3.0.80.36"
+        "3.0.80.40"
       ],
       "PlanReleaseDates": [
-        "2020-08-07T00:00:00"
+        "2020-08-10T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-08-03T00:00:00"
+        "2020-08-10T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -866,13 +866,13 @@
       "Version": "2.0.66.114",
       "PublishingDate": "2020-07-24T00:00:00",
       "PlanVersions": [
-        "2.0.66.116"
+        "2.0.66.117"
       ],
       "PlanReleaseDates": [
-        "2020-08-07T00:00:00"
+        "2020-08-10T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-08-03T00:00:00"
+        "2020-08-10T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -882,13 +882,13 @@
       "Version": "3.0.79.21",
       "PublishingDate": "2020-07-24T00:00:00",
       "PlanVersions": [
-        "3.0.80.36"
+        "3.0.80.40"
       ],
       "PlanReleaseDates": [
-        "2020-08-07T00:00:00"
+        "2020-08-10T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-08-03T00:00:00"
+        "2020-08-10T00:00:00"
       ],
       "DemoVersions": [
         "3.0.71.90"
@@ -1207,9 +1207,15 @@
       "Name": "1С:УНФ 8. Управление предприятием общепита",
       "Version": "1.6.21.114",
       "PublishingDate": "2020-07-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.21.124"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
