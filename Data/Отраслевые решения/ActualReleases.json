@@ -2349,8 +2349,8 @@
     },
     {
       "Name": "Горнодобывающая промышленность. Управление карьером",
-      "Version": "1.3.144.3",
-      "PublishingDate": "2020-08-10T00:00:00",
+      "Version": "1.3.145.1",
+      "PublishingDate": "2020-08-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2831,17 +2831,11 @@
     },
     {
       "Name": "Мясокомбинат 8, редакция 1.3",
-      "Version": "1.3.144.3",
-      "PublishingDate": "2020-08-05T00:00:00",
-      "PlanVersions": [
-        "1.3.145.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-10T00:00:00"
-      ],
+      "Version": "1.3.145.1",
+      "PublishingDate": "2020-08-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3413,17 +3407,11 @@
     },
     {
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
-      "Version": "2.3.4.33",
-      "PublishingDate": "2020-06-17T00:00:00",
-      "PlanVersions": [
-        "2.3.5.24"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-07T00:00:00"
-      ],
+      "Version": "2.3.5.24",
+      "PublishingDate": "2020-08-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
