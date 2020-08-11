@@ -7,8 +7,8 @@
   "Releases": [
     {
       "Name": "1C:Касса (приложение для ПК), редакция 2.0",
-      "Version": "2.0.8.7",
-      "PublishingDate": "2020-06-18T00:00:00",
+      "Version": "2.0.9.21",
+      "PublishingDate": "2020-08-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -553,17 +553,15 @@
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
-      "Version": "3.0.80.40",
-      "PublishingDate": "2020-08-04T00:00:00",
+      "Version": "3.0.81.23",
+      "PublishingDate": "2020-08-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.81.23",
         "3.0.81.19"
       ],
       "DemoPublicationDates": [
-        "2020-08-07T00:00:00",
         "2020-08-03T00:00:00"
       ]
     },
