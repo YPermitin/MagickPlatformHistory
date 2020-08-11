@@ -2697,9 +2697,15 @@
       "Name": "Ликероводочный и винный завод, редакция 1.3",
       "Version": "1.3.144.1",
       "PublishingDate": "2020-07-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.145.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2903,9 +2909,15 @@
       "Name": "Пиво-безалкогольный комбинат 8, редакция 1.3",
       "Version": "1.3.144.1",
       "PublishingDate": "2020-07-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.145.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4085,17 +4097,11 @@
     },
     {
       "Name": "Управление переработкой отходов и вторсырья",
-      "Version": "1.3.143.2",
-      "PublishingDate": "2020-07-14T00:00:00",
-      "PlanVersions": [
-        "1.3.145.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-10T00:00:00"
-      ],
+      "Version": "1.3.145.1",
+      "PublishingDate": "2020-08-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4315,9 +4321,15 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.12.77",
       "PublishingDate": "2020-07-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.12.81"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
