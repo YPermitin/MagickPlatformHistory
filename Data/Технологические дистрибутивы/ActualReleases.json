@@ -13,9 +13,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "2020.5 RC2",
         "2020.5 RC1"
       ],
       "DemoPublicationDates": [
+        "2020-08-11T00:00:00",
         "2020-08-04T00:00:00"
       ]
     },
@@ -101,17 +103,13 @@
     },
     {
       "Name": "1С:Сервер взаимодействия",
-      "Version": "7.0.25",
-      "PublishingDate": "2019-11-28T00:00:00",
+      "Version": "8.0.15",
+      "PublishingDate": "2020-04-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "8.0.15"
-      ],
-      "DemoPublicationDates": [
-        "2020-04-29T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Сканер штрихкода (COM)",
