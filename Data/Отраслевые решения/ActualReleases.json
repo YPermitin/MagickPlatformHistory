@@ -517,17 +517,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.79.21",
-      "PublishingDate": "2020-07-20T00:00:00",
-      "PlanVersions": [
-        "3.0.80.36"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-03T00:00:00"
-      ],
+      "Version": "3.0.80.36",
+      "PublishingDate": "2020-08-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
