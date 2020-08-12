@@ -4,7 +4,7 @@
     "ID": 135,
     "Name": "Типовые конфигурации фирмы \"1С\" для Узбекистана"
   },
-  "ReleasesCount": 18,
+  "ReleasesCount": 19,
   "ReleasesHistory": [
     {
       "Created": "2019-06-24T12:40:11",
@@ -231,6 +231,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-12T12:30:11",
+      "Name": "Бухгалтерия для Узбекистана, редакция 3.0",
+      "Version": "3.0.13.1",
+      "PublishingDate": "2020-08-03T00:00:00",
+      "PlanVersions": [
+        "3.0.14"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
