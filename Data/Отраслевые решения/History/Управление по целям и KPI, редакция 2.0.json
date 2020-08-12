@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 28,
+  "ReleasesCount": 29,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -442,6 +442,23 @@
       ],
       "PlanUpdateDates": [
         "2020-08-07T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-12T14:00:10",
+      "Name": "Управление по целям и KPI, редакция 2.0",
+      "Version": "2.1.7.6",
+      "PublishingDate": "2020-05-21T00:00:00",
+      "PlanVersions": [
+        "2.1.7.7"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-12T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
