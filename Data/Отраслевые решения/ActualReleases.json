@@ -1409,9 +1409,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.80.2",
       "PublishingDate": "2020-08-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1957,17 +1963,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.114",
-      "PublishingDate": "2020-07-28T00:00:00",
-      "PlanVersions": [
-        "2.0.66.117"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-12T00:00:00"
-      ],
+      "Version": "2.0.66.117",
+      "PublishingDate": "2020-08-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
