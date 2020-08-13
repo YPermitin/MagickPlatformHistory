@@ -206,8 +206,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.4.4.69"
+      ],
+      "DemoPublicationDates": [
+        "2020-08-13T00:00:00"
+      ]
     },
     {
       "Name": "Комплексная автоматизация для Казахстана. Модуль \"Бюджетирование\"",
