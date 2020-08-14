@@ -527,17 +527,11 @@
     },
     {
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
-      "Version": "3.0.79.21",
-      "PublishingDate": "2020-07-24T00:00:00",
-      "PlanVersions": [
-        "3.0.80.36"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-03T00:00:00"
-      ],
+      "Version": "3.0.80.36",
+      "PublishingDate": "2020-08-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1420,7 +1414,7 @@
       "DemoPublicationDates": []
     },
     {
-      "Name": "1С:Учет и управление хозяйственной деятельностью банка, редакция 1.2",
+      "Name": "1С:Учет и управление хозяйственной деятельностью банка",
       "Version": "3.0.11.1",
       "PublishingDate": "2020-07-30T00:00:00",
       "PlanVersions": [],
