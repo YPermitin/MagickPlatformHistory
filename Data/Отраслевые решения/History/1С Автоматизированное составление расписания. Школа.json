@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -42,6 +42,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-14T14:00:11",
+      "Name": "1С:Автоматизированное составление расписания. Школа",
+      "Version": "1.0.8.1",
+      "PublishingDate": "2019-11-05T00:00:00",
+      "PlanVersions": [
+        "1.0.8.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
