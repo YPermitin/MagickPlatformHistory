@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 69,
+  "ReleasesCount": 70,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -1241,6 +1241,25 @@
         "2020.5 RC1"
       ],
       "DemoPublicationDates": [
+        "2020-08-11T00:00:00",
+        "2020-08-04T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-08-14T19:30:09",
+      "Name": "1C:Enterprise Development Tools",
+      "Version": "2020.4",
+      "PublishingDate": "2020-07-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2020.5 RC3",
+        "2020.5 RC2",
+        "2020.5 RC1"
+      ],
+      "DemoPublicationDates": [
+        "2020-08-14T00:00:00",
         "2020-08-11T00:00:00",
         "2020-08-04T00:00:00"
       ]
