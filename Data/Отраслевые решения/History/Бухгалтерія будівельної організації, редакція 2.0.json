@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 28,
+  "ReleasesCount": 29,
   "ReleasesHistory": [
     {
       "Created": "2019-02-21T13:54:33",
@@ -395,6 +395,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-17T17:30:15",
+      "Name": "Бухгалтерія будівельної організації, редакція 2.0",
+      "Version": "2.0.12.1",
+      "PublishingDate": "2020-07-02T00:00:00",
+      "PlanVersions": [
+        "2.0.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-08-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
