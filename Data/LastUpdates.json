@@ -3,6 +3,18 @@
   "PublishingDate": "2020-08-18T00:00:00",
   "Items": [
     {
+      "Title": "1С:Садовод",
+      "Description": "3.0.81.5",
+      "PublishingDate": "2020-08-18T00:00:00",
+      "Link": ""
+    },
+    {
+      "Title": "1С:Садовод (базовая версия)",
+      "Description": "3.0.81.5",
+      "PublishingDate": "2020-08-18T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "ERP Управление предприятием 2 для Беларуси",
       "Description": "2.4.7.164",
       "PublishingDate": "2020-08-18T00:00:00",
@@ -191,18 +203,6 @@
     {
       "Title": "1С:Ломбард ПРОФ редакция 3.0",
       "Description": "3.0.80.36",
-      "PublishingDate": "2020-08-14T00:00:00",
-      "Link": ""
-    },
-    {
-      "Title": "1С:Садовод",
-      "Description": "3.0.81.2",
-      "PublishingDate": "2020-08-14T00:00:00",
-      "Link": ""
-    },
-    {
-      "Title": "1С:Садовод (базовая версия)",
-      "Description": "3.0.81.2",
       "PublishingDate": "2020-08-14T00:00:00",
       "Link": ""
     },
