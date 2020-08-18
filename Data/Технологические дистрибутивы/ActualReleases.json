@@ -46,8 +46,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "1.40.1"
+      ],
+      "DemoPublicationDates": [
+        "2020-08-18T00:00:00"
+      ]
     },
     {
       "Name": "1С:Конвертация данных 2.0",
