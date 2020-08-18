@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 455,
+  "ReleasesCount": 456,
   "Releases": [
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
@@ -901,6 +901,16 @@
     },
     {
       "Name": "1С:Передача данных в ФГИС ЦС",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Планово-финансовое управление для государственных учреждений КОРП",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
