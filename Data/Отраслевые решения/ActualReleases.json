@@ -27,17 +27,11 @@
     },
     {
       "Name": "1С:CRM для Беларуси. Модуль для 1С:УТ, 1С:КА2 и 1С:ERP",
-      "Version": "3.0.15.6",
-      "PublishingDate": "2019-09-24T00:00:00",
-      "PlanVersions": [
-        "3.0.19.30"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-14T00:00:00"
-      ],
+      "Version": "3.0.19.30",
+      "PublishingDate": "2020-07-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
