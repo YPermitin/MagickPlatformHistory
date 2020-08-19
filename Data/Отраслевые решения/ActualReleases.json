@@ -1927,9 +1927,15 @@
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
       "Version": "3.0.79.14",
       "PublishingDate": "2020-07-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2093,9 +2099,15 @@
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
       "Version": "3.0.79.14",
       "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
