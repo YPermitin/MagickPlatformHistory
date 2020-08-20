@@ -284,15 +284,12 @@
       "Version": "3.0.80.36",
       "PublishingDate": "2020-08-06T00:00:00",
       "PlanVersions": [
-        "3.0.81.25",
-        "3.0.81"
+        "3.0.81.25"
       ],
       "PlanReleaseDates": [
-        "2020-08-20T00:00:00",
         "2020-08-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-08-20T00:00:00",
         "2020-08-20T00:00:00"
       ],
       "DemoVersions": [],
@@ -302,15 +299,9 @@
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
       "Version": "3.0.80.36",
       "PublishingDate": "2020-08-06T00:00:00",
-      "PlanVersions": [
-        "3.0.81"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-20T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1068,10 +1059,10 @@
         "1.6.21.124"
       ],
       "PlanReleaseDates": [
-        "2020-08-20T00:00:00"
+        "2020-08-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-08-18T00:00:00"
+        "2020-08-20T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2207,15 +2198,12 @@
       "Version": "3.0.80.36",
       "PublishingDate": "2020-08-06T00:00:00",
       "PlanVersions": [
-        "3.0.81.25",
-        "3.0.81"
+        "3.0.81.25"
       ],
       "PlanReleaseDates": [
-        "2020-08-20T00:00:00",
         "2020-08-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-08-20T00:00:00",
         "2020-08-20T00:00:00"
       ],
       "DemoVersions": [],
