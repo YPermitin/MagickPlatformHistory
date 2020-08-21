@@ -4,7 +4,7 @@
     "ID": 126,
     "Name": "Типовые конфигурации фирмы \"1С\" для Молдовы"
   },
-  "ReleasesCount": 30,
+  "ReleasesCount": 31,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:41",
@@ -378,6 +378,17 @@
       "Name": "Бухгалтерия для Молдовы, редакция 3",
       "Version": "3.0.40.1",
       "PublishingDate": "2020-07-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-21T12:00:12",
+      "Name": "Бухгалтерия для Молдовы, редакция 3",
+      "Version": "3.0.41.1",
+      "PublishingDate": "2020-08-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
