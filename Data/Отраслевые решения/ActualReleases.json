@@ -1163,8 +1163,8 @@
     },
     {
       "Name": "1С:УНФ 8. Полиграфия 2",
-      "Version": "1.6.21.104",
-      "PublishingDate": "2020-08-13T00:00:00",
+      "Version": "1.6.21.105",
+      "PublishingDate": "2020-08-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2579,17 +2579,11 @@
     },
     {
       "Name": "Колледж, редакция 2.0",
-      "Version": "2.0.16.1",
-      "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [
-        "2.0.17.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-21T00:00:00"
-      ],
+      "Version": "2.0.17.1",
+      "PublishingDate": "2020-08-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
