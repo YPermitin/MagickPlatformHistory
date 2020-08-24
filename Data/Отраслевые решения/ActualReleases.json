@@ -3851,17 +3851,11 @@
     },
     {
       "Name": "Турагентство Базовая, редакция 1.6",
-      "Version": "1.6.21.103",
-      "PublishingDate": "2020-07-16T00:00:00",
-      "PlanVersions": [
-        "1.6.22.36"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-20T00:00:00"
-      ],
+      "Version": "1.6.22.36",
+      "PublishingDate": "2020-08-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3897,17 +3891,11 @@
     },
     {
       "Name": "Турагентство, редакция 1.6",
-      "Version": "1.6.21.103",
-      "PublishingDate": "2020-07-16T00:00:00",
-      "PlanVersions": [
-        "1.6.22.36"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-20T00:00:00"
-      ],
+      "Version": "1.6.22.36",
+      "PublishingDate": "2020-08-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
