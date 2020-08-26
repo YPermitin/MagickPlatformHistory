@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 87,
+  "ReleasesCount": 88,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1224,6 +1224,17 @@
       "PlanUpdateDates": [
         "2020-08-26T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-08-26T16:30:11",
+      "Name": "ERP English Interface",
+      "Version": "1.3.145.1",
+      "PublishingDate": "2020-08-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
