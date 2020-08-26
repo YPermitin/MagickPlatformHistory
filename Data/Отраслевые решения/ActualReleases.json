@@ -783,9 +783,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.81.26",
       "PublishingDate": "2020-08-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.30"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-26T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -3267,9 +3273,15 @@
       "Name": "Розница. Книжный магазин, редакция 2.3",
       "Version": "2.3.5.28",
       "PublishingDate": "2020-08-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.5.32"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3485,9 +3497,15 @@
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
       "Version": "2.3.5.28",
       "PublishingDate": "2020-08-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.5.32"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3535,9 +3553,15 @@
       "Name": "Розница. Салон оптики, редакция 2.3",
       "Version": "2.3.5.28",
       "PublishingDate": "2020-08-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.5.32"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-08-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
