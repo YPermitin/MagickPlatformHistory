@@ -447,8 +447,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
-      "Version": "2.0.72.5",
-      "PublishingDate": "2020-08-07T00:00:00",
+      "Version": "2.0.73.16",
+      "PublishingDate": "2020-08-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -462,12 +462,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.0.73.12"
-      ],
-      "DemoPublicationDates": [
-        "2020-08-19T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
