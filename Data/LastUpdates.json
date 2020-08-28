@@ -3,6 +3,12 @@
   "PublishingDate": "2020-08-28T00:00:00",
   "Items": [
     {
+      "Title": "ERP Управление строительной организацией 2.0",
+      "Description": "2.4.12.91",
+      "PublishingDate": "2020-08-28T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "PostgreSQL",
       "Description": "12.3-5.1C",
       "PublishingDate": "2020-08-28T00:00:00",
