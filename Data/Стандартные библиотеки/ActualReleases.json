@@ -201,8 +201,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.0.3.25"
+      ],
+      "DemoPublicationDates": [
+        "2020-08-28T00:00:00"
+      ]
     },
     {
       "Name": "1С:Библиотека электронных документов, редакция 1.1",
