@@ -1167,17 +1167,11 @@
     },
     {
       "Name": "1С:УНФ 8. Управление предприятием общепита",
-      "Version": "1.6.21.124",
-      "PublishingDate": "2020-08-10T00:00:00",
-      "PlanVersions": [
-        "1.6.22.36"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-28T00:00:00"
-      ],
+      "Version": "1.6.22.36",
+      "PublishingDate": "2020-08-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
