@@ -2057,17 +2057,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.81.25",
-      "PublishingDate": "2020-08-19T00:00:00",
-      "PlanVersions": [
-        "3.0.81.30"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-31T00:00:00"
-      ],
+      "Version": "3.0.81.30",
+      "PublishingDate": "2020-08-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
