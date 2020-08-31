@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2020-06-03T15:14:16",
@@ -121,6 +121,17 @@
       "DemoPublicationDates": [
         "2020-08-18T00:00:00"
       ]
+    },
+    {
+      "Created": "2020-08-31T10:30:14",
+      "Name": "1С:Аналитика бета",
+      "Version": "1.40.1",
+      "PublishingDate": "2020-08-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
