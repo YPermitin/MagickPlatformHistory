@@ -2693,17 +2693,11 @@
     },
     {
       "Name": "Ликероводочный и винный завод, редакция 1.3",
-      "Version": "1.3.145.1",
-      "PublishingDate": "2020-08-12T00:00:00",
-      "PlanVersions": [
-        "1.3.146.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-27T00:00:00"
-      ],
+      "Version": "1.3.146.1",
+      "PublishingDate": "2020-08-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2809,17 +2803,11 @@
     },
     {
       "Name": "Молокозавод, редакция 1.3",
-      "Version": "1.3.145.1",
-      "PublishingDate": "2020-08-07T00:00:00",
-      "PlanVersions": [
-        "1.3.146.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-28T00:00:00"
-      ],
+      "Version": "1.3.146.1",
+      "PublishingDate": "2020-08-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
