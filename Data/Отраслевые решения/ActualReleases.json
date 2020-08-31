@@ -3161,17 +3161,11 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
-      "Version": "1.3.145.1",
-      "PublishingDate": "2020-08-11T00:00:00",
-      "PlanVersions": [
-        "1.3.146.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-08-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-31T00:00:00"
-      ],
+      "Version": "1.3.146.1",
+      "PublishingDate": "2020-08-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
