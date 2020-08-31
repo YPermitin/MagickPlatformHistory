@@ -41,17 +41,13 @@
     },
     {
       "Name": "1С:Аналитика бета",
-      "Version": "1.38.0",
-      "PublishingDate": "2020-08-07T00:00:00",
+      "Version": "1.40.1",
+      "PublishingDate": "2020-08-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "1.40.1"
-      ],
-      "DemoPublicationDates": [
-        "2020-08-18T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Конвертация данных 2.0",
