@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 45,
+  "ReleasesCount": 46,
   "ReleasesHistory": [
     {
       "Created": "2018-12-27T12:51:01",
@@ -806,6 +806,21 @@
       "PlanUpdateDates": [
         "2020-09-02T00:00:00"
       ],
+      "DemoVersions": [
+        "2.4.6.160"
+      ],
+      "DemoPublicationDates": [
+        "2018-12-27T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-09-02T16:00:11",
+      "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "2.4.12.96",
+      "PublishingDate": "2020-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.4.6.160"
       ],
