@@ -347,17 +347,11 @@
     },
     {
       "Name": "1С:Бухгалтерский и управленческий учет дорожно-строительной организации КОРП",
-      "Version": "3.0.81.23",
-      "PublishingDate": "2020-08-18T00:00:00",
-      "PlanVersions": [
-        "3.0.81.30"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-01T00:00:00"
-      ],
+      "Version": "3.0.81.30",
+      "PublishingDate": "2020-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -729,9 +723,15 @@
       "Name": "1С:Медицина. Федеральные регистры, редакция 3.0",
       "Version": "3.0.4.18",
       "PublishingDate": "2020-02-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.4.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2685,8 +2685,8 @@
     },
     {
       "Name": "Лесозавод, редакция 1.3",
-      "Version": "1.3.146.1",
-      "PublishingDate": "2020-08-28T00:00:00",
+      "Version": "1.3.146.2",
+      "PublishingDate": "2020-09-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
