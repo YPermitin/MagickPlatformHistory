@@ -3203,17 +3203,11 @@
     },
     {
       "Name": "Розница. Аптека, редакция 2.3",
-      "Version": "2.3.5.28",
-      "PublishingDate": "2020-08-20T00:00:00",
-      "PlanVersions": [
-        "2.3.5.32"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-26T00:00:00"
-      ],
+      "Version": "2.3.5.32",
+      "PublishingDate": "2020-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
