@@ -1065,17 +1065,11 @@
     },
     {
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
-      "Version": "1.6.21.124",
-      "PublishingDate": "2020-08-21T00:00:00",
-      "PlanVersions": [
-        "1.6.22.36"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-25T00:00:00"
-      ],
+      "Version": "1.6.22.36",
+      "PublishingDate": "2020-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3433,17 +3427,11 @@
     },
     {
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
-      "Version": "2.3.5.28",
-      "PublishingDate": "2020-08-21T00:00:00",
-      "PlanVersions": [
-        "2.3.5.32"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-26T00:00:00"
-      ],
+      "Version": "2.3.5.32",
+      "PublishingDate": "2020-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
