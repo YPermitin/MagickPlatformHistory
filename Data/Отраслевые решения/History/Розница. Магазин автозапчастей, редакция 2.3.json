@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 36,
+  "ReleasesCount": 37,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -537,6 +537,17 @@
       "PlanUpdateDates": [
         "2020-08-26T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-03T10:00:14",
+      "Name": "Розница. Магазин автозапчастей, редакция 2.3",
+      "Version": "2.3.5.32",
+      "PublishingDate": "2020-09-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
