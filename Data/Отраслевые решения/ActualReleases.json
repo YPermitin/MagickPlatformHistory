@@ -331,8 +331,8 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.81.30",
-      "PublishingDate": "2020-08-27T00:00:00",
+      "Version": "3.0.82.24",
+      "PublishingDate": "2020-09-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4344,7 +4344,7 @@
     {
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.12.91",
-      "PublishingDate": "2020-09-02T00:00:00",
+      "PublishingDate": "2020-09-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
