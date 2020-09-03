@@ -3,8 +3,18 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 456,
+  "ReleasesCount": 457,
   "Releases": [
+    {
+      "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
     {
       "Name": "1C:PM Управление проектами. Модуль для 1С:ERP",
       "Version": "4.2.13.6",
@@ -3521,17 +3531,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.5.28",
-      "PublishingDate": "2020-08-24T00:00:00",
-      "PlanVersions": [
-        "2.3.5.32"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-26T00:00:00"
-      ],
+      "Version": "2.3.5.32",
+      "PublishingDate": "2020-09-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
