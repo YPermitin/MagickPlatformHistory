@@ -223,31 +223,23 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.81.5",
-      "PublishingDate": "2020-08-18T00:00:00",
+      "Version": "3.0.82.5",
+      "PublishingDate": "2020-09-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.82.5"
-      ],
-      "DemoPublicationDates": [
-        "2020-09-03T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.81.5",
-      "PublishingDate": "2020-08-18T00:00:00",
+      "Version": "3.0.82.5",
+      "PublishingDate": "2020-09-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.82.5"
-      ],
-      "DemoPublicationDates": [
-        "2020-09-03T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
@@ -471,31 +463,23 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
-      "Version": "3.0.81.7",
-      "PublishingDate": "2020-08-25T00:00:00",
+      "Version": "3.0.82.6",
+      "PublishingDate": "2020-09-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.82.6"
-      ],
-      "DemoPublicationDates": [
-        "2020-09-02T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
-      "Version": "3.0.81.7",
-      "PublishingDate": "2020-08-25T00:00:00",
+      "Version": "3.0.82.6",
+      "PublishingDate": "2020-09-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.82.6"
-      ],
-      "DemoPublicationDates": [
-        "2020-09-02T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
