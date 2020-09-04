@@ -3269,9 +3269,15 @@
       "Name": "Розница. Аптека, редакция 2.3",
       "Version": "2.3.5.32",
       "PublishingDate": "2020-09-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.5.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3369,9 +3375,15 @@
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
       "Version": "2.3.5.32",
       "PublishingDate": "2020-09-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.5.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3469,9 +3481,15 @@
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
       "Version": "2.3.5.32",
       "PublishingDate": "2020-09-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.5.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3569,9 +3587,15 @@
       "Name": "Розница. Салон оптики, редакция 2.3",
       "Version": "2.3.5.32",
       "PublishingDate": "2020-09-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.5.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
