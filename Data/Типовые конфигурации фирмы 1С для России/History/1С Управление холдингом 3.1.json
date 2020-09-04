@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2020-03-19T16:14:08",
@@ -44,6 +44,17 @@
       "Name": "1С:Управление холдингом 3.1",
       "Version": "3.1.2.104",
       "PublishingDate": "2020-09-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-04T15:30:13",
+      "Name": "1С:Управление холдингом 3.1",
+      "Version": "3.1.2.105",
+      "PublishingDate": "2020-09-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
