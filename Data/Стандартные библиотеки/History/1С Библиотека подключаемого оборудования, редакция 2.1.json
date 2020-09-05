@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 30,
+  "ReleasesCount": 31,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:21",
@@ -348,6 +348,17 @@
       "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
       "Version": "2.1.4.5",
       "PublishingDate": "2020-07-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-05T13:00:10",
+      "Name": "1С:Библиотека подключаемого оборудования, редакция 2.1",
+      "Version": "2.1.4.7",
+      "PublishingDate": "2020-09-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
