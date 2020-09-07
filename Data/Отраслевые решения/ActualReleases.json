@@ -2149,17 +2149,11 @@
     },
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.79.14",
-      "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [
-        "3.0.81.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-19T00:00:00"
-      ],
+      "Version": "3.0.81.25",
+      "PublishingDate": "2020-09-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
