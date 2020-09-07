@@ -1795,9 +1795,15 @@
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
       "Version": "1.2.3.5",
       "PublishingDate": "2020-08-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.3.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-07T00:00:00"
+      ],
       "DemoVersions": [
         "1.1.12.1"
       ],
@@ -1809,9 +1815,15 @@
       "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
       "Version": "1.2.5.5",
       "PublishingDate": "2020-08-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.2.5.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3899,17 +3911,11 @@
     },
     {
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
-      "Version": "2.0.32.1",
-      "PublishingDate": "2020-07-06T00:00:00",
-      "PlanVersions": [
-        "2.0.33.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-08-13T00:00:00"
-      ],
+      "Version": "2.0.33.1",
+      "PublishingDate": "2020-09-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
