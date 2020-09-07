@@ -93,8 +93,8 @@
     },
     {
       "Name": "1С:ERP Управление мясоперерабатывающим предприятием 2",
-      "Version": "2.4.12.91",
-      "PublishingDate": "2020-08-26T00:00:00",
+      "Version": "2.4.12.96",
+      "PublishingDate": "2020-09-07T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -433,9 +433,15 @@
       "Name": "1С:Горнодобывающая промышленность 2. Оперативный учет",
       "Version": "1.1.6.4",
       "PublishingDate": "2020-07-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.7.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
