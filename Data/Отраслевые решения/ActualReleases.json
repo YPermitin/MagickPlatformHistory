@@ -2293,17 +2293,11 @@
     },
     {
       "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
-      "Version": "3.0.78.64",
-      "PublishingDate": "2020-08-31T00:00:00",
-      "PlanVersions": [
-        "3.0.79.14"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-08T00:00:00"
-      ],
+      "Version": "3.0.79.14",
+      "PublishingDate": "2020-09-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
