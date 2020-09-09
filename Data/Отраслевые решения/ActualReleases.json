@@ -815,17 +815,11 @@
     },
     {
       "Name": "1С:Общепит КОРП",
-      "Version": "3.0.81.26",
-      "PublishingDate": "2020-08-26T00:00:00",
-      "PlanVersions": [
-        "3.0.82.24"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-07T00:00:00"
-      ],
+      "Version": "3.0.82.24",
+      "PublishingDate": "2020-09-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -4101,9 +4095,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.12.91",
       "PublishingDate": "2020-08-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.12.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
