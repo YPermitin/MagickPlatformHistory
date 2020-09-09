@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 12,
+  "ReleasesCount": 13,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -150,6 +150,17 @@
       "Name": "Розница для Казахстана",
       "Version": "2.3.1.1",
       "PublishingDate": "2020-05-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-09T14:30:12",
+      "Name": "Розница для Казахстана",
+      "Version": "2.3.1.2",
+      "PublishingDate": "2020-09-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
