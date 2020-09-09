@@ -1145,9 +1145,15 @@
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
       "Version": "2.1.55.1",
       "PublishingDate": "2020-08-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.56.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1779,8 +1785,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.12.96",
-      "PublishingDate": "2020-08-27T00:00:00",
+      "Version": "2.4.12.102",
+      "PublishingDate": "2020-09-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
