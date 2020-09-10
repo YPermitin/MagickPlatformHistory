@@ -1419,17 +1419,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.80",
-      "PublishingDate": "2020-08-06T00:00:00",
-      "PlanVersions": [
-        "2.0.66.81"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-03T00:00:00"
-      ],
+      "Version": "2.0.66.81",
+      "PublishingDate": "2020-09-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2077,17 +2071,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.72.5",
-      "PublishingDate": "2020-08-18T00:00:00",
-      "PlanVersions": [
-        "2.0.73.16"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-10T00:00:00"
-      ],
+      "Version": "2.0.73.16",
+      "PublishingDate": "2020-09-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2473,8 +2461,8 @@
     },
     {
       "Name": "Дошкольная психодиагностика, редакция 3.0. Базовая версия",
-      "Version": "3.0.2.1",
-      "PublishingDate": "2017-08-24T00:00:00",
+      "Version": "4.0.1.1",
+      "PublishingDate": "2020-09-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3157,9 +3145,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.79.14",
       "PublishingDate": "2020-07-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.23"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3175,8 +3169,8 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
-      "Version": "3.0.79.14",
-      "PublishingDate": "2020-07-22T00:00:00",
+      "Version": "3.0.81.23",
+      "PublishingDate": "2020-09-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
