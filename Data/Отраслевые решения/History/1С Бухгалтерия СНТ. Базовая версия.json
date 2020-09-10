@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 32,
+  "ReleasesCount": 33,
   "ReleasesHistory": [
     {
       "Created": "2019-08-16T18:32:21",
@@ -457,6 +457,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-10T22:30:13",
+      "Name": "1С:Бухгалтерия СНТ. Базовая версия",
+      "Version": "3.0.79.2",
+      "PublishingDate": "2020-07-22T00:00:00",
+      "PlanVersions": [
+        "3.0.80.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
