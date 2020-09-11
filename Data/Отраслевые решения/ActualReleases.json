@@ -2235,17 +2235,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.81.25",
-      "PublishingDate": "2020-08-20T00:00:00",
-      "PlanVersions": [
-        "3.0.82.24"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-07T00:00:00"
-      ],
+      "Version": "3.0.82.24",
+      "PublishingDate": "2020-09-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4393,9 +4387,15 @@
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
       "Version": "11.4.12.91",
       "PublishingDate": "2020-09-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.12.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
