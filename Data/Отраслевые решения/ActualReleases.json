@@ -79,9 +79,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.12.96",
       "PublishingDate": "2020-09-08T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
