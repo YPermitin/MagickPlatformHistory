@@ -375,33 +375,21 @@
     },
     {
       "Name": "1С:Бухгалтерский и управленческий учет дорожно-строительной организации КОРП",
-      "Version": "3.0.81.30",
-      "PublishingDate": "2020-09-02T00:00:00",
-      "PlanVersions": [
-        "3.0.82.24"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-10T00:00:00"
-      ],
+      "Version": "3.0.82.24",
+      "PublishingDate": "2020-09-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С:Бухгалтерский и управленческий учет дорожно-строительной организации ПРОФ",
-      "Version": "3.0.81.30",
-      "PublishingDate": "2020-09-02T00:00:00",
-      "PlanVersions": [
-        "3.0.82.24"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-10T00:00:00"
-      ],
+      "Version": "3.0.82.24",
+      "PublishingDate": "2020-09-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
