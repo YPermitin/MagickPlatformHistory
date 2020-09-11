@@ -333,8 +333,8 @@
     },
     {
       "Name": "1С:Электронное обучение. Веб-кабинет преподавателя и студента",
-      "Version": "3.0.1.100",
-      "PublishingDate": "2020-06-18T00:00:00",
+      "Version": "3.0.1.120",
+      "PublishingDate": "2020-09-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -368,8 +368,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.12.26"
+      ],
+      "DemoPublicationDates": [
+        "2020-09-11T00:00:00"
+      ]
     },
     {
       "Name": "1С:Электронное обучение. Образовательная организация",
