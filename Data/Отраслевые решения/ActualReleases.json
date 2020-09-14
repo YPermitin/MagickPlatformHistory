@@ -1745,17 +1745,11 @@
     },
     {
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
-      "Version": "1.2.3.5",
-      "PublishingDate": "2020-08-11T00:00:00",
-      "PlanVersions": [
-        "1.2.3.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-10T00:00:00"
-      ],
+      "Version": "1.2.3.6",
+      "PublishingDate": "2020-09-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "1.1.12.1"
       ],
