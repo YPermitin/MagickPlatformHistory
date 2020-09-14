@@ -863,9 +863,15 @@
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия КОРП",
       "Version": "1.5.2.1",
       "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.5.3.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -873,9 +879,15 @@
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия ПРОФ",
       "Version": "1.5.2.1",
       "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.5.3.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2193,9 +2205,15 @@
       "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
       "Version": "3.0.79.14",
       "PublishingDate": "2020-09-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
