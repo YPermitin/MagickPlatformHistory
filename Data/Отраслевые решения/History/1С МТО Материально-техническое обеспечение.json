@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 126,
+  "ReleasesCount": 127,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -2012,6 +2012,23 @@
       ],
       "PlanUpdateDates": [
         "2020-09-11T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-14T17:30:11",
+      "Name": "1С:МТО Материально-техническое обеспечение",
+      "Version": "1.3.144.3",
+      "PublishingDate": "2020-08-17T00:00:00",
+      "PlanVersions": [
+        "1.3.146.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-14T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
