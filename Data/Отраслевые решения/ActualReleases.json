@@ -1143,17 +1143,11 @@
     },
     {
       "Name": "1С:Ресторан.Фронт-офис",
-      "Version": "2.3.5.32",
-      "PublishingDate": "2020-08-31T00:00:00",
-      "PlanVersions": [
-        "2.3.5.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-08T00:00:00"
-      ],
+      "Version": "2.3.5.35",
+      "PublishingDate": "2020-09-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
