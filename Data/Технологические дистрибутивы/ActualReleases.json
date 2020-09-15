@@ -143,8 +143,8 @@
     },
     {
       "Name": "PostgreSQL",
-      "Version": "12.3-5.1C",
-      "PublishingDate": "2020-08-28T00:00:00",
+      "Version": "12.3-7.1C",
+      "PublishingDate": "2020-09-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
