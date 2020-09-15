@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 457,
+  "ReleasesCount": 458,
   "Releases": [
     {
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
@@ -3183,9 +3183,15 @@
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
       "Version": "11.4.12.91",
       "PublishingDate": "2020-08-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.12.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3393,17 +3399,11 @@
     },
     {
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
-      "Version": "2.3.5.32",
-      "PublishingDate": "2020-09-03T00:00:00",
-      "PlanVersions": [
-        "2.3.5.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-04T00:00:00"
-      ],
+      "Version": "2.3.5.35",
+      "PublishingDate": "2020-09-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3645,6 +3645,16 @@
       "Name": "Салон красоты",
       "Version": "2.0.36.1",
       "PublishingDate": "2019-06-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Салон красоты, редакция 3.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
