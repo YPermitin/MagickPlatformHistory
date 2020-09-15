@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2020-05-21T20:44:10",
@@ -127,6 +127,17 @@
       "PlanUpdateDates": [
         "2020-09-14T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-15T18:00:16",
+      "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия ПРОФ",
+      "Version": "1.5.3.1",
+      "PublishingDate": "2020-09-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
