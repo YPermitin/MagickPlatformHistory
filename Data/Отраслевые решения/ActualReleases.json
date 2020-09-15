@@ -1405,17 +1405,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.81.3",
-      "PublishingDate": "2020-09-02T00:00:00",
-      "PlanVersions": [
-        "3.0.82.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-14T00:00:00"
-      ],
+      "Version": "3.0.82.1",
+      "PublishingDate": "2020-09-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2285,9 +2279,15 @@
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
       "Version": "3.0.81.26",
       "PublishingDate": "2020-08-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
