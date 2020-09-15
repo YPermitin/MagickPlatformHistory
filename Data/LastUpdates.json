@@ -1,7 +1,13 @@
 {
   "Title": "Текущие релизы программ фирмы «1С»",
-  "PublishingDate": "2020-09-14T00:00:00",
+  "PublishingDate": "2020-09-15T00:00:00",
   "Items": [
+    {
+      "Title": "PostgreSQL",
+      "Description": "12.3-7.1C",
+      "PublishingDate": "2020-09-15T00:00:00",
+      "Link": ""
+    },
     {
       "Title": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Description": "2.4.12.102",
