@@ -15,6 +15,12 @@
       "Link": ""
     },
     {
+      "Title": "1С:УНФ 8. Полиграфия 2",
+      "Description": "1.6.22.49",
+      "PublishingDate": "2020-09-15T00:00:00",
+      "Link": ""
+    },
+    {
       "Title": "PostgreSQL",
       "Description": "12.3-7.1C",
       "PublishingDate": "2020-09-15T00:00:00",
@@ -215,12 +221,6 @@
     {
       "Title": "1С:Общепит, редакция 3.0",
       "Description": "3.0.82.25",
-      "PublishingDate": "2020-09-11T00:00:00",
-      "Link": ""
-    },
-    {
-      "Title": "1С:УНФ 8. Полиграфия 2",
-      "Description": "1.6.22.48",
       "PublishingDate": "2020-09-11T00:00:00",
       "Link": ""
     },
