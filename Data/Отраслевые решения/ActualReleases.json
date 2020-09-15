@@ -557,10 +557,10 @@
         "2.0.3.4"
       ],
       "PlanReleaseDates": [
-        "2020-09-14T00:00:00"
+        "2020-09-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-14T00:00:00"
+        "2020-09-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1195,10 +1195,10 @@
         "1.6.22.48"
       ],
       "PlanReleaseDates": [
-        "2020-09-14T00:00:00"
+        "2020-09-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-14T00:00:00"
+        "2020-09-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4057,9 +4057,15 @@
       "Name": "Управление водоканалом",
       "Version": "1.3.145.1",
       "PublishingDate": "2020-08-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.146.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4313,9 +4319,15 @@
       "Name": "Управление теплосетью",
       "Version": "1.3.145.1",
       "PublishingDate": "2020-08-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.146.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4367,10 +4379,10 @@
         "11.4.12.102"
       ],
       "PlanReleaseDates": [
-        "2020-09-14T00:00:00"
+        "2020-09-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-11T00:00:00"
+        "2020-09-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
