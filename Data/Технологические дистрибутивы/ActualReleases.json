@@ -7,22 +7,16 @@
   "Releases": [
     {
       "Name": "1C:Enterprise Development Tools",
-      "Version": "2020.4",
-      "PublishingDate": "2020-07-03T00:00:00",
+      "Version": "2020.5",
+      "PublishingDate": "2020-09-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "2020.5 RC4",
-        "2020.5 RC3",
-        "2020.5 RC2",
-        "2020.5 RC1"
+        "2020.5 RC4"
       ],
       "DemoPublicationDates": [
-        "2020-09-01T00:00:00",
-        "2020-08-14T00:00:00",
-        "2020-08-11T00:00:00",
-        "2020-08-04T00:00:00"
+        "2020-09-01T00:00:00"
       ]
     },
     {
