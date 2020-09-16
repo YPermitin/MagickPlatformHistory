@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 12,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -121,6 +121,17 @@
       "Name": "Документооборот государственного учреждения 8",
       "Version": "2.1.24.1",
       "PublishingDate": "2020-08-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-16T17:00:11",
+      "Name": "Документооборот государственного учреждения 8",
+      "Version": "2.1.25.5",
+      "PublishingDate": "2020-09-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
