@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 458,
+  "ReleasesCount": 459,
   "Releases": [
     {
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
@@ -480,6 +480,16 @@
       "DemoPublicationDates": []
     },
     {
+      "Name": "1С:Интеграция КОРП",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
       "Name": "1С:Колледж ПРОФ для Казахстана",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
@@ -539,9 +549,15 @@
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
       "Version": "3.0.81.30",
       "PublishingDate": "2020-09-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.24"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
