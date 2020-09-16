@@ -1729,9 +1729,15 @@
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
       "Version": "2.4.12.96",
       "PublishingDate": "2020-08-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-16T00:00:00"
+      ],
       "DemoVersions": [
         "2.2.3.153"
       ],
