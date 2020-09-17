@@ -3011,9 +3011,15 @@
       "Name": "Производственная безопасность. Охрана труда, редакция 1.1",
       "Version": "1.1.6.1",
       "PublishingDate": "2020-07-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
