@@ -573,10 +573,10 @@
         "2.0.3.4"
       ],
       "PlanReleaseDates": [
-        "2020-09-16T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-16T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2121,10 +2121,10 @@
         "3.0.82.24"
       ],
       "PlanReleaseDates": [
-        "2020-09-16T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-16T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2975,9 +2975,15 @@
       "Name": "Производственная безопасность. Комплексная, редакция 1.1",
       "Version": "1.1.6.6",
       "PublishingDate": "2020-08-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.18"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3285,10 +3291,10 @@
         "2.3.5.35"
       ],
       "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
+        "2020-09-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-04T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3441,10 +3447,10 @@
         "2.3.5.35"
       ],
       "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
+        "2020-09-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-04T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3497,10 +3503,10 @@
         "2.3.5.35"
       ],
       "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
+        "2020-09-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-04T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3547,17 +3553,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.5.32",
-      "PublishingDate": "2020-09-03T00:00:00",
-      "PlanVersions": [
-        "2.3.5.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-04T00:00:00"
-      ],
+      "Version": "2.3.5.35",
+      "PublishingDate": "2020-09-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3609,10 +3609,10 @@
         "2.3.5.35"
       ],
       "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
+        "2020-09-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-04T00:00:00"
+        "2020-09-17T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
