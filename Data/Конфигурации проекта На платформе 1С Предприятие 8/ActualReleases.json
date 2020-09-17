@@ -117,17 +117,11 @@
     },
     {
       "Name": "1С-Рейтинг: Общепит базовая, редакция 3.0",
-      "Version": "3.0.33.6",
-      "PublishingDate": "2020-08-27T00:00:00",
-      "PlanVersions": [
-        "3.0.33.7"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-11T00:00:00"
-      ],
+      "Version": "3.0.33.7",
+      "PublishingDate": "2020-09-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
