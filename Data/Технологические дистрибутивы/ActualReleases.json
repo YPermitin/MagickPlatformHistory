@@ -182,8 +182,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.1.7.9"
+      ],
+      "DemoPublicationDates": [
+        "2020-09-18T00:00:00"
+      ]
     },
     {
       "Name": "Менеджер лицензий аппаратной защиты NetHASP",
