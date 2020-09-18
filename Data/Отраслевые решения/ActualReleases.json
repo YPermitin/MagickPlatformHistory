@@ -815,9 +815,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.82.24",
       "PublishingDate": "2020-09-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.34"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-18T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -859,9 +865,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.82.25",
       "PublishingDate": "2020-09-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.34"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-18T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1423,17 +1435,11 @@
     },
     {
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
-      "Version": "3.0.79.20",
-      "PublishingDate": "2020-09-08T00:00:00",
-      "PlanVersions": [
-        "3.0.81.26"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-08T00:00:00"
-      ],
+      "Version": "3.0.81.26",
+      "PublishingDate": "2020-09-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2115,10 +2121,10 @@
         "3.0.82.24"
       ],
       "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
+        "2020-09-18T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-17T00:00:00"
+        "2020-09-18T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2201,10 +2207,10 @@
         "3.0.81.25"
       ],
       "PlanReleaseDates": [
-        "2020-09-18T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-16T00:00:00"
+        "2020-09-18T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2511,10 +2517,10 @@
         "2.0.9.2"
       ],
       "PlanReleaseDates": [
-        "2020-09-18T00:00:00"
+        "2020-09-21T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-16T00:00:00"
+        "2020-09-18T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4029,10 +4035,10 @@
         "11.4.12.102"
       ],
       "PlanReleaseDates": [
-        "2020-09-17T00:00:00"
+        "2020-09-18T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-09T00:00:00"
+        "2020-09-18T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
