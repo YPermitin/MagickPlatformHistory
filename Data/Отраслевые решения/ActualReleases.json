@@ -229,9 +229,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.96",
       "PublishingDate": "2020-09-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-18T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -3107,9 +3113,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.81.23",
       "PublishingDate": "2020-09-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.24"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3127,9 +3139,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
       "Version": "3.0.81.23",
       "PublishingDate": "2020-09-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.24"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
