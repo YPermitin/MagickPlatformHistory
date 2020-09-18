@@ -1293,8 +1293,8 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
-      "Version": "3.0.79.14",
-      "PublishingDate": "2020-07-24T00:00:00",
+      "Version": "3.0.81.25",
+      "PublishingDate": "2020-09-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2009,8 +2009,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью редакции 3.4 для 1С:БГУ редакции 2.0",
-      "Version": "2.0.73.16",
-      "PublishingDate": "2020-09-10T00:00:00",
+      "Version": "2.0.73.19",
+      "PublishingDate": "2020-09-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2758,7 +2758,7 @@
     {
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.102",
-      "PublishingDate": "2020-07-17T00:00:00",
+      "PublishingDate": "2020-09-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
