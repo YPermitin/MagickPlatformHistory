@@ -2753,9 +2753,15 @@
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.102",
       "PublishingDate": "2020-09-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.116"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-21T00:00:00"
+      ],
       "DemoVersions": [
         "2.5.4.102"
       ],
