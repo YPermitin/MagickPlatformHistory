@@ -746,10 +746,12 @@
       "Version": "3.1.15.40",
       "PublishingDate": "2020-09-18T00:00:00",
       "PlanVersions": [
+        "3.1.15.",
         "3.1.14."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
+        "2020-09-18T00:00:00",
         "2020-09-10T00:00:00"
       ],
       "DemoVersions": [],
@@ -794,10 +796,12 @@
       "Version": "3.1.15.40",
       "PublishingDate": "2020-09-18T00:00:00",
       "PlanVersions": [
+        "3.1.15.",
         "3.1.14."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
+        "2020-09-18T00:00:00",
         "2020-09-10T00:00:00"
       ],
       "DemoVersions": [],
