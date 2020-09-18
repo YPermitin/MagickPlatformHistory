@@ -541,17 +541,11 @@
     },
     {
       "Name": "1С:Ломбард ПРОФ редакция 3.0",
-      "Version": "3.0.81.30",
-      "PublishingDate": "2020-09-07T00:00:00",
-      "PlanVersions": [
-        "3.0.82.24"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-16T00:00:00"
-      ],
+      "Version": "3.0.82.24",
+      "PublishingDate": "2020-09-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
