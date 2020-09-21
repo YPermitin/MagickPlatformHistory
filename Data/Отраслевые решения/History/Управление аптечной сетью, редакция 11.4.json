@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 96,
+  "ReleasesCount": 97,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1416,6 +1416,17 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.12.102",
       "PublishingDate": "2020-09-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-21T18:00:14",
+      "Name": "Управление аптечной сетью, редакция 11.4",
+      "Version": "11.4.12.102",
+      "PublishingDate": "2020-09-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
