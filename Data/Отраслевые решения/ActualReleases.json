@@ -2285,9 +2285,15 @@
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
       "Version": "2.0.66.117",
       "PublishingDate": "2020-08-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.119"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4029,17 +4035,11 @@
     },
     {
       "Name": "Управление аптечной сетью, редакция 11.4",
-      "Version": "11.4.12.91",
-      "PublishingDate": "2020-08-20T00:00:00",
-      "PlanVersions": [
-        "11.4.12.102"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-18T00:00:00"
-      ],
+      "Version": "11.4.12.102",
+      "PublishingDate": "2020-09-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
