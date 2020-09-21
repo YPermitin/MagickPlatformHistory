@@ -2553,9 +2553,15 @@
       "Name": "Колледж ПРОФ, редакция 2.0",
       "Version": "2.0.17.1",
       "PublishingDate": "2020-08-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.18.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2583,9 +2589,15 @@
       "Name": "Колледж, редакция 2.0",
       "Version": "2.0.17.1",
       "PublishingDate": "2020-08-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.18.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4107,9 +4119,15 @@
       "Name": "Управление металлургическим комбинатом",
       "Version": "1.3.146.1",
       "PublishingDate": "2020-09-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.146.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
