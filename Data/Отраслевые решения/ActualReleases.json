@@ -2313,17 +2313,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
-      "Version": "2.0.66.117",
-      "PublishingDate": "2020-08-10T00:00:00",
-      "PlanVersions": [
-        "2.0.66.119"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-21T00:00:00"
-      ],
+      "Version": "2.0.66.119",
+      "PublishingDate": "2020-09-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3066,7 +3060,7 @@
         "2020-09-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-21T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3333,17 +3327,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.3",
-      "Version": "2.3.5.32",
-      "PublishingDate": "2020-09-04T00:00:00",
-      "PlanVersions": [
-        "2.3.5.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-21T00:00:00"
-      ],
+      "Version": "2.3.5.35",
+      "PublishingDate": "2020-09-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
