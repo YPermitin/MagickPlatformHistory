@@ -317,10 +317,10 @@
         "3.0.82.6"
       ],
       "PlanReleaseDates": [
-        "2020-09-21T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-21T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -333,10 +333,10 @@
         "3.0.82.6"
       ],
       "PlanReleaseDates": [
-        "2020-09-21T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-21T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1091,9 +1091,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.12.75",
       "PublishingDate": "2020-08-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.83"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1141,9 +1147,15 @@
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.75",
       "PublishingDate": "2020-07-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.83"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2127,10 +2139,10 @@
         "3.0.82.24"
       ],
       "PlanReleaseDates": [
-        "2020-09-21T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-21T00:00:00"
+        "2020-09-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2169,9 +2181,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
       "Version": "3.0.35.6",
       "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.35.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3867,9 +3885,15 @@
       "Name": "Транспортная логистика, экспедирование и управление автотранспортом КОРП",
       "Version": "1.1.12.1",
       "PublishingDate": "2020-07-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.13.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
