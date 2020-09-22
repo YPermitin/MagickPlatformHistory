@@ -3627,17 +3627,11 @@
     },
     {
       "Name": "Розница. Ювелирный магазин, редакция 2.3",
-      "Version": "2.3.5.32",
-      "PublishingDate": "2020-09-04T00:00:00",
-      "PlanVersions": [
-        "2.3.5.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-21T00:00:00"
-      ],
+      "Version": "2.3.5.35",
+      "PublishingDate": "2020-09-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
