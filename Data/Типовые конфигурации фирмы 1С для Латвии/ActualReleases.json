@@ -9,9 +9,15 @@
       "Name": "Бухгалтерия для Латвии",
       "Version": "1.6.50.2",
       "PublishingDate": "2020-08-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.51"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
