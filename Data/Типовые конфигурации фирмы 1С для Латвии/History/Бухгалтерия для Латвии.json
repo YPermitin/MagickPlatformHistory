@@ -4,7 +4,7 @@
     "ID": 119,
     "Name": "Типовые конфигурации фирмы \"1С\" для Латвии"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 12,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:38",
@@ -142,6 +142,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-22T16:00:12",
+      "Name": "Бухгалтерия для Латвии",
+      "Version": "1.6.50.2",
+      "PublishingDate": "2020-08-06T00:00:00",
+      "PlanVersions": [
+        "1.6.51"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
