@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 16,
+  "ReleasesCount": 17,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -176,6 +176,17 @@
       "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 1",
       "Version": "1.1.30.1",
       "PublishingDate": "2020-07-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-23T18:00:16",
+      "Name": "Закупки. Дополнение к \"1С:Бухгалтерии государственного учреждения 8\" для редакции 1",
+      "Version": "1.1.31.1",
+      "PublishingDate": "2020-09-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
