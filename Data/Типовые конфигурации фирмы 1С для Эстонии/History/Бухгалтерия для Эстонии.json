@@ -4,7 +4,7 @@
     "ID": 479,
     "Name": "Типовые конфигурации фирмы \"1С\" для Эстонии"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:47",
@@ -131,6 +131,17 @@
       "PlanUpdateDates": [
         "2020-08-27T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-23T15:00:12",
+      "Name": "Бухгалтерия для Эстонии",
+      "Version": "1.6.29.5",
+      "PublishingDate": "2020-09-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
