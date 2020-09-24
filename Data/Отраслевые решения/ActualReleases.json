@@ -2203,17 +2203,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
-      "Version": "3.0.35.6",
-      "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [
-        "3.0.35.8"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-22T00:00:00"
-      ],
+      "Version": "3.0.35.8",
+      "PublishingDate": "2020-09-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
