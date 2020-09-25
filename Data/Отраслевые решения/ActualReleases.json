@@ -614,8 +614,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.2.1.1"
+      ],
+      "DemoPublicationDates": [
+        "2020-09-25T00:00:00"
+      ]
     },
     {
       "Name": "1С:Медицина. Больничные",
@@ -1375,17 +1379,11 @@
     },
     {
       "Name": "1С:Управление недвижимостью и арендой КОРП",
-      "Version": "3.0.82.24",
-      "PublishingDate": "2020-09-10T00:00:00",
-      "PlanVersions": [
-        "3.0.82.34"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-25T00:00:00"
-      ],
+      "Version": "3.0.82.34",
+      "PublishingDate": "2020-09-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
