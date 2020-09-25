@@ -1,0 +1,21 @@
+{
+  "Name": "1С-Рейтинг: Общепит для Казахстана. Базовая версия, редакция 2.0",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-09-25T18:00:15",
+      "Name": "1С-Рейтинг: Общепит для Казахстана. Базовая версия, редакция 2.0",
+      "Version": "2.0.41.2",
+      "PublishingDate": "2020-05-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
