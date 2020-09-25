@@ -3,7 +3,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 59,
+  "ReleasesCount": 60,
   "Releases": [
     {
       "Name": "1С-ВЕКТРО: Управляющий турагентства. Базовая версия",
@@ -140,6 +140,16 @@
       "PlanUpdateDates": [
         "2020-09-22T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С-Рейтинг: Общепит для Казахстана ПРОФ",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
