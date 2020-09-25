@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 459,
+  "ReleasesCount": 460,
   "Releases": [
     {
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
@@ -199,6 +199,16 @@
       "Name": "1С:WMS Логистика. Управление складом",
       "Version": "4.6.2.5",
       "PublishingDate": "2020-03-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:WMS Логистика. Управление складом, редакция 5.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1675,17 +1685,11 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.20.15",
-      "PublishingDate": "2020-09-10T00:00:00",
-      "PlanVersions": [
-        "3.0.21.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-24T00:00:00"
-      ],
+      "Version": "3.0.21.1",
+      "PublishingDate": "2020-09-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
