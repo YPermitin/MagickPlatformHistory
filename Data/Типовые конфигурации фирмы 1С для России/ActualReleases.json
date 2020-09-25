@@ -1299,15 +1299,9 @@
       "Name": "Управление торговлей, редакция 11",
       "Version": "11.4.12.102",
       "PublishingDate": "2020-09-04T00:00:00",
-      "PlanVersions": [
-        "11.4.13"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-07-30T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
