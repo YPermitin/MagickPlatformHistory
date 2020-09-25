@@ -1263,9 +1263,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
       "Version": "3.0.78.64",
       "PublishingDate": "2020-07-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1273,9 +1279,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
       "Version": "3.0.78.64",
       "PublishingDate": "2020-07-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.81.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1317,10 +1329,10 @@
         "3.0.82.34"
       ],
       "PlanReleaseDates": [
-        "2020-10-06T00:00:00"
+        "2020-10-09T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-22T00:00:00"
+        "2020-09-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1333,10 +1345,10 @@
         "3.0.82.34"
       ],
       "PlanReleaseDates": [
-        "2020-10-09T00:00:00"
+        "2020-10-14T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-22T00:00:00"
+        "2020-09-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1365,9 +1377,15 @@
       "Name": "1С:Управление недвижимостью и арендой КОРП",
       "Version": "3.0.82.24",
       "PublishingDate": "2020-09-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.34"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-25T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
