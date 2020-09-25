@@ -1,0 +1,21 @@
+{
+  "Name": "1С-Рейтинг: Общепит для Казахстана ПРОФ",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-09-25T17:30:13",
+      "Name": "1С-Рейтинг: Общепит для Казахстана ПРОФ",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
