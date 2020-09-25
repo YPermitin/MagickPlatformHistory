@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 82,
+  "ReleasesCount": 83,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1190,6 +1190,23 @@
       ],
       "PlanUpdateDates": [
         "2020-09-22T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-25T14:30:13",
+      "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
+      "Version": "3.0.81.25",
+      "PublishingDate": "2020-09-18T00:00:00",
+      "PlanVersions": [
+        "3.0.82.34"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-25T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
