@@ -117,17 +117,11 @@
     },
     {
       "Name": "Управление компанией для Беларуси",
-      "Version": "1.6.19.4",
-      "PublishingDate": "2020-08-26T00:00:00",
-      "PlanVersions": [
-        "1.6.20"
-      ],
-      "PlanReleaseDates": [
-        "2020-09-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-18T00:00:00"
-      ],
+      "Version": "1.6.20.1",
+      "PublishingDate": "2020-09-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
