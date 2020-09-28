@@ -2093,9 +2093,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.82.34",
       "PublishingDate": "2020-09-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.40"
+      ],
+      "PlanReleaseDates": [
+        "2020-09-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4001,8 +4007,8 @@
     },
     {
       "Name": "Управление автотранспортом Стандарт, редакция 2.1",
-      "Version": "2.2.12.1",
-      "PublishingDate": "2020-07-21T00:00:00",
+      "Version": "2.2.13.1",
+      "PublishingDate": "2020-09-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
