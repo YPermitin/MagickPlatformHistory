@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2020-09-25T18:00:15",
@@ -20,6 +20,17 @@
       "PlanUpdateDates": [
         "2020-09-22T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-28T10:00:15",
+      "Name": "1С-Рейтинг: Общепит для Казахстана. Базовая версия, редакция 3.0",
+      "Version": "3.0.33.8",
+      "PublishingDate": "2020-09-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
