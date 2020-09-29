@@ -439,8 +439,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения",
-      "Version": "1.0.64.3",
-      "PublishingDate": "2020-09-23T00:00:00",
+      "Version": "1.0.64.4",
+      "PublishingDate": "2020-09-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -449,8 +449,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая",
-      "Version": "1.0.64.3",
-      "PublishingDate": "2020-09-23T00:00:00",
+      "Version": "1.0.64.4",
+      "PublishingDate": "2020-09-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -459,8 +459,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
-      "Version": "2.0.73.19",
-      "PublishingDate": "2020-09-09T00:00:00",
+      "Version": "2.0.73.22",
+      "PublishingDate": "2020-09-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
