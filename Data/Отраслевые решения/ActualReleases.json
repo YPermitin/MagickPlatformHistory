@@ -1225,8 +1225,8 @@
     },
     {
       "Name": "1С:УНФ 8. Управление предприятием общепита",
-      "Version": "1.6.22.48",
-      "PublishingDate": "2020-09-15T00:00:00",
+      "Version": "1.6.22.49",
+      "PublishingDate": "2020-09-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2935,11 +2935,17 @@
     },
     {
       "Name": "Оперативная печать",
-      "Version": "10.3.56.1",
-      "PublishingDate": "2019-11-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "Version": "10.3.49.3",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [
+        "10.3.66.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4071,17 +4077,11 @@
     },
     {
       "Name": "Управление водоканалом",
-      "Version": "1.3.146.2",
-      "PublishingDate": "2020-09-21T00:00:00",
-      "PlanVersions": [
-        "1.3.147.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-29T00:00:00"
-      ],
+      "Version": "1.3.147.1",
+      "PublishingDate": "2020-09-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4333,17 +4333,11 @@
     },
     {
       "Name": "Управление теплосетью",
-      "Version": "1.3.146.2",
-      "PublishingDate": "2020-09-21T00:00:00",
-      "PlanVersions": [
-        "1.3.147.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-01T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-29T00:00:00"
-      ],
+      "Version": "1.3.147.1",
+      "PublishingDate": "2020-09-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
