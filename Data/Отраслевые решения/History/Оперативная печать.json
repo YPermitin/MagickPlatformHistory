@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -53,6 +53,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-30T11:00:15",
+      "Name": "Оперативная печать",
+      "Version": "10.3.49.3",
+      "PublishingDate": "2018-12-17T00:00:00",
+      "PlanVersions": [
+        "10.3.66.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
