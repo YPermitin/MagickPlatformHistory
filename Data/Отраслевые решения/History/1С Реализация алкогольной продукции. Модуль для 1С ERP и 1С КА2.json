@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 67,
+  "ReleasesCount": 68,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1027,6 +1027,23 @@
       ],
       "PlanUpdateDates": [
         "2020-09-28T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-09-30T12:30:11",
+      "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
+      "Version": "2.4.12.75",
+      "PublishingDate": "2020-07-24T00:00:00",
+      "PlanVersions": [
+        "2.4.12.83"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-01T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-09-30T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
