@@ -4,13 +4,24 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
       "Name": "Библиотека",
       "Version": "2.1.8.1",
       "PublishingDate": "2017-07-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-01T09:30:13",
+      "Name": "Библиотека",
+      "Version": "3.0.1.1",
+      "PublishingDate": "2020-10-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
