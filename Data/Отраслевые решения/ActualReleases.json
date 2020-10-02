@@ -1353,8 +1353,8 @@
     },
     {
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.12.102",
-      "PublishingDate": "2020-09-06T00:00:00",
+      "Version": "2.4.13.46",
+      "PublishingDate": "2020-10-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1455,9 +1455,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.82.3",
       "PublishingDate": "2020-10-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.83.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1465,9 +1471,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.82.3",
       "PublishingDate": "2020-10-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.83.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
