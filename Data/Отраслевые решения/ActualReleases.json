@@ -2121,9 +2121,15 @@
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
       "Version": "3.0.82.34",
       "PublishingDate": "2020-09-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2269,9 +2275,15 @@
       "Name": "Бухгалтерия строительной организации для Казахстана",
       "Version": "3.0.33.8",
       "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.35.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3119,8 +3131,8 @@
     },
     {
       "Name": "Процессное производство. Химия",
-      "Version": "1.3.146.1",
-      "PublishingDate": "2020-08-31T00:00:00",
+      "Version": "1.3.147.1",
+      "PublishingDate": "2020-10-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
