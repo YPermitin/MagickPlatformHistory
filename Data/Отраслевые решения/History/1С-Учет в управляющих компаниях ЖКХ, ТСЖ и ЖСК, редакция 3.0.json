@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 142,
+  "ReleasesCount": 144,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -2190,6 +2190,34 @@
       ],
       "PlanUpdateDates": [
         "2020-09-26T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-02T20:08:44",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
+      "Version": "3.0.82.3",
+      "PublishingDate": "2020-10-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-03T01:37:14",
+      "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
+      "Version": "3.0.82.3",
+      "PublishingDate": "2020-10-02T00:00:00",
+      "PlanVersions": [
+        "3.0.83.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
