@@ -1,7 +1,13 @@
 {
   "Title": "Текущие релизы программ фирмы «1С»",
-  "PublishingDate": "2020-10-02T00:00:00",
+  "PublishingDate": "2020-10-03T00:00:00",
   "Items": [
+    {
+      "Title": "1C:Enterprise Development Tools",
+      "Description": "2020.5.1",
+      "PublishingDate": "2020-10-03T00:00:00",
+      "Link": ""
+    },
     {
       "Title": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Description": "3.0.82.3",
