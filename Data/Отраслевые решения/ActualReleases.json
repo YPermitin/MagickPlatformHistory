@@ -4501,17 +4501,11 @@
     },
     {
       "Name": "Фармпроизводство, редакция 1.3",
-      "Version": "1.3.146.2",
-      "PublishingDate": "2020-09-07T00:00:00",
-      "PlanVersions": [
-        "1.3.147.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-02T00:00:00"
-      ],
+      "Version": "1.3.147.1",
+      "PublishingDate": "2020-10-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
