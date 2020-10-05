@@ -565,17 +565,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.82.24",
-      "PublishingDate": "2020-09-17T00:00:00",
-      "PlanVersions": [
-        "3.0.82.40"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-01T00:00:00"
-      ],
+      "Version": "3.0.82.40",
+      "PublishingDate": "2020-10-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3221,9 +3215,15 @@
       "Name": "Риэлтор. Управление продажами недвижимости для 1С:Управление производственным предприятием, редакция 1.3",
       "Version": "1.3.146.2",
       "PublishingDate": "2020-09-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.147.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3719,8 +3719,8 @@
     },
     {
       "Name": "Спиртовое производство",
-      "Version": "1.3.146.2",
-      "PublishingDate": "2020-09-09T00:00:00",
+      "Version": "1.3.147.1",
+      "PublishingDate": "2020-10-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
