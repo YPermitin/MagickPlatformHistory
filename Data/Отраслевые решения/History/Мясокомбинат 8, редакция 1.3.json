@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 112,
+  "ReleasesCount": 113,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1577,6 +1577,17 @@
       "PlanUpdateDates": [
         "2020-10-05T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-06T10:00:20",
+      "Name": "Мясокомбинат 8, редакция 1.3",
+      "Version": "1.3.147.1",
+      "PublishingDate": "2020-10-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
