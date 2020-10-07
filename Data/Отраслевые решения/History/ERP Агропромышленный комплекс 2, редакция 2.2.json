@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 66,
+  "ReleasesCount": 67,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1181,6 +1181,27 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.2.3.153"
+      ],
+      "DemoPublicationDates": [
+        "2017-03-30T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-10-07T16:00:17",
+      "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
+      "Version": "2.4.12.102",
+      "PublishingDate": "2020-09-16T00:00:00",
+      "PlanVersions": [
+        "2.4.13"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-07T00:00:00"
+      ],
       "DemoVersions": [
         "2.2.3.153"
       ],
