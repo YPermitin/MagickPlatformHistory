@@ -1511,9 +1511,15 @@
       "Name": "1С:Учет и управление для профессиональных участников рынка ценных бумаг КОРП",
       "Version": "3.0.81.26",
       "PublishingDate": "2020-09-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.36"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2153,9 +2159,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.82.40",
       "PublishingDate": "2020-09-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.83.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
