@@ -1275,9 +1275,15 @@
       "Name": "1С:Управление деревообрабатывающим предприятием. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.71",
       "PublishingDate": "2020-07-08T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.47"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1305,9 +1311,15 @@
       "Name": "1С:Управление лесозаготовительным предприятием. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.71",
       "PublishingDate": "2020-07-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.47"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-08T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2157,17 +2169,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.82.40",
-      "PublishingDate": "2020-09-28T00:00:00",
-      "PlanVersions": [
-        "3.0.83.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-08T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-08T00:00:00"
-      ],
+      "Version": "3.0.83.25",
+      "PublishingDate": "2020-10-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
