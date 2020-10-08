@@ -229,31 +229,23 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.82.7",
-      "PublishingDate": "2020-09-10T00:00:00",
+      "Version": "3.0.83.7",
+      "PublishingDate": "2020-10-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.83.7"
-      ],
-      "DemoPublicationDates": [
-        "2020-10-07T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.82.7",
-      "PublishingDate": "2020-09-10T00:00:00",
+      "Version": "3.0.83.7",
+      "PublishingDate": "2020-10-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.83.7"
-      ],
-      "DemoPublicationDates": [
-        "2020-10-07T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
@@ -481,17 +473,15 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
-      "Version": "3.0.82.8",
-      "PublishingDate": "2020-09-18T00:00:00",
+      "Version": "3.0.83.5",
+      "PublishingDate": "2020-10-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "3.0.83.5",
         "3.0.83.3"
       ],
       "DemoPublicationDates": [
-        "2020-10-06T00:00:00",
         "2020-09-29T00:00:00"
       ]
     },
