@@ -999,8 +999,8 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
-      "Version": "3.0.83.25",
-      "PublishingDate": "2020-10-07T00:00:00",
+      "Version": "3.0.83.33",
+      "PublishingDate": "2020-10-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1330,13 +1330,13 @@
       "Version": "3.0.81.25",
       "PublishingDate": "2020-09-15T00:00:00",
       "PlanVersions": [
-        "3.0.82.34"
+        "3.0.82.35"
       ],
       "PlanReleaseDates": [
-        "2020-10-09T00:00:00"
+        "2020-10-12T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-25T00:00:00"
+        "2020-10-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
