@@ -1239,17 +1239,11 @@
     },
     {
       "Name": "1С:Управление водоканалом 2",
-      "Version": "2.2.17.1",
-      "PublishingDate": "2020-09-08T00:00:00",
-      "PlanVersions": [
-        "2.2.18.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-08T00:00:00"
-      ],
+      "Version": "2.2.18.1",
+      "PublishingDate": "2020-10-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1346,13 +1340,13 @@
       "Version": "3.0.81.25",
       "PublishingDate": "2020-09-18T00:00:00",
       "PlanVersions": [
-        "3.0.82.34"
+        "3.0.82.35"
       ],
       "PlanReleaseDates": [
-        "2020-10-14T00:00:00"
+        "2020-10-15T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-09-25T00:00:00"
+        "2020-10-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
