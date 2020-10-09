@@ -2851,17 +2851,11 @@
     },
     {
       "Name": "Модуль 1С:Аренда и управление недвижимостью для 1С:ERP, редакция 2.4",
-      "Version": "2.4.12.64",
-      "PublishingDate": "2020-06-15T00:00:00",
-      "PlanVersions": [
-        "2.4.13.47"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-09T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-09T00:00:00"
-      ],
+      "Version": "2.4.13.47",
+      "PublishingDate": "2020-10-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
