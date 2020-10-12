@@ -609,9 +609,15 @@
       "Name": "1С:Медицина. Больница, редакция 2",
       "Version": "2.0.3.4",
       "PublishingDate": "2020-09-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.3.5"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2271,17 +2277,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.82.24",
-      "PublishingDate": "2020-09-11T00:00:00",
-      "PlanVersions": [
-        "3.0.83.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-08T00:00:00"
-      ],
+      "Version": "3.0.83.25",
+      "PublishingDate": "2020-10-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
