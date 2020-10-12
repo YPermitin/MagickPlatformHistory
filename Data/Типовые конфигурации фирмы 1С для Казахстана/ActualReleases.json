@@ -201,22 +201,18 @@
     },
     {
       "Name": "Комплексная автоматизация для Казахстана",
-      "Version": "2.4.4.68",
-      "PublishingDate": "2020-07-24T00:00:00",
+      "Version": "2.4.4.72",
+      "PublishingDate": "2020-10-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.4.4.69"
-      ],
-      "DemoPublicationDates": [
-        "2020-08-13T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Комплексная автоматизация для Казахстана. Модуль \"Бюджетирование\"",
-      "Version": "2.4.4.68",
-      "PublishingDate": "2020-07-27T00:00:00",
+      "Version": "2.4.4.72",
+      "PublishingDate": "2020-10-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
