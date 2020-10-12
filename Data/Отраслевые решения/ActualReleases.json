@@ -297,9 +297,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4",
       "Version": "4.1.7.2",
       "PublishingDate": "2020-09-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.1.8.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -341,17 +347,11 @@
     },
     {
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
-      "Version": "3.0.82.24",
-      "PublishingDate": "2020-09-11T00:00:00",
-      "PlanVersions": [
-        "3.0.83.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-08T00:00:00"
-      ],
+      "Version": "3.0.83.25",
+      "PublishingDate": "2020-10-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1115,17 +1115,11 @@
     },
     {
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
-      "Version": "2.4.12.83",
-      "PublishingDate": "2020-10-01T00:00:00",
-      "PlanVersions": [
-        "2.4.12.109"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-12T00:00:00"
-      ],
+      "Version": "2.4.12.109",
+      "PublishingDate": "2020-10-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1339,17 +1333,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
-      "Version": "3.0.81.25",
-      "PublishingDate": "2020-09-15T00:00:00",
-      "PlanVersions": [
-        "3.0.82.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-09T00:00:00"
-      ],
+      "Version": "3.0.82.35",
+      "PublishingDate": "2020-10-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4091,10 +4079,10 @@
         "11.4.12.109"
       ],
       "PlanReleaseDates": [
-        "2020-10-12T00:00:00"
+        "2020-10-13T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-10-09T00:00:00"
+        "2020-10-12T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
