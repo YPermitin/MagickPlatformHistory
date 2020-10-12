@@ -4,7 +4,7 @@
     "ID": 633,
     "Name": "Типовые конфигурации фирмы \"1С\" для Азербайджана"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:25",
@@ -32,6 +32,17 @@
       "Created": "2020-10-12T21:30:20",
       "Name": "Управление компанией для Азербайджана",
       "Version": "1.6.19.203",
+      "PublishingDate": "2020-10-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-12T22:30:28",
+      "Name": "Управление компанией для Азербайджана",
+      "Version": "1.6.21.124",
       "PublishingDate": "2020-10-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
