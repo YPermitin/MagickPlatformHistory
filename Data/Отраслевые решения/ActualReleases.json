@@ -2325,8 +2325,8 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.83.33",
-      "PublishingDate": "2020-10-08T00:00:00",
+      "Version": "3.1.83.34",
+      "PublishingDate": "2020-10-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4069,9 +4069,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.12.109",
       "PublishingDate": "2020-10-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.13.51"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
