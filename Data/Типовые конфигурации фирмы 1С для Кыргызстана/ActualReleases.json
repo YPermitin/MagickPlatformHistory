@@ -6,29 +6,19 @@
   "ReleasesCount": 10,
   "Releases": [
     {
-      "Name": "1С: Бухгалтерия для бюджетных организаций Кыргызстана, ред. 2",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
-      "Name": "1С:Касса для Кыргызстана",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
-    },
-    {
       "Name": "Бухгалтерия для бюджетных организаций Кыргызстана",
       "Version": "1.1.27.1",
       "PublishingDate": "2017-12-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Бухгалтерия для бюджетных организаций Кыргызстана, ред. 2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -78,6 +68,16 @@
       "DemoPublicationDates": [
         "2016-12-13T00:00:00"
       ]
+    },
+    {
+      "Name": "Касса для Кыргызстана",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Розница для Кыргызстана",
