@@ -3,8 +3,18 @@
     "ID": 113,
     "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
   },
-  "ReleasesCount": 9,
+  "ReleasesCount": 10,
   "Releases": [
+    {
+      "Name": "1С: Бухгалтерия для бюджетных организаций Кыргызстана, ред. 2",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
     {
       "Name": "1С:Касса для Кыргызстана",
       "Version": "",
