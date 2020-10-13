@@ -1090,12 +1090,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.3.6.16"
-      ],
-      "DemoPublicationDates": [
-        "2020-10-08T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Свод отчетов ПРОФ, редакция 3.2",
