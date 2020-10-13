@@ -1107,9 +1107,15 @@
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
       "Version": "1.6.22.48",
       "PublishingDate": "2020-09-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.22.75"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2277,9 +2283,15 @@
       "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
       "Version": "3.0.81.25",
       "PublishingDate": "2020-10-08T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.82.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
