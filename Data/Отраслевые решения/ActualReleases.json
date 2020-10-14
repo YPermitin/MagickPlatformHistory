@@ -1457,17 +1457,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
-      "Version": "3.0.82.3",
-      "PublishingDate": "2020-10-02T00:00:00",
-      "PlanVersions": [
-        "3.0.83.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-13T00:00:00"
-      ],
+      "Version": "3.0.83.2",
+      "PublishingDate": "2020-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3855,17 +3849,11 @@
     },
     {
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
-      "Version": "2.0.33.1",
-      "PublishingDate": "2020-09-07T00:00:00",
-      "PlanVersions": [
-        "2.0.34.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-01T00:00:00"
-      ],
+      "Version": "2.0.34.1",
+      "PublishingDate": "2020-10-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
