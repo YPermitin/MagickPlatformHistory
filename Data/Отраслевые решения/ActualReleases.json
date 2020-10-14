@@ -83,17 +83,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.12.102",
-      "PublishingDate": "2020-09-14T00:00:00",
-      "PlanVersions": [
-        "2.4.13.51"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-13T00:00:00"
-      ],
+      "Version": "2.4.13.51",
+      "PublishingDate": "2020-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -187,9 +181,15 @@
       "Name": "1С:RCM Управление надежностью",
       "Version": "1.0.9.1",
       "PublishingDate": "2020-06-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -427,9 +427,15 @@
       "Name": "1С:Горнодобывающая промышленность 2. Модуль для 1С:ERP",
       "Version": "1.1.7.6",
       "PublishingDate": "2020-09-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.8.14"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3850,7 +3856,7 @@
     {
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
       "Version": "2.0.34.1",
-      "PublishingDate": "2020-10-01T00:00:00",
+      "PublishingDate": "2020-10-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
