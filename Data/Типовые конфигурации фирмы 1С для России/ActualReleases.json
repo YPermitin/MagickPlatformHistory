@@ -1276,8 +1276,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "11.5.5.82"
+      ],
+      "DemoPublicationDates": [
+        "2020-10-14T00:00:00"
+      ]
     }
   ]
 }
