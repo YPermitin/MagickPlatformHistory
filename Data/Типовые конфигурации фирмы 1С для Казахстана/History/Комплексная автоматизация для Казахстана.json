@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 31,
+  "ReleasesCount": 32,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -366,6 +366,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-15T12:00:29",
+      "Name": "Комплексная автоматизация для Казахстана",
+      "Version": "2.4.4.72",
+      "PublishingDate": "2020-10-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.4.69"
+      ],
+      "DemoPublicationDates": [
+        "2020-08-13T00:00:00"
+      ]
     }
   ]
 }
