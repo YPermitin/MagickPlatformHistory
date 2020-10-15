@@ -738,13 +738,13 @@
       "Version": "3.1.14.265",
       "PublishingDate": "2020-10-15T00:00:00",
       "PlanVersions": [
-        "3.1.15.",
-        "3.1.14."
+        "3.1.14.",
+        "3.1.15."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-10-02T00:00:00",
-        "2020-09-29T00:00:00"
+        "2020-10-15T00:00:00",
+        "2020-10-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -788,13 +788,13 @@
       "Version": "3.1.14.265",
       "PublishingDate": "2020-10-15T00:00:00",
       "PlanVersions": [
-        "3.1.15.",
-        "3.1.14."
+        "3.1.14.",
+        "3.1.15."
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-10-02T00:00:00",
-        "2020-09-29T00:00:00"
+        "2020-10-15T00:00:00",
+        "2020-10-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
