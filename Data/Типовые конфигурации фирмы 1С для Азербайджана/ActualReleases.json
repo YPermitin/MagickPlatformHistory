@@ -45,9 +45,15 @@
       "Name": "Зарплата и Управление Персоналом для Азербайджана, редакция 3",
       "Version": "3.1.1.1",
       "PublishingDate": "2020-05-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
