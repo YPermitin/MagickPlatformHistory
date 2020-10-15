@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2020-03-25T13:44:10",
@@ -143,6 +143,17 @@
       "PlanUpdateDates": [
         "2020-10-14T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-15T12:00:29",
+      "Name": "1С:Горнодобывающая промышленность 2. Модуль для 1С:ERP",
+      "Version": "1.1.8.14",
+      "PublishingDate": "2020-10-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
