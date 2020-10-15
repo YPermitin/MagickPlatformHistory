@@ -595,17 +595,11 @@
     },
     {
       "Name": "1С:Медицина. Больница, редакция 2",
-      "Version": "2.0.3.4",
-      "PublishingDate": "2020-09-23T00:00:00",
-      "PlanVersions": [
-        "2.0.3.5"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-12T00:00:00"
-      ],
+      "Version": "2.0.3.5",
+      "PublishingDate": "2020-10-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
