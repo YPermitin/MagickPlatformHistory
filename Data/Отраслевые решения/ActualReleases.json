@@ -1745,17 +1745,11 @@
     },
     {
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
-      "Version": "1.2.3.6",
-      "PublishingDate": "2020-09-14T00:00:00",
-      "PlanVersions": [
-        "1.2.3.7"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-06T00:00:00"
-      ],
+      "Version": "1.2.3.7",
+      "PublishingDate": "2020-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "1.1.12.1"
       ],
@@ -1765,17 +1759,11 @@
     },
     {
       "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
-      "Version": "1.2.5.6",
-      "PublishingDate": "2020-09-14T00:00:00",
-      "PlanVersions": [
-        "1.2.5.7"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-06T00:00:00"
-      ],
+      "Version": "1.2.5.7",
+      "PublishingDate": "2020-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4013,10 +4001,10 @@
         "11.4.13.51"
       ],
       "PlanReleaseDates": [
-        "2020-10-16T00:00:00"
+        "2020-10-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-10-15T00:00:00"
+        "2020-10-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
