@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 34,
+  "ReleasesCount": 35,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -515,6 +515,17 @@
       "PlanUpdateDates": [
         "2020-10-06T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-16T14:30:26",
+      "Name": "ITIL Управление информационными технологиями предприятия ПРОФ",
+      "Version": "1.2.5.7",
+      "PublishingDate": "2020-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
