@@ -7,17 +7,11 @@
   "Releases": [
     {
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [
-        "1.0.2.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-09T00:00:00"
-      ],
+      "Version": "1.0.2.1",
+      "PublishingDate": "2020-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1141,17 +1135,11 @@
     },
     {
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.12.83",
-      "PublishingDate": "2020-10-01T00:00:00",
-      "PlanVersions": [
-        "2.4.12.109"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-12T00:00:00"
-      ],
+      "Version": "2.4.12.109",
+      "PublishingDate": "2020-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2255,10 +2243,10 @@
         "3.0.35.6"
       ],
       "PlanReleaseDates": [
-        "2020-10-16T00:00:00"
+        "2020-10-20T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-10-14T00:00:00"
+        "2020-10-16T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2345,17 +2333,11 @@
     },
     {
       "Name": "Бухгалтерія будівельної організації, редакція 2.0",
-      "Version": "2.0.14.1",
-      "PublishingDate": "2020-09-15T00:00:00",
-      "PlanVersions": [
-        "2.0.15.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-19T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-15T00:00:00"
-      ],
+      "Version": "2.0.15.1",
+      "PublishingDate": "2020-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
