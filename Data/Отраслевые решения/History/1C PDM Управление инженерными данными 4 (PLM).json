@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2020-09-03T13:30:13",
@@ -48,6 +48,17 @@
       "PlanUpdateDates": [
         "2020-10-09T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-16T13:30:24",
+      "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
+      "Version": "1.0.2.1",
+      "PublishingDate": "2020-10-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
