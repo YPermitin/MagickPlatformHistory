@@ -137,9 +137,15 @@
       "Name": "Управление торговлей для Молдовы, редакция 2",
       "Version": "2.4.14.1",
       "PublishingDate": "2020-06-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.15"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-19T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.1"
       ],
