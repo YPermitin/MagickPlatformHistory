@@ -3277,9 +3277,15 @@
       "Name": "Розница. Книжный магазин, редакция 2.3",
       "Version": "2.3.5.35",
       "PublishingDate": "2020-09-22T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.6.17"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3495,9 +3501,15 @@
       "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
       "Version": "2.3.5.35",
       "PublishingDate": "2020-09-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.6.17"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3545,9 +3557,15 @@
       "Name": "Розница. Салон оптики, редакция 2.3",
       "Version": "2.3.5.35",
       "PublishingDate": "2020-09-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.6.17"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
