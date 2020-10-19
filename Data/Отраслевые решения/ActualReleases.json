@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 460,
+  "ReleasesCount": 461,
   "Releases": [
     {
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
@@ -569,6 +569,16 @@
       "Name": "1С:Медицина. Больница",
       "Version": "1.4.5.4",
       "PublishingDate": "2019-08-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Медицина. Больница. Мобильное рабочее место",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
