@@ -307,17 +307,11 @@
     },
     {
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
-      "Version": "3.0.83.25",
-      "PublishingDate": "2020-10-13T00:00:00",
-      "PlanVersions": [
-        "3.0.83.37"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-19T00:00:00"
-      ],
+      "Version": "3.0.83.37",
+      "PublishingDate": "2020-10-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -359,8 +353,8 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.83.34",
-      "PublishingDate": "2020-10-14T00:00:00",
+      "Version": "3.0.83.37",
+      "PublishingDate": "2020-10-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2263,17 +2257,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.83.25",
-      "PublishingDate": "2020-10-12T00:00:00",
-      "PlanVersions": [
-        "3.0.83.37"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-19T00:00:00"
-      ],
+      "Version": "3.0.83.37",
+      "PublishingDate": "2020-10-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
