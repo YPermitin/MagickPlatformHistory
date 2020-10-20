@@ -17,17 +17,11 @@
     },
     {
       "Name": "Бухгалтерия для Азербайджана, редакция 3",
-      "Version": "3.0.4.0",
-      "PublishingDate": "2020-05-01T00:00:00",
-      "PlanVersions": [
-        "3.0.5"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-09-28T00:00:00"
-      ],
+      "Version": "3.0.5.0",
+      "PublishingDate": "2020-10-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -43,17 +37,11 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Азербайджана, редакция 3",
-      "Version": "3.1.1.1",
-      "PublishingDate": "2020-05-22T00:00:00",
-      "PlanVersions": [
-        "3.1.2"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-15T00:00:00"
-      ],
+      "Version": "3.1.2.1",
+      "PublishingDate": "2020-10-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
