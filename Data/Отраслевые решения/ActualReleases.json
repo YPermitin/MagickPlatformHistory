@@ -311,9 +311,15 @@
       "Name": "1С:Биллинг",
       "Version": "1.1.1.17",
       "PublishingDate": "2020-07-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.1.18"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -851,9 +857,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.83.34",
       "PublishingDate": "2020-10-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.83.37"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -875,9 +887,15 @@
       "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
       "Version": "2.4.12.83",
       "PublishingDate": "2020-08-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.57"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -895,9 +913,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.83.34",
       "PublishingDate": "2020-10-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.83.37"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1265,10 +1289,10 @@
         "2.4.13.51"
       ],
       "PlanReleaseDates": [
-        "2020-10-19T00:00:00"
+        "2020-10-24T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-10-14T00:00:00"
+        "2020-10-21T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1389,8 +1413,8 @@
     },
     {
       "Name": "1С:Управление недвижимостью и арендой КОРП",
-      "Version": "3.0.83.25",
-      "PublishingDate": "2020-10-07T00:00:00",
+      "Version": "3.0.83.37",
+      "PublishingDate": "2020-10-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1803,17 +1827,11 @@
     },
     {
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
-      "Version": "2.4.13.47",
-      "PublishingDate": "2020-10-08T00:00:00",
-      "PlanVersions": [
-        "2.4.13.57"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-21T00:00:00"
-      ],
+      "Version": "2.4.13.57",
+      "PublishingDate": "2020-10-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.2.3.153"
       ],
