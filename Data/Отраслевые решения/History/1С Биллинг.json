@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 14,
+  "ReleasesCount": 15,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -211,6 +211,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-21T18:00:33",
+      "Name": "1С:Биллинг",
+      "Version": "1.1.1.17",
+      "PublishingDate": "2020-07-16T00:00:00",
+      "PlanVersions": [
+        "1.1.1.18"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
