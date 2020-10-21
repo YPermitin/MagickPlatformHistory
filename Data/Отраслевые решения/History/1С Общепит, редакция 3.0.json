@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 125,
+  "ReleasesCount": 126,
   "ReleasesHistory": [
     {
       "Created": "2019-03-04T11:24:31",
@@ -2282,6 +2282,27 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.0.71.90"
+      ],
+      "DemoPublicationDates": [
+        "2019-08-03T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-10-21T18:00:33",
+      "Name": "1С:Общепит, редакция 3.0",
+      "Version": "3.0.83.34",
+      "PublishingDate": "2020-10-13T00:00:00",
+      "PlanVersions": [
+        "3.0.83.37"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
