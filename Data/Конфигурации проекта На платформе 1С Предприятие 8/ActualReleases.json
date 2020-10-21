@@ -17,8 +17,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата. Версия 5.0",
-      "Version": "5.0.68.2",
-      "PublishingDate": "2020-10-06T00:00:00",
+      "Version": "5.0.68.3",
+      "PublishingDate": "2020-10-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -27,8 +27,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата. Версия 5.0. Базовая версия",
-      "Version": "5.0.68.2",
-      "PublishingDate": "2020-10-06T00:00:00",
+      "Version": "5.0.68.3",
+      "PublishingDate": "2020-10-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -407,8 +407,8 @@
     },
     {
       "Name": "КАМИН: Расчет заработной платы",
-      "Version": "3.0.108.2",
-      "PublishingDate": "2020-10-05T00:00:00",
+      "Version": "3.0.108.3",
+      "PublishingDate": "2020-10-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -417,8 +417,8 @@
     },
     {
       "Name": "КАМИН: Расчет заработной платы базовая",
-      "Version": "3.0.108.2",
-      "PublishingDate": "2020-10-05T00:00:00",
+      "Version": "3.0.108.3",
+      "PublishingDate": "2020-10-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -567,17 +567,11 @@
     },
     {
       "Name": "Элит-строительство. Бухгалтерский учет базовая, редакция 3.0",
-      "Version": "3.0.82.24",
-      "PublishingDate": "2020-09-14T00:00:00",
-      "PlanVersions": [
-        "3.0.83.37"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-20T00:00:00"
-      ],
+      "Version": "3.0.83.37",
+      "PublishingDate": "2020-10-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
