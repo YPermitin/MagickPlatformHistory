@@ -251,9 +251,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.13.47",
       "PublishingDate": "2020-10-08T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.57"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-22T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -4483,17 +4489,11 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
-      "Version": "3.0.20.14",
-      "PublishingDate": "2020-10-19T00:00:00",
-      "PlanVersions": [
-        "3.0.20.15"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-22T00:00:00"
-      ],
+      "Version": "3.0.20.15",
+      "PublishingDate": "2020-10-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
