@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2019-08-28T12:02:23",
@@ -149,6 +149,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-23T11:00:14",
+      "Name": "1С:CRM для Беларуси. Модуль для 1С:УТ, 1С:КА2 и 1С:ERP",
+      "Version": "3.0.19.30",
+      "PublishingDate": "2020-08-21T00:00:00",
+      "PlanVersions": [
+        "3.0.19.32"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
