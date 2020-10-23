@@ -19,9 +19,15 @@
       "Name": "1C:Исполнитель. Бета-версия",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2020.2.2.31"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-23T00:00:00"
+      ],
       "DemoVersions": [
         "2020.2.1.16",
         "2020.2.0.547"
