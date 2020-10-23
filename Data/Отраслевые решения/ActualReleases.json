@@ -39,9 +39,15 @@
       "Name": "1С:CRM для Беларуси. Модуль для 1С:УТ, 1С:КА2 и 1С:ERP",
       "Version": "3.0.19.30",
       "PublishingDate": "2020-08-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.19.32"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -249,17 +255,11 @@
     },
     {
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.13.47",
-      "PublishingDate": "2020-10-08T00:00:00",
-      "PlanVersions": [
-        "2.4.13.57"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-22T00:00:00"
-      ],
+      "Version": "2.4.13.57",
+      "PublishingDate": "2020-10-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -917,17 +917,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 3.0",
-      "Version": "3.0.83.34",
-      "PublishingDate": "2020-10-13T00:00:00",
-      "PlanVersions": [
-        "3.0.83.37"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-21T00:00:00"
-      ],
+      "Version": "3.0.83.37",
+      "PublishingDate": "2020-10-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1503,33 +1497,21 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК",
-      "Version": "2.0.66.81",
-      "PublishingDate": "2020-09-10T00:00:00",
-      "PlanVersions": [
-        "2.0.66.82"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-19T00:00:00"
-      ],
+      "Version": "2.0.66.82",
+      "PublishingDate": "2020-10-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.81",
-      "PublishingDate": "2020-09-10T00:00:00",
-      "PlanVersions": [
-        "2.0.66.82"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-19T00:00:00"
-      ],
+      "Version": "2.0.66.82",
+      "PublishingDate": "2020-10-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
