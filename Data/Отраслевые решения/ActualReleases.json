@@ -78,7 +78,7 @@
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.13.57",
-      "PublishingDate": "2020-10-21T00:00:00",
+      "PublishingDate": "2020-10-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1999,17 +1999,11 @@
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.81.25",
-      "PublishingDate": "2020-08-19T00:00:00",
-      "PlanVersions": [
-        "3.0.83.33"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-08T00:00:00"
-      ],
+      "Version": "3.0.83.33",
+      "PublishingDate": "2020-10-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
