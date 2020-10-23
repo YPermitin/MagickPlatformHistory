@@ -1081,9 +1081,15 @@
       "Name": "1С:Предприятие 8. GIS Управление пространственными данными",
       "Version": "1.0.6.2",
       "PublishingDate": "2020-05-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.6.3"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1157,9 +1163,15 @@
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
       "Version": "2.4.12.109",
       "PublishingDate": "2020-10-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.57"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1207,9 +1219,15 @@
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.12.109",
       "PublishingDate": "2020-10-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.57"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
