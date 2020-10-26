@@ -2045,17 +2045,11 @@
     },
     {
       "Name": "Аптека для Казахстана, редакция 2.3",
-      "Version": "2.3.2.3",
-      "PublishingDate": "2020-09-01T00:00:00",
-      "PlanVersions": [
-        "2.3.2.5"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-12T00:00:00"
-      ],
+      "Version": "2.3.2.5",
+      "PublishingDate": "2020-10-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2313,17 +2307,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации для Казахстана",
-      "Version": "3.0.33.8",
-      "PublishingDate": "2020-06-05T00:00:00",
-      "PlanVersions": [
-        "3.0.35.6"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-21T00:00:00"
-      ],
+      "Version": "3.0.35.6",
+      "PublishingDate": "2020-10-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
