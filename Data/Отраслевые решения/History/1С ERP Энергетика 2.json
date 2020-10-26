@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 102,
+  "ReleasesCount": 103,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1562,6 +1562,23 @@
       ],
       "PlanUpdateDates": [
         "2020-10-12T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-26T09:30:14",
+      "Name": "1С:ERP Энергетика 2",
+      "Version": "2.4.12.96",
+      "PublishingDate": "2020-09-09T00:00:00",
+      "PlanVersions": [
+        "2.4.13.47"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-26T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
