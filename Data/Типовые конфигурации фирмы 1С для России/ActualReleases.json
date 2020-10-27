@@ -742,8 +742,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.16.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-10-27T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
@@ -752,8 +756,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.16.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-10-27T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
@@ -770,8 +778,12 @@
         "2020-10-16T00:00:00",
         "2020-10-15T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.16.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-10-27T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и Управление Персоналом базовая, редакция 3",
@@ -780,8 +792,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.16.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-10-27T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
@@ -804,8 +820,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.16.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-10-27T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
@@ -822,8 +842,12 @@
         "2020-10-16T00:00:00",
         "2020-10-15T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.16.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-10-27T00:00:00"
+      ]
     },
     {
       "Name": "Комплексная автоматизация, редакция 1.0",
