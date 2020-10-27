@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 84,
+  "ReleasesCount": 85,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1375,6 +1375,27 @@
       ],
       "PlanUpdateDates": [
         "2020-10-05T00:00:00"
+      ],
+      "DemoVersions": [
+        "2.5.4.102"
+      ],
+      "DemoPublicationDates": [
+        "2020-08-11T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-10-27T15:00:13",
+      "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
+      "Version": "2.4.12.102",
+      "PublishingDate": "2020-09-18T00:00:00",
+      "PlanVersions": [
+        "2.4.13.47"
+      ],
+      "PlanReleaseDates": [
+        "2020-10-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-27T00:00:00"
       ],
       "DemoVersions": [
         "2.5.4.102"
