@@ -1231,9 +1231,15 @@
       "Name": "Управление нашей фирмой, редакция 1.6",
       "Version": "1.6.23.61",
       "PublishingDate": "2020-10-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.24"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
