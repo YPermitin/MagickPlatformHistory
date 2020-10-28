@@ -95,15 +95,9 @@
       "Name": "Комплексная автоматизация для Беларуси, редакция 2",
       "Version": "2.4.11.105",
       "PublishingDate": "2020-08-27T00:00:00",
-      "PlanVersions": [
-        "2.4.12"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-20T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
