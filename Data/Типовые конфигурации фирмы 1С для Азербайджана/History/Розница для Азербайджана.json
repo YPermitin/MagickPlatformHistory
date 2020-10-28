@@ -4,7 +4,7 @@
     "ID": 633,
     "Name": "Типовые конфигурации фирмы \"1С\" для Азербайджана"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:25",
@@ -22,6 +22,17 @@
       "Name": "Розница для Азербайджана",
       "Version": "2.2.7.40",
       "PublishingDate": "2019-08-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-28T19:30:13",
+      "Name": "Розница для Азербайджана",
+      "Version": "2.2.13.8",
+      "PublishingDate": "2020-10-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
