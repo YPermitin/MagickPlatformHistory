@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 194,
+  "ReleasesCount": 195,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -2667,6 +2667,17 @@
       "DemoPublicationDates": [
         "2020-10-22T00:00:00"
       ]
+    },
+    {
+      "Created": "2020-10-28T13:00:14",
+      "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
+      "Version": "3.0.84.31",
+      "PublishingDate": "2020-10-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
