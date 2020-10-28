@@ -107,17 +107,11 @@
     },
     {
       "Name": "1С:ERP Энергетика 2",
-      "Version": "2.4.12.96",
-      "PublishingDate": "2020-09-09T00:00:00",
-      "PlanVersions": [
-        "2.4.13.47"
-      ],
-      "PlanReleaseDates": [
-        "2020-10-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-26T00:00:00"
-      ],
+      "Version": "2.4.13.47",
+      "PublishingDate": "2020-10-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2373,9 +2367,15 @@
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
       "Version": "3.0.83.33",
       "PublishingDate": "2020-10-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.31"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-06T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-10-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
