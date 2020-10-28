@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 23,
+  "ReleasesCount": 24,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -319,6 +319,17 @@
       "Name": "1С:Предприятие 8. MDM Управление нормативно-справочной информацией, редакция 2.0",
       "Version": "2.0.4.15",
       "PublishingDate": "2020-08-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-10-28T11:30:18",
+      "Name": "1С:Предприятие 8. MDM Управление нормативно-справочной информацией, редакция 2.0",
+      "Version": "2.0.4.16",
+      "PublishingDate": "2020-10-28T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
