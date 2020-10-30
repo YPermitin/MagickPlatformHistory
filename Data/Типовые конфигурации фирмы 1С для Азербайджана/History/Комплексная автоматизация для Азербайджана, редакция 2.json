@@ -1,0 +1,21 @@
+{
+  "Name": "Комплексная автоматизация для Азербайджана, редакция 2",
+  "Category": {
+    "ID": 633,
+    "Name": "Типовые конфигурации фирмы \"1С\" для Азербайджана"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-10-30T18:30:12",
+      "Name": "Комплексная автоматизация для Азербайджана, редакция 2",
+      "Version": "2.0.2.1",
+      "PublishingDate": "2018-01-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
