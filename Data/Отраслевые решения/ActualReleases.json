@@ -213,10 +213,10 @@
         "5.0.1.2"
       ],
       "PlanReleaseDates": [
-        "2020-10-30T00:00:00"
+        "2020-11-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-10-30T00:00:00"
+        "2020-11-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4341,8 +4341,8 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.22.75",
-      "PublishingDate": "2020-10-13T00:00:00",
+      "Version": "1.6.23.61",
+      "PublishingDate": "2020-11-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
