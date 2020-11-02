@@ -3,7 +3,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "Releases": [
     {
       "Name": "1С:Библиотека интеграции с 1С:Документооборотом",
@@ -268,6 +268,16 @@
       "Name": "1С:Библиотека электронных документов, редакция 1.7",
       "Version": "1.8.1.21",
       "PublishingDate": "2020-10-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Библиотека электронных документов, редакция 1.8",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
