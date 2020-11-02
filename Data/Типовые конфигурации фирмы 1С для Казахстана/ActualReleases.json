@@ -87,10 +87,10 @@
         "3.0.37"
       ],
       "PlanReleaseDates": [
-        "2020-11-06T00:00:00"
+        "2020-12-04T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-10-27T00:00:00"
+        "2020-11-02T00:00:00"
       ],
       "DemoVersions": [
         "3.0.36.1",
@@ -187,8 +187,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Казахстана",
-      "Version": "3.1.1.65",
-      "PublishingDate": "2020-10-01T00:00:00",
+      "Version": "3.1.1.67",
+      "PublishingDate": "2020-11-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
