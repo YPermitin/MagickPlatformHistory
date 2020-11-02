@@ -1035,17 +1035,11 @@
     },
     {
       "Name": "1С:Полиграфия 2. Модуль для 1С:ERP, 1С:КА2 и 1С:УТ",
-      "Version": "2.4.12.64",
-      "PublishingDate": "2020-06-16T00:00:00",
-      "PlanVersions": [
-        "2.4.13.57"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-22T00:00:00"
-      ],
+      "Version": "2.4.13.57",
+      "PublishingDate": "2020-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
