@@ -1261,9 +1261,15 @@
       "Name": "1С:УНФ 8. Управление предприятием общепита",
       "Version": "1.6.22.49",
       "PublishingDate": "2020-09-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.23.61"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2149,17 +2155,11 @@
     },
     {
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
-      "Version": "3.0.83.37",
-      "PublishingDate": "2020-10-21T00:00:00",
-      "PlanVersions": [
-        "3.0.84.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-02T00:00:00"
-      ],
+      "Version": "3.0.84.31",
+      "PublishingDate": "2020-11-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
