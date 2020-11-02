@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 58,
+  "ReleasesCount": 59,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -710,6 +710,17 @@
       "Name": "ERP Управление строительной организацией 2.0",
       "Version": "2.4.13.51",
       "PublishingDate": "2020-10-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-02T16:00:15",
+      "Name": "ERP Управление строительной организацией 2.0",
+      "Version": "2.4.13.57",
+      "PublishingDate": "2020-11-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
