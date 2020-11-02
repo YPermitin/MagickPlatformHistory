@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 28,
+  "ReleasesCount": 29,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -419,6 +419,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-02T17:00:16",
+      "Name": "Производственная безопасность. Комплексная, редакция 1.1",
+      "Version": "1.1.6.18",
+      "PublishingDate": "2020-09-21T00:00:00",
+      "PlanVersions": [
+        "1.1.6.34"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
