@@ -2395,17 +2395,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.83.33",
-      "PublishingDate": "2020-10-11T00:00:00",
-      "PlanVersions": [
-        "3.0.84.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-06T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-28T00:00:00"
-      ],
+      "Version": "3.0.84.31",
+      "PublishingDate": "2020-11-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2877,17 +2871,11 @@
     },
     {
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
-      "Version": "2.4.12.102",
-      "PublishingDate": "2020-09-18T00:00:00",
-      "PlanVersions": [
-        "2.4.13.47"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-30T00:00:00"
-      ],
+      "Version": "2.4.13.47",
+      "PublishingDate": "2020-11-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.5.4.102"
       ],
