@@ -119,9 +119,15 @@
       "Name": "1С-Рейтинг: Общепит для Казахстана. Базовая версия, редакция 3.0",
       "Version": "3.0.33.9",
       "PublishingDate": "2020-10-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.33.11"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
