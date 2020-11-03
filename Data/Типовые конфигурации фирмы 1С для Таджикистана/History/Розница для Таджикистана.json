@@ -4,7 +4,7 @@
     "ID": 912,
     "Name": "Типовые конфигурации фирмы \"1С\" для Таджикистана"
   },
-  "ReleasesCount": 6,
+  "ReleasesCount": 7,
   "ReleasesHistory": [
     {
       "Created": "2019-08-12T16:02:22",
@@ -81,6 +81,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-03T11:30:15",
+      "Name": "Розница для Таджикистана",
+      "Version": "2.3.3.31",
+      "PublishingDate": "2020-07-14T00:00:00",
+      "PlanVersions": [
+        "2.3.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
