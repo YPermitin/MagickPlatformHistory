@@ -213,10 +213,10 @@
         "5.0.1.2"
       ],
       "PlanReleaseDates": [
-        "2020-11-02T00:00:00"
+        "2020-11-03T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-11-02T00:00:00"
+        "2020-11-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -727,9 +727,15 @@
       "Name": "1С:Медицина. Поликлиника, редакция 3",
       "Version": "3.0.3.5",
       "PublishingDate": "2020-10-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.3.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2309,9 +2315,15 @@
       "Name": "Бухгалтерия строительной организации для Казахстана",
       "Version": "3.0.35.6",
       "PublishingDate": "2020-10-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.35.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
