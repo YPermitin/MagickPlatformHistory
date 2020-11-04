@@ -4,7 +4,7 @@
     "ID": 113,
     "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2020-10-13T11:00:26",
@@ -22,6 +22,17 @@
       "Name": "Бухгалтерия для бюджетных организаций Кыргызстана, ред. 2",
       "Version": "2.0.0.1",
       "PublishingDate": "2020-10-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-04T11:00:13",
+      "Name": "Бухгалтерия для бюджетных организаций Кыргызстана, ред. 2",
+      "Version": "2.0.1.1",
+      "PublishingDate": "2020-11-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
