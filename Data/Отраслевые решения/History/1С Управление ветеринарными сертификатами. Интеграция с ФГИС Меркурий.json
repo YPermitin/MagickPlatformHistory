@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -114,6 +114,23 @@
       ],
       "PlanUpdateDates": [
         "2020-11-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-05T17:00:13",
+      "Name": "1С:Управление ветеринарными сертификатами. Интеграция с ФГИС Меркурий",
+      "Version": "2.0.9.1",
+      "PublishingDate": "2019-07-29T00:00:00",
+      "PlanVersions": [
+        "2.0.10.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-05T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
