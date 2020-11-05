@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 9,
+  "ReleasesCount": 10,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -126,6 +126,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-05T15:30:13",
+      "Name": "1С:Энергетика 2. Учет транспорта электроэнергии",
+      "Version": "2.4.12.91",
+      "PublishingDate": "2020-08-28T00:00:00",
+      "PlanVersions": [
+        "2.4.13.47"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-05T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
