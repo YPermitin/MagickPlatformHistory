@@ -27,17 +27,11 @@
     },
     {
       "Name": "Розница для Таджикистана",
-      "Version": "2.3.3.31",
-      "PublishingDate": "2020-07-14T00:00:00",
-      "PlanVersions": [
-        "2.3.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-03T00:00:00"
-      ],
+      "Version": "2.3.4.33",
+      "PublishingDate": "2020-11-06T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
