@@ -1380,8 +1380,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.5.82"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-06T00:00:00"
+      ]
     },
     {
       "Name": "1С:Управление нашей строительной фирмой",
