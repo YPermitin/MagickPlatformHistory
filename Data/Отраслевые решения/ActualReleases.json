@@ -1107,17 +1107,11 @@
     },
     {
       "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
-      "Version": "2.4.12.109",
-      "PublishingDate": "2020-10-12T00:00:00",
-      "PlanVersions": [
-        "2.4.13.57"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-06T00:00:00"
-      ],
+      "Version": "2.4.13.57",
+      "PublishingDate": "2020-11-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3137,7 +3131,7 @@
         "1.1.6.17"
       ],
       "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
+        "2020-11-12T00:00:00"
       ],
       "PlanUpdateDates": [
         "2020-11-09T00:00:00"
@@ -3430,7 +3424,7 @@
     {
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
       "Version": "2.3.6.17",
-      "PublishingDate": "2020-11-19T00:00:00",
+      "PublishingDate": "2020-11-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
