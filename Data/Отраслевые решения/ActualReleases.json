@@ -213,10 +213,10 @@
         "5.0.1.2"
       ],
       "PlanReleaseDates": [
-        "2020-11-06T00:00:00"
+        "2020-11-09T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-11-05T00:00:00"
+        "2020-11-09T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -299,15 +299,9 @@
       "Name": "1С:Биллинг",
       "Version": "1.1.1.17",
       "PublishingDate": "2020-07-16T00:00:00",
-      "PlanVersions": [
-        "1.1.1.18"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-21T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
