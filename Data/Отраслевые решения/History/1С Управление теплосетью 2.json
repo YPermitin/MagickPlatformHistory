@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 31,
+  "ReleasesCount": 32,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -476,6 +476,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-09T17:30:13",
+      "Name": "1С:Управление теплосетью 2",
+      "Version": "2.2.18.1",
+      "PublishingDate": "2020-10-09T00:00:00",
+      "PlanVersions": [
+        "2.2.19.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
