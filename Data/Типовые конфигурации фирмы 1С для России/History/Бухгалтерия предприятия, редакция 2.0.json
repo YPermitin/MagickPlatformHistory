@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 53,
+  "ReleasesCount": 54,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -595,6 +595,17 @@
       "Name": "Бухгалтерия предприятия, редакция 2.0",
       "Version": "2.0.66.121",
       "PublishingDate": "2020-11-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-10T16:00:12",
+      "Name": "Бухгалтерия предприятия, редакция 2.0",
+      "Version": "2.0.66.122",
+      "PublishingDate": "2020-11-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
