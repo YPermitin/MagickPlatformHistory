@@ -1397,17 +1397,11 @@
     },
     {
       "Name": "1С:Управление тепловодоканалом 2",
-      "Version": "2.2.18.1",
-      "PublishingDate": "2020-10-09T00:00:00",
-      "PlanVersions": [
-        "2.2.19.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-09T00:00:00"
-      ],
+      "Version": "2.2.19.1",
+      "PublishingDate": "2020-11-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
