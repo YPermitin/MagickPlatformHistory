@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 38,
+  "ReleasesCount": 39,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -559,6 +559,17 @@
       "PlanUpdateDates": [
         "2020-11-03T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-10T16:30:11",
+      "Name": "Розница. Книжный магазин, редакция 2.3",
+      "Version": "2.3.6.17",
+      "PublishingDate": "2020-11-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
