@@ -1169,17 +1169,11 @@
     },
     {
       "Name": "1С:Реализация алкогольной продукции. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.4.12.109",
-      "PublishingDate": "2020-10-16T00:00:00",
-      "PlanVersions": [
-        "2.4.13.57"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-06T00:00:00"
-      ],
+      "Version": "2.4.13.57",
+      "PublishingDate": "2020-11-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2847,9 +2841,15 @@
       "Name": "Модуль 1С:Молокозавод для 1С:ERP и 1С:КА2",
       "Version": "2.4.13.47",
       "PublishingDate": "2020-11-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.100"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-10T00:00:00"
+      ],
       "DemoVersions": [
         "2.5.4.102"
       ],
@@ -3091,17 +3091,11 @@
     },
     {
       "Name": "Производственная безопасность. Охрана труда, редакция 1.1",
-      "Version": "1.1.6.6",
-      "PublishingDate": "2020-09-25T00:00:00",
-      "PlanVersions": [
-        "1.1.6.14"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-09T00:00:00"
-      ],
+      "Version": "1.1.6.14",
+      "PublishingDate": "2020-11-10T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
