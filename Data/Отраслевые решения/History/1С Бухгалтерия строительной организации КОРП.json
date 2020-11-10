@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 124,
+  "ReleasesCount": 125,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1658,6 +1658,17 @@
       "Name": "1С:Бухгалтерия строительной организации КОРП",
       "Version": "3.0.84.31",
       "PublishingDate": "2020-10-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-10T22:30:12",
+      "Name": "1С:Бухгалтерия строительной организации КОРП",
+      "Version": "3.0.84.35",
+      "PublishingDate": "2020-11-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
