@@ -1208,7 +1208,7 @@
     {
       "Name": "1С:УНФ 8. Полиграфия 2",
       "Version": "1.6.23.61",
-      "PublishingDate": "2020-11-02T00:00:00",
+      "PublishingDate": "2020-11-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4143,9 +4143,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.13.57",
       "PublishingDate": "2020-10-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.13.58"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
