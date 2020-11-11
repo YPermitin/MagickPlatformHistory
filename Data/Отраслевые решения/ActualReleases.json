@@ -57,17 +57,11 @@
     },
     {
       "Name": "1С:CRM. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "3.0.20.13",
-      "PublishingDate": "2020-10-26T00:00:00",
-      "PlanVersions": [
-        "3.0.20.14"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-10T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-10T00:00:00"
-      ],
+      "Version": "3.0.20.14",
+      "PublishingDate": "2020-11-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
