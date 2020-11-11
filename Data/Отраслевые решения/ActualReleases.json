@@ -993,17 +993,11 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
-      "Version": "2.0.66.121",
-      "PublishingDate": "2020-11-05T00:00:00",
-      "PlanVersions": [
-        "2.0.66.122"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-11T00:00:00"
-      ],
+      "Version": "2.0.66.122",
+      "PublishingDate": "2020-11-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
