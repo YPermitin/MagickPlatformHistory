@@ -115,9 +115,15 @@
       "Name": "1С:ERP Энергетика 2",
       "Version": "2.4.13.47",
       "PublishingDate": "2020-10-28T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.57"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2027,8 +2033,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.120",
-      "PublishingDate": "2020-10-27T00:00:00",
+      "Version": "2.0.66.121",
+      "PublishingDate": "2020-11-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
