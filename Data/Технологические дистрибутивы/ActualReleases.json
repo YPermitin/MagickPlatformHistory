@@ -12,8 +12,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2020.6 RC1"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-11T00:00:00"
+      ]
     },
     {
       "Name": "1C:Исполнитель. Бета-версия",
