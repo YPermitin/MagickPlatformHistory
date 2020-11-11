@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 119,
+  "ReleasesCount": 120,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1636,6 +1636,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-11T15:30:24",
+      "Name": "Бухгалтерия молокозавода, редакция 3.0",
+      "Version": "3.0.84.31",
+      "PublishingDate": "2020-11-02T00:00:00",
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
