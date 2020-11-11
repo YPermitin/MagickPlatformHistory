@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 121,
+  "ReleasesCount": 122,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1613,6 +1613,17 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
       "Version": "3.0.84.31",
       "PublishingDate": "2020-10-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-11T16:30:13",
+      "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
+      "Version": "3.0.84.35",
+      "PublishingDate": "2020-11-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
