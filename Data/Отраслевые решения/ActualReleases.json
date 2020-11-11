@@ -1233,17 +1233,11 @@
     },
     {
       "Name": "1С:Управление ветеринарными сертификатами. Интеграция с ФГИС Меркурий",
-      "Version": "2.0.9.1",
-      "PublishingDate": "2019-07-29T00:00:00",
-      "PlanVersions": [
-        "2.0.10.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-10T00:00:00"
-      ],
+      "Version": "2.0.10.1",
+      "PublishingDate": "2020-11-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1279,17 +1273,11 @@
     },
     {
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
-      "Version": "3.0.81.25",
-      "PublishingDate": "2020-10-07T00:00:00",
-      "PlanVersions": [
-        "3.0.83.33"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-19T00:00:00"
-      ],
+      "Version": "3.0.83.33",
+      "PublishingDate": "2020-11-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2125,9 +2113,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.84.31",
       "PublishingDate": "2020-11-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
