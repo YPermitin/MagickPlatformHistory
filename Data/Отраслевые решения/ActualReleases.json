@@ -885,9 +885,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.120",
       "PublishingDate": "2020-10-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.122"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1317,9 +1323,15 @@
       "Name": "1С:Управление металлургическим комбинатом 2. Модуль для 1С:ERP",
       "Version": "2.4.12.83",
       "PublishingDate": "2020-08-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.12.102"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
