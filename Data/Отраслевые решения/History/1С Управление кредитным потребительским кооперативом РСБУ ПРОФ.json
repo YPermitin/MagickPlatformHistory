@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2019-11-26T21:02:22",
@@ -143,6 +143,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-12T10:30:13",
+      "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
+      "Version": "3.0.83.33",
+      "PublishingDate": "2020-11-11T00:00:00",
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
