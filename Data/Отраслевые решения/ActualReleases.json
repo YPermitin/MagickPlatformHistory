@@ -4027,9 +4027,15 @@
       "Name": "Университет",
       "Version": "2.0.19.10",
       "PublishingDate": "2020-05-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.20.7"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
