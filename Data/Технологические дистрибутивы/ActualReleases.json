@@ -3,7 +3,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 31,
+  "ReleasesCount": 32,
   "Releases": [
     {
       "Name": "1C:Enterprise Development Tools",
@@ -336,6 +336,16 @@
       "DemoPublicationDates": [
         "2011-04-06T00:00:00"
       ]
+    },
+    {
+      "Name": "Утилита лицензирования 1С:Предприятия\" (1C:Enterprise License Tools)",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Фабрика отчетов",
