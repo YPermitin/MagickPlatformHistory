@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 11,
+  "ReleasesCount": 12,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -153,6 +153,23 @@
       "Name": "1С:Мобильная касса (для разработчиков)",
       "Version": "3.6.6.0",
       "PublishingDate": "2020-09-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.5.0",
+        "3.0.22.0"
+      ],
+      "DemoPublicationDates": [
+        "2019-12-25T00:00:00",
+        "2019-09-26T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-11-12T17:00:12",
+      "Name": "1С:Мобильная касса (для разработчиков)",
+      "Version": "3.7.6.0",
+      "PublishingDate": "2020-11-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
