@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "ReleasesHistory": [
     {
       "Created": "2020-09-25T10:00:14",
@@ -438,6 +438,23 @@
       ],
       "PlanUpdateDates": [
         "2020-11-10T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-12T12:30:17",
+      "Name": "1С:WMS Логистика. Управление складом, редакция 5.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [
+        "5.0.1.2"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
