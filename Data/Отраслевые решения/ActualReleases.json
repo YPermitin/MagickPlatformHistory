@@ -1259,9 +1259,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
       "Version": "3.0.83.33",
       "PublishingDate": "2020-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1269,9 +1275,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
       "Version": "3.0.83.33",
       "PublishingDate": "2020-11-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1315,9 +1327,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
       "Version": "3.0.83.33",
       "PublishingDate": "2020-10-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1325,9 +1343,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
       "Version": "3.0.83.33",
       "PublishingDate": "2020-10-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3461,17 +3485,11 @@
     },
     {
       "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
-      "Version": "2.3.5.35",
-      "PublishingDate": "2020-09-15T00:00:00",
-      "PlanVersions": [
-        "2.3.6.17"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-03T00:00:00"
-      ],
+      "Version": "2.3.6.17",
+      "PublishingDate": "2020-11-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
