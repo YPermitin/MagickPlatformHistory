@@ -1457,9 +1457,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.84.3",
       "PublishingDate": "2020-11-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1467,9 +1473,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.84.3",
       "PublishingDate": "2020-11-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
