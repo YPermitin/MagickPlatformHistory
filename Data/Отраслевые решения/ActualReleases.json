@@ -305,9 +305,15 @@
       "Name": "1С:Биллинг",
       "Version": "1.1.1.17",
       "PublishingDate": "2020-07-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.1.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
