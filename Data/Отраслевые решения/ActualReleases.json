@@ -2559,17 +2559,11 @@
     },
     {
       "Name": "Издательство, редакция 1.6",
-      "Version": "1.6.21.114",
-      "PublishingDate": "2020-07-13T00:00:00",
-      "PlanVersions": [
-        "1.6.23.61"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-02T00:00:00"
-      ],
+      "Version": "1.6.23.61",
+      "PublishingDate": "2020-11-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
