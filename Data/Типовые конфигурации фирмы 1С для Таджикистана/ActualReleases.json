@@ -49,9 +49,15 @@
       "Name": "Управление торговлей для Таджикистана",
       "Version": "11.4.9.82",
       "PublishingDate": "2019-12-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.13"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
