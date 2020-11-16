@@ -375,8 +375,8 @@
     },
     {
       "Name": "1С:Бухгалтерия хлебобулочного и кондитерского предприятия",
-      "Version": "3.0.84.31",
-      "PublishingDate": "2020-11-06T00:00:00",
+      "Version": "3.0.84.42",
+      "PublishingDate": "2020-11-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -889,17 +889,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
-      "Version": "2.0.66.120",
-      "PublishingDate": "2020-10-23T00:00:00",
-      "PlanVersions": [
-        "2.0.66.122"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-12T00:00:00"
-      ],
+      "Version": "2.0.66.122",
+      "PublishingDate": "2020-11-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
