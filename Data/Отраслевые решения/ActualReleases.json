@@ -9,9 +9,15 @@
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
       "Version": "1.0.2.1",
       "PublishingDate": "2020-10-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.0.3.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-16T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
