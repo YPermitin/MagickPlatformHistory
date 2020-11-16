@@ -340,9 +340,9 @@
       ]
     },
     {
-      "Name": "Утилита лицензирования 1С:Предприятия\" (1C:Enterprise License Tools)",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
+      "Name": "Утилита лицензирования 1С:Предприятия (1C:Enterprise License Tools)",
+      "Version": "0.15.0.2",
+      "PublishingDate": "2020-11-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
