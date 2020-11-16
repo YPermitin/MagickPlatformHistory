@@ -1,16 +1,27 @@
 {
-  "Name": "Утилита лицензирования 1С:Предприятия\" (1C:Enterprise License Tools)",
+  "Name": "Утилита лицензирования 1С:Предприятия (1C:Enterprise License Tools)",
   "Category": {
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2020-11-12T20:00:12",
       "Name": "Утилита лицензирования 1С:Предприятия\" (1C:Enterprise License Tools)",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-16T19:30:13",
+      "Name": "Утилита лицензирования 1С:Предприятия (1C:Enterprise License Tools)",
+      "Version": "0.15.0.2",
+      "PublishingDate": "2020-11-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
