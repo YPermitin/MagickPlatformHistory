@@ -3269,17 +3269,11 @@
     },
     {
       "Name": "Розница. Аптека, редакция 2.3",
-      "Version": "2.3.5.36",
-      "PublishingDate": "2020-10-23T00:00:00",
-      "PlanVersions": [
-        "2.3.6.17"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-10T00:00:00"
-      ],
+      "Version": "2.3.6.17",
+      "PublishingDate": "2020-11-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
