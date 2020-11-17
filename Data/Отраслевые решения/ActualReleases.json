@@ -267,17 +267,11 @@
     },
     {
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
-      "Version": "3.0.45.67",
-      "PublishingDate": "2020-10-22T00:00:00",
-      "PlanVersions": [
-        "3.0.45.68"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-18T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-16T00:00:00"
-      ],
+      "Version": "3.0.45.68",
+      "PublishingDate": "2020-11-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2128,7 +2122,7 @@
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
       "Version": "3.0.84.35",
-      "PublishingDate": "2020-11-06T00:00:00",
+      "PublishingDate": "2020-11-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2265,9 +2259,15 @@
       "Name": "Бухгалтерия строительной организации для Казахстана",
       "Version": "3.0.35.8",
       "PublishingDate": "2020-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.35.9"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
