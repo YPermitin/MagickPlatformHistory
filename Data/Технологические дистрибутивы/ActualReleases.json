@@ -119,8 +119,8 @@
     },
     {
       "Name": "1С:Сценарное тестирование 8",
-      "Version": "3.0.22.3",
-      "PublishingDate": "2020-08-05T00:00:00",
+      "Version": "3.0.23.1",
+      "PublishingDate": "2020-11-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -306,14 +306,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "8.3.17.1846",
-        "8.3.16.1810"
-      ],
-      "DemoPublicationDates": [
-        "2020-11-13T00:00:00",
-        "2020-11-13T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Технологическая платформа 8.3 (учебная версия)",
