@@ -3587,17 +3587,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.5.35",
-      "PublishingDate": "2020-09-17T00:00:00",
-      "PlanVersions": [
-        "2.3.6.17"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-03T00:00:00"
-      ],
+      "Version": "2.3.6.17",
+      "PublishingDate": "2020-11-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
