@@ -85,9 +85,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.13.57",
       "PublishingDate": "2020-10-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1227,9 +1233,15 @@
       "Name": "1С:Управление водоканалом 2",
       "Version": "2.2.19.1",
       "PublishingDate": "2020-11-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.20.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1381,9 +1393,15 @@
       "Name": "1С:Управление тепловодоканалом 2",
       "Version": "2.2.19.1",
       "PublishingDate": "2020-11-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.20.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1391,9 +1409,15 @@
       "Name": "1С:Управление теплосетью 2",
       "Version": "2.2.19.1",
       "PublishingDate": "2020-11-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.20.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
