@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 23,
+  "ReleasesCount": 24,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -319,6 +319,17 @@
       "Name": "Модуль 1С:Аренда и управление недвижимостью для 1С:ERP, редакция 2.4",
       "Version": "2.4.13.47",
       "PublishingDate": "2020-10-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-18T13:30:13",
+      "Name": "Модуль 1С:Аренда и управление недвижимостью для 1С:ERP, редакция 2.4",
+      "Version": "2.4.13.71",
+      "PublishingDate": "2020-11-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
