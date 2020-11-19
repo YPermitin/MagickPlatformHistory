@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 14,
+  "ReleasesCount": 15,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -211,6 +211,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-19T16:00:16",
+      "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
+      "Version": "2.0.2.1",
+      "PublishingDate": "2019-10-01T00:00:00",
+      "PlanVersions": [
+        "2.1.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-19T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
