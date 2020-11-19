@@ -1131,17 +1131,13 @@
     },
     {
       "Name": "Розница, редакция 2.3",
-      "Version": "2.3.6.17",
-      "PublishingDate": "2020-10-13T00:00:00",
+      "Version": "2.3.6.25",
+      "PublishingDate": "2020-11-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.3.6.25"
-      ],
-      "DemoPublicationDates": [
-        "2020-11-18T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Свод отчетов ПРОФ, редакция 3.2",
