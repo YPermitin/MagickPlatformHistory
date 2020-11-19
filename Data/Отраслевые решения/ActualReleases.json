@@ -395,8 +395,8 @@
     },
     {
       "Name": "1С:Бухгалтерский и управленческий учет дорожно-строительной организации ПРОФ",
-      "Version": "3.0.84.31",
-      "PublishingDate": "2020-11-11T00:00:00",
+      "Version": "3.0.84.42",
+      "PublishingDate": "2020-11-19T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1307,15 +1307,9 @@
       "Name": "1С:Управление лизинговой компанией. Расширение для 1С:ERP",
       "Version": "1.0.1.2",
       "PublishingDate": "2020-07-28T00:00:00",
-      "PlanVersions": [
-        "1.0.2.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-10-28T00:00:00"
-      ],
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
