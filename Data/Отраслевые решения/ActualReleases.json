@@ -857,9 +857,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.84.35",
       "PublishingDate": "2020-11-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.46"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-20T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -901,9 +907,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.84.35",
       "PublishingDate": "2020-11-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.46"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-20T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1237,9 +1249,15 @@
       "Name": "1С:УНФ 8. Управление предприятием общепита",
       "Version": "1.6.23.61",
       "PublishingDate": "2020-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.23.75"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-25T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
