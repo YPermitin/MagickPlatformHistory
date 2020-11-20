@@ -4,7 +4,7 @@
     "ID": 912,
     "Name": "Типовые конфигурации фирмы \"1С\" для Таджикистана"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2019-11-26T21:02:22",
@@ -42,6 +42,17 @@
       "PlanUpdateDates": [
         "2020-11-15T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-20T13:00:12",
+      "Name": "Управление торговлей для Таджикистана",
+      "Version": "11.4.13.71",
+      "PublishingDate": "2020-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
