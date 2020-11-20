@@ -83,17 +83,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.13.57",
-      "PublishingDate": "2020-10-23T00:00:00",
-      "PlanVersions": [
-        "2.4.13.71"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-18T00:00:00"
-      ],
+      "Version": "2.4.13.71",
+      "PublishingDate": "2020-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4445,17 +4439,11 @@
     },
     {
       "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
-      "Version": "2.0.2.1",
-      "PublishingDate": "2019-10-01T00:00:00",
-      "PlanVersions": [
-        "2.1.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-19T00:00:00"
-      ],
+      "Version": "2.1.1.1",
+      "PublishingDate": "2020-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
