@@ -919,9 +919,15 @@
       "Name": "1С:Общий центр обслуживания. Централизованная бухгалтерия ПРОФ",
       "Version": "1.5.3.2",
       "PublishingDate": "2020-10-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.5.4.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-20T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2333,17 +2339,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.84.31",
-      "PublishingDate": "2020-11-03T00:00:00",
-      "PlanVersions": [
-        "3.0.84.46"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-18T00:00:00"
-      ],
+      "Version": "3.0.84.46",
+      "PublishingDate": "2020-11-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
