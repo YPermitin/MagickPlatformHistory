@@ -1508,17 +1508,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
-      "Version": "3.0.84.3",
-      "PublishingDate": "2020-11-13T00:00:00",
-      "PlanVersions": [
-        "3.0.84.4"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-13T00:00:00"
-      ],
+      "Version": "3.0.84.5",
+      "PublishingDate": "2020-11-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2320,9 +2314,15 @@
       "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
       "Version": "3.0.83.33",
       "PublishingDate": "2020-10-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.84.35"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-27T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
