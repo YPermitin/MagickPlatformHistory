@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 40,
+  "ReleasesCount": 41,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -587,6 +587,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-23T10:30:13",
+      "Name": "Розница. Магазин строительных и отделочных материалов, редакция 2.3",
+      "Version": "2.3.6.17",
+      "PublishingDate": "2020-11-11T00:00:00",
+      "PlanVersions": [
+        "2.3.6.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
