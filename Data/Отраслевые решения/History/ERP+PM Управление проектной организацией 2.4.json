@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 68,
+  "ReleasesCount": 69,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -814,6 +814,17 @@
       "Name": "ERP+PM Управление проектной организацией 2.4",
       "Version": "2.4.13.57",
       "PublishingDate": "2020-10-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-23T19:00:11",
+      "Name": "ERP+PM Управление проектной организацией 2.4",
+      "Version": "2.4.13.71",
+      "PublishingDate": "2020-11-23T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
