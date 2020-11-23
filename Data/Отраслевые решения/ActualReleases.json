@@ -619,9 +619,15 @@
       "Name": "1С:Медицина. Больница, редакция 2",
       "Version": "2.0.3.6",
       "PublishingDate": "2020-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.3.7"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
