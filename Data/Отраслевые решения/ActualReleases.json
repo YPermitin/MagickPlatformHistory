@@ -740,16 +740,13 @@
       "Version": "3.0.3.6",
       "PublishingDate": "2020-11-03T00:00:00",
       "PlanVersions": [
-        "3.0.3.7",
-        "3.0.4"
+        "3.0.3.7"
       ],
       "PlanReleaseDates": [
-        "2020-11-23T00:00:00",
-        "2020-11-20T00:00:00"
+        "2020-11-23T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-11-23T00:00:00",
-        "2020-11-18T00:00:00"
+        "2020-11-23T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2012,9 +2009,15 @@
       "Name": "Автосервис, редакция 1.6",
       "Version": "1.6.23.61",
       "PublishingDate": "2020-11-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.23.86"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
