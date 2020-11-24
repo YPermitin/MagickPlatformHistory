@@ -771,7 +771,7 @@
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-10-19T00:00:00",
+        "2020-11-24T00:00:00",
         "2020-11-23T00:00:00"
       ],
       "DemoVersions": [
@@ -839,7 +839,7 @@
       ],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [
-        "2020-10-19T00:00:00",
+        "2020-11-24T00:00:00",
         "2020-11-23T00:00:00"
       ],
       "DemoVersions": [
@@ -1256,7 +1256,7 @@
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
       "Version": "1.6.23.86",
-      "PublishingDate": "2020-11-18T00:00:00",
+      "PublishingDate": "2020-11-20T00:00:00",
       "PlanVersions": [
         "1.6.24"
       ],
