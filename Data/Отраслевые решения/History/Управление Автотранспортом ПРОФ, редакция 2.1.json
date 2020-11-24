@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 25,
+  "ReleasesCount": 26,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -356,6 +356,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-24T15:30:12",
+      "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
+      "Version": "2.2.13.1",
+      "PublishingDate": "2020-09-25T00:00:00",
+      "PlanVersions": [
+        "2.2.14.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-11-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
