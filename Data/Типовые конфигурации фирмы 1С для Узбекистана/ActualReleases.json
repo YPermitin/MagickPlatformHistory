@@ -9,9 +9,15 @@
       "Name": "Бухгалтерия для Узбекистана",
       "Version": "2.0.10.1",
       "PublishingDate": "2020-10-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.11"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-24T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.1.1",
         "3.0.0.3"
@@ -25,9 +31,15 @@
       "Name": "Бухгалтерия для Узбекистана, редакция 3.0",
       "Version": "3.0.16.1",
       "PublishingDate": "2020-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.17"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-24T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
