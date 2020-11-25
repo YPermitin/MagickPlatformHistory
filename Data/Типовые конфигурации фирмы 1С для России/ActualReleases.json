@@ -570,8 +570,12 @@
       "PlanUpdateDates": [
         "2020-11-18T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.85.25"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-25T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
