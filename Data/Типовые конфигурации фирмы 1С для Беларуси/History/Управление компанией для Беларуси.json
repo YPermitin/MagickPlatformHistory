@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 23,
+  "ReleasesCount": 24,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -271,6 +271,17 @@
       "Name": "Управление компанией для Беларуси",
       "Version": "1.6.20.1",
       "PublishingDate": "2020-09-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-27T00:30:11",
+      "Name": "Управление компанией для Беларуси",
+      "Version": "1.6.20.3",
+      "PublishingDate": "2020-11-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
