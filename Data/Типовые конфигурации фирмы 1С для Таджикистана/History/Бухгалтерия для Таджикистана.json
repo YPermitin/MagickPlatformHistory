@@ -4,7 +4,7 @@
     "ID": 912,
     "Name": "Типовые конфигурации фирмы \"1С\" для Таджикистана"
   },
-  "ReleasesCount": 6,
+  "ReleasesCount": 7,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:43",
@@ -81,6 +81,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-11-26T17:00:12",
+      "Name": "Бухгалтерия для Таджикистана",
+      "Version": "3.0.13.7",
+      "PublishingDate": "2020-07-07T00:00:00",
+      "PlanVersions": [
+        "3.0.14"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
