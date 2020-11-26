@@ -9,9 +9,15 @@
       "Name": "Бухгалтерия для Таджикистана",
       "Version": "3.0.13.7",
       "PublishingDate": "2020-07-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.14"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-11-26T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
