@@ -13,10 +13,10 @@
         "1.0.3.1"
       ],
       "PlanReleaseDates": [
-        "2020-11-24T00:00:00"
+        "2020-11-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-11-16T00:00:00"
+        "2020-11-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -819,8 +819,8 @@
     },
     {
       "Name": "1С:Музей",
-      "Version": "1.0.13.5",
-      "PublishingDate": "2020-09-29T00:00:00",
+      "Version": "1.0.13.7",
+      "PublishingDate": "2020-11-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1321,10 +1321,10 @@
         "2.4.13.51"
       ],
       "PlanReleaseDates": [
-        "2020-11-25T00:00:00"
+        "2020-11-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-11-20T00:00:00"
+        "2020-11-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
