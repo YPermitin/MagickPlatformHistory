@@ -4057,17 +4057,11 @@
     },
     {
       "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
-      "Version": "2.2.13.1",
-      "PublishingDate": "2020-09-25T00:00:00",
-      "PlanVersions": [
-        "2.2.14.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-24T00:00:00"
-      ],
+      "Version": "2.2.14.1",
+      "PublishingDate": "2020-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
