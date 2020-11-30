@@ -7,17 +7,11 @@
   "Releases": [
     {
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
-      "Version": "1.0.2.1",
-      "PublishingDate": "2020-10-16T00:00:00",
-      "PlanVersions": [
-        "1.0.3.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-30T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-27T00:00:00"
-      ],
+      "Version": "1.0.3.1",
+      "PublishingDate": "2020-11-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -718,8 +712,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.4.1"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-30T00:00:00"
+      ]
     },
     {
       "Name": "1С:Медицина. Регион",
@@ -2273,17 +2271,11 @@
     },
     {
       "Name": "Бухгалтерия страховой компании 8 КОРП. Редакция 3.0",
-      "Version": "3.0.83.33",
-      "PublishingDate": "2020-10-30T00:00:00",
-      "PlanVersions": [
-        "3.0.84.35"
-      ],
-      "PlanReleaseDates": [
-        "2020-11-27T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-23T00:00:00"
-      ],
+      "Version": "3.0.84.35",
+      "PublishingDate": "2020-11-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
