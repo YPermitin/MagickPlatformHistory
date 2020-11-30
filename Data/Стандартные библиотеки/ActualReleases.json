@@ -171,8 +171,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.4.80"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-30T00:00:00"
+      ]
     },
     {
       "Name": "1С:Библиотека технологии сервиса, редакция 1.1",
