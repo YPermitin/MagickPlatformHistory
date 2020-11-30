@@ -328,8 +328,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.4.4.77"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-30T00:00:00"
+      ]
     },
     {
       "Name": "Управление торговым предприятием для Казахстана",
