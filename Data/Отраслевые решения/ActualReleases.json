@@ -3907,9 +3907,15 @@
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
       "Version": "2.0.34.1",
       "PublishingDate": "2020-10-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.35.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
