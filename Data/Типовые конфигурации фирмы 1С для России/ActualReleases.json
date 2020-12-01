@@ -787,8 +787,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом базовая, редакция 3",
-      "Version": "3.1.15.137",
-      "PublishingDate": "2020-11-24T00:00:00",
+      "Version": "3.1.15.139",
+      "PublishingDate": "2020-12-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1257,8 +1257,8 @@
     },
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
-      "Version": "1.6.23.86",
-      "PublishingDate": "2020-11-20T00:00:00",
+      "Version": "1.6.23.96",
+      "PublishingDate": "2020-12-01T00:00:00",
       "PlanVersions": [
         "1.6.24"
       ],
@@ -1268,12 +1268,8 @@
       "PlanUpdateDates": [
         "2020-10-28T00:00:00"
       ],
-      "DemoVersions": [
-        "1.6.23.96"
-      ],
-      "DemoPublicationDates": [
-        "2020-11-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.2",
