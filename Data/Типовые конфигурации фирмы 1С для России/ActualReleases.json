@@ -39,9 +39,15 @@
       "Name": "1С:ERP Управление предприятием 2",
       "Version": "2.5.5.94",
       "PublishingDate": "2020-11-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.5.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-02T00:00:00"
+      ],
       "DemoVersions": [
         "2.5.6.52",
         "2.5.5.77",
