@@ -49,8 +49,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5",
-      "Version": "5.5.49.2",
-      "PublishingDate": "2020-11-27T00:00:00",
+      "Version": "5.5.49.3",
+      "PublishingDate": "2020-12-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -59,8 +59,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
-      "Version": "5.5.49.2",
-      "PublishingDate": "2020-11-27T00:00:00",
+      "Version": "5.5.49.3",
+      "PublishingDate": "2020-12-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -459,8 +459,8 @@
     },
     {
       "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
-      "Version": "3.5.85.2",
-      "PublishingDate": "2020-11-30T00:00:00",
+      "Version": "3.5.85.3",
+      "PublishingDate": "2020-12-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
