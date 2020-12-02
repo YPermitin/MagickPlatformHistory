@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 78,
+  "ReleasesCount": 79,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1089,6 +1089,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-02T14:00:15",
+      "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
+      "Version": "11.4.13.57",
+      "PublishingDate": "2020-11-17T00:00:00",
+      "PlanVersions": [
+        "11.4.13.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
