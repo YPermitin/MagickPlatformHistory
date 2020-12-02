@@ -901,9 +901,15 @@
       "Name": "1С:Общепит, редакция 2.0",
       "Version": "2.0.66.122",
       "PublishingDate": "2020-11-16T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.66.123"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
