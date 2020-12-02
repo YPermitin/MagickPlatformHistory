@@ -855,9 +855,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.84.46",
       "PublishingDate": "2020-11-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.85.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-02T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -899,9 +905,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.84.46",
       "PublishingDate": "2020-11-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.85.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-02T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -1732,9 +1744,15 @@
       "Name": "CRM, редакция 3.0",
       "Version": "3.0.21.4",
       "PublishingDate": "2020-11-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.21.5"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
