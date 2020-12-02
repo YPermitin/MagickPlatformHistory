@@ -1343,9 +1343,15 @@
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
       "Version": "3.0.84.35",
       "PublishingDate": "2020-11-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.85.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-02T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2210,7 +2216,7 @@
     {
       "Name": "Бухгалтерия птицефабрики, редакция 3.0",
       "Version": "3.0.84.46",
-      "PublishingDate": "2020-11-19T00:00:00",
+      "PublishingDate": "2020-12-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
