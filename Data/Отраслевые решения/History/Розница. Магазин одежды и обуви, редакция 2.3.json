@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 37,
+  "ReleasesCount": 38,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -536,6 +536,17 @@
       "PlanUpdateDates": [
         "2020-11-23T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-03T10:30:15",
+      "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
+      "Version": "2.3.6.25",
+      "PublishingDate": "2020-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
