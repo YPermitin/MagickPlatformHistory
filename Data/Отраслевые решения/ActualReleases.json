@@ -553,17 +553,11 @@
     },
     {
       "Name": "1С:Ломбард КОРП",
-      "Version": "3.0.84.46",
-      "PublishingDate": "2020-11-26T00:00:00",
-      "PlanVersions": [
-        "3.0.85.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-01T00:00:00"
-      ],
+      "Version": "3.0.85.25",
+      "PublishingDate": "2020-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1355,10 +1349,10 @@
         "2.4.13.51"
       ],
       "PlanReleaseDates": [
-        "2020-11-30T00:00:00"
+        "2020-12-04T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-11-27T00:00:00"
+        "2020-12-03T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2392,8 +2386,8 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 2.0",
-      "Version": "2.0.66.122",
-      "PublishingDate": "2020-11-13T00:00:00",
+      "Version": "2.0.66.124",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
