@@ -2889,9 +2889,15 @@
       "Name": "Модуль 1С:Управление автотранспортом для 1С:ERP",
       "Version": "2.0.20.1",
       "PublishingDate": "2020-10-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.21.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-09T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4463,17 +4469,11 @@
     },
     {
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
-      "Version": "11.4.13.57",
-      "PublishingDate": "2020-11-17T00:00:00",
-      "PlanVersions": [
-        "11.4.13.71"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-02T00:00:00"
-      ],
+      "Version": "11.4.13.71",
+      "PublishingDate": "2020-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
