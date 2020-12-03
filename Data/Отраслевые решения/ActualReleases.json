@@ -1754,8 +1754,8 @@
     },
     {
       "Name": "CRM, редакция 3.0",
-      "Version": "3.0.21.4",
-      "PublishingDate": "2020-11-17T00:00:00",
+      "Version": "3.0.21.5",
+      "PublishingDate": "2020-12-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3222,17 +3222,11 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
-      "Version": "3.0.83.25",
-      "PublishingDate": "2020-10-16T00:00:00",
-      "PlanVersions": [
-        "3.0.84.31"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-03T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-03T00:00:00"
-      ],
+      "Version": "3.0.84.31",
+      "PublishingDate": "2020-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
