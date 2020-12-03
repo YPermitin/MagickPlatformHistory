@@ -211,12 +211,10 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "8.3.18.47",
-        "8.3.18.41"
+        "8.3.18.47"
       ],
       "DemoPublicationDates": [
-        "2020-12-02T00:00:00",
-        "2020-10-20T00:00:00"
+        "2020-12-02T00:00:00"
       ]
     },
     {
