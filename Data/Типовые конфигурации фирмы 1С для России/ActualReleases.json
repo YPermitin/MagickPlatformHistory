@@ -739,8 +739,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения базовая, редакция 3",
-      "Version": "3.1.15.139",
-      "PublishingDate": "2020-12-01T00:00:00",
+      "Version": "3.1.14.334",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -755,8 +755,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
-      "Version": "3.1.15.139",
-      "PublishingDate": "2020-12-01T00:00:00",
+      "Version": "3.1.14.334",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -771,8 +771,8 @@
     },
     {
       "Name": "Зарплата и кадры государственного учреждения, редакция 3",
-      "Version": "3.1.15.139",
-      "PublishingDate": "2020-12-01T00:00:00",
+      "Version": "3.1.14.334",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [
         "3.1.16.",
         "3.1.14."
@@ -793,8 +793,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом базовая, редакция 3",
-      "Version": "3.1.15.139",
-      "PublishingDate": "2020-12-01T00:00:00",
+      "Version": "3.1.14.334",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -823,8 +823,8 @@
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 3",
-      "Version": "3.1.15.139",
-      "PublishingDate": "2020-12-01T00:00:00",
+      "Version": "3.1.14.334",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -839,8 +839,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом, редакция 3",
-      "Version": "3.1.15.139",
-      "PublishingDate": "2020-12-01T00:00:00",
+      "Version": "3.1.14.334",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [
         "3.1.16.",
         "3.1.14."
