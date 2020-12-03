@@ -2919,9 +2919,15 @@
       "Name": "Молокозавод, редакция 1.3",
       "Version": "1.3.149.1",
       "PublishingDate": "2020-11-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.150.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3951,9 +3957,15 @@
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования, редакция 1.3",
       "Version": "1.3.148.1",
       "PublishingDate": "2020-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.150.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4327,9 +4339,15 @@
       "Name": "Управление ремонтным предприятием, редакция 1.3",
       "Version": "1.3.148.1",
       "PublishingDate": "2020-11-05T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.150.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-07T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-03T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
