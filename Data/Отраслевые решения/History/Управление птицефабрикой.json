@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 140,
+  "ReleasesCount": 141,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -2131,6 +2131,17 @@
       "PlanUpdateDates": [
         "2020-11-30T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-03T23:00:12",
+      "Name": "Управление птицефабрикой",
+      "Version": "1.3.150.1",
+      "PublishingDate": "2020-12-03T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
