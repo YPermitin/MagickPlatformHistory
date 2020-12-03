@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 71,
+  "ReleasesCount": 72,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -925,6 +925,17 @@
       "Name": "Управление ритуальными услугами, редакция 1.6",
       "Version": "1.6.23.86",
       "PublishingDate": "2020-11-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-03T15:30:11",
+      "Name": "Управление ритуальными услугами, редакция 1.6",
+      "Version": "1.6.23.96",
+      "PublishingDate": "2020-12-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
