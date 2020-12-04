@@ -3335,17 +3335,11 @@
     },
     {
       "Name": "Розница. Аптека, редакция 2.3",
-      "Version": "2.3.6.17",
-      "PublishingDate": "2020-11-16T00:00:00",
-      "PlanVersions": [
-        "2.3.6.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-23T00:00:00"
-      ],
+      "Version": "2.3.6.25",
+      "PublishingDate": "2020-12-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4473,8 +4467,8 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 1",
-      "Version": "1.1.68.1",
-      "PublishingDate": "2020-09-07T00:00:00",
+      "Version": "1.1.68.3",
+      "PublishingDate": "2020-12-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
