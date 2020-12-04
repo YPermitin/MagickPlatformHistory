@@ -3441,17 +3441,11 @@
     },
     {
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
-      "Version": "2.3.6.17",
-      "PublishingDate": "2020-11-09T00:00:00",
-      "PlanVersions": [
-        "2.3.6.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-07T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-23T00:00:00"
-      ],
+      "Version": "2.3.6.25",
+      "PublishingDate": "2020-12-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
