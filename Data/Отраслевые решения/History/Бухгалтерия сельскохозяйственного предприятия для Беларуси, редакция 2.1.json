@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 25,
+  "ReleasesCount": 26,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -349,6 +349,23 @@
       ],
       "PlanUpdateDates": [
         "2020-11-27T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-04T14:00:11",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 2.1",
+      "Version": "2.1.33.6",
+      "PublishingDate": "2020-06-22T00:00:00",
+      "PlanVersions": [
+        "2.1.34.7"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-04T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
