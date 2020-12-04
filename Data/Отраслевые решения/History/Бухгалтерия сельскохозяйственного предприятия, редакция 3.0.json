@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 105,
+  "ReleasesCount": 106,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1575,6 +1575,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-04T18:00:12",
+      "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
+      "Version": "3.0.84.46",
+      "PublishingDate": "2020-11-25T00:00:00",
+      "PlanVersions": [
+        "3.0.85.25"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-04T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
