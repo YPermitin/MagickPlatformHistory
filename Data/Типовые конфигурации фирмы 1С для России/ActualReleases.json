@@ -769,10 +769,12 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.1.16.77",
         "3.1.16.47",
         "3.1.16.16"
       ],
       "DemoPublicationDates": [
+        "2020-12-05T00:00:00",
         "2020-11-17T00:00:00",
         "2020-10-27T00:00:00"
       ]
@@ -823,10 +825,12 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.1.16.77",
         "3.1.16.47",
         "3.1.16.16"
       ],
       "DemoPublicationDates": [
+        "2020-12-05T00:00:00",
         "2020-11-17T00:00:00",
         "2020-10-27T00:00:00"
       ]
