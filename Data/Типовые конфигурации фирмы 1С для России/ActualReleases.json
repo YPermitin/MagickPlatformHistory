@@ -514,8 +514,12 @@
       "PlanUpdateDates": [
         "2020-12-02T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.86.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-05T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -538,8 +542,12 @@
       "PlanUpdateDates": [
         "2020-12-02T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.86.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-05T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -562,8 +570,12 @@
       "PlanUpdateDates": [
         "2020-12-02T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.86.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-05T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -586,8 +598,12 @@
       "PlanUpdateDates": [
         "2020-12-02T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.86.16"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-05T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
