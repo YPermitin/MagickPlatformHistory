@@ -121,9 +121,15 @@
       "Name": "Розница для Беларуси, редакция 2",
       "Version": "2.3.5.32",
       "PublishingDate": "2020-10-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.6"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-07T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
