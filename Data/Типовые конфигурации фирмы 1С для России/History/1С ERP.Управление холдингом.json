@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 20,
+  "ReleasesCount": 21,
   "ReleasesHistory": [
     {
       "Created": "2019-09-30T19:02:21",
@@ -228,6 +228,23 @@
       "Name": "1С:ERP.Управление холдингом",
       "Version": "3.0.4.4",
       "PublishingDate": "2020-10-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "3.1.1.60",
+        "3.1.1.47"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-27T00:00:00",
+        "2020-09-25T00:00:00"
+      ]
+    },
+    {
+      "Created": "2020-12-08T02:00:12",
+      "Name": "1С:ERP.Управление холдингом",
+      "Version": "3.0.4.6",
+      "PublishingDate": "2020-12-08T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
