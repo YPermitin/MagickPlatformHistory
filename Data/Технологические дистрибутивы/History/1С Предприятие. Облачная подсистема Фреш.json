@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2019-11-29T12:02:27",
@@ -77,6 +77,17 @@
       "Name": "1С:Предприятие. Облачная подсистема Фреш",
       "Version": "1.0.31.1",
       "PublishingDate": "2020-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-08T18:00:12",
+      "Name": "1С:Предприятие. Облачная подсистема Фреш",
+      "Version": "1.0.31.2",
+      "PublishingDate": "2020-12-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
