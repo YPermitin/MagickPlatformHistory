@@ -7,24 +7,18 @@
   "Releases": [
     {
       "Name": "Бухгалтерия для Эстонии",
-      "Version": "1.6.29.5",
-      "PublishingDate": "2020-09-23T00:00:00",
-      "PlanVersions": [
-        "1.6.30"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-24T00:00:00"
-      ],
+      "Version": "1.6.30.6",
+      "PublishingDate": "2020-12-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия для Эстонии базовая",
-      "Version": "1.6.29.5",
-      "PublishingDate": "2020-09-23T00:00:00",
+      "Version": "1.6.30.6",
+      "PublishingDate": "2020-12-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
