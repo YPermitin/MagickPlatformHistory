@@ -373,17 +373,13 @@
     },
     {
       "Name": "1С:Электронное обучение. Корпоративный университет",
-      "Version": "3.0.11.132",
-      "PublishingDate": "2020-10-20T00:00:00",
+      "Version": "3.0.11.134",
+      "PublishingDate": "2020-12-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.12.45"
-      ],
-      "DemoPublicationDates": [
-        "2020-10-20T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Электронное обучение. Образовательная организация",
