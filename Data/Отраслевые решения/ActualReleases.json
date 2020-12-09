@@ -79,9 +79,15 @@
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
       "Version": "2.4.13.71",
       "PublishingDate": "2020-11-20T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.85"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1255,19 +1261,16 @@
     },
     {
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
-      "Version": "3.0.83.33",
-      "PublishingDate": "2020-11-06T00:00:00",
+      "Version": "3.0.84.35",
+      "PublishingDate": "2020-12-09T00:00:00",
       "PlanVersions": [
-        "3.0.85.25",
-        "3.0.84.35"
+        "3.0.85.25"
       ],
       "PlanReleaseDates": [
-        "2020-12-28T00:00:00",
-        "2020-12-10T00:00:00"
+        "2020-12-28T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-12-02T00:00:00",
-        "2020-11-12T00:00:00"
+        "2020-12-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3651,9 +3654,15 @@
       "Name": "Салон красоты, редакция 3.0",
       "Version": "3.0.1.170",
       "PublishingDate": "2020-11-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.2.8"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-09T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
