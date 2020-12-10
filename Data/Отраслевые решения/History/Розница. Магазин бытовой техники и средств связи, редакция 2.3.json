@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 39,
+  "ReleasesCount": 40,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -564,6 +564,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-10T16:30:12",
+      "Name": "Розница. Магазин бытовой техники и средств связи, редакция 2.3",
+      "Version": "2.3.6.25",
+      "PublishingDate": "2020-12-03T00:00:00",
+      "PlanVersions": [
+        "2.3.6.27"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-17T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
