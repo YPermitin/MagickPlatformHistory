@@ -245,9 +245,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.13.71",
       "PublishingDate": "2020-11-19T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.85"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-11T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-10T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -886,7 +892,7 @@
     {
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.85.28",
-      "PublishingDate": "2020-12-03T00:00:00",
+      "PublishingDate": "2020-12-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2116,9 +2122,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.85.25",
       "PublishingDate": "2020-12-02T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.85.28"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
