@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 76,
+  "ReleasesCount": 77,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1163,6 +1163,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-10T14:30:13",
+      "Name": "1С:Производство алкогольной продукции. Модуль для 1С:ERP",
+      "Version": "2.4.13.57",
+      "PublishingDate": "2020-11-09T00:00:00",
+      "PlanVersions": [
+        "2.4.13.71"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-10T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
