@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 33,
+  "ReleasesCount": 34,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:21",
@@ -367,6 +367,17 @@
       "Name": "1С:Библиотека интеграции с МДЛП",
       "Version": "1.2.3.1",
       "PublishingDate": "2020-12-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-10T21:30:11",
+      "Name": "1С:Библиотека интеграции с МДЛП",
+      "Version": "1.2.3.2",
+      "PublishingDate": "2020-12-10T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
