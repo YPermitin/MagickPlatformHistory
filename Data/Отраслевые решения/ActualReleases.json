@@ -1095,17 +1095,11 @@
     },
     {
       "Name": "1С:Предприятие 8. Управление сервисным центром, редакция 1.6",
-      "Version": "1.6.23.75",
-      "PublishingDate": "2020-11-24T00:00:00",
-      "PlanVersions": [
-        "1.6.23.96"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-14T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-10T00:00:00"
-      ],
+      "Version": "1.6.23.96",
+      "PublishingDate": "2020-12-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
