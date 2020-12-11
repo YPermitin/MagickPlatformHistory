@@ -1,0 +1,21 @@
+{
+  "Name": "Интеллект Инфо: Образовательные программы. Расширение к 1С:Университет ПРОФ",
+  "Category": {
+    "ID": 420,
+    "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-12-11T11:30:16",
+      "Name": "Интеллект Инфо: Образовательные программы. Расширение к 1С:Университет ПРОФ",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    }
+  ]
+}
