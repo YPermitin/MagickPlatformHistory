@@ -77,17 +77,11 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.13.71",
-      "PublishingDate": "2020-11-20T00:00:00",
-      "PlanVersions": [
-        "2.4.13.85"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-09T00:00:00"
-      ],
+      "Version": "2.4.13.85",
+      "PublishingDate": "2020-12-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -604,8 +598,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.0.4.1"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-11T00:00:00"
+      ]
     },
     {
       "Name": "1С:Медицина. Больничная аптека",
