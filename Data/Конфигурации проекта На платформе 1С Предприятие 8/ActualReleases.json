@@ -3,7 +3,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 61,
+  "ReleasesCount": 62,
   "Releases": [
     {
       "Name": "1С-ВЕКТРО: Управляющий турагентства. Базовая версия",
@@ -389,6 +389,16 @@
       "Name": "ИВЦ МОССТРОЙ: Бухгалтерия строительного предприятия",
       "Version": "4.2.46.20",
       "PublishingDate": "2016-04-08T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Интеллект Инфо: Образовательные программы. Расширение к 1С:Университет ПРОФ",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
