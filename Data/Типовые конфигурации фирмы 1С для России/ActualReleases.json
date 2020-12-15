@@ -233,31 +233,23 @@
     },
     {
       "Name": "1С:Садовод",
-      "Version": "3.0.85.2",
-      "PublishingDate": "2020-12-09T00:00:00",
+      "Version": "3.0.86.4",
+      "PublishingDate": "2020-12-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.86.4"
-      ],
-      "DemoPublicationDates": [
-        "2020-12-11T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Садовод (базовая версия)",
-      "Version": "3.0.85.2",
-      "PublishingDate": "2020-12-09T00:00:00",
+      "Version": "3.0.86.4",
+      "PublishingDate": "2020-12-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.86.4"
-      ],
-      "DemoPublicationDates": [
-        "2020-12-11T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1С:Управление предприятием (ERP), 2.0 бета-версия",
@@ -706,8 +698,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.17.18"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-15T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и кадры государственного учреждения КОРП, редакция 3",
@@ -744,8 +740,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.1.17.18"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-15T00:00:00"
+      ]
     },
     {
       "Name": "Зарплата и управление персоналом КОРП, редакция 2.5",
