@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 58,
+  "ReleasesCount": 59,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -878,6 +878,17 @@
       "PlanUpdateDates": [
         "2020-11-30T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-15T11:00:14",
+      "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
+      "Version": "3.0.85.25",
+      "PublishingDate": "2020-12-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
