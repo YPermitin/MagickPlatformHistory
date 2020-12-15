@@ -1247,10 +1247,10 @@
         "1.6.23.96"
       ],
       "PlanReleaseDates": [
-        "2020-12-11T00:00:00"
+        "2020-12-16T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-12-10T00:00:00"
+        "2020-12-15T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1303,19 +1303,16 @@
     },
     {
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
-      "Version": "3.0.83.33",
-      "PublishingDate": "2020-11-11T00:00:00",
+      "Version": "3.0.84.35",
+      "PublishingDate": "2020-12-15T00:00:00",
       "PlanVersions": [
-        "3.0.85.25",
-        "3.0.84.35"
+        "3.0.85.25"
       ],
       "PlanReleaseDates": [
-        "2020-12-30T00:00:00",
-        "2020-12-15T00:00:00"
+        "2020-12-30T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-12-02T00:00:00",
-        "2020-11-12T00:00:00"
+        "2020-12-02T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1996,17 +1993,11 @@
     },
     {
       "Name": "Административно-хозяйственная деятельность банка, редакция 3.0",
-      "Version": "3.0.83.33",
-      "PublishingDate": "2020-10-23T00:00:00",
-      "PlanVersions": [
-        "3.0.85.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-11-30T00:00:00"
-      ],
+      "Version": "3.0.85.25",
+      "PublishingDate": "2020-12-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
