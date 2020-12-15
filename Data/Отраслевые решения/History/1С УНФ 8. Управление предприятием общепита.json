@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 26,
+  "ReleasesCount": 27,
   "ReleasesHistory": [
     {
       "Created": "2020-06-25T19:30:14",
@@ -385,6 +385,17 @@
       "PlanUpdateDates": [
         "2020-12-15T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-15T19:00:11",
+      "Name": "1С:УНФ 8. Управление предприятием общепита",
+      "Version": "1.6.23.96",
+      "PublishingDate": "2020-12-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
