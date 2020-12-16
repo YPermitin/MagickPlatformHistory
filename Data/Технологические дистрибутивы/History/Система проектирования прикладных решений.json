@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -110,6 +110,17 @@
       "DemoPublicationDates": [
         "2018-10-23T00:00:00"
       ]
+    },
+    {
+      "Created": "2020-12-16T15:30:12",
+      "Name": "Система проектирования прикладных решений",
+      "Version": "2.0.1.61",
+      "PublishingDate": "2020-12-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     }
   ]
 }
