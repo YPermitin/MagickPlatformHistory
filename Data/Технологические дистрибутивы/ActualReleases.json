@@ -268,12 +268,8 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2.0.1.35"
-      ],
-      "DemoPublicationDates": [
-        "2018-10-23T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Технологическая платформа 8.0",
