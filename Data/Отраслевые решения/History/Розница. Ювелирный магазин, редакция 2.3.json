@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 48,
+  "ReleasesCount": 49,
   "ReleasesHistory": [
     {
       "Created": "2019-10-22T20:32:23",
@@ -717,6 +717,17 @@
       "PlanUpdateDates": [
         "2020-12-10T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-18T13:30:12",
+      "Name": "Розница. Ювелирный магазин, редакция 2.3",
+      "Version": "2.3.6.27",
+      "PublishingDate": "2020-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
