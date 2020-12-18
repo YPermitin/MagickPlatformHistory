@@ -19,9 +19,15 @@
       "Name": "1С-КАМИН: Зарплата. Версия 5.0",
       "Version": "5.0.69.3",
       "PublishingDate": "2020-12-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "5.0.70"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -29,9 +35,15 @@
       "Name": "1С-КАМИН: Зарплата. Версия 5.0. Базовая версия",
       "Version": "5.0.69.3",
       "PublishingDate": "2020-12-15T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "5.0.70"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
