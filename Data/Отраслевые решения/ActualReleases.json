@@ -845,9 +845,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.85.28",
       "PublishingDate": "2020-12-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.86.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-18T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -889,9 +895,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.85.28",
       "PublishingDate": "2020-12-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.86.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-18T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -993,9 +1005,15 @@
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 3.0",
       "Version": "3.0.86.16",
       "PublishingDate": "2020-12-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.86.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3337,17 +3355,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.3",
-      "Version": "2.3.6.25",
-      "PublishingDate": "2020-11-23T00:00:00",
-      "PlanVersions": [
-        "2.3.6.27"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-10T00:00:00"
-      ],
+      "Version": "2.3.6.27",
+      "PublishingDate": "2020-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3393,17 +3405,11 @@
     },
     {
       "Name": "Розница. Магазин автозапчастей, редакция 2.3",
-      "Version": "2.3.6.25",
-      "PublishingDate": "2020-12-04T00:00:00",
-      "PlanVersions": [
-        "2.3.6.27"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-21T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-10T00:00:00"
-      ],
+      "Version": "2.3.6.27",
+      "PublishingDate": "2020-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
