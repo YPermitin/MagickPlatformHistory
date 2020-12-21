@@ -343,8 +343,8 @@
     },
     {
       "Name": "1С:Электронное обучение. Корпоративный университет",
-      "Version": "3.0.12.62",
-      "PublishingDate": "2020-12-09T00:00:00",
+      "Version": "3.0.11.136",
+      "PublishingDate": "2020-12-21T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -475,9 +475,15 @@
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
       "Version": "3.0.86.19",
       "PublishingDate": "2020-12-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.87.22"
       ],
@@ -499,9 +505,15 @@
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
       "Version": "3.0.86.19",
       "PublishingDate": "2020-12-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.87.22"
       ],
@@ -523,9 +535,15 @@
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
       "Version": "3.0.86.19",
       "PublishingDate": "2020-12-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.87.22"
       ],
@@ -547,9 +565,15 @@
       "Name": "Бухгалтерия предприятия, редакция 3.0",
       "Version": "3.0.86.19",
       "PublishingDate": "2020-12-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-21T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.87.22"
       ],
