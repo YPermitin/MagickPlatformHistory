@@ -1443,9 +1443,15 @@
       "Name": "1С:Управление учебным центром",
       "Version": "2.0.6.1",
       "PublishingDate": "2020-07-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.7.1"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-28T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
