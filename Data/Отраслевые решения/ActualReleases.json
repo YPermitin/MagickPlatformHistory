@@ -3493,17 +3493,11 @@
     },
     {
       "Name": "Розница. Магазин одежды и обуви, редакция 2.3",
-      "Version": "2.3.6.25",
-      "PublishingDate": "2020-12-03T00:00:00",
-      "PlanVersions": [
-        "2.3.6.27"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-17T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-10T00:00:00"
-      ],
+      "Version": "2.3.6.27",
+      "PublishingDate": "2020-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
