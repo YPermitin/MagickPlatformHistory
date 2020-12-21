@@ -1359,17 +1359,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом КОРП",
-      "Version": "3.0.84.35",
-      "PublishingDate": "2020-11-30T00:00:00",
-      "PlanVersions": [
-        "3.0.85.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-17T00:00:00"
-      ],
+      "Version": "3.0.85.25",
+      "PublishingDate": "2020-12-21T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
