@@ -333,9 +333,15 @@
       "Name": "1С:Бухгалтерия СНТ",
       "Version": "3.0.84.3",
       "PublishingDate": "2020-12-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.86.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -343,9 +349,15 @@
       "Name": "1С:Бухгалтерия СНТ. Базовая версия",
       "Version": "3.0.84.3",
       "PublishingDate": "2020-12-01T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.86.4"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-23T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-23T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
