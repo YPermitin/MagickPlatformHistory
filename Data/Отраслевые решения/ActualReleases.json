@@ -1369,17 +1369,11 @@
     },
     {
       "Name": "1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ",
-      "Version": "3.0.84.35",
-      "PublishingDate": "2020-12-03T00:00:00",
-      "PlanVersions": [
-        "3.0.85.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-02T00:00:00"
-      ],
+      "Version": "3.0.85.25",
+      "PublishingDate": "2020-12-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1405,17 +1399,11 @@
     },
     {
       "Name": "1С:Управление недвижимостью и арендой КОРП",
-      "Version": "3.0.85.28",
-      "PublishingDate": "2020-12-10T00:00:00",
-      "PlanVersions": [
-        "3.0.86.19"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-23T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-23T00:00:00"
-      ],
+      "Version": "3.0.86.19",
+      "PublishingDate": "2020-12-23T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
