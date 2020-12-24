@@ -2321,17 +2321,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 3.1",
-      "Version": "3.1.86.19",
-      "PublishingDate": "2020-12-17T00:00:00",
-      "PlanVersions": [
-        "3.1.87.22"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-24T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-24T00:00:00"
-      ],
+      "Version": "3.1.87.22",
+      "PublishingDate": "2020-12-24T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
