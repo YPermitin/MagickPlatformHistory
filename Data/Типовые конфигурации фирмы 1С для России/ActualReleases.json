@@ -437,18 +437,16 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения, редакция 2.0",
-      "Version": "2.0.74.37",
-      "PublishingDate": "2020-12-11T00:00:00",
+      "Version": "2.0.75.34",
+      "PublishingDate": "2020-12-22T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "2.0.75.34",
         "2.0.75.33",
         "2.0.75.29"
       ],
       "DemoPublicationDates": [
-        "2020-12-22T00:00:00",
         "2020-12-19T00:00:00",
         "2020-12-11T00:00:00"
       ]
