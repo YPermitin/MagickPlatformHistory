@@ -845,9 +845,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.86.19",
       "PublishingDate": "2020-12-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.87.22"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-25T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -3909,17 +3915,11 @@
     },
     {
       "Name": "Турагентство Базовая, редакция 1.6",
-      "Version": "1.6.23.61",
-      "PublishingDate": "2020-11-03T00:00:00",
-      "PlanVersions": [
-        "1.6.23.96"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-14T00:00:00"
-      ],
+      "Version": "1.6.23.96",
+      "PublishingDate": "2020-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
