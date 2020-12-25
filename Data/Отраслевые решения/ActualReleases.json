@@ -351,8 +351,8 @@
     },
     {
       "Name": "1С:Бухгалтерия строительной организации КОРП",
-      "Version": "3.0.86.19",
-      "PublishingDate": "2020-12-17T00:00:00",
+      "Version": "3.0.87.22",
+      "PublishingDate": "2020-12-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4057,17 +4057,11 @@
     },
     {
       "Name": "Управление аптечной сетью, редакция 11.4",
-      "Version": "11.4.13.71",
-      "PublishingDate": "2020-11-27T00:00:00",
-      "PlanVersions": [
-        "11.4.13.85"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-25T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-24T00:00:00"
-      ],
+      "Version": "11.4.13.85",
+      "PublishingDate": "2020-12-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
