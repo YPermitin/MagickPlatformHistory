@@ -1291,17 +1291,11 @@
     },
     {
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
-      "Version": "3.0.84.35",
-      "PublishingDate": "2020-12-09T00:00:00",
-      "PlanVersions": [
-        "3.0.85.25"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-02T00:00:00"
-      ],
+      "Version": "3.0.85.25",
+      "PublishingDate": "2020-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
