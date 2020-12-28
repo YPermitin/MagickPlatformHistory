@@ -1,0 +1,25 @@
+{
+  "Name": "1С:Библиотека электронных документов, редакция 1.9",
+  "Category": {
+    "ID": 473,
+    "Name": "Стандартные библиотеки"
+  },
+  "ReleasesCount": 1,
+  "ReleasesHistory": [
+    {
+      "Created": "2020-12-28T19:00:14",
+      "Name": "1С:Библиотека электронных документов, редакция 1.9",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.9.1.7"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-28T00:00:00"
+      ]
+    }
+  ]
+}
