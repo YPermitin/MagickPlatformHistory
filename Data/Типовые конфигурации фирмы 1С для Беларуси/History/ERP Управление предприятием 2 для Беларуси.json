@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 167,
+  "ReleasesCount": 168,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -2644,6 +2644,17 @@
       "PlanUpdateDates": [
         "2020-12-24T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-28T10:30:14",
+      "Name": "ERP Управление предприятием 2 для Беларуси",
+      "Version": "2.4.11.118",
+      "PublishingDate": "2020-12-28T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
