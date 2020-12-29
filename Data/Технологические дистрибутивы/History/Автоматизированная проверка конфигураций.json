@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 17,
+  "ReleasesCount": 18,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -187,6 +187,17 @@
       "Name": "Автоматизированная проверка конфигураций",
       "Version": "1.2.5.48",
       "PublishingDate": "2020-08-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-29T18:00:15",
+      "Name": "Автоматизированная проверка конфигураций",
+      "Version": "1.2.6.20",
+      "PublishingDate": "2020-12-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
