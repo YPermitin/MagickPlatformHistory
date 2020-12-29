@@ -1415,17 +1415,11 @@
     },
     {
       "Name": "1С:Управление учебным центром",
-      "Version": "2.0.6.1",
-      "PublishingDate": "2020-07-31T00:00:00",
-      "PlanVersions": [
-        "2.0.7.1"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-28T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-21T00:00:00"
-      ],
+      "Version": "2.0.7.2",
+      "PublishingDate": "2020-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3041,9 +3035,15 @@
       "Name": "Производственная безопасность. Комплексная, редакция 1.1",
       "Version": "1.1.6.34",
       "PublishingDate": "2020-11-06T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.51"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-31T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
