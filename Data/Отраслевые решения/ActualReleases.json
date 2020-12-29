@@ -2063,17 +2063,11 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.124",
-      "PublishingDate": "2020-12-07T00:00:00",
-      "PlanVersions": [
-        "2.0.66.125"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-29T00:00:00"
-      ],
+      "Version": "2.0.66.125",
+      "PublishingDate": "2020-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3310,7 +3304,7 @@
     {
       "Name": "Розница. Аптека, редакция 2.3",
       "Version": "2.3.6.28",
-      "PublishingDate": "2020-12-28T00:00:00",
+      "PublishingDate": "2020-12-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
