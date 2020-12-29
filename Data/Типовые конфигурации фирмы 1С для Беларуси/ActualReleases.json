@@ -12,8 +12,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.5.82"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-29T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия для Беларуси, редакция 1.6",
