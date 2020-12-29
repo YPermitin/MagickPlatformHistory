@@ -77,8 +77,8 @@
     },
     {
       "Name": "1С:ERP Горнодобывающая промышленность 2, редакция 2.4",
-      "Version": "2.4.13.85",
-      "PublishingDate": "2020-12-11T00:00:00",
+      "Version": "2.4.13.96",
+      "PublishingDate": "2020-12-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -890,8 +890,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.5.82"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-29T00:00:00"
+      ]
     },
     {
       "Name": "1С:Общепит, редакция 2.0",
@@ -2301,8 +2305,8 @@
     },
     {
       "Name": "Бухгалтерия строительной организации, редакция 2.0",
-      "Version": "2.0.66.125",
-      "PublishingDate": "2020-12-24T00:00:00",
+      "Version": "2.0.66.126",
+      "PublishingDate": "2020-12-29T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
