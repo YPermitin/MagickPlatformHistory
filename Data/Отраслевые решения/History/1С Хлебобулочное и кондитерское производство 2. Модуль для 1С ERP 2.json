@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 16,
+  "ReleasesCount": 17,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -199,6 +199,21 @@
       "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
+    },
+    {
+      "Created": "2020-12-29T17:30:15",
+      "Name": "1С:Хлебобулочное и кондитерское производство 2. Модуль для 1С:ERP 2",
+      "Version": "2.4.13.85",
+      "PublishingDate": "2020-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.5.104"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-29T00:00:00"
+      ]
     }
   ]
 }
