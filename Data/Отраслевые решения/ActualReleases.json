@@ -1243,8 +1243,8 @@
     },
     {
       "Name": "1С:УНФ 8. Управление предприятием общепита",
-      "Version": "1.6.23.96",
-      "PublishingDate": "2020-12-15T00:00:00",
+      "Version": "1.6.23.117",
+      "PublishingDate": "2020-12-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1278,8 +1278,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.5.100"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-30T00:00:00"
+      ]
     },
     {
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
@@ -1741,8 +1745,8 @@
     },
     {
       "Name": "ERP English Interface",
-      "Version": "1.3.150.1",
-      "PublishingDate": "2020-12-14T00:00:00",
+      "Version": "1.3.151.1",
+      "PublishingDate": "2020-12-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
