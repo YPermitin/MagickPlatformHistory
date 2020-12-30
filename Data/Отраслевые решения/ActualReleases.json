@@ -1758,8 +1758,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.6.72"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-30T00:00:00"
+      ]
     },
     {
       "Name": "ERP Агропромышленный комплекс 2",
