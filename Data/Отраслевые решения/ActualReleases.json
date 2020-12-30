@@ -1459,19 +1459,16 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.84",
-      "PublishingDate": "2020-12-08T00:00:00",
+      "Version": "2.0.66.85",
+      "PublishingDate": "2020-12-30T00:00:00",
       "PlanVersions": [
-        "3.0.87.1",
-        "2.0.66.85"
+        "3.0.87.1"
       ],
       "PlanReleaseDates": [
-        "2021-01-14T00:00:00",
-        "2020-12-30T00:00:00"
+        "2021-01-14T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2020-12-28T00:00:00",
-        "2020-12-30T00:00:00"
+        "2020-12-28T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3166,9 +3163,15 @@
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ. Базовая версия, редакция 3.0",
       "Version": "3.0.85.28",
       "PublishingDate": "2020-12-23T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.86.19"
+      ],
+      "PlanReleaseDates": [
+        "2020-12-30T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-30T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3184,8 +3187,8 @@
     },
     {
       "Name": "Расчет квартплаты и бухгалтерия ЖКХ, редакция 3.0",
-      "Version": "3.0.85.28",
-      "PublishingDate": "2020-12-23T00:00:00",
+      "Version": "3.0.86.19",
+      "PublishingDate": "2020-12-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
