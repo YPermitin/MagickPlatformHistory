@@ -3041,9 +3041,15 @@
       "Name": "Производственная безопасность. Охрана окружающей среды, редакция 1.1",
       "Version": "1.1.6.7",
       "PublishingDate": "2020-11-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.11"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2020-12-31T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
