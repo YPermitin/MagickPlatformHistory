@@ -834,8 +834,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.6.72"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-31T00:00:00"
+      ]
     },
     {
       "Name": "1С:Общепит КОРП",
@@ -3073,17 +3077,11 @@
     },
     {
       "Name": "Производственная безопасность. Пожарная безопасность, редакция 1.1",
-      "Version": "1.1.6.12",
-      "PublishingDate": "2020-11-12T00:00:00",
-      "PlanVersions": [
-        "1.1.6.19"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-30T00:00:00"
-      ],
+      "Version": "1.1.6.19",
+      "PublishingDate": "2020-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3099,17 +3097,11 @@
     },
     {
       "Name": "Производственная безопасность. Промышленная безопасность, редакция 1.1",
-      "Version": "1.1.6.17",
-      "PublishingDate": "2020-11-12T00:00:00",
-      "PlanVersions": [
-        "1.1.6.24"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-30T00:00:00"
-      ],
+      "Version": "1.1.6.24",
+      "PublishingDate": "2020-12-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
