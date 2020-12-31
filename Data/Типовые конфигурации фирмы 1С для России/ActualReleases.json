@@ -1265,17 +1265,15 @@
       "Name": "Управление производственным предприятием, редакция 1.3",
       "Version": "1.3.151.2",
       "PublishingDate": "2020-12-25T00:00:00",
-      "PlanVersions": [
-        "1.3.152"
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "1.3.152.1"
       ],
-      "PlanReleaseDates": [
+      "DemoPublicationDates": [
         "2020-12-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-28T00:00:00"
-      ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      ]
     },
     {
       "Name": "Управление торговлей базовая, редакция 10.3",
