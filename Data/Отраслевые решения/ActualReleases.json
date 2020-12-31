@@ -1357,8 +1357,8 @@
     },
     {
       "Name": "1С:Управление мукомольным, крупяным, комбикормовым и масложировым производством. Модуль для 1С:ERP и 1С:КА2",
-      "Version": "2.5.6.72",
-      "PublishingDate": "2020-12-28T00:00:00",
+      "Version": "2.4.13.103",
+      "PublishingDate": "2020-12-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1812,8 +1812,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.6.52"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-31T00:00:00"
+      ]
     },
     {
       "Name": "ITIL. Управление информационными технологиями предприятия КОРП",
