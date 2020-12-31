@@ -2603,17 +2603,11 @@
     },
     {
       "Name": "Колледж ПРОФ, редакция 2.0",
-      "Version": "2.0.19.1",
-      "PublishingDate": "2020-11-30T00:00:00",
-      "PlanVersions": [
-        "2.0.20.1"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-28T00:00:00"
-      ],
+      "Version": "2.0.20.1",
+      "PublishingDate": "2020-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3059,17 +3053,11 @@
     },
     {
       "Name": "Производственная безопасность. Охрана труда, редакция 1.1",
-      "Version": "1.1.6.14",
-      "PublishingDate": "2020-11-10T00:00:00",
-      "PlanVersions": [
-        "1.1.6.22"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-11T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-30T00:00:00"
-      ],
+      "Version": "1.1.6.22",
+      "PublishingDate": "2020-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
