@@ -3023,17 +3023,11 @@
     },
     {
       "Name": "Производственная безопасность. Комплексная, редакция 1.1",
-      "Version": "1.1.6.34",
-      "PublishingDate": "2020-11-06T00:00:00",
-      "PlanVersions": [
-        "1.1.6.51"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-29T00:00:00"
-      ],
+      "Version": "1.1.6.51",
+      "PublishingDate": "2020-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3253,8 +3247,8 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.13.85",
-      "PublishingDate": "2020-12-22T00:00:00",
+      "Version": "11.4.13.99",
+      "PublishingDate": "2020-12-31T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
