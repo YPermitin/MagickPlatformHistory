@@ -597,17 +597,11 @@
     },
     {
       "Name": "Элит-строительство. Бухгалтерский учет, редакция 2.3",
-      "Version": "2.3.39.60",
-      "PublishingDate": "2020-12-07T00:00:00",
-      "PlanVersions": [
-        "2.3.39.61"
-      ],
-      "PlanReleaseDates": [
-        "2020-12-31T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-31T00:00:00"
-      ],
+      "Version": "2.3.39.61",
+      "PublishingDate": "2020-12-31T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
