@@ -1293,17 +1293,13 @@
     },
     {
       "Name": "Управление торговлей базовая, редакция 10.3",
-      "Version": "10.3.66.3",
-      "PublishingDate": "2020-11-27T00:00:00",
+      "Version": "10.3.67.1",
+      "PublishingDate": "2020-12-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "10.3.67.1"
-      ],
-      "DemoPublicationDates": [
-        "2020-12-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Управление торговлей базовая, редакция 11",
@@ -1317,17 +1313,13 @@
     },
     {
       "Name": "Управление торговлей, редакция 10.3",
-      "Version": "10.3.66.3",
-      "PublishingDate": "2020-11-27T00:00:00",
+      "Version": "10.3.67.1",
+      "PublishingDate": "2020-12-30T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "10.3.67.1"
-      ],
-      "DemoPublicationDates": [
-        "2020-12-30T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Управление торговлей, редакция 11",
