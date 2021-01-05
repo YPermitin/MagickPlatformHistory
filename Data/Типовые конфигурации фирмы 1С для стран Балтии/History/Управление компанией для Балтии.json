@@ -4,7 +4,7 @@
     "ID": 514,
     "Name": "Типовые конфигурации фирмы \"1С\" для стран Балтии"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:28",
@@ -92,6 +92,17 @@
       "PlanUpdateDates": [
         "2020-12-18T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-05T20:00:16",
+      "Name": "Управление компанией для Балтии",
+      "Version": "1.5.13.12",
+      "PublishingDate": "2021-01-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
