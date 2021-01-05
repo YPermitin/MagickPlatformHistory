@@ -1306,8 +1306,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.5.100"
+      ],
+      "DemoPublicationDates": [
+        "2021-01-05T00:00:00"
+      ]
     },
     {
       "Name": "1С:Управление лизинговой компанией. Расширение для 1С:ERP",
