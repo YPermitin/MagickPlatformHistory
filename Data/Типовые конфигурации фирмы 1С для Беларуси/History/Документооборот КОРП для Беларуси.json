@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -77,6 +77,17 @@
       "Name": "Документооборот КОРП для Беларуси",
       "Version": "2.1.22.8",
       "PublishingDate": "2020-09-04T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-06T13:00:14",
+      "Name": "Документооборот КОРП для Беларуси",
+      "Version": "2.1.26.2",
+      "PublishingDate": "2021-01-06T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
