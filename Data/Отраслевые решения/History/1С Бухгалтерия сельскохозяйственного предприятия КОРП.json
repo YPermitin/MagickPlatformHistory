@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 74,
+  "ReleasesCount": 75,
   "ReleasesHistory": [
     {
       "Created": "2019-10-14T22:32:21",
@@ -1135,6 +1135,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-11T11:00:47",
+      "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
+      "Version": "3.0.87.22",
+      "PublishingDate": "2020-12-30T00:00:00",
+      "PlanVersions": [
+        "3.0.87.28"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
