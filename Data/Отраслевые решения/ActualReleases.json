@@ -3,7 +3,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 463,
+  "ReleasesCount": 464,
   "Releases": [
     {
       "Name": "1C:PDM Управление инженерными данными 4 (PLM)",
@@ -955,6 +955,16 @@
     },
     {
       "Name": "1С:Передача данных в ФГИС ЦС",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:Плановое питание КОРП",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
