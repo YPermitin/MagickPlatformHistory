@@ -4,7 +4,7 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 25,
+  "ReleasesCount": 26,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:20",
@@ -291,6 +291,17 @@
       "Name": "Технологическая платформа 8.3 (учебная версия)",
       "Version": "8.3.18.1208",
       "PublishingDate": "2020-11-19T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-12T21:30:14",
+      "Name": "Технологическая платформа 8.3 (учебная версия)",
+      "Version": "8.3.18.1289",
+      "PublishingDate": "2021-01-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
