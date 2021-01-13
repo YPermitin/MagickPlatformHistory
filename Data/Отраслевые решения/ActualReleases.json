@@ -339,17 +339,11 @@
     },
     {
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
-      "Version": "3.0.87.22",
-      "PublishingDate": "2020-12-30T00:00:00",
-      "PlanVersions": [
-        "3.0.87.28"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-11T00:00:00"
-      ],
+      "Version": "3.0.87.28",
+      "PublishingDate": "2021-01-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4347,9 +4341,15 @@
       "Name": "Управление сельскохозяйственным предприятием",
       "Version": "1.3.151.1",
       "PublishingDate": "2020-12-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.152"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
