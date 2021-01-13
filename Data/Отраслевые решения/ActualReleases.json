@@ -289,9 +289,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 4",
       "Version": "4.1.10.1",
       "PublishingDate": "2020-12-07T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.1.11.1"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2273,9 +2279,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Казахстана, редакция 3.0",
       "Version": "3.0.37.4",
       "PublishingDate": "2020-12-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.38.3"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
