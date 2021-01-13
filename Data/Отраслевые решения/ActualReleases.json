@@ -1019,8 +1019,8 @@
     },
     {
       "Name": "1С:Подрядчик строительства 4.0. Управление финансами, редакция 2.0",
-      "Version": "2.0.66.126",
-      "PublishingDate": "2020-12-29T00:00:00",
+      "Version": "2.0.66.128",
+      "PublishingDate": "2021-01-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3285,17 +3285,11 @@
     },
     {
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
-      "Version": "11.4.13.99",
-      "PublishingDate": "2020-12-31T00:00:00",
-      "PlanVersions": [
-        "11.4.13.103"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-13T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-13T00:00:00"
-      ],
+      "Version": "11.4.13.103",
+      "PublishingDate": "2021-01-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
