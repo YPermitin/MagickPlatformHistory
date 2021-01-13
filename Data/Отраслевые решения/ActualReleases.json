@@ -2079,8 +2079,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 2.0",
-      "Version": "2.0.66.125",
-      "PublishingDate": "2020-12-29T00:00:00",
+      "Version": "2.0.66.126",
+      "PublishingDate": "2021-01-13T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2307,17 +2307,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
-      "Version": "3.0.87.22",
-      "PublishingDate": "2020-12-29T00:00:00",
-      "PlanVersions": [
-        "3.0.87.28"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-11T00:00:00"
-      ],
+      "Version": "3.0.87.28",
+      "PublishingDate": "2021-01-13T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2335,9 +2329,15 @@
       "Name": "Бухгалтерия строительной организации для Казахстана",
       "Version": "3.0.35.10",
       "PublishingDate": "2020-12-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.38.1"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3295,9 +3295,15 @@
       "Name": "Риэлтор. Управление продажами недвижимости. Стандарт",
       "Version": "11.4.13.99",
       "PublishingDate": "2020-12-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.13.103"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-13T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-13T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
