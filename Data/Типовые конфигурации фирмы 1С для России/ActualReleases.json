@@ -471,9 +471,11 @@
         "2020-12-21T00:00:00"
       ],
       "DemoVersions": [
+        "3.0.88.22",
         "3.0.88.14"
       ],
       "DemoPublicationDates": [
+        "2021-01-13T00:00:00",
         "2020-12-31T00:00:00"
       ]
     },
@@ -495,9 +497,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.0.88.22",
         "3.0.88.14"
       ],
       "DemoPublicationDates": [
+        "2021-01-13T00:00:00",
         "2021-01-12T00:00:00"
       ]
     },
@@ -519,9 +523,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.0.88.22",
         "3.0.88.14"
       ],
       "DemoPublicationDates": [
+        "2021-01-13T00:00:00",
         "2021-01-12T00:00:00"
       ]
     },
@@ -543,9 +549,11 @@
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
+        "3.0.88.22",
         "3.0.88.14"
       ],
       "DemoPublicationDates": [
+        "2021-01-13T00:00:00",
         "2021-01-12T00:00:00"
       ]
     },
