@@ -4441,9 +4441,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.21.4",
       "PublishingDate": "2020-12-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.21.5"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-14T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-14T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
