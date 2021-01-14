@@ -37,8 +37,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5",
-      "Version": "5.5.50.2",
-      "PublishingDate": "2020-12-28T00:00:00",
+      "Version": "5.5.50.3",
+      "PublishingDate": "2021-01-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -47,8 +47,8 @@
     },
     {
       "Name": "1С-КАМИН: Зарплата для бюджетных учреждений. Версия 5.5. Базовая версия",
-      "Version": "5.5.50.2",
-      "PublishingDate": "2020-12-28T00:00:00",
+      "Version": "5.5.50.3",
+      "PublishingDate": "2021-01-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -613,8 +613,8 @@
     },
     {
       "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
-      "Version": "3.0.86.19",
-      "PublishingDate": "2020-12-18T00:00:00",
+      "Version": "3.0.88.22",
+      "PublishingDate": "2021-01-14T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
