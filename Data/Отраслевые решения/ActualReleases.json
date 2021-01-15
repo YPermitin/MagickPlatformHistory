@@ -249,9 +249,15 @@
       "Name": "1С:Агропромышленный комплекс. Модуль для 1С:ERP и 1С:КА2",
       "Version": "2.4.13.96",
       "PublishingDate": "2020-12-29T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.103"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-15T00:00:00"
+      ],
       "DemoVersions": [
         "2.4.6.160"
       ],
@@ -1795,8 +1801,8 @@
     },
     {
       "Name": "ERP+PM Управление проектной организацией 2.4",
-      "Version": "2.4.13.96",
-      "PublishingDate": "2020-12-30T00:00:00",
+      "Version": "2.4.13.103",
+      "PublishingDate": "2021-01-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
