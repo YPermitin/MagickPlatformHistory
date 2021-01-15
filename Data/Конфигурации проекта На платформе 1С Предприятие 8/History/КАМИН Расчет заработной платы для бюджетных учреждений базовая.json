@@ -4,7 +4,7 @@
     "ID": 420,
     "Name": "Конфигурации проекта \"На платформе 1С:Предприятие 8\""
   },
-  "ReleasesCount": 47,
+  "ReleasesCount": 48,
   "ReleasesHistory": [
     {
       "Created": "2019-01-19T11:44:19",
@@ -601,6 +601,17 @@
       "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
       "Version": "3.5.86.2",
       "PublishingDate": "2020-12-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-15T16:00:19",
+      "Name": "КАМИН: Расчет заработной платы для бюджетных учреждений базовая",
+      "Version": "3.5.86.3",
+      "PublishingDate": "2021-01-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
