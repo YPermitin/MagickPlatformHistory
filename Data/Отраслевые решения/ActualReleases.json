@@ -863,9 +863,15 @@
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.87.28",
       "PublishingDate": "2020-12-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.22"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-15T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -911,9 +917,15 @@
       "Name": "1С:Общепит, редакция 3.0",
       "Version": "3.0.87.28",
       "PublishingDate": "2020-12-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.22"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-15T00:00:00"
+      ],
       "DemoVersions": [
         "3.0.71.90"
       ],
@@ -2881,8 +2893,8 @@
     },
     {
       "Name": "Модуль 1С:Аренда и управление недвижимостью для 1С:ERP, редакция 2.4",
-      "Version": "2.4.13.71",
-      "PublishingDate": "2020-11-18T00:00:00",
+      "Version": "2.4.13.103",
+      "PublishingDate": "2021-01-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4519,9 +4531,15 @@
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 3",
       "Version": "3.0.21.5",
       "PublishingDate": "2021-01-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.21.6"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
