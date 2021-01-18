@@ -2271,17 +2271,11 @@
     },
     {
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 1.6",
-      "Version": "1.6.75.2",
-      "PublishingDate": "2020-07-02T00:00:00",
-      "PlanVersions": [
-        "1.6.75.3"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-20T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-18T00:00:00"
-      ],
+      "Version": "1.6.75.3",
+      "PublishingDate": "2021-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2289,9 +2283,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия для Беларуси, редакция 2.1",
       "Version": "2.1.34.7",
       "PublishingDate": "2020-12-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.1.35.20"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4411,8 +4411,8 @@
     },
     {
       "Name": "Управление ритуальными услугами, редакция 1.6",
-      "Version": "1.6.23.117",
-      "PublishingDate": "2020-12-29T00:00:00",
+      "Version": "1.6.23.118",
+      "PublishingDate": "2021-01-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
