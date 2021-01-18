@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 129,
+  "ReleasesCount": 130,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -1878,6 +1878,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-18T12:30:14",
+      "Name": "Управление металлургическим комбинатом",
+      "Version": "1.3.151.2",
+      "PublishingDate": "2020-12-29T00:00:00",
+      "PlanVersions": [
+        "1.3.152.2"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
