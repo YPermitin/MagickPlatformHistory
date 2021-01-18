@@ -2209,17 +2209,11 @@
     },
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.86.19",
-      "PublishingDate": "2020-12-22T00:00:00",
-      "PlanVersions": [
-        "3.0.87.28"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2020-12-30T00:00:00"
-      ],
+      "Version": "3.0.87.28",
+      "PublishingDate": "2021-01-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4509,8 +4503,8 @@
     },
     {
       "Name": "Управление торговлей и взаимоотношениями с клиентами (CRM), редакция 1",
-      "Version": "1.1.68.3",
-      "PublishingDate": "2020-12-04T00:00:00",
+      "Version": "1.1.69.2",
+      "PublishingDate": "2021-01-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
