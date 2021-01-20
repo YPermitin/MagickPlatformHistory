@@ -419,8 +419,8 @@
     },
     {
       "Name": "Бухгалтерия государственного учреждения базовая, редакция 2.0",
-      "Version": "2.0.75.40",
-      "PublishingDate": "2020-12-28T00:00:00",
+      "Version": "2.0.75.42",
+      "PublishingDate": "2021-01-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -439,31 +439,23 @@
     },
     {
       "Name": "Бухгалтерия некоммерческой организации",
-      "Version": "3.0.87.13",
-      "PublishingDate": "2021-01-12T00:00:00",
+      "Version": "3.0.88.4",
+      "PublishingDate": "2021-01-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.88.4"
-      ],
-      "DemoPublicationDates": [
-        "2021-01-19T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
-      "Version": "3.0.87.13",
-      "PublishingDate": "2021-01-12T00:00:00",
+      "Version": "3.0.88.4",
+      "PublishingDate": "2021-01-20T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "3.0.88.4"
-      ],
-      "DemoPublicationDates": [
-        "2021-01-19T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
