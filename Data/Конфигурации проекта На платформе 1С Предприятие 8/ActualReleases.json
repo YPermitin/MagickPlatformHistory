@@ -161,9 +161,15 @@
       "Name": "Айлант: Управление ЖКХ базовая, ред. 3.1",
       "Version": "3.1.84.47",
       "PublishingDate": "2020-12-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.87.28"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -171,9 +177,18 @@
       "Name": "Айлант: Управление ЖКХ  КОРП, ред. 3.1",
       "Version": "3.1.84.47",
       "PublishingDate": "2020-12-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.87.28",
+        "3.1.87"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-22T00:00:00",
+        "2021-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-21T00:00:00",
+        "2021-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -201,9 +216,15 @@
       "Name": "Айлант: Управление ЖКХ. Старт, ред. 3.1",
       "Version": "3.1.84.47",
       "PublishingDate": "2020-12-24T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.1.87.28"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
