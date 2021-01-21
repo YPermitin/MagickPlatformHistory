@@ -319,9 +319,15 @@
       "Name": "1С:Бухгалтерия крестьянско-фермерского хозяйства. Базовая версия",
       "Version": "3.0.87.28",
       "PublishingDate": "2021-01-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.22"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -329,9 +335,15 @@
       "Name": "1С:Бухгалтерия сельскохозяйственного предприятия КОРП",
       "Version": "3.0.87.28",
       "PublishingDate": "2021-01-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.22"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2091,9 +2103,15 @@
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
       "Version": "3.0.87.28",
       "PublishingDate": "2020-12-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.22"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-21T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2309,9 +2327,15 @@
       "Name": "Бухгалтерия сельскохозяйственного предприятия, редакция 3.0",
       "Version": "3.0.87.28",
       "PublishingDate": "2021-01-13T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.22"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-21T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
