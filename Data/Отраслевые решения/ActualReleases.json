@@ -4631,17 +4631,11 @@
     },
     {
       "Name": "Управляющий ПРОФ, для Технологической платформы 8.2, 8.3",
-      "Version": "2.1.1.1",
-      "PublishingDate": "2020-11-20T00:00:00",
-      "PlanVersions": [
-        "2.1.2"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-21T00:00:00"
-      ],
+      "Version": "2.1.2.1",
+      "PublishingDate": "2021-01-22T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
