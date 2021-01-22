@@ -1453,9 +1453,15 @@
       "Name": "1С:Управление недвижимостью и арендой КОРП",
       "Version": "3.0.87.28",
       "PublishingDate": "2020-12-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.22"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-22T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-22T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1537,10 +1543,10 @@
         "3.0.87.6"
       ],
       "PlanReleaseDates": [
-        "2021-01-22T00:00:00"
+        "2021-01-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2021-01-15T00:00:00"
+        "2021-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1553,10 +1559,10 @@
         "3.0.87.6"
       ],
       "PlanReleaseDates": [
-        "2021-01-22T00:00:00"
+        "2021-01-26T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2021-01-15T00:00:00"
+        "2021-01-22T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
