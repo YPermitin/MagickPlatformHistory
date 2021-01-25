@@ -1,7 +1,13 @@
 {
   "Title": "Текущие релизы программ фирмы «1С»",
-  "PublishingDate": "2021-01-25T00:00:00",
+  "PublishingDate": "2021-01-26T00:00:00",
   "Items": [
+    {
+      "Title": "1С:CRM. Модуль для 1С:ERP и 1С:КА2",
+      "Description": "3.0.21.4",
+      "PublishingDate": "2021-01-26T00:00:00",
+      "Link": ""
+    },
     {
       "Title": "1C:Enterprise Development Tools",
       "Description": "2020.6.1",
