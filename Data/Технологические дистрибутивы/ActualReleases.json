@@ -7,17 +7,13 @@
   "Releases": [
     {
       "Name": "1C:Enterprise Development Tools",
-      "Version": "2020.6",
-      "PublishingDate": "2020-12-31T00:00:00",
+      "Version": "2020.6.1",
+      "PublishingDate": "2021-01-25T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [
-        "2020.6 RC2"
-      ],
-      "DemoPublicationDates": [
-        "2020-12-07T00:00:00"
-      ]
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "1C:Исполнитель. Бета-версия",
