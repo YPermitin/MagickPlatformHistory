@@ -1228,8 +1228,12 @@
       "PlanUpdateDates": [
         "2021-01-21T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "1.6.24.92"
+      ],
+      "DemoPublicationDates": [
+        "2021-01-26T00:00:00"
+      ]
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.2",
