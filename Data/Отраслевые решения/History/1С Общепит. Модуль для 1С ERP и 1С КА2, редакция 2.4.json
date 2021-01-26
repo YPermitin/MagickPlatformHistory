@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 50,
+  "ReleasesCount": 51,
   "ReleasesHistory": [
     {
       "Created": "2019-08-01T20:32:22",
@@ -763,6 +763,27 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.5.5.82"
+      ],
+      "DemoPublicationDates": [
+        "2020-12-29T00:00:00"
+      ]
+    },
+    {
+      "Created": "2021-01-26T12:30:14",
+      "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
+      "Version": "2.4.13.46",
+      "PublishingDate": "2020-11-09T00:00:00",
+      "PlanVersions": [
+        "2.4.13.103"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-26T00:00:00"
+      ],
       "DemoVersions": [
         "2.5.5.82"
       ],
