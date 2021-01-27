@@ -1531,9 +1531,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая, редакция 3.0",
       "Version": "3.0.87.6",
       "PublishingDate": "2021-01-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.2"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1541,9 +1547,15 @@
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
       "Version": "3.0.87.6",
       "PublishingDate": "2021-01-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.88.2"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1552,13 +1564,13 @@
       "Version": "3.0.84.36",
       "PublishingDate": "2020-12-16T00:00:00",
       "PlanVersions": [
-        "3.0.87.30"
+        "3.0.88.24"
       ],
       "PlanReleaseDates": [
         "2021-01-29T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2021-01-25T00:00:00"
+        "2021-01-27T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -3781,9 +3793,15 @@
       "Name": "Салон красоты, редакция 3.0",
       "Version": "3.0.2.8",
       "PublishingDate": "2020-12-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.3"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-03T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
