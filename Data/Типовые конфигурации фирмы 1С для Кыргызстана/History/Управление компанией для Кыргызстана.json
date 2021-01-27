@@ -4,7 +4,7 @@
     "ID": 113,
     "Name": "Типовые конфигурации фирмы \"1С\" для Кыргызстана"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:36",
@@ -88,6 +88,17 @@
       "Name": "Управление компанией для Кыргызстана",
       "Version": "1.6.20.189",
       "PublishingDate": "2020-10-07T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-27T16:30:13",
+      "Name": "Управление компанией для Кыргызстана",
+      "Version": "1.6.22.75",
+      "PublishingDate": "2021-01-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
