@@ -522,8 +522,12 @@
       "PlanUpdateDates": [
         "2021-01-18T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.22"
+      ],
+      "DemoPublicationDates": [
+        "2021-01-27T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -546,8 +550,12 @@
       "PlanUpdateDates": [
         "2021-01-18T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.22"
+      ],
+      "DemoPublicationDates": [
+        "2021-01-27T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
