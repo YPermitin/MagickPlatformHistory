@@ -1251,8 +1251,8 @@
     },
     {
       "Name": "1С:СЛК",
-      "Version": "3.0.23.9103",
-      "PublishingDate": "2020-12-14T00:00:00",
+      "Version": "3.0.24.9152",
+      "PublishingDate": "2021-01-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -4171,9 +4171,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.13.85",
       "PublishingDate": "2020-12-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.13.103"
+      ],
+      "PlanReleaseDates": [
+        "2021-01-29T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-27T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
