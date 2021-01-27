@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 8,
+  "ReleasesCount": 9,
   "ReleasesHistory": [
     {
       "Created": "2018-12-14T19:35:24",
@@ -88,6 +88,17 @@
       "Name": "1С:СЛК",
       "Version": "3.0.23.9103",
       "PublishingDate": "2020-12-14T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-27T17:00:13",
+      "Name": "1С:СЛК",
+      "Version": "3.0.24.9152",
+      "PublishingDate": "2021-01-27T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
