@@ -4,7 +4,7 @@
     "ID": 135,
     "Name": "Типовые конфигурации фирмы \"1С\" для Узбекистана"
   },
-  "ReleasesCount": 2,
+  "ReleasesCount": 3,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:46",
@@ -25,6 +25,23 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-01-28T16:00:13",
+      "Name": "Розница для Узбекистана базовая",
+      "Version": "2.2.6.1",
+      "PublishingDate": "2020-03-18T00:00:00",
+      "PlanVersions": [
+        "2.2.7"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-08T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-28T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
