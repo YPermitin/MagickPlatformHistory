@@ -3419,17 +3419,11 @@
     },
     {
       "Name": "Розница. Книжный магазин, редакция 2.3",
-      "Version": "2.3.6.28",
-      "PublishingDate": "2020-12-29T00:00:00",
-      "PlanVersions": [
-        "2.3.7.22"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-25T00:00:00"
-      ],
+      "Version": "2.3.7.22",
+      "PublishingDate": "2021-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
