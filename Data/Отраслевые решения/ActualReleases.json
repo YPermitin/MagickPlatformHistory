@@ -1377,10 +1377,10 @@
         "1.0.2.1"
       ],
       "PlanReleaseDates": [
-        "2021-01-15T00:00:00"
+        "2021-02-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2021-01-11T00:00:00"
+        "2021-01-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -4693,9 +4693,15 @@
       "Name": "Фитнес клуб КОРП, редакция 4.0",
       "Version": "4.0.17.2",
       "PublishingDate": "2020-12-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "4.0.18.1"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-02T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-01-29T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
