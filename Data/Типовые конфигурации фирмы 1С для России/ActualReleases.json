@@ -1241,23 +1241,13 @@
     },
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
-      "Version": "1.6.23.117",
-      "PublishingDate": "2020-12-24T00:00:00",
-      "PlanVersions": [
-        "1.6.24"
-      ],
-      "PlanReleaseDates": [
-        "2021-01-29T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-21T00:00:00"
-      ],
-      "DemoVersions": [
-        "1.6.24.92"
-      ],
-      "DemoPublicationDates": [
-        "2021-01-26T00:00:00"
-      ]
+      "Version": "1.6.24.92",
+      "PublishingDate": "2021-01-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.2",
