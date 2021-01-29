@@ -1535,10 +1535,10 @@
         "3.0.88.2"
       ],
       "PlanReleaseDates": [
-        "2021-01-29T00:00:00"
+        "2021-02-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2021-01-27T00:00:00"
+        "2021-01-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -1551,10 +1551,10 @@
         "3.0.88.2"
       ],
       "PlanReleaseDates": [
-        "2021-01-29T00:00:00"
+        "2021-02-02T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2021-01-27T00:00:00"
+        "2021-01-29T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
@@ -2425,17 +2425,11 @@
     },
     {
       "Name": "Бухгалтерия элеватора и комбикормового завода, редакция 3.0",
-      "Version": "3.0.88.22",
-      "PublishingDate": "2021-01-22T00:00:00",
-      "PlanVersions": [
-        "3.0.88.32"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-29T00:00:00"
-      ],
+      "Version": "3.0.88.32",
+      "PublishingDate": "2021-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
