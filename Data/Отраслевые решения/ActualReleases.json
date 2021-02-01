@@ -2083,9 +2083,15 @@
       "Name": "Аптека для Казахстана, редакция 2.3",
       "Version": "2.3.2.5",
       "PublishingDate": "2020-10-26T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.3.3.7"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-04T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-01T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
