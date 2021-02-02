@@ -4,13 +4,24 @@
     "ID": 1,
     "Name": "Курсы и своды знаний на базе конфигурации \"1С:Электронное обучение. Конструктор курсов\""
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2021-01-29T11:00:15",
       "Name": "1С:Электронное обучение. Функциональность ЗУП КОРП",
       "Version": "",
       "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-02T10:00:14",
+      "Name": "1С:Электронное обучение. Функциональность ЗУП КОРП",
+      "Version": "1.0.0.3",
+      "PublishingDate": "2021-02-02T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
