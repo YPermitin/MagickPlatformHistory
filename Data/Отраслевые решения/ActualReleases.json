@@ -881,17 +881,11 @@
     },
     {
       "Name": "1С:Общепит. Модуль для 1С:ERP и 1С:КА2, редакция 2.4",
-      "Version": "2.4.13.46",
-      "PublishingDate": "2020-11-09T00:00:00",
-      "PlanVersions": [
-        "2.4.13.103"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-05T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-29T00:00:00"
-      ],
+      "Version": "2.4.13.103",
+      "PublishingDate": "2021-02-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "2.5.5.82"
       ],
@@ -1531,17 +1525,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК, редакция 3.0",
-      "Version": "3.0.87.6",
-      "PublishingDate": "2021-01-25T00:00:00",
-      "PlanVersions": [
-        "3.0.88.2"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-02T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-29T00:00:00"
-      ],
+      "Version": "3.0.88.2",
+      "PublishingDate": "2021-02-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
