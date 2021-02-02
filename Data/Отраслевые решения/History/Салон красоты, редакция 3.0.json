@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 5,
+  "ReleasesCount": 6,
   "ReleasesHistory": [
     {
       "Created": "2020-09-15T12:00:12",
@@ -70,6 +70,17 @@
       "PlanUpdateDates": [
         "2021-01-27T00:00:00"
       ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-02T12:30:12",
+      "Name": "Салон красоты, редакция 3.0",
+      "Version": "3.0.3.1",
+      "PublishingDate": "2021-02-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     }
