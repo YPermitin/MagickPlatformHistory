@@ -185,7 +185,7 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Казахстана, редакция 1.0",
-      "Version": "2.0.20.1",
+      "Version": "3.1.1.69",
       "PublishingDate": "2021-01-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
@@ -195,8 +195,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Казахстана, редакция 2.0",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
+      "Version": "2.0.20.1",
+      "PublishingDate": "2021-01-26T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -205,8 +205,8 @@
     },
     {
       "Name": "Зарплата и Управление Персоналом для Казахстана, редакция 3.0",
-      "Version": "",
-      "PublishingDate": "0001-01-01T00:00:00",
+      "Version": "3.1.1.56",
+      "PublishingDate": "2020-03-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -355,8 +355,8 @@
     },
     {
       "Name": "Управление торговым предприятием для Казахстана",
-      "Version": "2.0.18.1",
-      "PublishingDate": "2019-08-28T00:00:00",
+      "Version": "1.0.19.8",
+      "PublishingDate": "2012-06-15T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
