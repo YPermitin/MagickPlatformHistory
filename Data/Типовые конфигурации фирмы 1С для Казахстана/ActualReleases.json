@@ -3,7 +3,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 34,
+  "ReleasesCount": 36,
   "Releases": [
     {
       "Name": "ERP Управление предприятием 2 для Казахстана",
@@ -184,9 +184,29 @@
       "DemoPublicationDates": []
     },
     {
-      "Name": "Зарплата и Управление Персоналом для Казахстана",
+      "Name": "Зарплата и Управление Персоналом для Казахстана, редакция 1.0",
       "Version": "2.0.20.1",
       "PublishingDate": "2021-01-26T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и Управление Персоналом для Казахстана, редакция 2.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "Зарплата и Управление Персоналом для Казахстана, редакция 3.0",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
