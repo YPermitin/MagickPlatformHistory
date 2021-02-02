@@ -1164,8 +1164,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "2.5.6.52"
+      ],
+      "DemoPublicationDates": [
+        "2021-02-02T00:00:00"
+      ]
     },
     {
       "Name": "1С-Рарус: Автоматизация 1С:Франчайзи",
