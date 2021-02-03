@@ -446,8 +446,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.12"
+      ],
+      "DemoPublicationDates": [
+        "2021-02-03T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия некоммерческой организации КОРП",
@@ -456,8 +460,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.12"
+      ],
+      "DemoPublicationDates": [
+        "2021-02-03T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия (базовая для 1), редакция 3.0; 1С:БизнесСтарт",
@@ -1317,8 +1325,8 @@
     },
     {
       "Name": "Управление торговлей, редакция 11",
-      "Version": "11.4.13.103",
-      "PublishingDate": "2020-12-31T00:00:00",
+      "Version": "11.4.13.119",
+      "PublishingDate": "2021-02-03T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
