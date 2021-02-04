@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 3,
+  "ReleasesCount": 4,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -33,6 +33,17 @@
       "Name": "Оценка персонала",
       "Version": "4.1.2.2",
       "PublishingDate": "2021-01-25T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-04T09:30:13",
+      "Name": "Оценка персонала",
+      "Version": "4.1.2.3",
+      "PublishingDate": "2021-02-04T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
