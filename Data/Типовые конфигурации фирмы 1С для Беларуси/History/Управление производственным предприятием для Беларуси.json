@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 58,
+  "ReleasesCount": 59,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -934,6 +934,23 @@
       ],
       "PlanUpdateDates": [
         "2021-02-03T00:00:00"
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-05T13:33:03",
+      "Name": "Управление производственным предприятием для Беларуси",
+      "Version": "1.3.36.2",
+      "PublishingDate": "2020-12-14T00:00:00",
+      "PlanVersions": [
+        "1.3.37.1"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-05T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-05T00:00:00"
       ],
       "DemoVersions": [],
       "DemoPublicationDates": []
