@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 21,
+  "ReleasesCount": 22,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -291,6 +291,17 @@
       "Name": "1С:Музей",
       "Version": "1.0.13.7",
       "PublishingDate": "2020-11-27T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-05T16:00:18",
+      "Name": "1С:Музей",
+      "Version": "1.0.13.9",
+      "PublishingDate": "2021-02-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
