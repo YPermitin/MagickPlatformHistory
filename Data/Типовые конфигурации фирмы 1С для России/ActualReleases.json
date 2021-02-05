@@ -37,8 +37,8 @@
     },
     {
       "Name": "1С:ERP Управление предприятием 2",
-      "Version": "2.4.13.119",
-      "PublishingDate": "2021-02-03T00:00:00",
+      "Version": "2.5.6.98",
+      "PublishingDate": "2021-02-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1264,7 +1264,7 @@
         "1.6.24.107"
       ],
       "DemoPublicationDates": [
-        "2021-02-03T00:00:00"
+        "2021-02-05T00:00:00"
       ]
     },
     {
