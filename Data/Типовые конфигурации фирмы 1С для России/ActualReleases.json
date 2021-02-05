@@ -1189,8 +1189,8 @@
     },
     {
       "Name": "Управление нашей фирмой базовая, редакция 1.6",
-      "Version": "1.6.24.92",
-      "PublishingDate": "2021-01-29T00:00:00",
+      "Version": "1.6.24.107",
+      "PublishingDate": "2021-02-05T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1249,8 +1249,8 @@
     },
     {
       "Name": "Управление нашей фирмой, редакция 1.6",
-      "Version": "1.6.24.92",
-      "PublishingDate": "2021-01-29T00:00:00",
+      "Version": "1.6.24.107",
+      "PublishingDate": "2021-02-05T00:00:00",
       "PlanVersions": [
         "1.6.25"
       ],
@@ -1258,14 +1258,10 @@
         "2021-05-31T00:00:00"
       ],
       "PlanUpdateDates": [
-        "2021-01-29T00:00:00"
-      ],
-      "DemoVersions": [
-        "1.6.24.107"
-      ],
-      "DemoPublicationDates": [
         "2021-02-05T00:00:00"
-      ]
+      ],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
     },
     {
       "Name": "Управление производственным предприятием, редакция 1.2",
