@@ -495,13 +495,9 @@
       "Name": "Бухгалтерия предприятия базовая, редакция 3.0; 1С:Упрощенка, редакция 3.0; 1С:Предприниматель, редакция 3.0",
       "Version": "3.0.88.32",
       "PublishingDate": "2021-01-28T00:00:00",
-      "PlanVersions": [
-        "3.0.89"
-      ],
+      "PlanVersions": [],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [
-        "2021-01-18T00:00:00"
-      ],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.89.32"
       ],
@@ -523,13 +519,9 @@
       "Name": "Бухгалтерия предприятия КОРП, редакция 3.0",
       "Version": "3.0.88.32",
       "PublishingDate": "2021-01-28T00:00:00",
-      "PlanVersions": [
-        "3.0.89"
-      ],
+      "PlanVersions": [],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [
-        "2021-01-18T00:00:00"
-      ],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.89.32"
       ],
@@ -551,13 +543,9 @@
       "Name": "Бухгалтерия предприятия, редакция 3.0",
       "Version": "3.0.88.32",
       "PublishingDate": "2021-01-28T00:00:00",
-      "PlanVersions": [
-        "3.0.89"
-      ],
+      "PlanVersions": [],
       "PlanReleaseDates": [],
-      "PlanUpdateDates": [
-        "2021-01-18T00:00:00"
-      ],
+      "PlanUpdateDates": [],
       "DemoVersions": [
         "3.0.89.32"
       ],
