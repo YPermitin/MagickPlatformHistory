@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 30,
+  "ReleasesCount": 31,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -330,6 +330,17 @@
       "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
       "Version": "3.0.17.5",
       "PublishingDate": "2021-01-20T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-09T21:30:13",
+      "Name": "1С:Бухгалтерия КОРП МСФО 3.0",
+      "Version": "3.0.18.2",
+      "PublishingDate": "2021-02-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
