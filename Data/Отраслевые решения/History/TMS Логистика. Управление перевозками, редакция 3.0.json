@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 4,
+  "ReleasesCount": 5,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -44,6 +44,17 @@
       "Name": "TMS Логистика. Управление перевозками, редакция 3.0",
       "Version": "3.0.3.144",
       "PublishingDate": "2020-12-18T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-09T17:00:13",
+      "Name": "TMS Логистика. Управление перевозками, редакция 3.0",
+      "Version": "3.0.3.150",
+      "PublishingDate": "2021-02-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
