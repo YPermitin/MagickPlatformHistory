@@ -1187,8 +1187,8 @@
     },
     {
       "Name": "1С:Птицеводство 2. Модуль для 1С:ERP",
-      "Version": "2.4.13.85",
-      "PublishingDate": "2020-12-22T00:00:00",
+      "Version": "2.4.13.111",
+      "PublishingDate": "2021-02-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -1843,9 +1843,15 @@
       "Name": "ERP Агропромышленный комплекс 2, редакция 2.2",
       "Version": "2.4.13.103",
       "PublishingDate": "2021-01-14T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.4.13.119"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-10T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-09T00:00:00"
+      ],
       "DemoVersions": [
         "2.2.3.153"
       ],
