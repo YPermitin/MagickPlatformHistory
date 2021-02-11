@@ -361,8 +361,8 @@
     },
     {
       "Name": "1С:Электронное обучение. Экзаменатор",
-      "Version": "3.0.12.75",
-      "PublishingDate": "2021-02-02T00:00:00",
+      "Version": "3.0.12.80",
+      "PublishingDate": "2021-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -466,8 +466,12 @@
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.38"
+      ],
+      "DemoPublicationDates": [
+        "2021-02-11T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия базовая, редакция 2.0; 1С:Упрощенка, редакция 2.0; 1С:Предприниматель, редакция 2.0",
@@ -490,8 +494,12 @@
       "PlanUpdateDates": [
         "2021-02-11T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.38"
+      ],
+      "DemoPublicationDates": [
+        "2021-02-11T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия КОРП, редакция 2.0",
@@ -514,8 +522,12 @@
       "PlanUpdateDates": [
         "2021-02-11T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.38"
+      ],
+      "DemoPublicationDates": [
+        "2021-02-11T00:00:00"
+      ]
     },
     {
       "Name": "Бухгалтерия предприятия, редакция 2.0",
@@ -538,8 +550,12 @@
       "PlanUpdateDates": [
         "2021-02-11T00:00:00"
       ],
-      "DemoVersions": [],
-      "DemoPublicationDates": []
+      "DemoVersions": [
+        "3.0.89.38"
+      ],
+      "DemoPublicationDates": [
+        "2021-02-11T00:00:00"
+      ]
     },
     {
       "Name": "Бюджетная отчетность",
