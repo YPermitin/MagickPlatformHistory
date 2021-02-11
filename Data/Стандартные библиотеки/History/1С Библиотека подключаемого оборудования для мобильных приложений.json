@@ -4,7 +4,7 @@
     "ID": 473,
     "Name": "Стандартные библиотеки"
   },
-  "ReleasesCount": 10,
+  "ReleasesCount": 11,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:21",
@@ -110,6 +110,17 @@
       "Name": "1С:Библиотека подключаемого оборудования для мобильных приложений",
       "Version": "2.13.1.0",
       "PublishingDate": "2020-12-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-11T13:30:14",
+      "Name": "1С:Библиотека подключаемого оборудования для мобильных приложений",
+      "Version": "2.13.7.0",
+      "PublishingDate": "2021-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
