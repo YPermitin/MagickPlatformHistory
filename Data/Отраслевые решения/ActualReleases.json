@@ -671,8 +671,8 @@
     },
     {
       "Name": "1С:Медицина. Диетическое питание, редакция 2.0",
-      "Version": "2.0.9.363",
-      "PublishingDate": "2019-09-17T00:00:00",
+      "Version": "2.0.10.373",
+      "PublishingDate": "2021-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -2851,8 +2851,8 @@
     },
     {
       "Name": "Ликероводочный и винный завод, редакция 1.3",
-      "Version": "1.3.152.4",
-      "PublishingDate": "2021-01-28T00:00:00",
+      "Version": "1.3.153.1",
+      "PublishingDate": "2021-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3941,9 +3941,15 @@
       "Name": "ТОИР Управление ремонтами и обслуживанием оборудования 2 КОРП",
       "Version": "2.0.35.1",
       "PublishingDate": "2020-12-18T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.0.36.1"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-11T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
