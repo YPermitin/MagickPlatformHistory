@@ -4,7 +4,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 7,
+  "ReleasesCount": 8,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:23",
@@ -77,6 +77,17 @@
       "Name": "1С:Электронное обучение. Экзаменатор",
       "Version": "3.0.12.75",
       "PublishingDate": "2021-02-02T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-11T17:30:16",
+      "Name": "1С:Электронное обучение. Экзаменатор",
+      "Version": "3.0.12.80",
+      "PublishingDate": "2021-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
