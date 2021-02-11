@@ -3669,17 +3669,11 @@
     },
     {
       "Name": "Розница. Салон оптики, редакция 2.3",
-      "Version": "2.3.6.28",
-      "PublishingDate": "2020-12-29T00:00:00",
-      "PlanVersions": [
-        "2.3.7.22"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-04T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-01-25T00:00:00"
-      ],
+      "Version": "2.3.7.22",
+      "PublishingDate": "2021-02-11T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4797,8 +4791,8 @@
     },
     {
       "Name": "Школьное питание, редакция 2.0",
-      "Version": "2.0.9.361",
-      "PublishingDate": "2019-08-01T00:00:00",
+      "Version": "2.0.10.372",
+      "PublishingDate": "2021-02-11T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
