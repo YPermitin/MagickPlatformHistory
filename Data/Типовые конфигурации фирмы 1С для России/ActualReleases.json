@@ -3,7 +3,7 @@
     "ID": 4,
     "Name": "Типовые конфигурации фирмы \"1С\" для России"
   },
-  "ReleasesCount": 116,
+  "ReleasesCount": 117,
   "Releases": [
     {
       "Name": "1C:Касса (приложение для ПК), редакция 3.0",
@@ -223,6 +223,16 @@
       "Name": "1С:Налоговый мониторинг. Бухгалтерия КОРП МСФО",
       "Version": "3.0.18.2",
       "PublishingDate": "2021-02-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Name": "1С:РМК",
+      "Version": "",
+      "PublishingDate": "0001-01-01T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
