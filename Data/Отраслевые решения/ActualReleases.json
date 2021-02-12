@@ -287,9 +287,15 @@
       "Name": "1С-АРБИС: Управление фирмой франчайзи, редакция 3.0",
       "Version": "3.0.45.70",
       "PublishingDate": "2021-01-21T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.45.71"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2955,8 +2961,8 @@
     },
     {
       "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
-      "Version": "2.4.13.51",
-      "PublishingDate": "2020-10-30T00:00:00",
+      "Version": "2.4.13.103",
+      "PublishingDate": "2021-02-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
