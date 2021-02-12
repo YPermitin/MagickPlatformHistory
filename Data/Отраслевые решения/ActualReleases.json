@@ -455,9 +455,15 @@
       "Name": "1С:Горнодобывающая промышленность 2. Оперативный учет",
       "Version": "1.1.8.13",
       "PublishingDate": "2020-10-12T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.9.18"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-12T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
