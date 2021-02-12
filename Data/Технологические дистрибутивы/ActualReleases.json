@@ -101,17 +101,15 @@
     },
     {
       "Name": "1С:Сервер взаимодействия",
-      "Version": "8.0.15",
-      "PublishingDate": "2020-04-29T00:00:00",
+      "Version": "9.0.33",
+      "PublishingDate": "2021-02-09T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
       "DemoVersions": [
-        "10.0.37",
-        "9.0.33"
+        "10.0.37"
       ],
       "DemoPublicationDates": [
-        "2021-02-09T00:00:00",
         "2021-02-09T00:00:00"
       ]
     },
