@@ -4,13 +4,24 @@
     "ID": 481,
     "Name": "Технологические дистрибутивы"
   },
-  "ReleasesCount": 1,
+  "ReleasesCount": 2,
   "ReleasesHistory": [
     {
       "Created": "2020-12-29T17:00:14",
       "Name": "1С:Тестировщик",
       "Version": "1.0.1.1",
       "PublishingDate": "2020-12-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-12T15:30:12",
+      "Name": "1С:Тестировщик",
+      "Version": "1.0.1.2",
+      "PublishingDate": "2021-02-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
