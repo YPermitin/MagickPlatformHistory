@@ -4491,17 +4491,11 @@
     },
     {
       "Name": "Управление торговлей алкогольной продукцией, редакция 11.4",
-      "Version": "11.4.13.104",
-      "PublishingDate": "2021-01-28T00:00:00",
-      "PlanVersions": [
-        "11.4.13.119"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-02-12T00:00:00"
-      ],
+      "Version": "11.4.13.119",
+      "PublishingDate": "2021-02-12T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
