@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 13,
+  "ReleasesCount": 14,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -155,6 +155,17 @@
       "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
       "Version": "2.4.13.51",
       "PublishingDate": "2020-10-30T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-12T18:00:13",
+      "Name": "Модуль 1С:Управление строительным производством для 1С:ERP и 1С:КА2",
+      "Version": "2.4.13.103",
+      "PublishingDate": "2021-02-12T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
