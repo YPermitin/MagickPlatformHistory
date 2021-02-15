@@ -1513,17 +1513,11 @@
     },
     {
       "Name": "1С-Учет в управляющих компаниях ЖКХ, ТСЖ и ЖСК базовая",
-      "Version": "2.0.66.86",
-      "PublishingDate": "2021-01-19T00:00:00",
-      "PlanVersions": [
-        "2.0.66.87"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-15T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-02-15T00:00:00"
-      ],
+      "Version": "2.0.66.87",
+      "PublishingDate": "2021-02-15T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2193,9 +2187,15 @@
       "Name": "Бухгалтерия молокозавода, редакция 3.0",
       "Version": "3.0.88.32",
       "PublishingDate": "2021-02-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.89.34"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-15T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -3983,9 +3983,15 @@
       "Name": "Транспортная логистика, экспедирование и управление автотранспортом КОРП",
       "Version": "1.1.14.1",
       "PublishingDate": "2020-11-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.15.1"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -4103,9 +4109,15 @@
       "Name": "Управление Автотранспортом ПРОФ, редакция 2.1",
       "Version": "2.2.14.1",
       "PublishingDate": "2020-11-27T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "2.2.15.1"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-15T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
