@@ -4,7 +4,7 @@
     "ID": 162,
     "Name": "Отраслевые решения"
   },
-  "ReleasesCount": 61,
+  "ReleasesCount": 62,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:50",
@@ -737,6 +737,17 @@
       "Name": "1С:Управление нашей строительной фирмой",
       "Version": "1.6.24.92",
       "PublishingDate": "2021-02-09T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-16T21:30:14",
+      "Name": "1С:Управление нашей строительной фирмой",
+      "Version": "1.6.24.107",
+      "PublishingDate": "2021-02-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
