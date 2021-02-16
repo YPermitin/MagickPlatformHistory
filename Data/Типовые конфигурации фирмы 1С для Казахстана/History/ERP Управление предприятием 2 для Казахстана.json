@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 32,
+  "ReleasesCount": 33,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -376,6 +376,23 @@
       "Name": "ERP Управление предприятием 2 для Казахстана",
       "Version": "2.4.4.83",
       "PublishingDate": "2021-01-29T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [
+        "2.4.4.77",
+        "2.4.4.69"
+      ],
+      "DemoPublicationDates": [
+        "2020-11-30T00:00:00",
+        "2020-07-27T00:00:00"
+      ]
+    },
+    {
+      "Created": "2021-02-16T12:30:15",
+      "Name": "ERP Управление предприятием 2 для Казахстана",
+      "Version": "2.4.4.85",
+      "PublishingDate": "2021-02-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
