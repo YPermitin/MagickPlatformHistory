@@ -900,7 +900,7 @@
     {
       "Name": "1С:Общепит КОРП",
       "Version": "3.0.89.38",
-      "PublishingDate": "2021-02-09T00:00:00",
+      "PublishingDate": "2021-02-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -949,17 +949,11 @@
     },
     {
       "Name": "1С:Общепит, редакция 3.0",
-      "Version": "3.0.88.32",
-      "PublishingDate": "2021-01-29T00:00:00",
-      "PlanVersions": [
-        "3.0.89.34"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-16T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-02-12T00:00:00"
-      ],
+      "Version": "3.0.89.38",
+      "PublishingDate": "2021-02-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
