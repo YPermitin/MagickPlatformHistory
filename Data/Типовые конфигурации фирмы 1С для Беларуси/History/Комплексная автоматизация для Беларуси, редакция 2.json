@@ -4,7 +4,7 @@
     "ID": 82,
     "Name": "Типовые конфигурации фирмы \"1С\" для Беларуси"
   },
-  "ReleasesCount": 29,
+  "ReleasesCount": 30,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:30",
@@ -361,6 +361,17 @@
       "Name": "Комплексная автоматизация для Беларуси, редакция 2",
       "Version": "2.4.12.109",
       "PublishingDate": "2021-01-05T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-16T14:30:12",
+      "Name": "Комплексная автоматизация для Беларуси, редакция 2",
+      "Version": "2.4.12.110",
+      "PublishingDate": "2021-02-16T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
