@@ -2367,17 +2367,11 @@
     },
     {
       "Name": "Бухгалтерия строительной организации для Казахстана",
-      "Version": "3.0.38.1",
-      "PublishingDate": "2021-01-19T00:00:00",
-      "PlanVersions": [
-        "3.0.39.1"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-12T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-02-09T00:00:00"
-      ],
+      "Version": "3.0.39.1",
+      "PublishingDate": "2021-02-16T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
