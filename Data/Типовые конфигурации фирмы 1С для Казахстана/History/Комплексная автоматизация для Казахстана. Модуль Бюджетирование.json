@@ -4,7 +4,7 @@
     "ID": 93,
     "Name": "Типовые конфигурации фирмы \"1С\" для Казахстана"
   },
-  "ReleasesCount": 27,
+  "ReleasesCount": 28,
   "ReleasesHistory": [
     {
       "Created": "2018-12-13T00:05:35",
@@ -297,6 +297,17 @@
       "Name": "Комплексная автоматизация для Казахстана. Модуль \"Бюджетирование\"",
       "Version": "2.4.4.83",
       "PublishingDate": "2021-02-01T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
+      "DemoVersions": [],
+      "DemoPublicationDates": []
+    },
+    {
+      "Created": "2021-02-17T15:30:14",
+      "Name": "Комплексная автоматизация для Казахстана. Модуль \"Бюджетирование\"",
+      "Version": "2.4.4.85",
+      "PublishingDate": "2021-02-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
