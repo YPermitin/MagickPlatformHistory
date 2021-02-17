@@ -1313,9 +1313,15 @@
       "Name": "1С:УНФ 8. Управление предприятием общепита",
       "Version": "1.6.23.119",
       "PublishingDate": "2021-02-03T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.24.107"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-20T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2243,17 +2249,11 @@
     },
     {
       "Name": "Бухгалтерия некредитной финансовой организации КОРП, редакция 3.0",
-      "Version": "3.0.88.22",
-      "PublishingDate": "2021-01-26T00:00:00",
-      "PlanVersions": [
-        "3.0.89.34"
-      ],
-      "PlanReleaseDates": [
-        "2021-02-22T00:00:00"
-      ],
-      "PlanUpdateDates": [
-        "2021-02-09T00:00:00"
-      ],
+      "Version": "3.0.89.34",
+      "PublishingDate": "2021-02-17T00:00:00",
+      "PlanVersions": [],
+      "PlanReleaseDates": [],
+      "PlanUpdateDates": [],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
