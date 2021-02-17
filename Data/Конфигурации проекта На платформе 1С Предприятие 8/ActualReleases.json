@@ -635,9 +635,15 @@
       "Name": "Элит-строительство. Бухгалтерский учет базовая, редакция 3.0",
       "Version": "3.0.88.32",
       "PublishingDate": "2021-02-04T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.89.38"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -655,9 +661,15 @@
       "Name": "Элит-строительство. Бухгалтерский учет, редакция 3.0",
       "Version": "3.0.88.28",
       "PublishingDate": "2021-01-25T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.89.38"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-19T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
