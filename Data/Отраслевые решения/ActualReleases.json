@@ -2075,9 +2075,15 @@
       "Name": "Автосервис, редакция 1.6",
       "Version": "1.6.23.117",
       "PublishingDate": "2020-12-30T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.6.24.107"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -2159,8 +2165,8 @@
     },
     {
       "Name": "Аренда и управление недвижимостью для 1С:Бухгалтерия 8, редакция 3.0",
-      "Version": "3.0.88.32",
-      "PublishingDate": "2021-02-02T00:00:00",
+      "Version": "3.0.89.38",
+      "PublishingDate": "2021-02-17T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
