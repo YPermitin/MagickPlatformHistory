@@ -2995,9 +2995,15 @@
       "Name": "Мясокомбинат 8, редакция 1.3",
       "Version": "1.3.153.1",
       "PublishingDate": "2021-02-10T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.3.153.2"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-18T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
