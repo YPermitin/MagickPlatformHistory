@@ -4159,9 +4159,15 @@
       "Name": "Управление аптечной сетью, редакция 11.4",
       "Version": "11.4.13.119",
       "PublishingDate": "2021-02-17T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "11.4.13.123"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-26T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
