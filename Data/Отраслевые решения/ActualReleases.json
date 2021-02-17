@@ -1345,9 +1345,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ КОРП",
       "Version": "3.0.88.22",
       "PublishingDate": "2021-02-09T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.89.34"
+      ],
+      "PlanReleaseDates": [
+        "2021-03-12T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
@@ -1355,9 +1361,15 @@
       "Name": "1С:Управление кредитным потребительским кооперативом РСБУ ПРОФ",
       "Version": "3.0.88.22",
       "PublishingDate": "2021-02-11T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "3.0.89.34"
+      ],
+      "PlanReleaseDates": [
+        "2021-03-16T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-17T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
