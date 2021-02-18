@@ -409,8 +409,8 @@
     },
     {
       "Name": "1С:Бухгалтерский и управленческий учет дорожно-строительной организации КОРП",
-      "Version": "3.0.88.22",
-      "PublishingDate": "2021-01-18T00:00:00",
+      "Version": "3.0.89.38",
+      "PublishingDate": "2021-02-18T00:00:00",
       "PlanVersions": [],
       "PlanReleaseDates": [],
       "PlanUpdateDates": [],
@@ -3157,9 +3157,15 @@
       "Name": "Производственная безопасность. Охрана труда, редакция 1.1",
       "Version": "1.1.6.22",
       "PublishingDate": "2020-12-31T00:00:00",
-      "PlanVersions": [],
-      "PlanReleaseDates": [],
-      "PlanUpdateDates": [],
+      "PlanVersions": [
+        "1.1.6.24"
+      ],
+      "PlanReleaseDates": [
+        "2021-02-24T00:00:00"
+      ],
+      "PlanUpdateDates": [
+        "2021-02-18T00:00:00"
+      ],
       "DemoVersions": [],
       "DemoPublicationDates": []
     },
